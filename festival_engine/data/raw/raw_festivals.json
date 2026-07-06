@@ -1,0 +1,166 @@
+[
+  {
+    "festival_id": "JP-a7832956",
+    "basic_info": {
+      "name_en": "Sapporo Snow Festival",
+      "name_local": "さっぽろ雪まつり",
+      "name_ko": "AI-Translation-Pending",
+      "country": "Japan",
+      "city": "Sapporo",
+      "category": "Traditional/Winter",
+      "date": {
+        "start_date": "Early February",
+        "end_date": "Early February",
+        "period": null
+      }
+    },
+    "rich_content": {
+      "description_en": "One of the most famous winter festivals in Japan, featuring massive snow and ice sculptures.",
+      "description_ko": "AI-Translation-Pending",
+      "highlights": [
+        "Giant Snow Sculptures",
+        "Odori Park Exhibition",
+        "Ice carvings in Susukino"
+      ],
+      "official_url": "https://www.snowfes.com",
+      "ticket_info": null
+    },
+    "media_assets": {
+      "images": [
+        {
+          "url": "https://cdn.example.com/jp/JP-a7832956.jpg",
+          "tag": "main",
+          "quality": "high"
+        }
+      ],
+      "video_clips": []
+    },
+    "metadata": {
+      "source": "JNTO Official",
+      "popularity_score": 9.5
+    }
+  },
+  {
+    "festival_id": "JP-3f315b0a",
+    "basic_info": {
+      "name_en": "Aomori Nebuta Matsuri",
+      "name_local": "青森ねぶた祭",
+      "name_ko": "AI-Translation-Pending",
+      "country": "Japan",
+      "city": "Aomori",
+      "category": "Traditional/Winter",
+      "date": {
+        "start_date": "August 2-7",
+        "end_date": "August 2-7",
+        "period": null
+      }
+    },
+    "rich_content": {
+      "description_en": "A festival featuring enormous illuminated floats depicting mythical creatures and historical figures.",
+      "description_ko": "AI-Translation-Pending",
+      "highlights": [
+        "Giant illuminated floats",
+        "Haneto dancing",
+        "Nightly parades"
+      ],
+      "official_url": "https://www.nebuta.jp",
+      "ticket_info": null
+    },
+    "media_assets": {
+      "images": [
+        {
+          "url": "https://cdn.example.com/jp/JP-3f315b0a.jpg",
+          "tag": "main",
+          "quality": "high"
+        }
+      ],
+      "video_clips": []
+    },
+    "metadata": {
+      "source": "JNTO Official",
+      "popularity_score": 9.5
+    }
+  },
+  {
+    "festival_id": "EU-ba30c799",
+    "basic_info": {
+      "name_en": "Carnival of Venice",
+      "name_local": "Carnevale di Venezia",
+      "name_ko": "AI-Translation-Pending",
+      "country": "Europe",
+      "city": "Venice",
+      "category": "Cultural/Traditional",
+      "date": {
+        "start_date": "February (dates vary)",
+        "end_date": "February (dates vary)",
+        "period": null
+      }
+    },
+    "rich_content": {
+      "description_en": "One of the most famous festivals in the world, known for its elaborate masks and costumes.",
+      "description_ko": "AI-Translation-Pending",
+      "highlights": [
+        "Mysterious Masks",
+        "Grand Canal Parades",
+        "Historic Palaces"
+      ],
+      "official_url": "https://www.carnevaledivenezia.it",
+      "ticket_info": null
+    },
+    "media_assets": {
+      "images": [
+        {
+          "url": "https://cdn.example.com/eu/EU-ba30c799.jpg",
+          "tag": "main",
+          "quality": "high"
+        }
+      ],
+      "video_clips": []
+    },
+    "metadata": {
+      "source": "European Tourism Board",
+      "popularity_score": 9.8
+    }
+  },
+  {
+    "festival_id": "EU-8a3bbbcf",
+    "basic_info": {
+      "name_en": "Oktoberfest",
+      "name_local": "Oktoberfest",
+      "name_ko": "AI-Translation-Pending",
+      "country": "Europe",
+      "city": "Munich",
+      "category": "Cultural/Traditional",
+      "date": {
+        "start_date": "Late September to early October",
+        "end_date": "Late September to early October",
+        "period": null
+      }
+    },
+    "rich_content": {
+      "description_en": "The world's largest folk festival, celebrating Bavarian culture and beer.",
+      "description_ko": "AI-Translation-Pending",
+      "highlights": [
+        "Massive Beer Tents",
+        "Traditional Dirndls and Lederhosen",
+        "Fairground Rides"
+      ],
+      "official_url": "https://www.oktoberfest.de",
+      "ticket_info": null
+    },
+    "media_assets": {
+      "images": [
+        {
+          "url": "https://cdn.example.com/eu/EU-8a3bbbcf.jpg",
+          "tag": "main",
+          "quality": "high"
+        }
+      ],
+      "video_clips": []
+    },
+    "metadata": {
+      "source": "European Tourism Board",
+      "popularity_score": 9.8
+    }
+  }
+]

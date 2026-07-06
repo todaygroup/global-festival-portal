@@ -1,0 +1,134 @@
+[
+  {
+    "video_id": "VID-52f4a739",
+    "festival": "삿포로 눈축제",
+    "format": "Top_N",
+    "metrics": {
+      "views": 64161,
+      "ctr": 0.018175215052508534,
+      "conversions": 1372,
+      "score": 11.66139972984
+    }
+  },
+  {
+    "video_id": "VID-162c4cb5",
+    "festival": "삿포로 눈축제",
+    "format": "Hidden_Gem",
+    "metrics": {
+      "views": 42223,
+      "ctr": 0.03779530906047523,
+      "conversions": 1439,
+      "score": 15.958313344604456
+    }
+  },
+  {
+    "video_id": "VID-c467e0ae",
+    "festival": "삿포로 눈축제",
+    "format": "Travel_Guide",
+    "metrics": {
+      "views": 68513,
+      "ctr": 0.016609193435382166,
+      "conversions": 1481,
+      "score": 11.379456698383382
+    }
+  },
+  {
+    "video_id": "VID-bca43a1f",
+    "festival": "아오모리 네부타 축제",
+    "format": "Top_N",
+    "metrics": {
+      "views": 4431,
+      "ctr": 0.06776658300154027,
+      "conversions": 395,
+      "score": 3.00273729279825
+    }
+  },
+  {
+    "video_id": "VID-df4ad2ab",
+    "festival": "아오모리 네부타 축제",
+    "format": "Hidden_Gem",
+    "metrics": {
+      "views": 17161,
+      "ctr": 0.022405249621981392,
+      "conversions": 410,
+      "score": 3.8449648876282265
+    }
+  },
+  {
+    "video_id": "VID-81f80163",
+    "festival": "아오모리 네부타 축제",
+    "format": "Travel_Guide",
+    "metrics": {
+      "views": 9198,
+      "ctr": 0.035699287625455,
+      "conversions": 319,
+      "score": 3.283620475789351
+    }
+  },
+  {
+    "video_id": "VID-0422e064",
+    "festival": "[Translated] Carnival of Venice",
+    "format": "Top_N",
+    "metrics": {
+      "views": 71175,
+      "ctr": 0.07750387712633745,
+      "conversions": 7386,
+      "score": 55.16338454467068
+    }
+  },
+  {
+    "video_id": "VID-78f2b66a",
+    "festival": "[Translated] Carnival of Venice",
+    "format": "Hidden_Gem",
+    "metrics": {
+      "views": 62060,
+      "ctr": 0.017450242700243056,
+      "conversions": 584,
+      "score": 10.82962061977084
+    }
+  },
+  {
+    "video_id": "VID-dc0d6dc2",
+    "festival": "[Translated] Carnival of Venice",
+    "format": "Travel_Guide",
+    "metrics": {
+      "views": 15402,
+      "ctr": 0.05709988365219895,
+      "conversions": 577,
+      "score": 8.794524080111682
+    }
+  },
+  {
+    "video_id": "VID-5cff729d",
+    "festival": "[Translated] Oktoberfest",
+    "format": "Top_N",
+    "metrics": {
+      "views": 35141,
+      "ctr": 0.05168480039785568,
+      "conversions": 1035,
+      "score": 18.162555707810466
+    }
+  },
+  {
+    "video_id": "VID-e7f0f52a",
+    "festival": "[Translated] Oktoberfest",
+    "format": "Hidden_Gem",
+    "metrics": {
+      "views": 55359,
+      "ctr": 0.015788782809304416,
+      "conversions": 1021,
+      "score": 8.740512275402832
+    }
+  },
+  {
+    "video_id": "VID-c1cbe63f",
+    "festival": "[Translated] Oktoberfest",
+    "format": "Travel_Guide",
+    "metrics": {
+      "views": 2256,
+      "ctr": 0.03101037078646668,
+      "conversions": 83,
+      "score": 0.6995939649426883
+    }
+  }
+]

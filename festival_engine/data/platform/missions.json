@@ -1,0 +1,30 @@
+[
+  {
+    "id": "M1",
+    "title": "Daily Festival View",
+    "action": "VIEW_VIDEO",
+    "reward": 10,
+    "limit": "daily"
+  },
+  {
+    "id": "M2",
+    "title": "Save My Dream Festival",
+    "action": "SAVE_FESTIVAL",
+    "reward": 50,
+    "limit": "once"
+  },
+  {
+    "id": "M3",
+    "title": "Invite a Friend",
+    "action": "SHARE_LINK",
+    "reward": 100,
+    "limit": "per_user"
+  },
+  {
+    "id": "M4",
+    "title": "Complete Festival Quiz",
+    "action": "QUIZ_COMPLETE",
+    "reward": 30,
+    "limit": "daily"
+  }
+]

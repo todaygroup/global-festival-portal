@@ -1,0 +1,260 @@
+[
+  {
+    "script_id": "JP-88650a33_Top_N",
+    "festival": "삿포로 눈축제",
+    "format": "Top_N",
+    "blueprint": [
+      {
+        "time": "0-3s",
+        "text": "🌟 전 세계가 주목하는 레전드 축제 TOP 3! 과연 삿포로 눈축제는 몇 위일까요?",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Sapporo Snow Festival in Sapporo, dynamic movement, vibrant colors, high energy, travel vlog style",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      },
+      {
+        "time": "3-10s",
+        "text": "여기가 바로 Sapporo의 삿포로 눈축제! ❄️ Giant Snow Sculptures $\rightarrow$ 역대급 규모! 전 세계가 놀란 눈 조각의 정체는?",
+        "visual": {
+          "type": "existing_asset",
+          "url": "https://cdn.example.com/jp/JP-88650a33.jpg",
+          "meta": "main"
+        }
+      },
+      {
+        "time": "10-15s",
+        "text": "특히 🔥 Odori Park Exhibition $\rightarrow$ 여긴 무조건 가야 함! 인생샷 100% 보장 포인트! 부분은 절대 놓치지 마세요!",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Sapporo Snow Festival in Sapporo, extreme close-up, slow motion, capturing emotional expressions, vivid textures",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      },
+      {
+        "time": "15-20s",
+        "text": "더 많은 글로벌 축제 꿀팁이 궁금하다면? 지금 바로 프로필 링크의 앱을 확인하세요!",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Sapporo Snow Festival in Sapporo, dynamic movement, vibrant colors, high energy, travel vlog style",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      }
+    ]
+  },
+  {
+    "script_id": "JP-88650a33_Hidden_Gem",
+    "festival": "삿포로 눈축제",
+    "format": "Hidden_Gem",
+    "blueprint": [
+      {
+        "time": "0-3s",
+        "text": "🤫 나만 알고 싶었지만... 공개합니다. Sapporo의 숨은 보석, 삿포로 눈축제!",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Sapporo Snow Festival in Sapporo, moody lighting, ethereal atmosphere, fog, sunset, cinematic lighting",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      },
+      {
+        "time": "3-10s",
+        "text": "이곳의 진짜 매력은 바로 ❄️ Ice carvings in Susukino $\rightarrow$ 역대급 규모! 전 세계가 놀란 눈 조각의 정체는?입니다. 뻔한 관광지는 이제 그만!",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Sapporo Snow Festival in Sapporo, dynamic movement, vibrant colors, high energy, travel vlog style",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      },
+      {
+        "time": "10-15s",
+        "text": "인생샷 100% 보장! 올해가 가기 전에 여기 꼭 가보세요.",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Sapporo Snow Festival in Sapporo, dynamic movement, vibrant colors, high energy, travel vlog style",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      },
+      {
+        "time": "15-20s",
+        "text": "상세 일정과 예약 방법은 앱에서 바로 확인 가능합니다!",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Sapporo Snow Festival in Sapporo, dynamic movement, vibrant colors, high energy, travel vlog style",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      }
+    ]
+  },
+  {
+    "script_id": "JP-88650a33_Travel_Guide",
+    "festival": "삿포로 눈축제",
+    "format": "Travel_Guide",
+    "blueprint": [
+      {
+        "time": "0-3s",
+        "text": "✈️ 삿포로 눈축제 가기 전 필수 시청! 실패 없는 여행 꿀팁 알려드립니다.",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Sapporo Snow Festival in Sapporo, dynamic movement, vibrant colors, high energy, travel vlog style",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      },
+      {
+        "time": "3-10s",
+        "text": "핵심 포인트는 ❄️ Giant Snow Sculptures $\rightarrow$ 역대급 규모! 전 세계가 놀란 눈 조각의 정체는?! 이걸 알아야 진짜 즐길 수 있습니다.",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Sapporo Snow Festival in Sapporo, dynamic movement, vibrant colors, high energy, travel vlog style",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      },
+      {
+        "time": "10-15s",
+        "text": "추천 방문 시기는 Early February부터! 늦으면 자리 없습니다.",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Sapporo Snow Festival in Sapporo, dynamic movement, vibrant colors, high energy, travel vlog style",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      },
+      {
+        "time": "15-20s",
+        "text": "더 자세한 가이드와 리워드 혜택은 앱에서 확인하세요!",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Sapporo Snow Festival in Sapporo, dynamic movement, vibrant colors, high energy, travel vlog style",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      }
+    ]
+  },
+  {
+    "script_id": "JP-ebdd0770_Top_N",
+    "festival": "아오모리 네부타 축제",
+    "format": "Top_N",
+    "blueprint": [
+      {
+        "time": "0-3s",
+        "text": "🌟 전 세계가 주목하는 레전드 축제 TOP 3! 과연 아오모리 네부타 축제는 몇 위일까요?",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Aomori Nebuta Matsuri in Aomori, dynamic movement, vibrant colors, high energy, travel vlog style",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      },
+      {
+        "time": "3-10s",
+        "text": "여기가 바로 Aomori의 아오모리 네부타 축제! 🏮 Giant illuminated floats $\rightarrow$ 밤이 되면 시작되는 마법, 빛의 행렬 실물 영접각!",
+        "visual": {
+          "type": "existing_asset",
+          "url": "https://cdn.example.com/jp/JP-ebdd0770.jpg",
+          "meta": "main"
+        }
+      },
+      {
+        "time": "10-15s",
+        "text": "특히 🔥 Haneto dancing $\rightarrow$ 여긴 무조건 가야 함! 인생샷 100% 보장 포인트! 부분은 절대 놓치지 마세요!",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Aomori Nebuta Matsuri in Aomori, extreme close-up, slow motion, capturing emotional expressions, vivid textures",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      },
+      {
+        "time": "15-20s",
+        "text": "더 많은 글로벌 축제 꿀팁이 궁금하다면? 지금 바로 프로필 링크의 앱을 확인하세요!",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Aomori Nebuta Matsuri in Aomori, dynamic movement, vibrant colors, high energy, travel vlog style",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      }
+    ]
+  },
+  {
+    "script_id": "JP-ebdd0770_Hidden_Gem",
+    "festival": "아오모리 네부타 축제",
+    "format": "Hidden_Gem",
+    "blueprint": [
+      {
+        "time": "0-3s",
+        "text": "🤫 나만 알고 싶었지만... 공개합니다. Aomori의 숨은 보석, 아오모리 네부타 축제!",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Aomori Nebuta Matsuri in Aomori, moody lighting, ethereal atmosphere, fog, sunset, cinematic lighting",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      },
+      {
+        "time": "3-10s",
+        "text": "이곳의 진짜 매력은 바로 🔥 Nightly parades $\rightarrow$ 여긴 무조건 가야 함! 인생샷 100% 보장 포인트!입니다. 뻔한 관광지는 이제 그만!",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Aomori Nebuta Matsuri in Aomori, dynamic movement, vibrant colors, high energy, travel vlog style",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      },
+      {
+        "time": "10-15s",
+        "text": "인생샷 100% 보장! 올해가 가기 전에 여기 꼭 가보세요.",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Aomori Nebuta Matsuri in Aomori, dynamic movement, vibrant colors, high energy, travel vlog style",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      },
+      {
+        "time": "15-20s",
+        "text": "상세 일정과 예약 방법은 앱에서 바로 확인 가능합니다!",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Aomori Nebuta Matsuri in Aomori, dynamic movement, vibrant colors, high energy, travel vlog style",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      }
+    ]
+  },
+  {
+    "script_id": "JP-ebdd0770_Travel_Guide",
+    "festival": "아오모리 네부타 축제",
+    "format": "Travel_Guide",
+    "blueprint": [
+      {
+        "time": "0-3s",
+        "text": "✈️ 아오모리 네부타 축제 가기 전 필수 시청! 실패 없는 여행 꿀팁 알려드립니다.",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Aomori Nebuta Matsuri in Aomori, dynamic movement, vibrant colors, high energy, travel vlog style",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      },
+      {
+        "time": "3-10s",
+        "text": "핵심 포인트는 🏮 Giant illuminated floats $\rightarrow$ 밤이 되면 시작되는 마법, 빛의 행렬 실물 영접각!! 이걸 알아야 진짜 즐길 수 있습니다.",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Aomori Nebuta Matsuri in Aomori, dynamic movement, vibrant colors, high energy, travel vlog style",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      },
+      {
+        "time": "10-15s",
+        "text": "추천 방문 시기는 August 2-7부터! 늦으면 자리 없습니다.",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Aomori Nebuta Matsuri in Aomori, dynamic movement, vibrant colors, high energy, travel vlog style",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      },
+      {
+        "time": "15-20s",
+        "text": "더 자세한 가이드와 리워드 혜택은 앱에서 확인하세요!",
+        "visual": {
+          "type": "ai_generated",
+          "prompt": "Cinematic 4k, highly detailed, drone footage of Aomori Nebuta Matsuri in Aomori, dynamic movement, vibrant colors, high energy, travel vlog style",
+          "suggested_tool": "Runway Gen-2 / Luma Dream Machine"
+        }
+      }
+    ]
+  }
+]

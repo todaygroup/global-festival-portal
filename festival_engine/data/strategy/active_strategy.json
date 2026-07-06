@@ -1,0 +1,11 @@
+{
+  "format_weights": {
+    "Top_N": 0.5807133070675192,
+    "Hidden_Gem": 0.25985502563924395,
+    "Travel_Guide": 0.15943166729323688
+  },
+  "top_performing_keywords": [
+    "Epic Scale"
+  ],
+  "version": 1783278036.0585089
+}

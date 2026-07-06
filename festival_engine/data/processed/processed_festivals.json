@@ -1,0 +1,186 @@
+[
+  {
+    "festival_id": "JP-dfd09267",
+    "basic_info": {
+      "name_en": "Sapporo Snow Festival",
+      "name_local": "さっぽろ雪まつり",
+      "name_ko": "삿포로 눈축제",
+      "country": "Japan",
+      "city": "Sapporo",
+      "category": "Traditional/Winter",
+      "date": {
+        "start_date": "Early February",
+        "end_date": "Early February",
+        "period": null
+      }
+    },
+    "rich_content": {
+      "description_en": "One of the most famous winter festivals in Japan, featuring massive snow and ice sculptures.",
+      "description_ko": "거대한 설상과 얼음 조각이 펼쳐지는 일본 최고의 겨울 축제입니다.",
+      "highlights": [
+        "Giant Snow Sculptures",
+        "Odori Park Exhibition",
+        "Ice carvings in Susukino"
+      ],
+      "official_url": "https://www.snowfes.com",
+      "ticket_info": null,
+      "viral_hooks": [
+        "🤫 Giant Snow Sculptures $\\rightarrow$ 아무도 알려주지 않은 Sapporo Snow Festival의 비밀, 여기서만 공개합니다.",
+        "⏰ Odori Park Exhibition $\\rightarrow$ 일 년에 딱 한 번! 지금 안 가면 내년까지 기다려야 하는 역대급 포인트.",
+        "🌍 Ice carvings in Susukino $\\rightarrow$ 전 세계 여행자들이 입을 모아 극찬한 Sapporo Snow Festival 최고의 순간!"
+      ]
+    },
+    "media_assets": {
+      "images": [
+        {
+          "url": "https://cdn.example.com/jp/JP-dfd09267.jpg",
+          "tag": "main",
+          "quality": "high"
+        }
+      ],
+      "video_clips": []
+    },
+    "metadata": {
+      "source": "JNTO Official",
+      "popularity_score": 9.5
+    }
+  },
+  {
+    "festival_id": "JP-cc87cc78",
+    "basic_info": {
+      "name_en": "Aomori Nebuta Matsuri",
+      "name_local": "青森ねぶた祭",
+      "name_ko": "아오모리 네부타 축제",
+      "country": "Japan",
+      "city": "Aomori",
+      "category": "Traditional/Winter",
+      "date": {
+        "start_date": "August 2-7",
+        "end_date": "August 2-7",
+        "period": null
+      }
+    },
+    "rich_content": {
+      "description_en": "A festival featuring enormous illuminated floats depicting mythical creatures and historical figures.",
+      "description_ko": "신화 속 생물과 역사적 인물을 묘사한 거대한 빛의 등불 행렬이 장관을 이루는 축제입니다.",
+      "highlights": [
+        "Giant illuminated floats",
+        "Haneto dancing",
+        "Nightly parades"
+      ],
+      "official_url": "https://www.nebuta.jp",
+      "ticket_info": null,
+      "viral_hooks": [
+        "🤫 Giant illuminated floats $\\rightarrow$ 아무도 알려주지 않은 Aomori Nebuta Matsuri의 비밀, 여기서만 공개합니다.",
+        "⏰ Haneto dancing $\\rightarrow$ 일 년에 딱 한 번! 지금 안 가면 내년까지 기다려야 하는 역대급 포인트.",
+        "🌍 Nightly parades $\\rightarrow$ 전 세계 여행자들이 입을 모아 극찬한 Aomori Nebuta Matsuri 최고의 순간!"
+      ]
+    },
+    "media_assets": {
+      "images": [
+        {
+          "url": "https://cdn.example.com/jp/JP-cc87cc78.jpg",
+          "tag": "main",
+          "quality": "high"
+        }
+      ],
+      "video_clips": []
+    },
+    "metadata": {
+      "source": "JNTO Official",
+      "popularity_score": 9.5
+    }
+  },
+  {
+    "festival_id": "EU-e5b2a822",
+    "basic_info": {
+      "name_en": "Carnival of Venice",
+      "name_local": "Carnevale di Venezia",
+      "name_ko": "[Translated] Carnival of Venice",
+      "country": "Europe",
+      "city": "Venice",
+      "category": "Cultural/Traditional",
+      "date": {
+        "start_date": "February (dates vary)",
+        "end_date": "February (dates vary)",
+        "period": null
+      }
+    },
+    "rich_content": {
+      "description_en": "One of the most famous festivals in the world, known for its elaborate masks and costumes.",
+      "description_ko": "[Translated] One of the most famous festivals in the world, known for its elaborate masks and costumes.",
+      "highlights": [
+        "Mysterious Masks",
+        "Grand Canal Parades",
+        "Historic Palaces"
+      ],
+      "official_url": "https://www.carnevaledivenezia.it",
+      "ticket_info": null,
+      "viral_hooks": [
+        "🤫 Mysterious Masks $\\rightarrow$ 아무도 알려주지 않은 Carnival of Venice의 비밀, 여기서만 공개합니다.",
+        "⏰ Grand Canal Parades $\\rightarrow$ 일 년에 딱 한 번! 지금 안 가면 내년까지 기다려야 하는 역대급 포인트.",
+        "🌍 Historic Palaces $\\rightarrow$ 전 세계 여행자들이 입을 모아 극찬한 Carnival of Venice 최고의 순간!"
+      ]
+    },
+    "media_assets": {
+      "images": [
+        {
+          "url": "https://cdn.example.com/eu/EU-e5b2a822.jpg",
+          "tag": "main",
+          "quality": "high"
+        }
+      ],
+      "video_clips": []
+    },
+    "metadata": {
+      "source": "European Tourism Board",
+      "popularity_score": 9.8
+    }
+  },
+  {
+    "festival_id": "EU-44c52739",
+    "basic_info": {
+      "name_en": "Oktoberfest",
+      "name_local": "Oktoberfest",
+      "name_ko": "[Translated] Oktoberfest",
+      "country": "Europe",
+      "city": "Munich",
+      "category": "Cultural/Traditional",
+      "date": {
+        "start_date": "Late September to early October",
+        "end_date": "Late September to early October",
+        "period": null
+      }
+    },
+    "rich_content": {
+      "description_en": "The world's largest folk festival, celebrating Bavarian culture and beer.",
+      "description_ko": "[Translated] The world's largest folk festival, celebrating Bavarian culture and beer.",
+      "highlights": [
+        "Massive Beer Tents",
+        "Traditional Dirndls and Lederhosen",
+        "Fairground Rides"
+      ],
+      "official_url": "https://www.oktoberfest.de",
+      "ticket_info": null,
+      "viral_hooks": [
+        "🤫 Massive Beer Tents $\\rightarrow$ 아무도 알려주지 않은 Oktoberfest의 비밀, 여기서만 공개합니다.",
+        "⏰ Traditional Dirndls and Lederhosen $\\rightarrow$ 일 년에 딱 한 번! 지금 안 가면 내년까지 기다려야 하는 역대급 포인트.",
+        "🌍 Fairground Rides $\\rightarrow$ 전 세계 여행자들이 입을 모아 극찬한 Oktoberfest 최고의 순간!"
+      ]
+    },
+    "media_assets": {
+      "images": [
+        {
+          "url": "https://cdn.example.com/eu/EU-44c52739.jpg",
+          "tag": "main",
+          "quality": "high"
+        }
+      ],
+      "video_clips": []
+    },
+    "metadata": {
+      "source": "European Tourism Board",
+      "popularity_score": 9.8
+    }
+  }
+]
