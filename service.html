@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Festival Portal | Explore the World</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;800&display=swap');
+        body { font-family: 'Plus Jakarta Sans', sans-serif; background-color: #030712; color: #f9fafb; }
+        .hero-gradient { background: radial-gradient(circle at top right, #1e3a8a, transparent), radial-gradient(circle at bottom left, #4c1d95, transparent); }
+        .festival-card { transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); border: 1px solid #1f2937; }
+        .festival-card:hover { transform: translateY(-8px); border-color: #3b82f6; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.3), 0 10px 10px -5px rgba(59, 130, 246, 0.1); }
+        .glass-nav { background: rgba(17, 24, 39, 0.8); backdrop-filter: blur(12px); border-bottom: 1px solid rgba(75, 85, 99, 0.3); }
+    </style>
+</head>
+<body class="min-h-screen">
+    <!-- Navigation -->
+    <nav class="fixed top-0 w-full z-50 glass-nav">
+        <div class="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
+            <div class="flex items-center gap-2">
+                <div class="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center text-white font-bold">G</div>
+                <span class="text-xl font-extrabold tracking-tight">Global<span class="text-blue-500">Festival</span></span>
+            </div>
+            <div class="hidden md:flex items-center gap-8 text-sm font-medium text-slate-300">
+                <a href="#" class="hover:text-white transition-colors">Explore</a>
+                <a href="#" class="hover:text-white transition-colors">Categories</a>
+                <a href="index.html" class="text-blue-400 hover:text-blue-300 transition-colors border border-blue-500/30 px-3 py-1 rounded-full">System Status</a>
+            </div>
+            <button class="bg-blue-600 hover:bg-blue-500 text-white px-4 py-2 rounded-full text-sm font-semibold transition-all">Join Newsletter</button>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="relative pt-32 pb-20 px-4 hero-gradient overflow-hidden">
+        <div class="max-w-4xl mx-auto text-center">
+            <h1 class="text-5xl md:text-7xl font-extrabold mb-6 tracking-tight leading-tight">
+                Discover the World's <br><span class="text-blue-500">Most Epic Festivals</span>
+            </h1>
+            <p class="text-lg text-slate-400 mb-10 max-w-2xl mx-auto">
+                From the snowy peaks of Japan to the carnival masks of Venice. Explore curated, viral-worthy festivals from across the globe.
+            </p>
+            
+            <!-- Search Bar -->
+            <div class="relative max-w-2xl mx-auto">
+                <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                    <i class="fa-solid fa-magnifying-glass text-slate-500"></i>
+                </div>
+                <input type="text" id="search-input" 
+                       class="w-full pl-12 pr-4 py-4 bg-slate-900/80 border border-slate-700 rounded-2xl text-white placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all backdrop-blur-sm" 
+                       placeholder="Search by country, city or festival name...">
+            </div>
+        </div>
+    </section>
+
+    <!-- Filter Section -->
+    <section class="max-w-7xl mx-auto px-4 mb-12">
+        <div class="flex flex-wrap items-center justify-center gap-3" id="filter-container">
+            <button class="filter-btn active px-5 py-2 rounded-full bg-blue-600 text-white text-sm font-medium transition-all" data-filter="all">All Festivals</button>
+            <button class="filter-btn px-5 py-2 rounded-full bg-slate-800 text-slate-400 hover:bg-slate-700 text-sm font-medium transition-all" data-filter="Japan">Japan</button>
+            <button class="filter-btn px-5 py-2 rounded-full bg-slate-800 text-slate-400 hover:bg-slate-700 text-sm font-medium transition-all" data-filter="Europe">Europe</button>
+        </div>
+    </section>
+
+    <!-- Festival Grid -->
+    <main class="max-w-7xl mx-auto px-4 pb-20">
+        <div id="festival-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <!-- Cards injected by JS -->
+        </div>
+    </main>
+
+    <!-- Modal for Details -->
+    <div id="detail-modal" class="fixed inset-0 z-[60] hidden flex items-center justify-center p-4 bg-black/80 backdrop-blur-sm">
+        <div class="bg-slate-900 border border-slate-800 rounded-3xl max-w-2xl w-full max-h-[90vh] overflow-y-auto relative">
+            <button id="close-modal" class="absolute top-4 right-4 w-10 h-10 bg-slate-800 hover:bg-slate-700 rounded-full flex items-center justify-center text-white transition-colors">
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+            <div id="modal-content"></div>
+        </div>
+    </div>
+
+    <script>
+        let festivals = [];
+
+        async function loadFestivals() {
+            try {
+                const response = await fetch('status.json'); // Reusing the status.json which contains a snapshot or I could use processed_festivals.json if deployed
+                // However, for the prototype, I'll assume we have a data source. 
+                // Since we have a data file in the repo, I will try to fetch the processed_festivals.json
+                const dataRes = await fetch('processed_festivals.json');
+                festivals = await dataRes.json();
+                renderFestivals(festivals);
+            } catch (e) {
+                console.error('Error loading festivals:', e);
+                // Fallback for demo if file not found
+                document.getElementById('festival-grid').innerHTML = '<p class="text-center col-span-full text-slate-500"> 데이터 로딩 중입니다. 잠시만 기다려주세요...</p>';
+            }
+        }
+
+        function renderFestivals(data) {
+            const grid = document.getElementById('festival-grid');
+            grid.innerHTML = '';
+            
+            data.forEach((fest, index) => {
+                const card = `
+                    <div class="festival-card bg-slate-900 rounded-3xl overflow-hidden cursor-pointer group" onclick="showDetail(${index})">
+                        <div class="h-52 bg-slate-800 relative overflow-hidden">
+                            <img src="${fest.media_assets.images[0]?.url || 'https://via.placeholder.com/400x200?text=No+Image'}" 
+                                 class="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500" alt="${fest.basic_info.name_en}">
+                            <div class="absolute top-4 right-4 px-3 py-1 bg-blue-600 text-[10px] font-bold uppercase rounded-full text-white">
+                                ${fest.basic_info.country}
+                            </div>
+                        </div>
+                        <div class="p-6">
+                            <h3 class="text-xl font-bold mb-2 group-hover:text-blue-400 transition-colors">${fest.basic_info.name_en}</h3>
+                            <p class="text-slate-400 text-sm line-clamp-2 mb-4">${fest.rich_content.description_en}</p>
+                            <div class="flex items-center justify-between">
+                                <span class="text-xs text-slate-500"><i class="fa-solid fa-location-dot mr-1"></i> ${fest.basic_info.city}</span>
+                                <span class="text-blue-500 text-sm font-semibold group-hover:translate-x-1 transition-transform">View More <i class="fa-solid fa-arrow-right ml-1"></i></span>
+                            </div>
+                        </div>
+                    </div>
+                `;
+                grid.insertAdjacentHTML('beforeend', card);
+            });
+        }
+
+        function showDetail(index) {
+            const fest = festivals[index];
+            const modal = document.getElementById('detail-modal');
+            const content = document.getElementById('modal-content');
+            
+            content.innerHTML = `
+                <img src="${fest.media_assets.images[0]?.url || 'https://via.placeholder.com/800x400'}" class="w-full h-64 object-cover">
+                <div class="p-8">
+                    <div class="flex justify-between items-start mb-4">
+                        <div>
+                            <h2 class="text-3xl font-bold mb-1">${fest.basic_info.name_en}</h2>
+                            <p class="text-blue-400 font-medium">${fest.basic_info.country}, ${fest.basic_info.city}</p>
+                        </div>
+                        <div class="bg-slate-800 px-4 py-2 rounded-xl text-sm">
+                            <span class="text-slate-400">Popularity: </span>
+                            <span class="text-yellow-400 font-bold">${fest.metadata.popularity_score}/10</span>
+                        </div>
+                    </div>
+                    <div class="mb-6">
+                        <h4 class="text-slate-300 font-semibold mb-2 uppercase text-xs tracking-widest">Description</h4>
+                        <p class="text-slate-400 leading-relaxed">${fest.rich_content.description_en}</p>
+                    </div>
+                    <div class="mb-6">
+                        <h4 class="text-slate-300 font-semibold mb-2 uppercase text-xs tracking-widest">Highlights</h4>
+                        <ul class="grid grid-cols-1 gap-2">
+                            ${fest.rich_content.highlights.map(h => `<li class="text-slate-400 text-sm flex items-center gap-2"><i class="fa-solid fa-check text-blue-500"></i> ${h}</li>`).join('')}
+                        </ul>
+                    </div>
+                    ${fest.rich_content.viral_hooks ? `
+                    <div class="bg-blue-900/30 border border-blue-500/30 p-4 rounded-2xl">
+                        <h4 class="text-blue-400 font-semibold mb-2 text-sm">✨ Viral Insider Tips</h4>
+                        <ul class="space-y-2">
+                            ${fest.rich_content.viral_hooks.map(v => `<li class="text-slate-300 text-xs italic">"${v}"</li>`).join('')}
+                        </ul>
+                    </div>
+                    ` : ''}
+                    <div class="mt-8 flex gap-4">
+                        <a href="${fest.rich_content.official_url}" target="_blank" class="flex-1 bg-blue-600 hover:bg-blue-500 text-center py-3 rounded-xl font-bold transition-colors">Official Website</a>
+                    </div>
+                </div>
+            `;
+            modal.classList.remove('hidden');
+        }
+
+        document.getElementById('close-modal').onclick = () => document.getElementById('detail-modal').classList.add('hidden');
+        
+        // Filter logic
+        document.querySelectorAll('.filter-btn').forEach(btn => {
+            btn.onclick = (e) => {
+                document.querySelectorAll('.filter-btn').forEach(b => {
+                    b.classList.remove('bg-blue-600', 'text-white', 'active');
+                    b.classList.add('bg-slate-800', 'text-slate-400');
+                });
+                e.target.classList.add('bg-blue-600', 'text-white', 'active');
+                e.target.classList.remove('bg-slate-800', 'text-slate-400');
+                
+                const filter = e.target.dataset.filter;
+                if(filter === 'all') renderFestivals(festivals);
+                else renderFestivals(festivals.filter(f => f.basic_info.country === filter));
+            };
+        });
+
+        // Search logic
+        document.getElementById('search-input').oninput = (e) => {
+            const val = e.target.value.toLowerCase();
+            const filtered = festivals.filter(f => 
+                f.basic_info.name_en.toLowerCase().includes(val) || 
+                f.basic_info.country.toLowerCase().includes(val) ||
+                f.basic_info.city.toLowerCase().includes(val)
+            );
+            renderFestivals(filtered);
+        };
+
+        loadFestivals();
+    </script>
+</body>
+</html>
