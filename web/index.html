@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Festival Portal | Live Status</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+        body { font-family: 'Inter', sans-serif; background-color: #0f172a; color: #f8fafc; }
+        .gradient-text { background: linear-gradient(90deg, #38bdf8, #818cf8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .card { background: rgba(30, 41, 59, 0.7); backdrop-filter: blur(10px); border: 1px solid rgba(51, 65, 85, 1); }
+        .progress-bar-inner { transition: width 1s ease-in-out; }
+    </style>
+</head>
+<body class="min-h-screen p-4 md:p-8">
+    <div class="max-w-6xl mx-auto">
+        <!-- Header -->
+        <header class="flex flex-col md:flex-row justify-between items-center mb-12 gap-6">
+            <div>
+                <h1 class="text-4xl font-bold gradient-text mb-2">Global Festival Portal</h1>
+                <p class="text-slate-400">Real-time Project Execution Dashboard</p>
+            </div>
+            <div class="text-right">
+                <div id="last-updated" class="text-xs text-slate-500 mb-1 uppercase tracking-widest">Loading...</div>
+                <div class="flex items-center gap-2 text-green-400 font-mono text-sm">
+                    <span class="relative flex h-3 w-3">
+                        <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
+                        <span class="relative inline-flex rounded-full h-3 w-3 bg-green-500"></span>
+                    </span>
+                    SYSTEM LIVE
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Grid -->
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
+            
+            <!-- Left Column: Overall Status -->
+            <div class="lg:col-span-1 space-y-6">
+                <div class="card p-6 rounded-2xl">
+                    <h2 class="text-xl font-semibold mb-6 flex items-center gap-2">
+                        <i class="fa-solid fa-gauge-high text-sky-400"></i> Project Maturity
+                    </h2>
+                    <div class="relative pt-1">
+                        <div class="flex mb-2 items-center justify-between">
+                            <div>
+                                <span id="maturity-label" class="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-sky-600 bg-sky-200">
+                                    Initializing
+                                </span>
+                            </div>
+                            <div class="text-right">
+                                <span id="maturity-value" class="text-3xl font-bold text-sky-400">0%</span>
+                            </div>
+                        </div>
+                        <div class="overflow-hidden h-4 mb-4 text-xs flex rounded-full bg-slate-700">
+                            <div id="maturity-bar" class="progress-bar-inner shadow-none flex flex-col text-center white-space-nowrap text-white justify-center bg-sky-500" style="width: 0%"></div>
+                        </div>
+                        <p class="text-slate-400 text-sm italic" id="current-phase">Loading current phase...</p>
+                    </div>
+                </div>
+
+                <div class="card p-6 rounded-2xl">
+                    <h2 class="text-xl font-semibold mb-6 flex items-center gap-2">
+                        <i class="fa-solid fa-database text-indigo-400"></i> Data Assets
+                    </h2>
+                    <div class="grid grid-cols-2 gap-4">
+                        <div class="bg-slate-800/50 p-4 rounded-xl border border-slate-700">
+                            <div class="text-slate-400 text-xs uppercase mb-1">Raw Records</div>
+                            <div id="raw-count" class="text-2xl font-bold text-white">0</div>
+                        </div>
+                        <div class="bg-slate-800/50 p-4 rounded-xl border border-slate-700">
+                            <div class="text-slate-400 text-xs uppercase mb-1">Processed</div>
+                            <div id="processed-count" class="text-2xl font-bold text-white">0</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Column: Team Details -->
+            <div class="lg:col-span-2">
+                <div class="card p-6 rounded-2xl h-full">
+                    <h2 class="text-xl font-semibold mb-6 flex items-center gap-2">
+                        <i class="fa-solid fa-users-gear text-purple-400"></i> Agent Team Status
+                    </h2>
+                    <div class="overflow-x-auto">
+                        <table class="w-full text-left">
+                            <thead>
+                                <tr class="text-slate-400 text-sm uppercase tracking-wider border-b border-slate-700">
+                                    <th class="pb-3 font-medium">Team</th>
+                                    <th class="pb-3 font-medium">Status</th>
+                                    <th class="pb-3 font-medium">Progress</th>
+                                    <th class="pb-3 font-medium">Critical Blocker</th>
+                                </tr>
+                            </thead>
+                            <tbody id="team-table-body" class="text-sm divide-y divide-slate-700/50">
+                                <!-- Data injected by JS -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="mt-12 text-center text-slate-500 text-xs">
+            <p>&copy; 2026 Global Festival Portal Project. All data is synchronized from the agentic workspace.</p>
+            <div class="mt-2 flex justify-center gap-4">
+                <a href="https://github.com/todaygroup/global-festival-portal" class="hover:text-sky-400 transition-colors"><i class="fa-brands fa-github mr-1"></i> GitHub Repository</a>
+            </div>
+        </footer>
+    </div>
+
+    <script>
+        async function updateDashboard() {
+            try {
+                const response = await fetch('status.json');
+                const data = await response.json();
+
+                // Update Maturity
+                document.getElementById('maturity-value').innerText = `${data.overall_maturity}%`;
+                document.getElementById('maturity-bar').style.width = `${data.overall_maturity}%`;
+                document.getElementById('current-phase').innerText = `Phase: ${data.current_phase}`;
+                document.getElementById('last-updated').innerText = `Last Updated: ${data.last_updated}`;
+
+                // Update Data Counts
+                document.getElementById('raw-count').innerText = data.data_counts.raw;
+                document.getElementById('processed-count').innerText = data.data_counts.processed;
+
+                // Update Team Table
+                const tableBody = document.getElementById('team-table-body');
+                tableBody.innerHTML = '';
+                
+                data.teams.forEach(team => {
+                    const statusColor = {
+                        '🔴': 'text-red-400',
+                        '🟡': 'text-yellow-400',
+                        '⚪': 'text-slate-400',
+                        '🟢': 'text-green-400'
+                    }[team.status_icon] || 'text-slate-400';
+
+                    const row = `
+                        <tr class="hover:bg-slate-800/30 transition-colors">
+                            <td class="py-4 font-semibold text-slate-200">${team.name}</td>
+                            <td class="py-4 ${statusColor} font-medium">${team.status_icon} ${team.status}</td>
+                            <td class="py-4">
+                                <div class="flex items-center gap-2">
+                                    <div class="w-16 bg-slate-700 h-1.5 rounded-full overflow-hidden">
+                                        <div class="bg-sky-500 h-full" style="width: ${team.progress}%"></div>
+                                    </div>
+                                    <span class="text-xs">${team.progress}%</span>
+                                </div>
+                            </td>
+                            <td class="py-4 text-slate-400 text-xs">${team.blocker || 'None'}</td>
+                        </tr>
+                    `;
+                    tableBody.insertAdjacentHTML('beforeend', row);
+                });
+
+            } catch (e) {
+                console.error('Failed to load status:', e);
+                document.getElementById('last-updated').innerText = 'Sync Error';
+            }
+        }
+
+        updateDashboard();
+        setInterval(updateDashboard, 60000); // Refresh every minute
+    </script>
+</body>
+</html>
