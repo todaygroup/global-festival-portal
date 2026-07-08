@@ -3,7 +3,7 @@ import json
 from typing import List
 from providers.japan_provider import JapanProvider
 from providers.europe_provider import EuropeProvider
-from schema import FestivalData
+from festival_engine.schema import FestivalData
 
 class Collector:
     def __init__(self, providers: List):

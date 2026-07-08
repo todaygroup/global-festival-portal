@@ -7,7 +7,7 @@ WORKSPACE = "/home/aiagent/hyeongryeol_workspace"
 STATUS_FILE = os.path.join(WORKSPACE, "PROJECT_STATUS.md")
 RAW_DATA_FILE = os.path.join(WORKSPACE, "festival_engine/data/raw/raw_festivals.json")
 PROCESSED_DATA_FILE = os.path.join(WORKSPACE, "festival_engine/data/processed/processed_festivals.json")
-OUTPUT_JSON = os.path.join(WORKSPACE, "web/status.json")
+OUTPUT_JSON = os.path.join(WORKSPACE, "status.json")
 
 def read_file_builtin(path):
     with open(path, 'r', encoding='utf-8') as f:

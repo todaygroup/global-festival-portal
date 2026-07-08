@@ -1,6 +1,6 @@
 import uuid
 from typing import List
-from schema import FestivalData, BasicInfo, DateInfo, RichContent, MediaAsset, MediaAssets
+from festival_engine.schema import FestivalData, BasicInfo, DateInfo, RichContent, MediaAsset, MediaAssets
 from .base_provider import BaseProvider
 
 class KoreaProvider(BaseProvider):

@@ -1,6 +1,6 @@
 [
   {
-    "festival_id": "JP-a7832956",
+    "festival_id": "JP-a01a8496",
     "basic_info": {
       "name_en": "Sapporo Snow Festival",
       "name_local": "さっぽろ雪まつり",
@@ -28,7 +28,7 @@
     "media_assets": {
       "images": [
         {
-          "url": "https://cdn.example.com/jp/JP-a7832956.jpg",
+          "url": "https://cdn.example.com/jp/JP-a01a8496.jpg",
           "tag": "main",
           "quality": "high"
         }
@@ -41,7 +41,7 @@
     }
   },
   {
-    "festival_id": "JP-3f315b0a",
+    "festival_id": "JP-8aa2048d",
     "basic_info": {
       "name_en": "Aomori Nebuta Matsuri",
       "name_local": "青森ねぶた祭",
@@ -69,7 +69,7 @@
     "media_assets": {
       "images": [
         {
-          "url": "https://cdn.example.com/jp/JP-3f315b0a.jpg",
+          "url": "https://cdn.example.com/jp/JP-8aa2048d.jpg",
           "tag": "main",
           "quality": "high"
         }
@@ -82,7 +82,7 @@
     }
   },
   {
-    "festival_id": "EU-ba30c799",
+    "festival_id": "EU-a80379a7",
     "basic_info": {
       "name_en": "Carnival of Venice",
       "name_local": "Carnevale di Venezia",
@@ -110,7 +110,7 @@
     "media_assets": {
       "images": [
         {
-          "url": "https://cdn.example.com/eu/EU-ba30c799.jpg",
+          "url": "https://cdn.example.com/eu/EU-a80379a7.jpg",
           "tag": "main",
           "quality": "high"
         }
@@ -123,7 +123,7 @@
     }
   },
   {
-    "festival_id": "EU-8a3bbbcf",
+    "festival_id": "EU-209e782a",
     "basic_info": {
       "name_en": "Oktoberfest",
       "name_local": "Oktoberfest",
@@ -151,7 +151,7 @@
     "media_assets": {
       "images": [
         {
-          "url": "https://cdn.example.com/eu/EU-8a3bbbcf.jpg",
+          "url": "https://cdn.example.com/eu/EU-209e782a.jpg",
           "tag": "main",
           "quality": "high"
         }

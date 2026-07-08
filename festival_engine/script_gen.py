@@ -25,7 +25,7 @@ class ScriptGenerator:
         """
         Generates a single script for a specific festival and format.
         """
-        print(f"✍️ Generating script for {festival['basic_info']['name_ko']} in {format.value} format...")
+        print(f"✍️ Generating script for {festival.basic_info.name_ko} in {format.value} format...")
         return self.templates[format](festival)
 
     def generate_viral_scripts(self, processed_festivals: List[Dict]) -> List[Dict]:
@@ -40,7 +40,7 @@ class ScriptGenerator:
             for fmt in formats_to_generate:
                 script = self.generate_script(fest, fmt)
                 all_scripts.append({
-                    "festival": fest['basic_info']['name_ko'],
+                    "festival": fest.basic_info.name_ko,
                     "format": fmt.value,
                     "blueprint": script
                 })
@@ -49,9 +49,9 @@ class ScriptGenerator:
     def _template_top_n(self, fest: Dict) -> Dict:
         return {
             "scenes": [
-                {"time": "0-3s", "text": f"🌟 전 세계가 주목하는 레전드 축제 TOP 3! 과연 {fest['basic_info']['name_ko']}는 몇 위일까요?", "visual": "Fast cuts of festival highlights"},
-                {"time": "3-10s", "text": f"여기가 바로 {fest['basic_info']['city']}의 {fest['basic_info']['name_ko']}! {fest['rich_content']['viral_hooks'][0]}", "visual": "Main wide shot of the festival"},
-                {"time": "10-15s", "text": f"특히 {fest['rich_content']['viral_hooks'][1]} 부분은 절대 놓치지 마세요!", "visual": "Close up of the most unique activity"},
+                {"time": "0-3s", "text": f"🌟 전 세계가 주목하는 레전드 축제 TOP 3! 과연 {fest.basic_info.name_ko}는 몇 위일까요?", "visual": "Fast cuts of festival highlights"},
+                {"time": "3-10s", "text": f"여기가 바로 {fest.basic_info.city}의 {fest.basic_info.name_ko}! {fest.rich_content.viral_hooks[0]}", "visual": "Main wide shot of the festival"},
+                {"time": "10-15s", "text": f"특히 {fest.rich_content.viral_hooks[1]} 부분은 절대 놓치지 마세요!", "visual": "Close up of the most unique activity"},
                 {"time": "15-20s", "text": f"더 많은 글로벌 축제 꿀팁이 궁금하다면? 지금 바로 프로필 링크의 앱을 확인하세요!", "visual": "App UI call to action"}
             ]
         }
@@ -59,8 +59,8 @@ class ScriptGenerator:
     def _template_hidden_gem(self, fest: Dict) -> Dict:
         return {
             "scenes": [
-                {"time": "0-3s", "text": f"🤫 나만 알고 싶었지만... 공개합니다. {fest['basic_info']['city']}의 숨은 보석, {fest['basic_info']['name_ko']}!", "visual": "Mysterious atmospheric shot"},
-                {"time": "3-10s", "text": f"이곳의 진짜 매력은 바로 {fest['rich_content']['viral_hooks'][2]}입니다. 뻔한 관광지는 이제 그만!", "visual": "Unique/rare angle of the festival"},
+                {"time": "0-3s", "text": f"🤫 나만 알고 싶었지만... 공개합니다. {fest.basic_info.city}의 숨은 보석, {fest.basic_info.name_ko}!", "visual": "Mysterious atmospheric shot"},
+                {"time": "3-10s", "text": f"이곳의 진짜 매력은 바로 {fest.rich_content.viral_hooks[2]}입니다. 뻔한 관광지는 이제 그만!", "visual": "Unique/rare angle of the festival"},
                 {"time": "10-15s", "text": f"인생샷 100% 보장! 올해가 가기 전에 여기 꼭 가보세요.", "visual": "Beautiful aesthetic shot"},
                 {"time": "15-20s", "text": f"상세 일정과 예약 방법은 앱에서 바로 확인 가능합니다!", "visual": "App download screen"}
             ]
@@ -69,9 +69,9 @@ class ScriptGenerator:
     def _template_travel_guide(self, fest: Dict) -> Dict:
         return {
             "scenes": [
-                {"time": "0-3s", "text": f"✈️ {fest['basic_info']['name_ko']} 가기 전 필수 시청! 실패 없는 여행 꿀팁 알려드립니다.", "visual": "Travel preparation / Map shot"},
-                {"time": "3-10s", "text": f"핵심 포인트는 {fest['rich_content']['viral_hooks'][0]}! 이걸 알아야 진짜 즐길 수 있습니다.", "visual": "Helpful tip visual / Activity shot"},
-                {"time": "10-15s", "text": f"추천 방문 시기는 {fest['basic_info']['date']['start_date']}부터! 늦으면 자리 없습니다.", "visual": "Calendar/Crowd shot"},
+                {"time": "0-3s", "text": f"✈️ {fest.basic_info.name_ko} 가기 전 필수 시청! 실패 없는 여행 꿀팁 알려드립니다.", "visual": "Travel preparation / Map shot"},
+                {"time": "3-10s", "text": f"핵심 포인트는 {fest.rich_content.viral_hooks[0]}! 이걸 알아야 진짜 즐길 수 있습니다.", "visual": "Lpful tip visual / Activity shot"},
+                {"time": "10-15s", "text": f"추천 방문 시기는 {fest.basic_info.date.start_date}부터! 늦으면 자리 없습니다.", "visual": "Calendar/Crowd shot"},
                 {"time": "15-20s", "text": f"더 자세한 가이드와 리워드 혜택은 앱에서 확인하세요!", "visual": "App reward screen"}
             ]
         }

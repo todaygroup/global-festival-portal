@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 from typing import List
-from schema import FestivalData
+from festival_engine.schema import FestivalData
 
 class BaseProvider(ABC):
     """Base class for all festival data providers."""

@@ -1,7 +1,7 @@
 import json
 import os
 from typing import List
-from schema import FestivalData, BasicInfo, DateInfo, RichContent, MediaAsset, MediaAssets
+from festival_engine.schema import FestivalData, BasicInfo, DateInfo, RichContent, MediaAsset, MediaAssets
 
 class AIProcessor:
     """
@@ -20,20 +20,20 @@ class AIProcessor:
         
         for item in raw_data:
             # 1. Simulated Translation (Real AI would do this)
-            name_ko = self._mock_translate(item['basic_info']['name_en'], "name")
-            desc_ko = self._mock_translate(item['rich_content']['description_en'], "desc")
+            name_ko = self._mock_translate(item.basic_info.name_en, "name")
+            desc_ko = self._mock_translate(item.rich_content.description_en, "desc")
             
             # 2. Viral Point Extraction
             # Converting boring descriptions into "Viral Hooks" for short-form videos
             viral_hooks = self._generate_viral_hooks(
-                item['basic_info']['name_en'], 
-                item['rich_content']['highlights']
+                item.basic_info.name_en, 
+                item.rich_content.highlights
             )
             
             # Update the data structure
-            item['basic_info']['name_ko'] = name_ko
-            item['rich_content']['description_ko'] = desc_ko
-            item['rich_content']['viral_hooks'] = viral_hooks
+            item.basic_info.name_ko = name_ko
+            item.rich_content.description_ko = desc_ko
+            item.rich_content.viral_hooks = viral_hooks
             
             processed_data.append(item)
             print(f"✨ Optimized: {name_ko}")

@@ -130,5 +130,201 @@
       "conversions": 83,
       "score": 0.6995939649426883
     }
+  },
+  {
+    "timestamp": "2026-07-07T02:01:57.417224",
+    "task": "Data_Collection",
+    "duration_sec": 0.0001,
+    "tokens": 2000,
+    "success": false
+  },
+  {
+    "timestamp": "2026-07-07T02:01:57.417459",
+    "task": "Full_Pipeline_Execution",
+    "duration_sec": 0.0003,
+    "tokens": 15000,
+    "success": false
+  },
+  {
+    "timestamp": "2026-07-07T02:02:24.975319",
+    "task": "Data_Collection",
+    "duration_sec": 0.0001,
+    "tokens": 2000,
+    "success": false
+  },
+  {
+    "timestamp": "2026-07-07T02:02:24.975561",
+    "task": "Full_Pipeline_Execution",
+    "duration_sec": 0.0003,
+    "tokens": 15000,
+    "success": false
+  },
+  {
+    "timestamp": "2026-07-07T02:03:27.462901",
+    "task": "Data_Collection",
+    "duration_sec": 0.0005,
+    "tokens": 2000,
+    "success": false
+  },
+  {
+    "timestamp": "2026-07-07T02:03:27.463109",
+    "task": "Full_Pipeline_Execution",
+    "duration_sec": 0.0007,
+    "tokens": 15000,
+    "success": false
+  },
+  {
+    "timestamp": "2026-07-07T02:04:08.217471",
+    "task": "Data_Collection",
+    "duration_sec": 0.0013,
+    "tokens": 2000,
+    "success": true
+  },
+  {
+    "timestamp": "2026-07-07T02:04:08.217890",
+    "task": "AI_Processing",
+    "duration_sec": 0.0002,
+    "tokens": 5000,
+    "success": true
+  },
+  {
+    "timestamp": "2026-07-07T02:04:08.218144",
+    "task": "Script_Generation",
+    "duration_sec": 0.0001,
+    "tokens": 4000,
+    "success": true
+  },
+  {
+    "timestamp": "2026-07-07T02:04:08.218474",
+    "task": "Content_Rendering",
+    "duration_sec": 0.0001,
+    "tokens": 3000,
+    "success": true
+  },
+  {
+    "timestamp": "2026-07-07T02:04:08.219176",
+    "task": "Distribution_Scheduling",
+    "duration_sec": 0.0005,
+    "tokens": 1000,
+    "success": true
+  },
+  {
+    "timestamp": "2026-07-07T02:04:08.219367",
+    "task": "Full_Pipeline_Execution",
+    "duration_sec": 0.0032,
+    "tokens": 15000,
+    "success": true
+  },
+  {
+    "timestamp": "2026-07-08T02:03:04.523757",
+    "task": "Data_Collection",
+    "duration_sec": 0.0004,
+    "tokens": 2000,
+    "success": true
+  },
+  {
+    "timestamp": "2026-07-08T02:03:04.524022",
+    "task": "AI_Processing_Attempt_1",
+    "duration_sec": 0.0,
+    "tokens": 5000,
+    "success": false
+  },
+  {
+    "timestamp": "2026-07-08T02:03:04.524240",
+    "task": "Full_Pipeline_Execution",
+    "duration_sec": 0.0009,
+    "tokens": 15000,
+    "success": false
+  },
+  {
+    "timestamp": "2026-07-08T02:03:59.164808",
+    "task": "Data_Collection",
+    "duration_sec": 0.0004,
+    "tokens": 2000,
+    "success": true
+  },
+  {
+    "timestamp": "2026-07-08T02:03:59.165618",
+    "task": "AI_Processing_Attempt_1",
+    "duration_sec": 0.0005,
+    "tokens": 5000,
+    "success": false
+  },
+  {
+    "timestamp": "2026-07-08T02:03:59.165844",
+    "task": "Full_Pipeline_Execution",
+    "duration_sec": 0.0014,
+    "tokens": 15000,
+    "success": false
+  },
+  {
+    "timestamp": "2026-07-08T02:04:21.037189",
+    "task": "Data_Collection",
+    "duration_sec": 0.0004,
+    "tokens": 2000,
+    "success": true
+  },
+  {
+    "timestamp": "2026-07-08T02:04:21.038055",
+    "task": "AI_Processing_Attempt_1",
+    "duration_sec": 0.0006,
+    "tokens": 5000,
+    "success": true
+  },
+  {
+    "timestamp": "2026-07-08T02:04:21.038300",
+    "task": "Script_Generation_Attempt_1",
+    "duration_sec": 0.0,
+    "tokens": 4000,
+    "success": false
+  },
+  {
+    "timestamp": "2026-07-08T02:04:21.038531",
+    "task": "Full_Pipeline_Execution",
+    "duration_sec": 0.0017,
+    "tokens": 15000,
+    "success": false
+  },
+  {
+    "timestamp": "2026-07-08T02:06:13.341097",
+    "task": "Data_Collection",
+    "duration_sec": 0.0004,
+    "tokens": 2000,
+    "success": true
+  },
+  {
+    "timestamp": "2026-07-08T02:06:13.341487",
+    "task": "AI_Processing_Attempt_1",
+    "duration_sec": 0.0001,
+    "tokens": 5000,
+    "success": true
+  },
+  {
+    "timestamp": "2026-07-08T02:06:13.341808",
+    "task": "Script_Generation_Attempt_1",
+    "duration_sec": 0.0,
+    "tokens": 4000,
+    "success": true
+  },
+  {
+    "timestamp": "2026-07-08T02:06:13.342167",
+    "task": "Content_Rendering",
+    "duration_sec": 0.0001,
+    "tokens": 3000,
+    "success": true
+  },
+  {
+    "timestamp": "2026-07-08T02:06:13.342944",
+    "task": "Distribution_Scheduling",
+    "duration_sec": 0.0005,
+    "tokens": 1000,
+    "success": true
+  },
+  {
+    "timestamp": "2026-07-08T02:06:13.343185",
+    "task": "Full_Pipeline_Execution",
+    "duration_sec": 0.0024,
+    "tokens": 15000,
+    "success": true
   }
 ]
