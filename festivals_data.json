@@ -1,38 +1,46 @@
 [
   {
-    "id": "JP-a01a8496",
+    "id": "JP-b3b78259",
     "name": "Sapporo Snow Festival",
     "country": "Japan",
     "start_date": "Early February",
     "end_date": "Early February",
     "description": "One of the most famous winter festivals in Japan, featuring massive snow and ice sculptures.",
-    "official_url": "https://www.snowfes.com"
+    "official_url": "https://www.snowfes.com",
+    "city": "Sapporo",
+    "category": "Traditional/Winter"
   },
   {
-    "id": "JP-8aa2048d",
+    "id": "JP-51e25640",
     "name": "Aomori Nebuta Matsuri",
     "country": "Japan",
     "start_date": "August 2-7",
     "end_date": "August 2-7",
     "description": "A festival featuring enormous illuminated floats depicting mythical creatures and historical figures.",
-    "official_url": "https://www.nebuta.jp"
+    "official_url": "https://www.nebuta.jp",
+    "city": "Aomori",
+    "category": "Traditional/Winter"
   },
   {
-    "id": "EU-a80379a7",
+    "id": "EU-202aa7d4",
     "name": "Carnival of Venice",
     "country": "Italy",
     "start_date": "February",
     "end_date": "February",
     "description": "One of the most famous festivals in the world, known for its elaborate masks and costumes.",
-    "official_url": "https://www.carnevaledivenezia.it"
+    "official_url": "https://www.carnevaledivenezia.it",
+    "city": "Venice",
+    "category": "Cultural/Traditional"
   },
   {
-    "id": "EU-209e782a",
+    "id": "EU-a4e68759",
     "name": "Oktoberfest",
     "country": "Germany",
     "start_date": "Late September",
     "end_date": "Early October",
     "description": "The world's largest folk festival, celebrating Bavarian culture and beer.",
-    "official_url": "https://www.oktoberfest.de"
+    "official_url": "https://www.oktoberfest.de",
+    "city": "Munich",
+    "category": "Cultural/Traditional"
   }
 ]
