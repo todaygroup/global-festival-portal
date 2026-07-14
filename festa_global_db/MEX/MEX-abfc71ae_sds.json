@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "MEX-abfc71ae",
+    "name_en": "Guelaguetza",
+    "name_local": "Guelaguetza",
+    "country": "MEX",
+    "city": "Oaxaca",
+    "category": "Cultural"
+  },
+  "schedule": {
+    "start_date": "July",
+    "end_date": "July",
+    "frequency": "Annual",
+    "season": "Summer"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, Oaxaca",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://oaxaca.gob.mx",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://oaxaca.gob.mx/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

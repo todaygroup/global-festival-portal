@@ -1,0 +1,8 @@
+{
+  "regions": {
+    "East Asia": ["CN", "JP", "KR", "KP", "MN", "TW", "HK", "MO"],
+    "South Asia": ["IN", "PK", "BD", "LK", "NP", "BT", "MV"],
+    "South East Asia": ["TH", "VN", "MY", "ID", "PH", "SG", "MM", "KH", "LA", "BN", "TL"],
+    "Oceania": ["AU", "NZ", "PG", "FJ", "SB", "VU", "WS", "KI", "TO", "FM", "PW", "MH"]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "JP-97a6884a",
+    "name_en": "Osaka Summer Festival",
+    "name_local": "大阪夏まつり",
+    "country": "Japan",
+    "city": "Osaka",
+    "category": "Cultural"
+  },
+  "schedule": {
+    "start_date": "July",
+    "end_date": "August",
+    "frequency": "Annual",
+    "season": "Summer"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Osaka, Japan",
+      "coordinates": {
+        "lat": 34.69,
+        "lon": 135.5
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.osaka-info.jp",
+    "images": [
+      "https://cdn.festa-global.com/JP/JP-97a6884a_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.osaka-info.jp/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

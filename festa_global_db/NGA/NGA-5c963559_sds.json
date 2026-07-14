@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "NGA-5c963559",
+    "name_en": "Argungu Fishing Festival",
+    "name_local": "Argungu Fishing Festival",
+    "country": "NGA",
+    "city": "Argungu",
+    "category": "Cultural"
+  },
+  "schedule": {
+    "start_date": "March",
+    "end_date": "March",
+    "frequency": "Annual",
+    "season": "Spring"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, Argungu",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://nigeria.gov.ng",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://nigeria.gov.ng/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

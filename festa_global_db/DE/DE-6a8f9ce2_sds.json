@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-6a8f9ce2",
+    "name_en": "Oberhausen Christmas Market",
+    "name_local": "Oberhausener Weihnachtsmarkt",
+    "country": "Germany",
+    "city": "Oberhausen",
+    "category": "Traditional/Winter"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "December",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Oberhausen, Germany",
+      "coordinates": {
+        "lat": 51.45,
+        "lon": 6.85
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.oberhausen.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-6a8f9ce2_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.oberhausen.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

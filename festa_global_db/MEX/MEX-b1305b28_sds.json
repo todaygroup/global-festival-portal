@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "MEX-b1305b28",
+    "name_en": "Dia de los Muertos",
+    "name_local": "Dia de los Muertos",
+    "country": "MEX",
+    "city": "Various",
+    "category": "Cultural"
+  },
+  "schedule": {
+    "start_date": "November 1",
+    "end_date": "November 2",
+    "frequency": "Annual",
+    "season": "Autumn"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, Various",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://visitmexico.com",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://visitmexico.com/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

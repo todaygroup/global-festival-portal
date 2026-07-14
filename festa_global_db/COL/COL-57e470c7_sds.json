@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "COL-57e470c7",
+    "name_en": "Carnaval de Barranquilla",
+    "name_local": "Carnaval de Barranquilla",
+    "country": "COL",
+    "city": "Barranquilla",
+    "category": "Cultural"
+  },
+  "schedule": {
+    "start_date": "February",
+    "end_date": "February",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, Barranquilla",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://carnabarranquilla.org",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://carnabarranquilla.org/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-3f214da8",
+    "name_en": "Bremen Christmas Market",
+    "name_local": "Bremer Weihnachtsmarkt",
+    "country": "Germany",
+    "city": "Bremen",
+    "category": "Traditional/Winter"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "December",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Bremen, Germany",
+      "coordinates": {
+        "lat": 53.0793,
+        "lon": 8.8017
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.bremen.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-3f214da8_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.bremen.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-5ef924c6",
+    "name_en": "Oktoberfest",
+    "name_local": "Oktoberfest",
+    "country": "Germany",
+    "city": "Munich",
+    "category": "Cultural/Traditional"
+  },
+  "schedule": {
+    "start_date": "Late September",
+    "end_date": "Early October",
+    "frequency": "Annual",
+    "season": "Autumn"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Munich, Germany",
+      "coordinates": {
+        "lat": 48.1351,
+        "lon": 11.5581
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.oktoberfest.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-5ef924c6_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.oktoberfest.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

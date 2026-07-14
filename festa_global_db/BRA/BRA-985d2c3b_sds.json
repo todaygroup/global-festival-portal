@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "BRA-985d2c3b",
+    "name_en": "Festival de Parintins",
+    "name_local": "Festival de Parintins",
+    "country": "BRA",
+    "city": "Parintins",
+    "category": "Cultural"
+  },
+  "schedule": {
+    "start_date": "June",
+    "end_date": "June",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, Parintins",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://parintins.am.gov.br",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://parintins.am.gov.br/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

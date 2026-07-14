@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-2695dab0",
+    "name_en": "Hamburg Hafengeburtstag",
+    "name_local": "Hafengeburtstag Hamburg",
+    "country": "Germany",
+    "city": "Hamburg",
+    "category": "Cultural"
+  },
+  "schedule": {
+    "start_date": "May",
+    "end_date": "May",
+    "frequency": "Annual",
+    "season": "Spring"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Hamburg, Germany",
+      "coordinates": {
+        "lat": 53.5511,
+        "lon": 9.9937
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.hafengeburtstag.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-2695dab0_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.hafengeburtstag.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

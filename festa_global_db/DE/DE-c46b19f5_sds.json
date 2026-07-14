@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-c46b19f5",
+    "name_en": "Carnival of Mainz",
+    "name_local": "Mainzer Fastnacht",
+    "country": "Germany",
+    "city": "Mainz",
+    "category": "Cultural/Traditional"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "February",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Mainz, Germany",
+      "coordinates": {
+        "lat": 49.9933,
+        "lon": 8.2467
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.mainz.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-c46b19f5_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.mainz.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "JP-2cb979cb",
+    "name_en": "Takayama Autumn Festival",
+    "name_local": "高山秋高山祭",
+    "country": "Japan",
+    "city": "Takayama",
+    "category": "Traditional"
+  },
+  "schedule": {
+    "start_date": "October 9",
+    "end_date": "October 10",
+    "frequency": "Annual",
+    "season": "Autumn"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Takayama, Japan",
+      "coordinates": {
+        "lat": 36.14,
+        "lon": 137.25
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.takayama-matsuri.com",
+    "images": [
+      "https://cdn.festa-global.com/JP/JP-2cb979cb_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.takayama-matsuri.com/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

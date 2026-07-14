@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "WS-54817f0a",
+    "name_en": "Multi-sport events in Samoa",
+    "name_local": "Unknown",
+    "country": "Samoa",
+    "city": "Unknown",
+    "category": "Cultural/Traditional"
+  },
+  "schedule": {
+    "start_date": "February",
+    "end_date": "Unknown",
+    "frequency": "Annual",
+    "season": "Unknown"
+  },
+  "logistics": {
+    "location": {
+      "address": "Unknown",
+      "coordinates": {
+        "lat": null,
+        "lon": null
+      }
+    },
+    "access": "Unknown"
+  },
+  "multimedia": {
+    "official_url": "Unknown",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Unknown",
+    "guide_url": "Unknown"
+  },
+  "verification": {
+    "source": "Wikipedia",
+    "last_updated": "2026-07-14",
+    "status": "collected"
+  }
+}

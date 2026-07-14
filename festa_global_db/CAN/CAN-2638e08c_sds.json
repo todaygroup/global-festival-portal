@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "CAN-2638e08c",
+    "name_en": "Toronto International Film Festival",
+    "name_local": "Toronto International Film Festival",
+    "country": "CAN",
+    "city": "Toronto",
+    "category": "Arts"
+  },
+  "schedule": {
+    "start_date": "September",
+    "end_date": "September",
+    "frequency": "Annual",
+    "season": "Autumn"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, Toronto",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://tiff.net",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://tiff.net/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

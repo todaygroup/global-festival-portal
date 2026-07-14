@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "USA-94125f92",
+    "name_en": "Mardi Gras",
+    "name_local": "Mardi Gras",
+    "country": "USA",
+    "city": "New Orleans",
+    "category": "Cultural"
+  },
+  "schedule": {
+    "start_date": "February",
+    "end_date": "February",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, New Orleans",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://www.nola.com",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://www.nola.com/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

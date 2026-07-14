@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "ZAF-7db5ddcd",
+    "name_en": "National Arts Festival",
+    "name_local": "National Arts Festival",
+    "country": "ZAF",
+    "city": "Grahamstown",
+    "category": "Arts"
+  },
+  "schedule": {
+    "start_date": "June",
+    "end_date": "June",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, Grahamstown",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://nationalartsfestival.co.za",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://nationalartsfestival.co.za/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

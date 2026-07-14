@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "JP-98a014cd",
+    "name_en": "Kagoshima Sakura-dori Festival",
+    "name_local": "鹿児島桜通り祭り",
+    "country": "Japan",
+    "city": "Kagoshima",
+    "category": "Cultural"
+  },
+  "schedule": {
+    "start_date": "April",
+    "end_date": "April",
+    "frequency": "Annual",
+    "season": "Spring"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Kagoshima, Japan",
+      "coordinates": {
+        "lat": 31.59,
+        "lon": 130.55
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.kagoshima-city.jp",
+    "images": [
+      "https://cdn.festa-global.com/JP/JP-98a014cd_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.kagoshima-city.jp/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

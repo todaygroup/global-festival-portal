@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "JP-c4975c2e",
+    "name_en": "Okinawa Shuri Castle Festival",
+    "name_local": "首里城祭",
+    "country": "Japan",
+    "city": "Okinawa",
+    "category": "Cultural"
+  },
+  "schedule": {
+    "start_date": "October",
+    "end_date": "October",
+    "frequency": "Annual",
+    "season": "Autumn"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Okinawa, Japan",
+      "coordinates": {
+        "lat": 26.21,
+        "lon": 127.75
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.shuri-castle.jp",
+    "images": [
+      "https://cdn.festa-global.com/JP/JP-c4975c2e_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.shuri-castle.jp/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

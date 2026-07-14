@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "USA-bcac5eb5",
+    "name_en": "Albuquerque International Balloon Fiesta",
+    "name_local": "Albuquerque International Balloon Fiesta",
+    "country": "USA",
+    "city": "Albuquerque",
+    "category": "Cultural"
+  },
+  "schedule": {
+    "start_date": "October",
+    "end_date": "October",
+    "frequency": "Annual",
+    "season": "Autumn"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, Albuquerque",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://balloonfiesta.com",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://balloonfiesta.com/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

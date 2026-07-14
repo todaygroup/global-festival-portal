@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "JP-7c564500",
+    "name_en": "Winter festivals in Japan",
+    "name_local": "Unknown",
+    "country": "Japan",
+    "city": "this category",
+    "category": "Cultural/Traditional"
+  },
+  "schedule": {
+    "start_date": "January",
+    "end_date": "Unknown",
+    "frequency": "Annual",
+    "season": "Unknown"
+  },
+  "logistics": {
+    "location": {
+      "address": "Unknown",
+      "coordinates": {
+        "lat": null,
+        "lon": null
+      }
+    },
+    "access": "Unknown"
+  },
+  "multimedia": {
+    "official_url": "Unknown",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Unknown",
+    "guide_url": "Unknown"
+  },
+  "verification": {
+    "source": "Wikipedia",
+    "last_updated": "2026-07-14",
+    "status": "collected"
+  }
+}

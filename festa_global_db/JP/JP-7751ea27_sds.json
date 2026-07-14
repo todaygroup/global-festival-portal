@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "JP-7751ea27",
+    "name_en": "Kochi Yosakoi Festival",
+    "name_local": "よさこい祭り",
+    "country": "Japan",
+    "city": "Kochi",
+    "category": "Traditional"
+  },
+  "schedule": {
+    "start_date": "August",
+    "end_date": "August",
+    "frequency": "Annual",
+    "season": "Summer"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Kochi, Japan",
+      "coordinates": {
+        "lat": 33.55,
+        "lon": 133.53
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.yosakoifestival.jp",
+    "images": [
+      "https://cdn.festa-global.com/JP/JP-7751ea27_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.yosakoifestival.jp/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "JP-692ef643",
+    "name_en": "Morioka Sansa Odori",
+    "name_local": "盛岡さんさ踊り",
+    "country": "Japan",
+    "city": "Morioka",
+    "category": "Traditional"
+  },
+  "schedule": {
+    "start_date": "August 1",
+    "end_date": "August 4",
+    "frequency": "Annual",
+    "season": "Summer"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Morioka, Japan",
+      "coordinates": {
+        "lat": 39.71,
+        "lon": 140.07
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.sansa-odori.jp",
+    "images": [
+      "https://cdn.festa-global.com/JP/JP-692ef643_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.sansa-odori.jp/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

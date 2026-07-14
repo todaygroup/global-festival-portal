@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "COL-c9a1c0cd",
+    "name_en": "Feria de las Flores",
+    "name_local": "Feria de las Flores",
+    "country": "COL",
+    "city": "Medellin",
+    "category": "Cultural"
+  },
+  "schedule": {
+    "start_date": "August",
+    "end_date": "August",
+    "frequency": "Annual",
+    "season": "Summer"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, Medellin",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://medellin.gov.co",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://medellin.gov.co/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

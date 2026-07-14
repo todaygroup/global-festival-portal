@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-87fef323",
+    "name_en": "Recklinghausen Christmas Market",
+    "name_local": "Recklinghäuser Weihnachtsmarkt",
+    "country": "Germany",
+    "city": "Recklinghausen",
+    "category": "Traditional/Winter"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "December",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Recklinghausen, Germany",
+      "coordinates": {
+        "lat": 51.62,
+        "lon": 7.23
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.recklinghausen.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-87fef323_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.recklinghausen.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

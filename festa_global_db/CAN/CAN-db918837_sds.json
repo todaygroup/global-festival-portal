@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "CAN-db918837",
+    "name_en": "Quebec Winter Carnival",
+    "name_local": "Quebec Winter Carnival",
+    "country": "CAN",
+    "city": "Quebec City",
+    "category": "Winter"
+  },
+  "schedule": {
+    "start_date": "January",
+    "end_date": "February",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, Quebec City",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://www.carnavalequebec.com",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://www.carnavalequebec.com/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

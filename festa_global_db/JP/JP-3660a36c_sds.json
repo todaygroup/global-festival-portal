@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "JP-3660a36c",
+    "name_en": "Setouchi Triennale",
+    "name_local": "瀬戸内国際芸術祭",
+    "country": "Japan",
+    "city": "Setouchi",
+    "category": "Arts"
+  },
+  "schedule": {
+    "start_date": "Various",
+    "end_date": "Various",
+    "frequency": "Annual",
+    "season": "Various"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Setouchi, Japan",
+      "coordinates": {
+        "lat": 34.4,
+        "lon": 133.9
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://setouchi-artfest.jp",
+    "images": [
+      "https://cdn.festa-global.com/JP/JP-3660a36c_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://setouchi-artfest.jp/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

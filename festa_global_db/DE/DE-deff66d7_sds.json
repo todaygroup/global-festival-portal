@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-deff66d7",
+    "name_en": "Bochum Christmas Market",
+    "name_local": "Bochumer Weihnachtsmarkt",
+    "country": "Germany",
+    "city": "Bochum",
+    "category": "Traditional/Winter"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "December",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Bochum, Germany",
+      "coordinates": {
+        "lat": 51.48,
+        "lon": 7.21
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.bochum.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-deff66d7_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.bochum.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

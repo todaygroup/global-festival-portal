@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-e56c71b4",
+    "name_en": "Marl Christmas Market",
+    "name_local": "Marler Weihnachtsmarkt",
+    "country": "Germany",
+    "city": "Marl",
+    "category": "Traditional/Winter"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "December",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Marl, Germany",
+      "coordinates": {
+        "lat": 51.61,
+        "lon": 7.07
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.marl.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-e56c71b4_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.marl.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

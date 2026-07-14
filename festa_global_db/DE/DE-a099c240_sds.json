@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-a099c240",
+    "name_en": "Frankfurt Christmas Market",
+    "name_local": "Frankfurter Weihnachtsmarkt",
+    "country": "Germany",
+    "city": "Frankfurt",
+    "category": "Traditional/Winter"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "December",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Frankfurt, Germany",
+      "coordinates": {
+        "lat": 50.1109,
+        "lon": 8.6821
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.frankfurt.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-a099c240_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.frankfurt.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

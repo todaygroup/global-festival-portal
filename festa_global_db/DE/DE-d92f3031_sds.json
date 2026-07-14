@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-d92f3031",
+    "name_en": "Wacken Open Air",
+    "name_local": "Wacken Open Air",
+    "country": "Germany",
+    "city": "Wacken",
+    "category": "Music"
+  },
+  "schedule": {
+    "start_date": "August",
+    "end_date": "August",
+    "frequency": "Annual",
+    "season": "Summer"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Wacken, Germany",
+      "coordinates": {
+        "lat": 53.8458,
+        "lon": 9.6125
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.wacken.com",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-d92f3031_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.wacken.com/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

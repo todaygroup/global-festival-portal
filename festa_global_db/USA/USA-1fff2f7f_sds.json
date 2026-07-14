@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "USA-1fff2f7f",
+    "name_en": "South by Southwest",
+    "name_local": "South by Southwest",
+    "country": "USA",
+    "city": "Austin",
+    "category": "Arts"
+  },
+  "schedule": {
+    "start_date": "March",
+    "end_date": "March",
+    "frequency": "Annual",
+    "season": "Spring"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, Austin",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://sxsw.com",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://sxsw.com/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

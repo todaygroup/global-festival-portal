@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-983e3ab4",
+    "name_en": "Munich Christmas Market",
+    "name_local": "Münchner Christkindlmarkt",
+    "country": "Germany",
+    "city": "Munich",
+    "category": "Traditional/Winter"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "December",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Munich, Germany",
+      "coordinates": {
+        "lat": 48.1374,
+        "lon": 11.5755
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.muenchen.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-983e3ab4_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.muenchen.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

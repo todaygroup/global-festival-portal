@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-94d17133",
+    "name_en": "Berlin Christmas Market",
+    "name_local": "Weihnachtsmarkt Berlin",
+    "country": "Germany",
+    "city": "Berlin",
+    "category": "Traditional/Winter"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "December",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Berlin, Germany",
+      "coordinates": {
+        "lat": 52.52,
+        "lon": 13.405
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.visitberlin.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-94d17133_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.visitberlin.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

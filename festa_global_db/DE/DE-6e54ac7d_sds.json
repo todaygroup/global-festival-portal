@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-6e54ac7d",
+    "name_en": "Herten Christmas Market",
+    "name_local": "Hertener Weihnachtsmarkt",
+    "country": "Germany",
+    "city": "Herten",
+    "category": "Traditional/Winter"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "December",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Herten, Germany",
+      "coordinates": {
+        "lat": 51.61,
+        "lon": 7.17
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.herten.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-6e54ac7d_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.herten.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

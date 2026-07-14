@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-f9b23008",
+    "name_en": "Lübeck Christmas Market",
+    "name_local": "Lübecker Weihnachtsmarkt",
+    "country": "Germany",
+    "city": "Lübeck",
+    "category": "Traditional/Winter"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "December",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Lübeck, Germany",
+      "coordinates": {
+        "lat": 53.865,
+        "lon": 10.6867
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.luebeck.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-f9b23008_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.luebeck.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

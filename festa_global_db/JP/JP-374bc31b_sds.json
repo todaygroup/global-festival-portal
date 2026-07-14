@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "JP-374bc31b",
+    "name_en": "Echigo-Tsumari Art Field",
+    "name_local": "大地の芸術祭",
+    "country": "Japan",
+    "city": "Niigata",
+    "category": "Arts"
+  },
+  "schedule": {
+    "start_date": "July",
+    "end_date": "November",
+    "frequency": "Annual",
+    "season": "Summer/Autumn"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Niigata, Japan",
+      "coordinates": {
+        "lat": 37.1,
+        "lon": 138.5
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://ekiten.com",
+    "images": [
+      "https://cdn.festa-global.com/JP/JP-374bc31b_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://ekiten.com/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

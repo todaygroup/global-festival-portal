@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "USA-14b20da3",
+    "name_en": "Coachella",
+    "name_local": "Coachella",
+    "country": "USA",
+    "city": "Indio",
+    "category": "Music"
+  },
+  "schedule": {
+    "start_date": "April",
+    "end_date": "April",
+    "frequency": "Annual",
+    "season": "Spring"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, Indio",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://www.coachella.com",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://www.coachella.com/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

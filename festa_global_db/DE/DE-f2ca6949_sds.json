@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-f2ca6949",
+    "name_en": "Rothenburg Christmas Market",
+    "name_local": "Rothenburger Weihnachtsmarkt",
+    "country": "Germany",
+    "city": "Rothenburg ob der Tauber",
+    "category": "Traditional/Winter"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "December",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Rothenburg ob der Tauber, Germany",
+      "coordinates": {
+        "lat": 49.377,
+        "lon": 10.178
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.rothenburg.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-f2ca6949_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.rothenburg.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

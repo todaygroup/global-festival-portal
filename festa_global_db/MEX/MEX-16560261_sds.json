@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "MEX-16560261",
+    "name_en": "Carnival of Veracruz",
+    "name_local": "Carnival of Veracruz",
+    "country": "MEX",
+    "city": "Veracruz",
+    "category": "Cultural"
+  },
+  "schedule": {
+    "start_date": "February",
+    "end_date": "February",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, Veracruz",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://veracruz.gob.mx",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://veracruz.gob.mx/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

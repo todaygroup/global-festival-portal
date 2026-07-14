@@ -1,329 +1,274 @@
 [
   {
-    "video_id": "VID-52f4a739",
+    "video_id": "VID-21f73603",
+    "festival": "[Translated] Boryeong Mud Festival",
+    "format": "Top_N",
+    "metrics": {
+      "views": 7813,
+      "ctr": 0.03404035909087783,
+      "conversions": 385,
+      "score": 2.659573255770285
+    }
+  },
+  {
+    "video_id": "VID-0e7c02b5",
+    "festival": "[Translated] Boryeong Mud Festival",
+    "format": "Hidden_Gem",
+    "metrics": {
+      "views": 85207,
+      "ctr": 0.02899753837475711,
+      "conversions": 1957,
+      "score": 24.70793252297929
+    }
+  },
+  {
+    "video_id": "VID-8bf92592",
+    "festival": "[Translated] Boryeong Mud Festival",
+    "format": "Travel_Guide",
+    "metrics": {
+      "views": 42922,
+      "ctr": 0.05727706347227882,
+      "conversions": 3542,
+      "score": 24.584461183571516
+    }
+  },
+  {
+    "video_id": "VID-7294d8ea",
+    "festival": "[Translated] Andong Mask Dance Festival",
+    "format": "Top_N",
+    "metrics": {
+      "views": 18422,
+      "ctr": 0.07854171784406708,
+      "conversions": 1709,
+      "score": 14.468955261234036
+    }
+  },
+  {
+    "video_id": "VID-a5d9d62e",
+    "festival": "[Translated] Andong Mask Dance Festival",
+    "format": "Hidden_Gem",
+    "metrics": {
+      "views": 81556,
+      "ctr": 0.010736644745416746,
+      "conversions": 727,
+      "score": 8.756377988572082
+    }
+  },
+  {
+    "video_id": "VID-add01545",
+    "festival": "[Translated] Andong Mask Dance Festival",
+    "format": "Travel_Guide",
+    "metrics": {
+      "views": 76189,
+      "ctr": 0.05252372362263356,
+      "conversions": 4026,
+      "score": 40.017299790848284
+    }
+  },
+  {
+    "video_id": "VID-43e32209",
+    "festival": "[Translated] Jeju Fire Festival",
+    "format": "Top_N",
+    "metrics": {
+      "views": 84778,
+      "ctr": 0.04054673282233036,
+      "conversions": 2763,
+      "score": 34.37470915211523
+    }
+  },
+  {
+    "video_id": "VID-18d65269",
+    "festival": "[Translated] Jeju Fire Festival",
+    "format": "Hidden_Gem",
+    "metrics": {
+      "views": 30406,
+      "ctr": 0.03056918604138381,
+      "conversions": 501,
+      "score": 9.29486670774316
+    }
+  },
+  {
+    "video_id": "VID-4593738b",
+    "festival": "[Translated] Jeju Fire Festival",
+    "format": "Travel_Guide",
+    "metrics": {
+      "views": 31959,
+      "ctr": 0.07946309826840929,
+      "conversions": 3073,
+      "score": 25.395611575600924
+    }
+  },
+  {
+    "video_id": "VID-0d8fe823",
     "festival": "삿포로 눈축제",
     "format": "Top_N",
     "metrics": {
-      "views": 64161,
-      "ctr": 0.018175215052508534,
-      "conversions": 1372,
-      "score": 11.66139972984
+      "views": 21645,
+      "ctr": 0.060998643316234356,
+      "conversions": 1216,
+      "score": 13.203156345798927
     }
   },
   {
-    "video_id": "VID-162c4cb5",
+    "video_id": "VID-5449b498",
     "festival": "삿포로 눈축제",
     "format": "Hidden_Gem",
     "metrics": {
-      "views": 42223,
-      "ctr": 0.03779530906047523,
-      "conversions": 1439,
-      "score": 15.958313344604456
+      "views": 34021,
+      "ctr": 0.046790946171937665,
+      "conversions": 918,
+      "score": 15.918747797154913
     }
   },
   {
-    "video_id": "VID-c467e0ae",
+    "video_id": "VID-471277de",
     "festival": "삿포로 눈축제",
     "format": "Travel_Guide",
     "metrics": {
-      "views": 68513,
-      "ctr": 0.016609193435382166,
-      "conversions": 1481,
-      "score": 11.379456698383382
+      "views": 34651,
+      "ctr": 0.04070157957818904,
+      "conversions": 1201,
+      "score": 14.103504339638285
     }
   },
   {
-    "video_id": "VID-bca43a1f",
+    "video_id": "VID-e50af587",
     "festival": "아오모리 네부타 축제",
     "format": "Top_N",
     "metrics": {
-      "views": 4431,
-      "ctr": 0.06776658300154027,
-      "conversions": 395,
-      "score": 3.00273729279825
+      "views": 63603,
+      "ctr": 0.01490608881430639,
+      "conversions": 1167,
+      "score": 9.480719668563292
     }
   },
   {
-    "video_id": "VID-df4ad2ab",
+    "video_id": "VID-7fbe097c",
     "festival": "아오모리 네부타 축제",
     "format": "Hidden_Gem",
     "metrics": {
-      "views": 17161,
-      "ctr": 0.022405249621981392,
-      "conversions": 410,
-      "score": 3.8449648876282265
+      "views": 13113,
+      "ctr": 0.025712690838716093,
+      "conversions": 370,
+      "score": 3.3717051496808415
     }
   },
   {
-    "video_id": "VID-81f80163",
+    "video_id": "VID-68cebf00",
     "festival": "아오모리 네부타 축제",
     "format": "Travel_Guide",
     "metrics": {
-      "views": 9198,
-      "ctr": 0.035699287625455,
-      "conversions": 319,
-      "score": 3.283620475789351
+      "views": 13709,
+      "ctr": 0.05779677740868001,
+      "conversions": 516,
+      "score": 7.923360214955942
     }
   },
   {
-    "video_id": "VID-0422e064",
+    "video_id": "VID-7bacc34c",
     "festival": "[Translated] Carnival of Venice",
     "format": "Top_N",
     "metrics": {
-      "views": 71175,
-      "ctr": 0.07750387712633745,
-      "conversions": 7386,
-      "score": 55.16338454467068
+      "views": 33256,
+      "ctr": 0.06027919094742396,
+      "conversions": 1266,
+      "score": 20.046447741475312
     }
   },
   {
-    "video_id": "VID-78f2b66a",
+    "video_id": "VID-65030013",
     "festival": "[Translated] Carnival of Venice",
     "format": "Hidden_Gem",
     "metrics": {
-      "views": 62060,
-      "ctr": 0.017450242700243056,
-      "conversions": 584,
-      "score": 10.82962061977084
+      "views": 98995,
+      "ctr": 0.029309717725291437,
+      "conversions": 2776,
+      "score": 29.015155062152257
     }
   },
   {
-    "video_id": "VID-dc0d6dc2",
+    "video_id": "VID-58c585bc",
     "festival": "[Translated] Carnival of Venice",
     "format": "Travel_Guide",
     "metrics": {
-      "views": 15402,
-      "ctr": 0.05709988365219895,
-      "conversions": 577,
-      "score": 8.794524080111682
+      "views": 26319,
+      "ctr": 0.06362492517526405,
+      "conversions": 1450,
+      "score": 16.745444056877744
     }
   },
   {
-    "video_id": "VID-5cff729d",
+    "video_id": "VID-c4cf6f26",
     "festival": "[Translated] Oktoberfest",
     "format": "Top_N",
     "metrics": {
-      "views": 35141,
-      "ctr": 0.05168480039785568,
-      "conversions": 1035,
-      "score": 18.162555707810466
+      "views": 85591,
+      "ctr": 0.05029477467924145,
+      "conversions": 6015,
+      "score": 43.04780059570955
     }
   },
   {
-    "video_id": "VID-e7f0f52a",
+    "video_id": "VID-795df654",
     "festival": "[Translated] Oktoberfest",
     "format": "Hidden_Gem",
     "metrics": {
-      "views": 55359,
-      "ctr": 0.015788782809304416,
-      "conversions": 1021,
-      "score": 8.740512275402832
+      "views": 62112,
+      "ctr": 0.029023316569175187,
+      "conversions": 1868,
+      "score": 18.02696238744609
     }
   },
   {
-    "video_id": "VID-c1cbe63f",
+    "video_id": "VID-4c807788",
     "festival": "[Translated] Oktoberfest",
     "format": "Travel_Guide",
     "metrics": {
-      "views": 2256,
-      "ctr": 0.03101037078646668,
-      "conversions": 83,
-      "score": 0.6995939649426883
+      "views": 42203,
+      "ctr": 0.016460893756748463,
+      "conversions": 892,
+      "score": 6.946990992160554
     }
   },
   {
-    "timestamp": "2026-07-07T02:01:57.417224",
-    "task": "Data_Collection",
-    "duration_sec": 0.0001,
-    "tokens": 2000,
-    "success": false
-  },
-  {
-    "timestamp": "2026-07-07T02:01:57.417459",
-    "task": "Full_Pipeline_Execution",
-    "duration_sec": 0.0003,
-    "tokens": 15000,
-    "success": false
-  },
-  {
-    "timestamp": "2026-07-07T02:02:24.975319",
-    "task": "Data_Collection",
-    "duration_sec": 0.0001,
-    "tokens": 2000,
-    "success": false
-  },
-  {
-    "timestamp": "2026-07-07T02:02:24.975561",
-    "task": "Full_Pipeline_Execution",
-    "duration_sec": 0.0003,
-    "tokens": 15000,
-    "success": false
-  },
-  {
-    "timestamp": "2026-07-07T02:03:27.462901",
-    "task": "Data_Collection",
-    "duration_sec": 0.0005,
-    "tokens": 2000,
-    "success": false
-  },
-  {
-    "timestamp": "2026-07-07T02:03:27.463109",
-    "task": "Full_Pipeline_Execution",
-    "duration_sec": 0.0007,
-    "tokens": 15000,
-    "success": false
-  },
-  {
-    "timestamp": "2026-07-07T02:04:08.217471",
-    "task": "Data_Collection",
-    "duration_sec": 0.0013,
-    "tokens": 2000,
-    "success": true
-  },
-  {
-    "timestamp": "2026-07-07T02:04:08.217890",
-    "task": "AI_Processing",
-    "duration_sec": 0.0002,
-    "tokens": 5000,
-    "success": true
-  },
-  {
-    "timestamp": "2026-07-07T02:04:08.218144",
-    "task": "Script_Generation",
-    "duration_sec": 0.0001,
-    "tokens": 4000,
-    "success": true
-  },
-  {
-    "timestamp": "2026-07-07T02:04:08.218474",
-    "task": "Content_Rendering",
-    "duration_sec": 0.0001,
-    "tokens": 3000,
-    "success": true
-  },
-  {
-    "timestamp": "2026-07-07T02:04:08.219176",
-    "task": "Distribution_Scheduling",
-    "duration_sec": 0.0005,
-    "tokens": 1000,
-    "success": true
-  },
-  {
-    "timestamp": "2026-07-07T02:04:08.219367",
-    "task": "Full_Pipeline_Execution",
-    "duration_sec": 0.0032,
-    "tokens": 15000,
-    "success": true
-  },
-  {
-    "timestamp": "2026-07-08T02:03:04.523757",
+    "timestamp": "2026-07-14T02:46:53.740947",
     "task": "Data_Collection",
     "duration_sec": 0.0004,
     "tokens": 2000,
     "success": true
   },
   {
-    "timestamp": "2026-07-08T02:03:04.524022",
-    "task": "AI_Processing_Attempt_1",
-    "duration_sec": 0.0,
-    "tokens": 5000,
-    "success": false
-  },
-  {
-    "timestamp": "2026-07-08T02:03:04.524240",
-    "task": "Full_Pipeline_Execution",
-    "duration_sec": 0.0009,
-    "tokens": 15000,
-    "success": false
-  },
-  {
-    "timestamp": "2026-07-08T02:03:59.164808",
-    "task": "Data_Collection",
-    "duration_sec": 0.0004,
-    "tokens": 2000,
-    "success": true
-  },
-  {
-    "timestamp": "2026-07-08T02:03:59.165618",
-    "task": "AI_Processing_Attempt_1",
-    "duration_sec": 0.0005,
-    "tokens": 5000,
-    "success": false
-  },
-  {
-    "timestamp": "2026-07-08T02:03:59.165844",
-    "task": "Full_Pipeline_Execution",
-    "duration_sec": 0.0014,
-    "tokens": 15000,
-    "success": false
-  },
-  {
-    "timestamp": "2026-07-08T02:04:21.037189",
-    "task": "Data_Collection",
-    "duration_sec": 0.0004,
-    "tokens": 2000,
-    "success": true
-  },
-  {
-    "timestamp": "2026-07-08T02:04:21.038055",
-    "task": "AI_Processing_Attempt_1",
-    "duration_sec": 0.0006,
-    "tokens": 5000,
-    "success": true
-  },
-  {
-    "timestamp": "2026-07-08T02:04:21.038300",
-    "task": "Script_Generation_Attempt_1",
-    "duration_sec": 0.0,
-    "tokens": 4000,
-    "success": false
-  },
-  {
-    "timestamp": "2026-07-08T02:04:21.038531",
-    "task": "Full_Pipeline_Execution",
-    "duration_sec": 0.0017,
-    "tokens": 15000,
-    "success": false
-  },
-  {
-    "timestamp": "2026-07-08T02:06:13.341097",
-    "task": "Data_Collection",
-    "duration_sec": 0.0004,
-    "tokens": 2000,
-    "success": true
-  },
-  {
-    "timestamp": "2026-07-08T02:06:13.341487",
+    "timestamp": "2026-07-14T02:46:53.741410",
     "task": "AI_Processing_Attempt_1",
     "duration_sec": 0.0001,
     "tokens": 5000,
     "success": true
   },
   {
-    "timestamp": "2026-07-08T02:06:13.341808",
+    "timestamp": "2026-07-14T02:46:53.741739",
     "task": "Script_Generation_Attempt_1",
     "duration_sec": 0.0,
     "tokens": 4000,
     "success": true
   },
   {
-    "timestamp": "2026-07-08T02:06:13.342167",
+    "timestamp": "2026-07-14T02:46:53.742099",
     "task": "Content_Rendering",
     "duration_sec": 0.0001,
     "tokens": 3000,
     "success": true
   },
   {
-    "timestamp": "2026-07-08T02:06:13.342944",
+    "timestamp": "2026-07-14T02:46:53.742881",
     "task": "Distribution_Scheduling",
     "duration_sec": 0.0005,
     "tokens": 1000,
     "success": true
   },
   {
-    "timestamp": "2026-07-08T02:06:13.343185",
+    "timestamp": "2026-07-14T02:46:53.743114",
     "task": "Full_Pipeline_Execution",
-    "duration_sec": 0.0024,
+    "duration_sec": 0.0026,
     "tokens": 15000,
     "success": true
   }

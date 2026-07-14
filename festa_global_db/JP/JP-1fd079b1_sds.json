@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "JP-1fd079b1",
+    "name_en": "Izu Peninsula Festival",
+    "name_local": "伊豆半島まつり",
+    "country": "Japan",
+    "city": "Izu",
+    "category": "Cultural"
+  },
+  "schedule": {
+    "start_date": "June",
+    "end_date": "June",
+    "frequency": "Annual",
+    "season": "Summer"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Izu, Japan",
+      "coordinates": {
+        "lat": 34.9,
+        "lon": 139.0
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.izu-peninsula.jp",
+    "images": [
+      "https://cdn.festa-global.com/JP/JP-1fd079b1_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.izu-peninsula.jp/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

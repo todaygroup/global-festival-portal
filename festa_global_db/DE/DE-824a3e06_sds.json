@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "DE-824a3e06",
+    "name_en": "Q2604362",
+    "name_local": "Q2604362",
+    "country": "Germany",
+    "city": "Unknown",
+    "category": "Festival"
+  },
+  "schedule": {
+    "start_date": "Unknown",
+    "end_date": "Unknown",
+    "frequency": "Annual",
+    "season": "Unknown"
+  },
+  "logistics": {
+    "location": {
+      "address": "See official website",
+      "coordinates": {
+        "lat": 50.7843,
+        "lon": 6.23062
+      }
+    },
+    "access": "Public transportation"
+  },
+  "multimedia": {
+    "official_url": "N/A",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "N/A"
+  },
+  "verification": {
+    "source": "Wikidata",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

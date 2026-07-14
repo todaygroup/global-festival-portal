@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-e12f5e8e",
+    "name_en": "Ruhrtriennale",
+    "name_local": "Ruhrtriennale",
+    "country": "Germany",
+    "city": "Ruhr Area",
+    "category": "Arts"
+  },
+  "schedule": {
+    "start_date": "June",
+    "end_date": "August",
+    "frequency": "Annual",
+    "season": "Summer"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Ruhr Area, Germany",
+      "coordinates": {
+        "lat": 51.4556,
+        "lon": 7.0109
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.ruhrtriennale.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-e12f5e8e_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.ruhrtriennale.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

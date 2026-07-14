@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "ARG-95106017",
+    "name_en": "Fiesta Nacional del Tango",
+    "name_local": "Fiesta Nacional del Tango",
+    "country": "ARG",
+    "city": "Buenos Aires",
+    "category": "Music"
+  },
+  "schedule": {
+    "start_date": "August",
+    "end_date": "August",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, Buenos Aires",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://buenosaires.gob.ar",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://buenosaires.gob.ar/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

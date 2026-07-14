@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-6c440068",
+    "name_en": "Münster Christmas Market",
+    "name_local": "Münsteraner Weihnachtsmarkt",
+    "country": "Germany",
+    "city": "Münster",
+    "category": "Traditional/Winter"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "December",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Münster, Germany",
+      "coordinates": {
+        "lat": 51.962,
+        "lon": 7.628
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.muenster.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-6c440068_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.muenster.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

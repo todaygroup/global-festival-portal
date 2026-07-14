@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "JP-12e3540c",
+    "name_en": "Tokushima Awa Odori",
+    "name_local": "阿波踊り",
+    "country": "Japan",
+    "city": "Tokushima",
+    "category": "Traditional"
+  },
+  "schedule": {
+    "start_date": "August 12",
+    "end_date": "August 15",
+    "frequency": "Annual",
+    "season": "Summer"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Tokushima, Japan",
+      "coordinates": {
+        "lat": 34.08,
+        "lon": 134.53
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.awaodori.jp",
+    "images": [
+      "https://cdn.festa-global.com/JP/JP-12e3540c_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.awaodori.jp/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "TUN-9de6f8f8",
+    "name_en": "International Carthage Film Festival",
+    "name_local": "International Carthage Film Festival",
+    "country": "TUN",
+    "city": "Carthage",
+    "category": "Arts"
+  },
+  "schedule": {
+    "start_date": "October",
+    "end_date": "October",
+    "frequency": "Annual",
+    "season": "Autumn"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, Carthage",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://jcc.tn",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://jcc.tn/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-87e26ead",
+    "name_en": "Dresden Christmas Market",
+    "name_local": "Striezelmarkt Dresden",
+    "country": "Germany",
+    "city": "Dresden",
+    "category": "Traditional/Winter"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "December",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Dresden, Germany",
+      "coordinates": {
+        "lat": 51.0504,
+        "lon": 13.7373
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.striezelmarkt.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-87e26ead_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.striezelmarkt.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

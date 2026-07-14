@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "JP-251e2948",
+    "name_en": "Aoi Matsuri",
+    "name_local": "葵祭",
+    "country": "Japan",
+    "city": "Kyoto",
+    "category": "Traditional"
+  },
+  "schedule": {
+    "start_date": "May 15",
+    "end_date": "May 15",
+    "frequency": "Annual",
+    "season": "Spring"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Kyoto, Japan",
+      "coordinates": {
+        "lat": 35.01,
+        "lon": 135.76
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.kyoto.travel",
+    "images": [
+      "https://cdn.festa-global.com/JP/JP-251e2948_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.kyoto.travel/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "JP-30815b98",
+    "name_en": "Hirosaki Cherry Blossom Festival",
+    "name_local": "弘前さくらまつり",
+    "country": "Japan",
+    "city": "Hirosaki",
+    "category": "Nature/Spring"
+  },
+  "schedule": {
+    "start_date": "April",
+    "end_date": "May",
+    "frequency": "Annual",
+    "season": "Spring"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Hirosaki, Japan",
+      "coordinates": {
+        "lat": 40.63,
+        "lon": 140.47
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.hirosaki-castle.jp",
+    "images": [
+      "https://cdn.festa-global.com/JP/JP-30815b98_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.hirosaki-castle.jp/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

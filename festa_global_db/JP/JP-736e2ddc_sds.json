@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "JP-736e2ddc",
+    "name_en": "Shizuoka Green Tea Festival",
+    "name_local": "静岡茶まつり",
+    "country": "Japan",
+    "city": "Shizuoka",
+    "category": "Cultural/Food"
+  },
+  "schedule": {
+    "start_date": "May",
+    "end_date": "May",
+    "frequency": "Annual",
+    "season": "Spring"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Shizuoka, Japan",
+      "coordinates": {
+        "lat": 34.97,
+        "lon": 138.38
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.shizuoka-city.jp",
+    "images": [
+      "https://cdn.festa-global.com/JP/JP-736e2ddc_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.shizuoka-city.jp/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "JP-00825828",
+    "name_en": "Sendai Tanabata Festival",
+    "name_local": "仙台七夕まつり",
+    "country": "Japan",
+    "city": "Sendai",
+    "category": "Traditional"
+  },
+  "schedule": {
+    "start_date": "August 6",
+    "end_date": "August 8",
+    "frequency": "Annual",
+    "season": "Summer"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Sendai, Japan",
+      "coordinates": {
+        "lat": 38.26,
+        "lon": 140.87
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.sendai-tanabata.com",
+    "images": [
+      "https://cdn.festa-global.com/JP/JP-00825828_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.sendai-tanabata.com/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

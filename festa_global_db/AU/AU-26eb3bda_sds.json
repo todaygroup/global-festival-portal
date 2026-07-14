@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "AU-26eb3bda",
+    "name_en": "Parades in Australia",
+    "name_local": "Unknown",
+    "country": "Australia",
+    "city": "Unknown",
+    "category": "Cultural/Traditional"
+  },
+  "schedule": {
+    "start_date": "March",
+    "end_date": "Unknown",
+    "frequency": "Annual",
+    "season": "Unknown"
+  },
+  "logistics": {
+    "location": {
+      "address": "Unknown",
+      "coordinates": {
+        "lat": null,
+        "lon": null
+      }
+    },
+    "access": "Unknown"
+  },
+  "multimedia": {
+    "official_url": "Unknown",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Unknown",
+    "guide_url": "Unknown"
+  },
+  "verification": {
+    "source": "Wikipedia",
+    "last_updated": "2026-07-14",
+    "status": "collected"
+  }
+}

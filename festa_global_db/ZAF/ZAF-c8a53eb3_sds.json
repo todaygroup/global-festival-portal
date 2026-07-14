@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "ZAF-c8a53eb3",
+    "name_en": "Cape Town Jazz Festival",
+    "name_local": "Cape Town Jazz Festival",
+    "country": "ZAF",
+    "city": "Cape Town",
+    "category": "Music"
+  },
+  "schedule": {
+    "start_date": "March",
+    "end_date": "March",
+    "frequency": "Annual",
+    "season": "Autumn"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, Cape Town",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://uct.ac.za",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://uct.ac.za/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

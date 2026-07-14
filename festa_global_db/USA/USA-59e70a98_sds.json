@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "USA-59e70a98",
+    "name_en": "Burning Man",
+    "name_local": "Burning Man",
+    "country": "USA",
+    "city": "Black Rock City",
+    "category": "Arts"
+  },
+  "schedule": {
+    "start_date": "August",
+    "end_date": "September",
+    "frequency": "Annual",
+    "season": "Summer"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, Black Rock City",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://burningman.org",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://burningman.org/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "NZ-6216cdfe",
+    "name_en": "Festivals in New Zealand by populated place",
+    "name_local": "Unknown",
+    "country": "New Zealand",
+    "city": "Unknown",
+    "category": "Cultural/Traditional"
+  },
+  "schedule": {
+    "start_date": "January",
+    "end_date": "Unknown",
+    "frequency": "Annual",
+    "season": "Unknown"
+  },
+  "logistics": {
+    "location": {
+      "address": "Unknown",
+      "coordinates": {
+        "lat": null,
+        "lon": null
+      }
+    },
+    "access": "Unknown"
+  },
+  "multimedia": {
+    "official_url": "Unknown",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Unknown",
+    "guide_url": "Unknown"
+  },
+  "verification": {
+    "source": "Wikipedia",
+    "last_updated": "2026-07-14",
+    "status": "collected"
+  }
+}

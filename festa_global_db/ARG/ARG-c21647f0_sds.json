@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "ARG-c21647f0",
+    "name_en": "Cosquín Rock",
+    "name_local": "Cosquín Rock",
+    "country": "ARG",
+    "city": "Cosquin",
+    "category": "Music"
+  },
+  "schedule": {
+    "start_date": "February",
+    "end_date": "February",
+    "frequency": "Annual",
+    "season": "Summer"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, Cosquin",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://cosquinrock.com",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://cosquinrock.com/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

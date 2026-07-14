@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-3514a225",
+    "name_en": "Herne Christmas Market",
+    "name_local": "Herner Weihnachtsmarkt",
+    "country": "Germany",
+    "city": "Herne",
+    "category": "Traditional/Winter"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "December",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Herne, Germany",
+      "coordinates": {
+        "lat": 51.52,
+        "lon": 7.21
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.herne.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-3514a225_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.herne.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

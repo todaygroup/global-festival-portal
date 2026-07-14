@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "JP-d01cdb7e",
+    "name_en": "Aomori Nebuta Matsuri",
+    "name_local": "青森ねぶた祭",
+    "country": "Japan",
+    "city": "Aomori",
+    "category": "Traditional"
+  },
+  "schedule": {
+    "start_date": "August 2",
+    "end_date": "August 7",
+    "frequency": "Annual",
+    "season": "Summer"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Aomori, Japan",
+      "coordinates": {
+        "lat": 40.8243,
+        "lon": 140.74
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.nebuta.jp",
+    "images": [
+      "https://cdn.festa-global.com/JP/JP-d01cdb7e_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.nebuta.jp/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-2028420e",
+    "name_en": "Gelsenkirchen Christmas Market",
+    "name_local": "Gelsenkirchener Weihnachtsmarkt",
+    "country": "Germany",
+    "city": "Gelsenkirchen",
+    "category": "Traditional/Winter"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "December",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Gelsenkirchen, Germany",
+      "coordinates": {
+        "lat": 51.51,
+        "lon": 7.11
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.gelsenkirchen.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-2028420e_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.gelsenkirchen.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "JP-49ee2e6f",
+    "name_en": "Akita Kanto Matsuri",
+    "name_local": "秋田竿燈まつり",
+    "country": "Japan",
+    "city": "Akita",
+    "category": "Traditional"
+  },
+  "schedule": {
+    "start_date": "August 3",
+    "end_date": "August 6",
+    "frequency": "Annual",
+    "season": "Summer"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Akita, Japan",
+      "coordinates": {
+        "lat": 39.718,
+        "lon": 140.1
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.kantomatsuri.com",
+    "images": [
+      "https://cdn.festa-global.com/JP/JP-49ee2e6f_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.kantomatsuri.com/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

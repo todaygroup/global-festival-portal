@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-3c0638fd",
+    "name_en": "Gladbeck Christmas Market",
+    "name_local": "Gladbecker Weihnachtsmarkt",
+    "country": "Germany",
+    "city": "Gladbeck",
+    "category": "Traditional/Winter"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "December",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Gladbeck, Germany",
+      "coordinates": {
+        "lat": 51.53,
+        "lon": 6.94
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.gladbeck.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-3c0638fd_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.gladbeck.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

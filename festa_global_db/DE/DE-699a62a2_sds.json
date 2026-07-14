@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-699a62a2",
+    "name_en": "Osnabrück Christmas Market",
+    "name_local": "Osnabrücker Weihnachtsmarkt",
+    "country": "Germany",
+    "city": "Osnabrück",
+    "category": "Traditional/Winter"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "December",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Osnabrück, Germany",
+      "coordinates": {
+        "lat": 52.27,
+        "lon": 8.04
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.osnabrueck.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-699a62a2_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.osnabrueck.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

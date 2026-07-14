@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "DE-15a10640",
+    "name_en": "Heidelberg Christmas Market",
+    "name_local": "Heidelberger Weihnachtsmarkt",
+    "country": "Germany",
+    "city": "Heidelberg",
+    "category": "Traditional/Winter"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "December",
+    "frequency": "Annual",
+    "season": "Winter"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Heidelberg, Germany",
+      "coordinates": {
+        "lat": 49.4122,
+        "lon": 8.6724
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.heidelberg.de",
+    "images": [
+      "https://cdn.festa-global.com/DE/DE-15a10640_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.heidelberg.de/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

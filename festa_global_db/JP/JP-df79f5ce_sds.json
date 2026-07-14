@@ -1,0 +1,42 @@
+{
+  "identity": {
+    "festival_id": "JP-df79f5ce",
+    "name_en": "Matsuyama Autumn Festival",
+    "name_local": "松山秋祭り",
+    "country": "Japan",
+    "city": "Matsuyama",
+    "category": "Traditional"
+  },
+  "schedule": {
+    "start_date": "October",
+    "end_date": "October",
+    "frequency": "Annual",
+    "season": "Autumn"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main square, Matsuyama, Japan",
+      "coordinates": {
+        "lat": 33.84,
+        "lon": 132.76
+      }
+    },
+    "access": "Public transportation, taxis, and local shuttles."
+  },
+  "multimedia": {
+    "official_url": "https://www.matsuyama.jp",
+    "images": [
+      "https://cdn.festa-global.com/JP/JP-df79f5ce_main.jpg"
+    ],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Available via official website",
+    "guide_url": "https://www.matsuyama.jp/guide"
+  },
+  "verification": {
+    "source": "Official Tourism Board",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}

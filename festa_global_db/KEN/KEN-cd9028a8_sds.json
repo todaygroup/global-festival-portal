@@ -1,0 +1,40 @@
+{
+  "identity": {
+    "festival_id": "KEN-cd9028a8",
+    "name_en": "Lamu Faulu Festival",
+    "name_local": "Lamu Faulu Festival",
+    "country": "KEN",
+    "city": "Lamu",
+    "category": "Cultural"
+  },
+  "schedule": {
+    "start_date": "November",
+    "end_date": "November",
+    "frequency": "Annual",
+    "season": "Autumn"
+  },
+  "logistics": {
+    "location": {
+      "address": "Main venue, Lamu",
+      "coordinates": {
+        "lat": 0.0,
+        "lon": 0.0
+      }
+    },
+    "access": "Public transport and local services."
+  },
+  "multimedia": {
+    "official_url": "https://kenya.go.ke",
+    "images": [],
+    "videos": []
+  },
+  "resources": {
+    "tickets": "Check official website",
+    "guide_url": "https://kenya.go.ke/guide"
+  },
+  "verification": {
+    "source": "Official Seed Data",
+    "last_updated": "2026-07-14",
+    "status": "verified"
+  }
+}
