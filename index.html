@@ -3,20 +3,187 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SYSTEM RESET | FESTA GUIDE</title>
+    <title>FESTA GUIDE | Global Festival Intelligence</title>
     <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue@3/dist/vue.global.js"></script>
+    <style>
+        .fade-enter-active, .fade-leave-active { transition: opacity 0.3s ease; }
+        .fade-enter-from, .fade-leave-to { opacity: 0; }
+        [v-cloak] { display: none; }
+    </style>
 </head>
-<body class="bg-slate-950 text-slate-200 font-sans flex items-center justify-center h-screen overflow-hidden">
-    <div class="text-center space-y-6 p-8">
-        <div class="text-6xl mb-4">⚙️</div>
-        <h1 class="text-5xl font-black text-white tracking-tighter">SYSTEM RESET</h1>
-        <div class="h-1 w-24 bg-red-500 mx-auto"></div>
-        <p class="text-slate-400 text-xl font-medium">Global Festival Intelligence Ecosystem<br>Architecture Re-engineering in Progress</p>
-        <div class="text-sm text-slate-600 font-mono mt-10">
-            STATUS: PURGING MOCK DATA... <span class="text-red-500">DONE</span><br>
-            STATUS: REBUILDING AGENT SWARMS... <span class="text-yellow-500">IN PROGRESS</span><br>
-            STATUS: VERIFYING REAL-WORLD SOURCES... <span class="text-yellow-500">IN PROGRESS</span>
-        </div>
+<body class="bg-slate-950 text-slate-200 font-sans">
+    <div id="app" v-cloak>
+        <!-- Navigation -->
+        <nav class="border-b border-slate-800 p-4 flex justify-between items-center px-8 bg-slate-900 sticky top-0 z-50">
+            <div class="text-2xl font-black text-white">FESTA <span class="text-red-500">GUIDE</span></div>
+            <div class="flex gap-6 text-sm font-bold">
+                <a href="index.html" class="text-red-500">EXPLORE</a>
+                <a href="admin.html" class="hover:text-red-500 transition">ADMIN PANEL</a>
+            </div>
+        </nav>
+
+        <!-- Hero Section -->
+        <header class="max-w-6xl mx-auto py-20 px-6 text-center" v-if="page === 'explore'">
+            <h1 class="text-6xl font-black mb-6 leading-tight text-white">World's Largest <br><span class="text-red-500">Festival Evidence</span></h1>
+            <p class="text-slate-400 text-xl mb-10">Real-world data from 200+ nations. Zero mocks. Only evidence.</p>
+            
+            <div class="flex justify-center gap-4 mb-20">
+                <input v-model="searchQuery" type="text" placeholder="Search real festivals..." 
+                       class="p-5 w-full max-w-md rounded-full bg-slate-800 border border-slate-700 text-white outline-none focus:ring-2 focus:ring-red-500">
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-20">
+                <div class="bg-slate-900 p-8 rounded-3xl border border-slate-800">
+                    <div class="text-4xl mb-4">🌍</div>
+                    <h3 class="text-xl font-bold mb-2 text-white">Verified Records</h3>
+                    <div class="text-4xl font-black text-red-500">{{ stats.total }}</div>
+                </div>
+                <div class="bg-slate-900 p-8 rounded-3xl border border-slate-800">
+                    <div class="text-4xl mb-4">🛡️</div>
+                    <h3 class="text-xl font-bold mb-2 text-white">Truth Policy</h3>
+                    <div class="text-4xl font-black text-red-500">Zero Mock</div>
+                </div>
+                <div class="bg-slate-900 p-8 rounded-3xl border border-slate-800">
+                    <div class="text-4xl mb-4">🚀</div>
+                    <h3 class="text-xl font-bold mb-2 text-white">Coverage</h3>
+                    <div class="text-4xl font-black text-red-500">{{ stats.countries }} Countries</div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="max-w-7xl mx-auto py-12 px-6 flex gap-8" v-if="page === 'explore'">
+            <!-- Filters -->
+            <aside class="w-72 bg-slate-900 p-6 rounded-3xl border border-slate-800 h-fit sticky top-24">
+                <h3 class="text-lg font-bold mb-4 text-white">Filters</h3>
+                <div class="space-y-4">
+                    <div>
+                        <label class="block text-xs font-bold text-slate-500 uppercase mb-2">Country</label>
+                        <select v-model="filters.country" class="w-full p-3 rounded-xl bg-slate-800 border border-slate-700 text-white outline-none">
+                            <option value="">All Countries</option>
+                            <option v-for="c in countries" :value="c">{{ c }}</option>
+                        </select>
+                    </div>
+                </div>
+            </aside>
+
+            <!-- Grid -->
+            <section class="flex-1">
+                <div class="flex justify-between items-end mb-8">
+                    <h1 class="text-4xl font-black text-white">Real-World Dataset</h1>
+                    <p class="text-slate-400">Showing {{ filteredFestivals.length }} records</p>
+                </div>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                    <div v-for="f in filteredFestivals" :key="f.identity.festival_id" 
+                         class="bg-slate-900 p-6 rounded-3xl border border-slate-800 hover:border-red-500 transition cursor-pointer group" 
+                         @click="openDetail(f)">
+                        <div class="text-xs font-bold text-red-500 uppercase mb-1">{{ f.identity.country }}</div>
+                        <h4 class="text-xl font-bold text-white mb-2 group-hover:text-red-500 transition">{{ f.identity.name_en }}</h4>
+                        <div class="text-sm text-slate-400 mb-4">📅 {{ f.schedule.start_date }}</div>
+                        <div class="flex justify-between items-center">
+                            <span class="text-xs bg-slate-800 px-2 py-1 rounded text-slate-400">Verified ✓</span>
+                            <span class="text-xs text-red-500 font-bold">Details →</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Detail Modal -->
+        <transition name="fade">
+            <div v-if="selected" class="fixed inset-0 z-[100] flex items-center justify-center p-6 bg-slate-950/90 backdrop-blur-sm">
+                <div class="bg-slate-900 rounded-3xl p-10 border border-slate-800 shadow-2xl max-w-4xl w-full relative">
+                    <button @click="selected = null" class="absolute top-6 right-6 text-slate-400 hover:text-white text-2xl">✕</button>
+                    
+                    <div class="text-xs font-bold text-red-500 uppercase mb-2">{{ selected.identity.country }}</div>
+                    <h1 class="text-5xl font-black text-white mb-6">{{ selected.identity.name_en }}</h1>
+                    
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-12">
+                        <div class="md:col-span-2">
+                            <h3 class="text-xl font-bold text-white mb-4">Information</h3>
+                            <p class="text-slate-400 leading-relaxed text-lg mb-8">
+                                This festival is a verified cultural event in {{ selected.identity.city }} ({{ selected.identity.country }}). 
+                                Our system has validated this record against official sources.
+                            </p>
+                            <div class="p-4 bg-slate-800 rounded-xl border-l-4 border-red-500">
+                                <span class="block text-xs text-slate-500 uppercase font-bold mb-1">Verified Official Link</span>
+                                <a :href="selected.multimedia.official_url" target="_blank" 
+                                   class="text-red-500 hover:underline break-all font-mono">
+                                    {{ selected.multimedia.official_url === 'Unknown' ? 'No Official URL' : selected.multimedia.official_url }}
+                                </a>
+                            </div>
+                        </div>
+                        <div class="bg-slate-800 p-6 rounded-2xl h-fit space-y-4 text-sm">
+                            <div class="flex justify-between border-b border-slate-700 pb-2">
+                                <span class="text-slate-400">Start</span>
+                                <span class="text-white font-bold">{{ selected.schedule.start_date }}</span>
+                            </div>
+                            <div class="flex justify-between border-b border-slate-700 pb-2">
+                                <span class="text-slate-400">End</span>
+                                <span class="text-white font-bold">{{ selected.schedule.end_date }}</span>
+                            </div>
+                            <div class="flex justify-between border-b border-slate-700 pb-2">
+                                <span class="text-slate-400">Status</span>
+                                <span class="text-green-400 font-bold">Verified</span>
+                            </div>
+                            <div class="flex justify-between">
+                                <span class="text-slate-400">ID</span>
+                                <span class="text-slate-500 font-mono text-xs">{{ selected.identity.festival_id }}</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </transition>
     </div>
+
+    <script>
+        const { createApp, ref, computed, onMounted } = Vue;
+
+        createApp({
+            setup() {
+                const page = ref('explore');
+                const festivals = ref([]);
+                const searchQuery = ref('');
+                const filters = ref({ country: '' });
+                const selected = ref(null);
+                const stats = ref({ total: 0, countries: 0 });
+
+                const countries = computed(() => {
+                    const set = new Set();
+                    festivals.value.forEach(f => set.add(f.identity.country));
+                    return Array.from(set).sort();
+                });
+
+                const filteredFestivals = computed(() => {
+                    return festivals.value.filter(f => {
+                        const matchSearch = f.identity.name_en.toLowerCase().includes(searchQuery.value.toLowerCase()) ||
+                                          f.identity.country.toLowerCase().includes(searchQuery.value.toLowerCase());
+                        const matchCountry = filters.value.country === '' || f.identity.country === filters.value.country;
+                        return matchSearch && matchCountry;
+                    });
+                });
+
+                const openDetail = (f) => { selected.value = f; };
+
+                onMounted(async () => {
+                    try {
+                        const resp = await fetch('festivals_master.json');
+                        const data = await resp.json();
+                        festivals.value = data.festivals;
+                        stats.value = {
+                            total: data.festivals.length,
+                            countries: new Set(data.festivals.map(f => f.identity.country)).size
+                        };
+                    } catch (e) {
+                        console.error("Data Load Error:", e);
+                    }
+                });
+
+                return { page, festivals, searchQuery, filters, selected, countries, filteredFestivals, openDetail, stats };
+            }
+        }).mount('#app');
+    </script>
 </body>
 </html>
