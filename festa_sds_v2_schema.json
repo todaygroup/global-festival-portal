@@ -1,0 +1,35 @@
+{
+  "version": "2.0",
+  "schema_definition": {
+    "identity_history": {
+      "fields": ["official_name", "symbolism", "origins", "evolution", "cultural_value", "sources"],
+      "description": "Depth: Origins, historical context, and cultural symbolism"
+    },
+    "detailed_schedule": {
+      "fields": ["overall_period", "time_slot_highlights", "strategic_visit_tips", "highlight_timeline", "sources"],
+      "description": "Depth: Hourly highlights, optimal viewing points, and strategic timelines"
+    },
+    "strategic_logistics": {
+      "fields": ["optimal_route", "transport_tips", "shuttle_lines", "parking_strategy", "sources"],
+      "description": "Depth: Real-world travel routes, traffic bottlenecks, and logistics tips"
+    },
+    "accommodation_strategy": {
+      "fields": ["distance_based_options", "booking_window", "alternative_zones", "price_strategy", "sources"],
+      "description": "Depth: Budget vs Luxury, strategic buffer zones for hotels"
+    },
+    "multimedia_sns": {
+      "fields": ["official_archives", "shortform_trends", "instagrammable_spots", "real_visitor_tips", "sources"],
+      "description": "Depth: High-res imagery, SNS trends, and 'life-shot' coordinates"
+    },
+    "practical_resources": {
+      "fields": ["ticketing_strategy", "dress_code", "essential_checklist", "entry_fee_structure", "sources"],
+      "description": "Depth: Ticketing success strategy, dress code guides, and practical preparations"
+    },
+    "deep_knowledge": {
+      "fields": ["related_papers", "documentaries", "historical_evidence", "academic_interpretations", "sources"],
+      "description": "Depth: Academic and deep-archive archives for cultural researchers"
+    }
+  },
+  "verification_threshold": "Confidence Score >= 90%",
+  "target_volume": "2,000 - 5,000 records per country"
+}

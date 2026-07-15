@@ -1,58 +1,6 @@
-[
-  {
-    "name": "Festivals in Paris",
-    "url": "https://en.wikipedia.org/wiki/Category:Festivals_in_Paris"
-  },
-  {
-    "name": "Festivals in Strasbourg",
-    "url": "https://en.wikipedia.org/wiki/Category:Festivals_in_Strasbourg"
-  },
-  {
-    "name": "Festivals in French Guiana",
-    "url": "https://en.wikipedia.org/wiki/Category:Festivals_in_French_Guiana"
-  },
-  {
-    "name": "Festivals in French Polynesia",
-    "url": "https://en.wikipedia.org/wiki/Category:Festivals_in_French_Polynesia"
-  },
-  {
-    "name": "Festivals in Guadeloupe",
-    "url": "https://en.wikipedia.org/wiki/Category:Festivals_in_Guadeloupe"
-  },
-  {
-    "name": "Festivals in New Caledonia",
-    "url": "https://en.wikipedia.org/wiki/Category:Festivals_in_New_Caledonia"
-  },
-  {
-    "name": "Festivals in Saint Barthélemy",
-    "url": "https://en.wikipedia.org/wiki/Category:Festivals_in_Saint_Barth%C3%A9lemy"
-  },
-  {
-    "name": "2025 festivals in France",
-    "url": "https://en.wikipedia.org/wiki/Category:2025_festivals_in_France"
-  },
-  {
-    "name": "2026 festivals in France",
-    "url": "https://en.wikipedia.org/wiki/Category:2026_festivals_in_France"
-  },
-  {
-    "name": "Cultural festivals in France",
-    "url": "https://en.wikipedia.org/wiki/Category:Cultural_festivals_in_France"
-  },
-  {
-    "name": "Fairs in France",
-    "url": "https://en.wikipedia.org/wiki/Category:Fairs_in_France"
-  },
-  {
-    "name": "Garden festivals in France",
-    "url": "https://en.wikipedia.org/wiki/Category:Garden_festivals_in_France"
-  },
-  {
-    "name": "Parades in France",
-    "url": "https://en.wikipedia.org/wiki/Category:Parades_in_France"
-  },
-  {
-    "name": "Sports festivals in France",
-    "url": "https://en.wikipedia.org/wiki/Category:Sports_festivals_in_France"
-  }
-]
+{
+  "country": "France",
+  "country_code": "FR",
+  "total_seeds": 0,
+  "seeds": []
+}

@@ -1,38 +1,6 @@
-[
-  {
-    "name": "Festivals in South Korea by populated place",
-    "url": "https://en.wikipedia.org/wiki/Category:Festivals_in_South_Korea_by_populated_place"
-  },
-  {
-    "name": "Festivals in South Korea by province",
-    "url": "https://en.wikipedia.org/wiki/Category:Festivals_in_South_Korea_by_province"
-  },
-  {
-    "name": "Festivals in South Korea by year",
-    "url": "https://en.wikipedia.org/wiki/Category:Festivals_in_South_Korea_by_year"
-  },
-  {
-    "name": "Lists of festivals in South Korea",
-    "url": "https://en.wikipedia.org/wiki/Category:Lists_of_festivals_in_South_Korea"
-  },
-  {
-    "name": "Cultural festivals in South Korea",
-    "url": "https://en.wikipedia.org/wiki/Category:Cultural_festivals_in_South_Korea"
-  },
-  {
-    "name": "Fairs in South Korea",
-    "url": "https://en.wikipedia.org/wiki/Category:Fairs_in_South_Korea"
-  },
-  {
-    "name": "Garden festivals in South Korea",
-    "url": "https://en.wikipedia.org/wiki/Category:Garden_festivals_in_South_Korea"
-  },
-  {
-    "name": "Parades in South Korea",
-    "url": "https://en.wikipedia.org/wiki/Category:Parades_in_South_Korea"
-  },
-  {
-    "name": "Sports festivals in South Korea",
-    "url": "https://en.wikipedia.org/wiki/Category:Sports_festivals_in_South_Korea"
-  }
-]
+{
+  "country": "South Korea",
+  "country_code": "KR",
+  "total_seeds": 0,
+  "seeds": []
+}

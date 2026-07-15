@@ -1,42 +1,6 @@
-[
-  {
-    "name": "Festivals in Japan by populated place",
-    "url": "https://en.wikipedia.org/wiki/Category:Festivals_in_Japan_by_populated_place"
-  },
-  {
-    "name": "Festivals in Japan by prefecture",
-    "url": "https://en.wikipedia.org/wiki/Category:Festivals_in_Japan_by_prefecture"
-  },
-  {
-    "name": "Lists of festivals in Japan",
-    "url": "https://en.wikipedia.org/wiki/Category:Lists_of_festivals_in_Japan"
-  },
-  {
-    "name": "Cultural festivals in Japan",
-    "url": "https://en.wikipedia.org/wiki/Category:Cultural_festivals_in_Japan"
-  },
-  {
-    "name": "Fairs in Japan",
-    "url": "https://en.wikipedia.org/wiki/Category:Fairs_in_Japan"
-  },
-  {
-    "name": "Garden festivals in Japan",
-    "url": "https://en.wikipedia.org/wiki/Category:Garden_festivals_in_Japan"
-  },
-  {
-    "name": "Parades in Japan",
-    "url": "https://en.wikipedia.org/wiki/Category:Parades_in_Japan"
-  },
-  {
-    "name": "Sports festivals in Japan",
-    "url": "https://en.wikipedia.org/wiki/Category:Sports_festivals_in_Japan"
-  },
-  {
-    "name": "Summer festivals in Japan",
-    "url": "https://en.wikipedia.org/wiki/Category:Summer_festivals_in_Japan"
-  },
-  {
-    "name": "Winter festivals in Japan",
-    "url": "https://en.wikipedia.org/wiki/Category:Winter_festivals_in_Japan"
-  }
-]
+{
+  "country": "Japan",
+  "country_code": "JP",
+  "total_seeds": 0,
+  "seeds": []
+}
