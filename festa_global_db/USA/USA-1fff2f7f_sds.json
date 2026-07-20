@@ -1,40 +1,38 @@
 {
   "identity": {
-    "festival_id": "USA-1fff2f7f",
-    "name_en": "South by Southwest",
-    "name_local": "South by Southwest",
-    "country": "USA",
-    "city": "Austin",
-    "category": "Arts"
+    "name_local": "Unknown Festival",
+    "name_en": "Unknown Festival",
+    "category": "Festival",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "address": null
   },
-  "schedule": {
-    "start_date": "March",
-    "end_date": "March",
-    "frequency": "Annual",
-    "season": "Spring"
+  "temporal": {
+    "start_date": null,
+    "end_date": null,
+    "frequency": null,
+    "detailed_schedule": null
+  },
+  "experience": {
+    "deep_description": null,
+    "highlights": [],
+    "local_tips": [],
+    "points_of_interest": []
   },
   "logistics": {
-    "location": {
-      "address": "Main venue, Austin",
-      "coordinates": {
-        "lat": 0.0,
-        "lon": 0.0
-      }
-    },
-    "access": "Public transport and local services."
+    "official_url": null,
+    "ticket_info": null,
+    "transport": null,
+    "accommodation_tips": null
   },
   "multimedia": {
-    "official_url": "https://sxsw.com",
-    "images": [],
-    "videos": []
-  },
-  "resources": {
-    "tickets": "Check official website",
-    "guide_url": "https://sxsw.com/guide"
+    "official_images": [],
+    "official_videos": []
   },
   "verification": {
-    "source": "Official Seed Data",
-    "last_updated": "2026-07-14",
-    "status": "verified"
+    "source_url": null,
+    "update_date": "2026-07-16"
   }
 }

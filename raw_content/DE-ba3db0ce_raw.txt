@@ -1,0 +1,2205 @@
+<!DOCTYPE html>
+<html lang="de-de">
+<head>
+    <meta charset="utf-8">
+
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+<link rel="icon" href="/fileadmin/wasen/logo/wasen_favicon.png" type="image/png">
+<title>Cannstatter Wasen: Home</title>
+<meta http-equiv="x-ua-compatible" content="IE=edge">
+<meta name="generator" content="TYPO3 CMS">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+<meta name="robots" content="index,follow">
+<meta name="twitter:card" content="summary">
+<meta name="apple-mobile-web-app-capable" content="no">
+<meta name="google" content="notranslate">
+
+
+<link href="/typo3temp/assets/css/layout6_1.css?1783827704" rel="stylesheet" >
+
+
+
+<script src="/typo3conf/ext/tricms/Resources/Public/JavaScript/main.l6.min.js?1781010707"></script>
+
+
+<link as="image" media="(min-width:1025px)" fetchpriority="high" />
+<link as="image" media="(min-width:769px)" fetchpriority="high" />
+<link as="image" media="(min-width:0px)" fetchpriority="high" />
+  <script async src="https://cdn.eye-able.com/configs/www.wasen.de.js"></script>
+  <script async src="https://cdn.eye-able.com/public/js/eyeAble.js"></script>
+<link rel="canonical" href="https://www.wasen.de/">
+</head>
+<body>
+
+
+
+
+
+<div class="site-container">
+    <div id="site" data-url="/?tx_tvhl_contenttoolbar%5Baction%5D=loadToolbar&amp;tx_tvhl_contenttoolbar%5Bcontroller%5D=ContentToolbar&amp;type=66633666&amp;cHash=2e43133eb5a8b1741338f8d334d6ef11">
+        <div id="header-space"></div>
+        <div id="header-section">
+            
+                    <div id="header-top">
+                        <div class="container px-0 px-sm-3 d-flex align-items-center h-100 w-100">
+                            
+    <div class="header-top-left d-flex flex-nowrap flex-row mr-auto text-nowrap align-items-center">
+        
+                
+    
+            
+                
+    <div class="d-none d-md-block small">
+        www.wasen.de
+    </div>
+
+            
+        
+
+            
+        <div class="header-top-divider pl-0 pl-md-3 pr-0 d-none d-md-block"></div>
+        
+        
+    </div>
+
+                            
+<div class="header-top-right">
+    <div class="header-top-search-section d-flex flex-nowrap flex-row mr-auto text-nowrap align-items-center">
+        
+            <div class="header-top-divider pr-0"></div>
+            <div class="topbar-section-button d-flex align-items-center w-md-250">
+                <div class="topbar-section-button-container px-2 px-md-3 d-flex justify-content-between align-items-center w-100 h-100 small">
+                    <span class="d-none d-md-block mr-1">Besuchen Sie auch ...</span>
+                    <span class="bi bi-chevron-down"></span>
+                </div>
+                <div class="topbar-section-overlay w-md-250">
+                    <div class="container px-3">
+                        <div class="py-3">
+                            
+                                <div class="small d-flex align-items-center">
+                                    <span class="bi bi-arrow-right pr-1"></span>
+                                    <a class="text-truncate" href="https://www.cannstatter-volksfest.de" target="_blank">
+                                        Cannstatter Volksfest
+                                    </a>
+                                </div>
+                            
+                                <div class="small d-flex align-items-center">
+                                    <span class="bi bi-arrow-right pr-1"></span>
+                                    <a class="text-truncate" href="https://www.stuttgarter-fruehlingsfest.de" target="_blank">
+                                        Stuttgarter Frühlingsfest
+                                    </a>
+                                </div>
+                            
+                                <div class="small d-flex align-items-center">
+                                    <span class="bi bi-arrow-right pr-1"></span>
+                                    <a class="text-truncate" href="https://www.stuttgarter-weihnachtsmarkt.de" target="_blank">
+                                        Stuttgarter Weihnachtsmarkt
+                                    </a>
+                                </div>
+                            
+                                <div class="small d-flex align-items-center">
+                                    <span class="bi bi-arrow-right pr-1"></span>
+                                    <a class="text-truncate" href="https://www.lwh-stuttgart.de/" target="_blank">
+                                        Landwirtschaftlichen Hauptfest
+                                    </a>
+                                </div>
+                            
+                                <div class="small d-flex align-items-center">
+                                    <span class="bi bi-arrow-right pr-1"></span>
+                                    <a class="text-truncate" href="https://stuttgart-lauf.de/" target="_blank">
+                                        Stuttgart Lauf
+                                    </a>
+                                </div>
+                            
+                                <div class="small d-flex align-items-center">
+                                    <span class="bi bi-arrow-right pr-1"></span>
+                                    <a class="text-truncate" href="https://www.weltweihnachtscircus.de/" target="_blank">
+                                        Weltweihnachtszirkus
+                                    </a>
+                                </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+        
+        
+            <div class="d-none d-md-flex header-top-divider px-0"></div>
+            <div class="d-none d-md-flex topbar-section-button align-items-center">
+                <div class="topbar-section-button-container px-3 d-flex justify-content-between align-items-center w-100 h-100">
+                    <span class="bi bi-search"></span>
+                </div>
+                <div class="topbar-section-overlay absolute-right w-250">
+                    <div class="container">
+                        <div class="pt-3 pb-3">
+                            
+                            <form class='search-form' method='post' action='/service/suche?tx_indexedsearch_pi2%5Baction%5D=search&amp;tx_indexedsearch_pi2%5Bcontroller%5D=Search&amp;cHash=0a44cd735aa71e4b89ad6bfe196222e7'>
+                                <div class='input-group input-group-sm'>
+                                    <input class='form-control' placeholder='Suche nach ...' type='search' name='tx_indexedsearch_pi2[search][sword]'/>
+                                    <span class='input-group-append'>
+                                        <button class='btn btn-secondary btn-sm' type='submit'><span class='bi bi-search'></span></button>
+                                    </span>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="d-none d-md-flex header-top-divider px-0"></div>
+        
+    </div>
+</div>
+
+
+                        </div>
+                    </div>
+                
+            <div id="header-bottom">
+                <div class="container h-100">
+                    
+<div class="header-section h-100 d-flex align-items-center justify-content-between">
+    <div class="header-bottom-left">
+        
+                
+
+
+        
+        
+        
+        
+                
+            
+        <div id="c1" class="frame frame-default frame-type-image frame-layout-0 " data-animation="null">
+            <toolbar class="d-none tvhl-content-toolbar image tvhl-tt_content1" data-uid="1" data-title="image [1]"></toolbar>
+            <div>
+                <div class="">
+                    
+                    
+                        
+
+
+
+                    
+                    
+                        
+
+    
+
+
+
+                    
+                    
+
+    <div class="ce-image ce-left ce-above">
+        
+
+    
+            
+    
+        <div class="ce-gallery" data-ce-columns="1" data-ce-images="1">
+            
+            <div>
+                
+                        
+    
+    
+    
+    
+        
+        
+        
+        
+        
+        <div class="">
+            
+                
+                    <div class="">
+                        
+
+        
+<figure class="image">
+    
+            <a href="/">
+                
+
+
+
+
+
+<div class=" mw-100 " style="width: 161px;">
+    <div>
+        <picture class="h-100">
+            
+            
+            
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source srcset="/fileadmin/_processed_/8/9/csm_WASEN_logo_fruchtsaeule_bad6ddaa8f.png" media="(min-width:1025px)" />
+            <source srcset="/fileadmin/_processed_/8/9/csm_WASEN_logo_fruchtsaeule_fd079ad83d.png"  media="(min-width:769px)" />
+            <source srcset="/fileadmin/_processed_/8/9/csm_WASEN_logo_fruchtsaeule_fd079ad83d.png"  media="(min-width:0px)"   />
+            <!--[if IE 9]></video><![endif]-->
+            <img class="img-cover" loading="lazy" src="/fileadmin/_processed_/8/9/csm_WASEN_logo_fruchtsaeule_bad6ddaa8f.png" srcset="/fileadmin/_processed_/8/9/csm_WASEN_logo_fruchtsaeule_bad6ddaa8f.png" alt="Logo des Cannstatter Wasen mit einem orangenen Riesenrad und einer schwarzen Fruchtsäule davor" title="" width="161" height="120" />
+        </picture>
+    </div>
+</div>
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                    </div>
+                
+            
+        </div>
+    
+    
+
+                    
+            </div>
+            
+        </div>
+    
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+
+                    
+                        
+
+
+
+                    
+                    
+                        
+
+
+
+                    
+                </div>
+            </div>
+        </div>
+    
+
+
+            
+    </div>
+    <div class="header-bottom-right ml-auto h-100 position-relative">
+        
+        
+    <nav id="navigation-header" class="h-100">
+        
+    <div id="mobile-nav-holder" class="">
+        <div class="mobile-overlay"></div>
+        
+        <button class="mobile-nav-btn" id="mobile-nav-open-button" aria-label="Mobile Navigation öffnen">
+            <span class="m-row row-1"></span>
+            <span class="m-row row-2"></span>
+            <span class="m-row row-3"></span>
+        </button>
+        
+                <button tabindex="-1" class="mobile-nav-btn" id="mobile-nav-close-button" aria-label="Mobile Navigation schließen">
+                    <span class="m-row row-1"></span>
+                    <span class="m-row row-2"></span>
+                    <span class="m-row row-3"></span>
+                </button>
+            
+        
+        <div id="mobile-nav">
+            <div id="mobile-nav-panel">
+                
+                
+                    <div id="mobile-search-part" class="mobile-search">
+                        <form class="search-part" method="post" pageUid="4" extensionName="indexedsearch" pluginName="pi2" action="search" controller="Search">
+                            <div class="input-group input-group-sm">
+                                
+                                <input aria-label="Suchen nach ..." class="form-control border-0" name="tx_indexedsearch_pi2[search][sword]" placeholder="Suche nach ..." type="text">
+                                <div class="input-group-append">
+                                    <button aria-label="Suchen" class='btn btn-white' type='submit'>
+                                        <i class='bi bi-search'></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                
+                <ul class="lvl-1">
+                    
+
+                    
+                        
+                            
+                            <li class="sub  ">
+                                <a data-submenu="lvl-2" tabindex="-1" href="/cannstatter-wasen" class="lvl-1 sub  " target="">
+                                    Cannstatter Wasen
+                                </a>
+                                
+    
+        <ul class="lvl-2">
+            
+                
+                    
+                    <li class="  ">
+                        <a data-submenu="lvl-3" tabindex="-1" href="/cannstatter-wasen/campingplatz" class="lvl-2   " target="">
+                            Campingplatz
+                        </a>
+                        
+    
+
+                    </li>
+                
+            
+                
+            
+                
+                    
+                    <li class="  ">
+                        <a data-submenu="lvl-3" tabindex="-1" href="/cannstatter-wasen/reitstadion" class="lvl-2   " target="">
+                            Reitstadion
+                        </a>
+                        
+    
+
+                    </li>
+                
+            
+        </ul>
+    
+
+                            </li>
+                        
+                    
+                        
+                            
+                            <li class="sub  ">
+                                <a data-submenu="lvl-2" tabindex="-1" href="/veranstaltungen" class="lvl-1 sub  " target="">
+                                    Veranstaltungen
+                                </a>
+                                
+    
+        <ul class="lvl-2">
+            
+                
+                    
+                    <li class="sub  ">
+                        <a data-submenu="lvl-3" tabindex="-1" href="/veranstaltungen/feste" class="lvl-2 sub  " target="">
+                            Feste
+                        </a>
+                        
+    
+        <ul class="lvl-3">
+            
+                
+                    
+                    <li class="  ">
+                        <a data-submenu="lvl-4" tabindex="-1" href="/veranstaltungen/feste/cannstatter-volksfest" class="lvl-3   " target="">
+                            Cannstatter Volksfest
+                        </a>
+                        
+    
+
+                    </li>
+                
+            
+                
+                    
+                    <li class="  ">
+                        <a data-submenu="lvl-4" tabindex="-1" href="/veranstaltungen/feste/landwirtschaftliches-hauptfest" class="lvl-3   " target="">
+                            Landwirtschaftliches Hauptfest
+                        </a>
+                        
+    
+
+                    </li>
+                
+            
+                
+                    
+                    <li class="  ">
+                        <a data-submenu="lvl-4" tabindex="-1" href="/veranstaltungen/feste/stuttgarter-fruehlingsfest" class="lvl-3   " target="">
+                            Stuttgarter Frühlingsfest
+                        </a>
+                        
+    
+
+                    </li>
+                
+            
+        </ul>
+    
+
+                    </li>
+                
+            
+                
+            
+                
+                    
+                    <li class="sub  ">
+                        <a data-submenu="lvl-3" tabindex="-1" href="/veranstaltungen/open-air" class="lvl-2 sub  " target="">
+                            Open Air
+                        </a>
+                        
+    
+        <ul class="lvl-3">
+            
+                
+                    
+                    <li class="  ">
+                        <a data-submenu="lvl-4" tabindex="-1" href="https://kesselfestival.de/" class="lvl-3   " target="_blank">
+                            Kessel Festival
+                        </a>
+                        
+    
+
+                    </li>
+                
+            
+        </ul>
+    
+
+                    </li>
+                
+            
+                
+            
+                
+                    
+                    <li class="sub  ">
+                        <a data-submenu="lvl-3" tabindex="-1" href="/veranstaltungen/weitere-veranstaltungen" class="lvl-2 sub  " target="">
+                            Weitere Veranstaltungen
+                        </a>
+                        
+    
+        <ul class="lvl-3">
+            
+                
+                    
+                    <li class="  ">
+                        <a data-submenu="lvl-4" tabindex="-1" href="https://palazzo.org/stuttgart/de" class="lvl-3   " target="_blank">
+                            Palazzo
+                        </a>
+                        
+    
+
+                    </li>
+                
+            
+        </ul>
+    
+
+                    </li>
+                
+            
+        </ul>
+    
+
+                            </li>
+                        
+                    
+                        
+                            
+                            <li class="  ">
+                                <a data-submenu="lvl-2" tabindex="-1" href="/kalender" class="lvl-1   " target="">
+                                    Kalender
+                                </a>
+                                
+    
+
+                            </li>
+                        
+                    
+                        
+                            
+                            <li class="sub  ">
+                                <a data-submenu="lvl-2" tabindex="-1" href="/service/anreise" class="lvl-1 sub  " target="">
+                                    Service
+                                </a>
+                                
+    
+        <ul class="lvl-2">
+            
+                
+                    
+                    <li class="  ">
+                        <a data-submenu="lvl-3" tabindex="-1" href="/service/anreise" class="lvl-2   " target="">
+                            Anreise
+                        </a>
+                        
+    
+
+                    </li>
+                
+            
+                
+                    
+                    <li class="  ">
+                        <a data-submenu="lvl-3" tabindex="-1" href="/service/parken" class="lvl-2   " target="">
+                            Parken
+                        </a>
+                        
+    
+
+                    </li>
+                
+            
+                
+            
+                
+                    
+                    <li class="  ">
+                        <a data-submenu="lvl-3" tabindex="-1" href="/service/bankautomaten" class="lvl-2   " target="">
+                            Bankautomaten
+                        </a>
+                        
+    
+
+                    </li>
+                
+            
+                
+                    
+                    <li class="  ">
+                        <a data-submenu="lvl-3" tabindex="-1" href="/service/erklaerung-zur-barrierefreiheit" class="lvl-2   " target="">
+                            Erklärung zur Barrierefreiheit
+                        </a>
+                        
+    
+
+                    </li>
+                
+            
+                
+                    
+                    <li class="  ">
+                        <a data-submenu="lvl-3" tabindex="-1" href="/service/kontakt" class="lvl-2   " target="">
+                            Kontakt
+                        </a>
+                        
+    
+
+                    </li>
+                
+            
+        </ul>
+    
+
+                            </li>
+                        
+                    
+                        
+                            
+                            <li class="  ">
+                                <a data-submenu="lvl-2" tabindex="-1" href="https://shop.wasen.de" class="lvl-1   " target="_blank">
+                                    Shop
+                                </a>
+                                
+    
+
+                            </li>
+                        
+                    
+                </ul>
+            </div>
+        </div>
+        <a id="mobile-nav-close-by-focus" href="#" onclick="return false" tabindex="-1"></a>
+    </div>
+
+        <div id="navigation-holder" class="navigation h-100">
+            <div id="navigationmenu" class="h-100">
+                <div class="main-menu-sub-close"></div>
+                <ul class="navigation-menu h-100 d-flex">
+                    
+                    
+                        
+                            
+                            <li class="hover-action main-navi-list-item h-100 d-flex align-items-center sub ">
+                                
+    
+        
+        
+        
+        
+                
+                            <span class="position-relative h-100 d-flex align-items-center">
+                                <a href="/cannstatter-wasen" class="sub  main-navi-link z-index-1 focus-item" target="">
+                                    Cannstatter Wasen
+                                </a>
+                                <a tabindex="0" class="has-submenu navi-open-click focus-item" role="button" aria-expanded="false" aria-label="Cannstatter Wasen" aria-controls="submenu6">
+                                    <i class="bi bi-chevron-down"></i>
+                                </a>
+                            </span>
+                    
+
+                
+                        
+                                
+<div class="navigation-sub navigation-list-outer-pane layout-default" id="submenu6" role="menu">
+    <div class="navigation-list-inner-pane">
+        <div class="navigation-list-outer-pane-container">
+            
+            <div class="row">
+                
+                
+                
+                
+                
+                
+                
+                    
+                    <div class="col col-sm-4">
+                    
+                    
+                        <div class="navigation-list-inner-pane-container mb-1">
+                            <a role="menuitem" target=""  href="/cannstatter-wasen/campingplatz" class="lh-2 navigation-list-main ">Campingplatz</a>
+                            
+                        </div>
+
+                    
+                    
+                
+                    
+                    
+                    </div><div class="col col-sm-4">
+                    
+                    
+                
+                    
+                    
+                    
+                    
+                        <div class="navigation-list-inner-pane-container mb-1">
+                            <a role="menuitem" target=""  href="/cannstatter-wasen/reitstadion" class="lh-2 navigation-list-main ">Reitstadion</a>
+                            
+                        </div>
+
+                    
+                    </div>
+                
+                
+                
+            </div>
+        </div>
+    </div>
+    <a class="subnavi-close-by-focus" href="#" onclick="return false"></a>
+</div>
+
+                            
+                    
+            
+    
+
+                            </li>
+                        
+                    
+                        
+                            
+                            <li class="hover-action main-navi-list-item h-100 d-flex align-items-center sub ">
+                                
+    
+        
+        
+        
+        
+                
+                            <span class="position-relative h-100 d-flex align-items-center">
+                                <a href="/veranstaltungen" class="sub  main-navi-link z-index-1 focus-item" target="">
+                                    Veranstaltungen
+                                </a>
+                                <a tabindex="0" class="has-submenu navi-open-click focus-item" role="button" aria-expanded="false" aria-label="Veranstaltungen" aria-controls="submenu9">
+                                    <i class="bi bi-chevron-down"></i>
+                                </a>
+                            </span>
+                    
+
+                
+                        
+                                
+<div class="navigation-sub navigation-list-outer-pane layout-default" id="submenu9" role="menu">
+    <div class="navigation-list-inner-pane">
+        <div class="navigation-list-outer-pane-container">
+            
+            <div class="row">
+                
+                
+                
+                
+                
+                
+                
+                    
+                    <div class="col col-sm-4">
+                    
+                    
+                        <div class="navigation-list-inner-pane-container mb-1">
+                            <a role="menuitem" target=""  href="/veranstaltungen/feste" class="lh-2 navigation-list-main sub">Feste</a>
+                            
+                                    <ul class="navigation-list">
+                                        
+                                            
+                                            
+                                            <li class="navigation-list-sub ">
+                                                <a role="menuitem" target="" class="" href="/veranstaltungen/feste/cannstatter-volksfest">Cannstatter Volksfest</a>
+                                            </li>
+                                        
+                                            
+                                            
+                                            <li class="navigation-list-sub ">
+                                                <a role="menuitem" target="" class="" href="/veranstaltungen/feste/landwirtschaftliches-hauptfest">Landwirtschaftliches Hauptfest</a>
+                                            </li>
+                                        
+                                            
+                                            
+                                            <li class="navigation-list-sub ">
+                                                <a role="menuitem" target="" class="" href="/veranstaltungen/feste/stuttgarter-fruehlingsfest">Stuttgarter Frühlingsfest</a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+                        </div>
+
+                    
+                    
+                
+                    
+                    
+                    </div><div class="col col-sm-4">
+                    
+                    
+                
+                    
+                    
+                    
+                    
+                        <div class="navigation-list-inner-pane-container mb-1">
+                            <a role="menuitem" target=""  href="/veranstaltungen/open-air" class="lh-2 navigation-list-main sub">Open Air</a>
+                            
+                                    <ul class="navigation-list">
+                                        
+                                            
+                                            
+                                            <li class="navigation-list-sub ">
+                                                <a role="menuitem" target="_blank" class="" href="https://kesselfestival.de/">Kessel Festival</a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+                        </div>
+
+                    
+                    
+                
+                    
+                    
+                    </div><div class="col col-sm-4">
+                    
+                    
+                
+                    
+                    
+                    
+                    
+                        <div class="navigation-list-inner-pane-container mb-1">
+                            <a role="menuitem" target=""  href="/veranstaltungen/weitere-veranstaltungen" class="lh-2 navigation-list-main sub">Weitere Veranstaltungen</a>
+                            
+                                    <ul class="navigation-list">
+                                        
+                                            
+                                            
+                                            <li class="navigation-list-sub ">
+                                                <a role="menuitem" target="_blank" class="" href="https://palazzo.org/stuttgart/de">Palazzo</a>
+                                            </li>
+                                        
+                                    </ul>
+                                
+                        </div>
+
+                    
+                    </div>
+                
+                
+                
+            </div>
+        </div>
+    </div>
+    <a class="subnavi-close-by-focus" href="#" onclick="return false"></a>
+</div>
+
+                            
+                    
+            
+    
+
+                            </li>
+                        
+                    
+                        
+                            
+                            <li class="hover-action main-navi-list-item h-100 d-flex align-items-center  ">
+                                
+    
+        
+        
+        
+        
+                    <span class="position-relative h-100 d-flex align-items-center">
+                        <a href="/kalender" class="  main-navi-link z-index-1 focus-item position-relative" target="">
+                            Kalender
+                        </a>
+                    </span>
+            
+    
+
+                            </li>
+                        
+                    
+                        
+                            
+                            <li class="hover-action main-navi-list-item h-100 d-flex align-items-center sub ">
+                                
+    
+        
+        
+        
+        
+                
+                            <span class="position-relative h-100 d-flex align-items-center">
+                                <a href="/service/anreise" class="sub  main-navi-link z-index-1 focus-item" target="">
+                                    Service
+                                </a>
+                                <a tabindex="0" class="has-submenu navi-open-click focus-item" role="button" aria-expanded="false" aria-label="Service" aria-controls="submenu2">
+                                    <i class="bi bi-chevron-down"></i>
+                                </a>
+                            </span>
+                    
+
+                
+                        
+                                
+<div class="navigation-sub navigation-list-outer-pane layout-default" id="submenu2" role="menu">
+    <div class="navigation-list-inner-pane">
+        <div class="navigation-list-outer-pane-container">
+            
+            <div class="row">
+                
+                
+                
+                
+                
+                
+                
+                    
+                    <div class="col col-sm-4">
+                    
+                    
+                        <div class="navigation-list-inner-pane-container mb-1">
+                            <a role="menuitem" target=""  href="/service/anreise" class="lh-2 navigation-list-main ">Anreise</a>
+                            
+                        </div>
+
+                    
+                    
+                
+                    
+                    
+                    
+                    
+                        <div class="navigation-list-inner-pane-container mb-1">
+                            <a role="menuitem" target=""  href="/service/parken" class="lh-2 navigation-list-main ">Parken</a>
+                            
+                        </div>
+
+                    
+                    
+                
+                    
+                    
+                    </div><div class="col col-sm-4">
+                    
+                    
+                
+                    
+                    
+                    
+                    
+                        <div class="navigation-list-inner-pane-container mb-1">
+                            <a role="menuitem" target=""  href="/service/bankautomaten" class="lh-2 navigation-list-main ">Bankautomaten</a>
+                            
+                        </div>
+
+                    
+                    
+                
+                    
+                    
+                    
+                    
+                        <div class="navigation-list-inner-pane-container mb-1">
+                            <a role="menuitem" target=""  href="/service/erklaerung-zur-barrierefreiheit" class="lh-2 navigation-list-main ">Erklärung zur Barrierefreiheit</a>
+                            
+                        </div>
+
+                    
+                    
+                
+                    
+                    
+                    
+                    
+                        <div class="navigation-list-inner-pane-container mb-1">
+                            <a role="menuitem" target=""  href="/service/kontakt" class="lh-2 navigation-list-main ">Kontakt</a>
+                            
+                        </div>
+
+                    
+                    </div>
+                
+                
+                
+            </div>
+        </div>
+    </div>
+    <a class="subnavi-close-by-focus" href="#" onclick="return false"></a>
+</div>
+
+                            
+                    
+            
+    
+
+                            </li>
+                        
+                    
+                        
+                            
+                            <li class="hover-action main-navi-list-item h-100 d-flex align-items-center  special-item">
+                                
+    
+        
+        
+        
+                
+            
+        
+                    <span class="position-relative h-100 d-flex align-items-center">
+                        <a href="https://shop.wasen.de" class=" btn btn-primary-2 main-navi-link z-index-1 focus-item position-relative" target="_blank">
+                            Shop
+                        </a>
+                    </span>
+            
+    
+
+                            </li>
+                        
+                    
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    </div>
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        <!--TYPO3SEARCH_begin-->
+        
+            
+    <div id="teaser">
+        <div>
+            <div>
+                
+
+
+        
+        
+        
+        
+                
+            
+        <div id="c6" class="frame frame-default frame-type-tripp_carousel frame-layout-0 " data-animation="null">
+            <toolbar class="d-none tvhl-content-toolbar tripp_carousel tvhl-tt_content6" data-uid="6" data-title="tripp_carousel [6]"></toolbar>
+            <div>
+                <div class="">
+                    
+                    
+                        
+
+
+
+                    
+                    
+                        
+
+    
+
+
+
+                    
+                    
+        
+        
+        
+        
+                
+            
+        
+        
+        
+                
+            
+        
+        
+                
+            
+        
+                
+            
+
+        
+                
+            
+        
+                
+            
+        
+        <div data-pause="hover" class=" carousel slide layout1 pager-visible " data-ride="carousel" data-interval="0" id="carousel-6">
+            
+            <div class="carousel-inner">
+                
+                    
+                        <div class="carousel-item overflow-hidden active">
+                            <div>
+                                
+                                        
+                                    
+                                
+                                    
+                                            
+        <div class="bg-dark">
+            
+            
+            
+            
+            
+            
+                
+                
+                
+                
+                
+            
+            <picture>
+                <!--[if IE 9]><video style="display: none;"><![endif]-->
+                <source srcset="/fileadmin/_processed_/f/7/csm_24p_WASEN23_0089_47ffb53c28.jpg" type="image/jpeg" media="(min-width:1025px)" />
+                <source srcset="/fileadmin/_processed_/f/7/csm_24p_WASEN23_0089_9563178a3d.jpg" type="image/jpeg" media="(min-width:769px)" />
+                <source srcset="/fileadmin/_processed_/f/7/csm_24p_WASEN23_0089_754a0e325e.jpg" type="image/jpeg" media="(min-width:0px)" />
+                <!--[if IE 9]></video><![endif]-->
+                <img height="800" width="2000" loading="eager" fetchpriority="high" src="/fileadmin/_processed_/f/7/csm_24p_WASEN23_0089_47ffb53c28.jpg" srcset="/fileadmin/_processed_/f/7/csm_24p_WASEN23_0089_47ffb53c28.jpg" alt="Unzählige Menschen laufen rund um die Fruchtsäule über das Cannstatter Volksfest" class="   img-cover w-100 opacity-5" />
+            </picture>
+        </div>
+    
+                                        
+                                    
+                                        <div class="h-100 carousel-slide-text-container absolute-top w-100 ">
+                                            <div class="container h-100 px-2 px-lg-3">
+                                                <div class="h-100 d-flex 
+        
+        text-center pb-4 pb-lg-7 justify-content-center align-items-end
+    ">
+                                                    <div class="0 rounded-box teaser-box carousel-box text-bg-white px-3 px-lg-4 pt-2 pb-3">
+                                                        
+                                                            <div class="carousel-slide-header fs-6 fs-xl-4">
+                                                                Das Cannstatter Volksfest 
+                                                            </div>
+                                                        
+                                                        <div class="carousel-slide-text paragraph-container mt-1 fs-8 fs-lg-7">
+                                                            <p>... vom 25. September bis 11. Oktober 2026 werden wieder Millionen Besucher:innen auf den Wasen kommen. Damit zählt das Volksfest zu den größten Schaustellerfesten der Welt.</p>
+<p><a href="https://www.cannstatter-volksfest.de" target="_blank" class="btn btn-success" rel="noreferrer">Alle Infos zum Cannstatter Volksfest</a></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    
+                                
+                            </div>
+                        
+                        </div>
+                    
+                
+            </div>
+            
+            
+        </div>
+    
+    
+                    
+                        
+
+
+
+                    
+                    
+                        
+
+
+
+                    
+                </div>
+            </div>
+        </div>
+    
+
+
+            </div>
+        </div>
+    </div>
+
+        
+
+        <div id="content">
+            
+    
+        
+    
+
+    
+    <div>
+        <div class="content-col1-container">
+            
+
+
+        
+        
+        
+        
+                
+            
+        <div id="c7" class="frame frame-default frame-type-tripp_grid frame-layout-4 " data-animation="null">
+            <toolbar class="d-none tvhl-content-toolbar tripp_grid tvhl-tt_content7" data-uid="7" data-title="tripp_grid [7]"></toolbar>
+            <div>
+                <div class=" frame-space-before-medium">
+                    
+                    
+                        
+
+
+
+                    
+                    
+                        
+
+    
+
+
+
+                    
+                    
+    
+    
+        
+        
+        
+            
+            
+        
+        
+        <div class="tripp-grid-row row  justify-content-start mx-n5">
+            
+                
+                
+       
+                <div class="grid-item  col-12 col-md-12 col-lg-6 px-5 0">
+                    
+
+
+        
+        
+        
+        
+                
+            
+        <div id="c8" class="frame frame-default frame-type-text frame-layout-0 " data-animation="{&quot;1&quot;:{&quot;selector&quot;:&quot;:header&quot;,&quot;animation&quot;:&quot;animate__animated animate__fadeInUp animate__delay-300ms&quot;,&quot;initialise&quot;:&quot;invisible&quot;},&quot;2&quot;:{&quot;offset&quot;:&quot;100&quot;,&quot;selector&quot;:&quot;p&quot;,&quot;animation&quot;:&quot;animate__animated animate__fadeInUp animate__delay-500ms&quot;,&quot;initialise&quot;:&quot;invisible&quot;},&quot;3&quot;:{&quot;selector&quot;:&quot;.btn&quot;,&quot;animation&quot;:&quot;animate__animated animate__flipInX animate__delay-1s&quot;,&quot;initialise&quot;:&quot;invisible&quot;},&quot;4&quot;:{&quot;offset&quot;:&quot;500&quot;,&quot;selector&quot;:&quot;ul&quot;,&quot;animateChilds&quot;:&quot;li&quot;,&quot;animation&quot;:&quot;animate__animated animate__fadeInUp animate__delay-300ms&quot;,&quot;initialise&quot;:&quot;invisible&quot;}}">
+            <toolbar class="d-none tvhl-content-toolbar text tvhl-tt_content8" data-uid="8" data-title="text [8]"></toolbar>
+            <div>
+                <div class=" frame-space-after-medium">
+                    
+                    
+                        
+
+
+
+                    
+                    
+                        
+
+
+
+                    
+                    
+
+    <h2>Willkommen auf dem Wasen</h2>
+<p>Der Cannstatter Wasen ist die TOP-Adresse für die größten Events in Stuttgart – Volksfest, Konzerte und Festivals bieten ein abwechslungsreiches Programm.</p>
+
+
+                    
+                        
+
+
+
+                    
+                    
+                        
+
+
+
+                    
+                </div>
+            </div>
+        </div>
+    
+
+
+                </div>
+            
+                
+                
+       
+                <div class="grid-item  col-12 col-md-12 col-lg-6 px-5 0">
+                    
+
+
+        
+            <toolbar class="d-none tvhl-content-toolbar tvhl-content-toolbar-left list tvhl-tt_content9" data-uid="9" data-title="list [9]"></toolbar>
+            <a id="c9"></a>
+            
+
+            
+            
+                
+
+
+
+            
+            
+                
+
+    
+        <header>
+            
+
+    
+            <h3 class="">
+                Nächste Veranstaltungen
+            </h3>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+            
+        
+
+        
+
+    
+        
+<div class="tx-kalender">
+	
+
+
+	
+    
+    
+    <div class="tx_kalender-shortlist-container" data-url="/?tx_kalender_shortlist%5Baction%5D=shortlistAjax&amp;tx_kalender_shortlist%5Bcontroller%5D=Veranstaltung&amp;tx_kalender_shortlist%5Bcuid%5D=9&amp;type=97235546&amp;cHash=078ae87550f3ae5b61f8071de657d190">
+        <div class="text-center m-4">
+            <div class="spinner-border spinner-border-sm" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+    
+
+
+
+        
+            
+                
+
+
+
+            
+            
+                
+
+
+
+            
+            
+                <div class="frame-space-after-small"></div>
+            
+        
+    
+
+
+                </div>
+            
+        </div>
+    
+
+                    
+                        
+
+
+
+                    
+                    
+                        
+
+
+
+                    
+                </div>
+            </div>
+        </div>
+    
+
+
+            
+
+
+        
+        
+        
+        
+                
+            
+        <div id="c10" class="frame frame-expand frame-type-tripp_teaser frame-layout-0 " data-animation="{&quot;1&quot;:{&quot;selector&quot;:&quot;.teaser-headline-animation&quot;,&quot;animation&quot;:&quot;animate__animated animate__fadeInUp animate__delay-500ms&quot;,&quot;initialise&quot;:&quot;invisible&quot;},&quot;2&quot;:{&quot;selector&quot;:&quot;p&quot;,&quot;animation&quot;:&quot;animate__animated animate__fadeInUp animate__delay-300ms&quot;,&quot;initialise&quot;:&quot;invisible&quot;},&quot;3&quot;:{&quot;selector&quot;:&quot;.btn&quot;,&quot;animation&quot;:&quot;animate__animated animate__flipInX animate__delay-300ms&quot;,&quot;initialise&quot;:&quot;invisible&quot;}}">
+            <toolbar class="d-none tvhl-content-toolbar tripp_teaser tvhl-tt_content10" data-uid="10" data-title="tripp_teaser [10]"></toolbar>
+            <div>
+                <div class=" frame-space-before-large frame-space-after-small">
+                    
+                    
+                        
+
+
+
+                    
+                    
+                        
+
+    
+
+
+
+                    
+                    
+    
+    
+    
+    
+    
+    
+    
+            
+        
+    
+            
+                    
+                    
+                
+        
+    
+    
+    
+    
+    
+    
+        
+                
+        <div class="teasers row paragraph-container  ">
+            
+                
+                        
+                        
+                    
+                
+                
+                
+                        
+                    
+                
+                    
+                
+                <div class="col-12 col-md-6 col-lg-3 mb-4 layout2">
+                    <div class="teaser-main-container position-relative h-100 w-100">
+                        
+                                
+        <a href="/veranstaltungen/open-air" aria-label="Open Air" class="animated-teaser teaser-box d-flex text-decoration-none h-100 w-100 text-bg-secondary">
+            <div class="teaser-box bg-gradient-radial-secondary text-bg-secondary  h-100 w-100 d-flex">
+                <div class="teaser w-100">
+                    <div class="teaser-media">
+                        
+                        
+        
+                <img loading="lazy" class="img-fluid w-100" alt="Open Air" src="/fileadmin/_processed_/c/3/csm_Die_Toten_Hosen_01_Photo_Credit_Robert_Eikelpoth_76f762bf3d.jpg" width="500" height="500" title="Open Air" />
+            
+    
+                    </div>
+                    <div class="text-center py-3 px-3 d-flex align-items-center">
+                        <div class="w-100 text-center">
+                            
+                                <h3 class="m-0 teaser-headline h4  teaser-headline-animation">Open Air</h3>
+                            
+                            
+                                
+                            
+                            
+                                <div class=" mt-2 ">
+                                    <p>Der Cannstatter Wasen wird zur Konzertarena: Jedes Jahr finden bei den „Wasen-Open-Airs“ spektakuläre Konzerte statt.</p>
+                                </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    
+                            
+                        
+        
+    
+                    </div>
+                </div>
+            
+                
+                        
+                        
+                    
+                
+                
+                
+                        
+                    
+                
+                    
+                
+                <div class="col-12 col-md-6 col-lg-3 mb-4 layout2">
+                    <div class="teaser-main-container position-relative h-100 w-100">
+                        
+                                
+        <a href="/veranstaltungen/feste/cannstatter-volksfest" aria-label="Volksfest" class="animated-teaser teaser-box d-flex text-decoration-none h-100 w-100 text-bg-primary">
+            <div class="teaser-box bg-gradient-radial-0 text-bg-primary  h-100 w-100 d-flex">
+                <div class="teaser w-100">
+                    <div class="teaser-media">
+                        
+                        
+        
+                <img loading="lazy" class="img-fluid w-100" alt="Volksfest" src="/fileadmin/_processed_/b/f/csm_Pressefotos_172._Cannstatter_Volksfest_2017_Festplatz_bei_Nacht_Thomas_Niedermueller_f6dc151b3b.jpg" width="500" height="500" title="Volksfest" />
+            
+    
+                    </div>
+                    <div class="text-center py-3 px-3 d-flex align-items-center">
+                        <div class="w-100 text-center">
+                            
+                                <h3 class="m-0 teaser-headline h4  teaser-headline-animation">Volksfest</h3>
+                            
+                            
+                                
+                            
+                            
+                                <div class=" mt-2 ">
+                                    <p>Das Cannstatter Volksfest ist das bedeutendste Fest in Baden-Württemberg und zählt zu den größten Schaustellerfesten der Welt.</p>
+                                </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    
+                            
+                        
+        
+    
+                    </div>
+                </div>
+            
+                
+                        
+                        
+                    
+                
+                
+                    
+                
+                
+                        
+                    
+                
+                    
+                
+                <div class="col-12 col-md-6 col-lg-3 mb-4 layout2">
+                    <div class="teaser-main-container position-relative h-100 w-100">
+                        
+                                
+        <a href="/veranstaltungen/feste/landwirtschaftliches-hauptfest" aria-label="Landwirtschaftliches Hauptfest (LWH)" class="animated-teaser teaser-box d-flex text-decoration-none h-100 w-100 text-bg-secondary">
+            <div class="teaser-box bg-gradient-radial-secondary text-bg-secondary  h-100 w-100 d-flex">
+                <div class="teaser w-100">
+                    <div class="teaser-media">
+                        
+                        
+        
+                <img loading="lazy" class="img-fluid w-100" src="/fileadmin/_processed_/0/2/csm_DJI_0592_4e82e59d71.jpg" width="500" height="500" alt="" />
+            
+    
+                    </div>
+                    <div class="text-center py-3 px-3 d-flex align-items-center">
+                        <div class="w-100 text-center">
+                            
+                                <h3 class="m-0 teaser-headline h4  teaser-headline-animation">Landwirtschaftliches Hauptfest (LWH)</h3>
+                            
+                            
+                                
+                            
+                            
+                                <div class=" mt-2 ">
+                                    <p>Alle vier Jahre entsteht auf dem Wasen Stuttgarts größter und vielseitigster Bauernhof.</p>
+                                </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    
+                            
+                        
+        
+    
+                    </div>
+                </div>
+            
+                
+                        
+                        
+                    
+                
+                
+                
+                        
+                    
+                
+                    
+                
+                <div class="col-12 col-md-6 col-lg-3 mb-4 layout2">
+                    <div class="teaser-main-container position-relative h-100 w-100">
+                        
+                                
+        <a href="/veranstaltungen/feste/stuttgarter-fruehlingsfest" aria-label="Frühlingsfest" class="animated-teaser teaser-box d-flex text-decoration-none h-100 w-100 text-bg-primary">
+            <div class="teaser-box bg-gradient-radial-0 text-bg-primary  h-100 w-100 d-flex">
+                <div class="teaser w-100">
+                    <div class="teaser-media">
+                        
+                        
+        
+                <img loading="lazy" class="img-fluid w-100" alt="Frühlingsfest" src="/fileadmin/_processed_/d/4/csm_250426_TN_Fruehlingsfest002_e19cbf9c99.jpg" width="500" height="500" title="Frühlingsfest" />
+            
+    
+                    </div>
+                    <div class="text-center py-3 px-3 d-flex align-items-center">
+                        <div class="w-100 text-center">
+                            
+                                <h3 class="m-0 teaser-headline h4  teaser-headline-animation">Frühlingsfest</h3>
+                            
+                            
+                                
+                            
+                            
+                                <div class=" mt-2 ">
+                                    <p>Wenn der Frühling erwacht, startet auf dem Cannstatter Wasen die Saison mit dem Stuttgarter Frühlingsfest.</p>
+                                </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    
+                            
+                        
+        
+    
+                    </div>
+                </div>
+            
+        </div>
+    
+            
+    
+
+                    
+                        
+
+
+
+                    
+                    
+                        
+
+
+
+                    
+                </div>
+            </div>
+        </div>
+    
+
+
+            
+        </div>
+    </div>
+
+        </div>
+
+        <!--TYPO3SEARCH_end-->
+        
+    </div>
+</div>
+<div>
+    <div id="footer-top">
+        <div class="container">
+            
+
+        </div>
+    </div>
+    <div id="footer">
+        <div class="container">
+            
+    
+
+
+        
+        
+        
+        
+                
+            
+        <div id="c12" class="frame frame-default frame-type-tripp_grid frame-layout-0 " data-animation="null">
+            <toolbar class="d-none tvhl-content-toolbar tripp_grid tvhl-tt_content12" data-uid="12" data-title="tripp_grid [12]"></toolbar>
+            <div>
+                <div class=" frame-space-before-medium frame-space-after-medium">
+                    
+                    
+                        
+
+
+
+                    
+                    
+                        
+
+    
+
+
+
+                    
+                    
+    
+    
+        
+        
+        
+        
+        <div class="tripp-grid-row row start start ">
+            
+                
+                
+       
+                <div class="grid-item  col-12 col-md-12 col-lg-6  ">
+                    
+
+
+        
+        
+        
+        
+                
+            
+        <div id="c13" class="frame frame-default frame-type-text frame-layout-1 " data-animation="{&quot;1&quot;:{&quot;selector&quot;:&quot;:header&quot;,&quot;animation&quot;:&quot;animate__animated animate__fadeInUp animate__delay-300ms&quot;,&quot;initialise&quot;:&quot;invisible&quot;},&quot;2&quot;:{&quot;offset&quot;:&quot;100&quot;,&quot;selector&quot;:&quot;p&quot;,&quot;animation&quot;:&quot;animate__animated animate__fadeInUp animate__delay-500ms&quot;,&quot;initialise&quot;:&quot;invisible&quot;},&quot;3&quot;:{&quot;selector&quot;:&quot;.btn&quot;,&quot;animation&quot;:&quot;animate__animated animate__flipInX animate__delay-1s&quot;,&quot;initialise&quot;:&quot;invisible&quot;},&quot;4&quot;:{&quot;offset&quot;:&quot;500&quot;,&quot;selector&quot;:&quot;ul&quot;,&quot;animateChilds&quot;:&quot;li&quot;,&quot;animation&quot;:&quot;animate__animated animate__fadeInUp animate__delay-300ms&quot;,&quot;initialise&quot;:&quot;invisible&quot;}}">
+            <toolbar class="d-none tvhl-content-toolbar text tvhl-tt_content13" data-uid="13" data-title="text [13]"></toolbar>
+            <div>
+                <div class="">
+                    
+                    
+                        
+
+
+
+                    
+                    
+                        
+
+    
+        <header>
+            
+
+    
+            <h2 class="">
+                Kontakt
+            </h2>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+                    
+                    
+
+    <p>in.Stuttgart<br> Veranstaltungsgesellschaft mbH &amp; Co. KG<br> Mercedesstraße 50<br> 70372 Stuttgart</p>
+<p>Telefon +49 711 9554-3300<br> Telefax +49 711 9554-3310</p>
+<p><a href="#" data-mailto-token="nbjmup+jogpAjo/tuvuuhbsu/ef" data-mailto-vector="1">info(@)in.stuttgart.de</a>&nbsp;</p>
+
+
+                    
+                        
+
+
+
+                    
+                    
+                        
+
+
+
+                    
+                </div>
+            </div>
+        </div>
+    
+
+
+                </div>
+            
+                
+                
+       
+                <div class="grid-item  col-12 col-md-12 col-lg-6  ">
+                    
+
+
+        
+        
+        
+        
+                
+            
+        <div id="c86" class="frame frame-default frame-type-textpic frame-layout-0 " data-animation="{&quot;1&quot;:{&quot;selector&quot;:&quot;:header&quot;,&quot;animation&quot;:&quot;animate__animated animate__fadeInUp animate__delay-300ms&quot;,&quot;initialise&quot;:&quot;invisible&quot;},&quot;2&quot;:{&quot;offset&quot;:&quot;100&quot;,&quot;selector&quot;:&quot;p&quot;,&quot;animation&quot;:&quot;animate__animated animate__fadeInUp animate__delay-500ms&quot;,&quot;initialise&quot;:&quot;invisible&quot;},&quot;3&quot;:{&quot;selector&quot;:&quot;.btn&quot;,&quot;animation&quot;:&quot;animate__animated animate__flipInX animate__delay-1s&quot;,&quot;initialise&quot;:&quot;invisible&quot;},&quot;4&quot;:{&quot;offset&quot;:&quot;500&quot;,&quot;selector&quot;:&quot;ul&quot;,&quot;animateChilds&quot;:&quot;li&quot;,&quot;animation&quot;:&quot;animate__animated animate__fadeInUp animate__delay-300ms&quot;,&quot;initialise&quot;:&quot;invisible&quot;}}">
+            <toolbar class="d-none tvhl-content-toolbar textpic tvhl-tt_content86" data-uid="86" data-title="textpic [86]"></toolbar>
+            <div>
+                <div class="">
+                    
+                    
+                        
+
+
+
+                    
+                    
+
+    
+        
+
+    
+
+
+
+    
+
+
+                    
+
+    <div class="ce-textpic ce-left ce-above">
+        
+            
+
+    
+            
+    
+        <div class="ce-gallery" data-ce-columns="1" data-ce-images="1">
+            
+            <div>
+                
+                        
+    
+    
+    
+    
+        
+        
+        
+        
+        
+        <div class="">
+            
+                
+                    <div class="">
+                        
+
+        
+<figure class="image">
+    
+            <a href="https://www.in.stuttgart.de/fileadmin/documents/live/" target="_blank" rel="noreferrer" title="live in.Stuttgart Sommer 2026 - Das kostenlose Veranstaltungsmagazin">
+                
+
+
+
+
+
+<div class=" mw-100 " style="width: 300px;">
+    <div>
+        <picture class="h-100">
+            
+            
+            
+            <!--[if IE 9]><video style="display: none;"><![endif]-->
+            <source srcset="/fileadmin/_processed_/6/5/csm_Onlinegrafik_inStuttgart_Sommer2026_0f80b4c2b5.jpg" media="(min-width:1025px)" />
+            <source srcset="/fileadmin/_processed_/6/5/csm_Onlinegrafik_inStuttgart_Sommer2026_d26d3c7a9d.jpg"  media="(min-width:769px)" />
+            <source srcset="/fileadmin/_processed_/6/5/csm_Onlinegrafik_inStuttgart_Sommer2026_d26d3c7a9d.jpg"  media="(min-width:0px)"   />
+            <!--[if IE 9]></video><![endif]-->
+            <img class="img-cover" loading="lazy" src="/fileadmin/_processed_/6/5/csm_Onlinegrafik_inStuttgart_Sommer2026_0f80b4c2b5.jpg" srcset="/fileadmin/_processed_/6/5/csm_Onlinegrafik_inStuttgart_Sommer2026_0f80b4c2b5.jpg" alt="live in.Stuttgart Sommer 2026 - Das kostenlose Veranstaltungsmagazin" title="live in.Stuttgart Sommer 2026 - Das kostenlose Veranstaltungsmagazin" width="300" height="199" />
+        </picture>
+    </div>
+</div>
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                    </div>
+                
+            
+        </div>
+    
+    
+
+                    
+            </div>
+            
+        </div>
+    
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+        
+                
+            
+
+        
+    </div>
+
+
+                    
+                        
+
+
+
+                    
+                    
+                        
+
+
+
+                    
+                </div>
+            </div>
+        </div>
+    
+
+
+                </div>
+            
+        </div>
+    
+
+                    
+                        
+
+
+
+                    
+                    
+                        
+
+
+
+                    
+                </div>
+            </div>
+        </div>
+    
+
+
+
+
+        
+        
+        
+        
+                
+            
+        <div id="c17" class="frame frame-default frame-type-div frame-layout-0 " data-animation="null">
+            <toolbar class="d-none tvhl-content-toolbar div tvhl-tt_content17" data-uid="17" data-title="div [17]"></toolbar>
+            <div>
+                <div class="">
+                    
+                    
+                        
+
+
+
+                    
+                    
+                    
+
+    <hr class="ce-div" />
+
+
+                    
+                        
+
+
+
+                    
+                    
+                        
+
+
+
+                    
+                </div>
+            </div>
+        </div>
+    
+
+
+
+
+        
+        
+        
+        
+                
+            
+        <div id="c16" class="frame frame-default frame-type-text frame-layout-0 " data-animation="{&quot;1&quot;:{&quot;selector&quot;:&quot;:header&quot;,&quot;animation&quot;:&quot;animate__animated animate__fadeInUp animate__delay-300ms&quot;,&quot;initialise&quot;:&quot;invisible&quot;},&quot;2&quot;:{&quot;offset&quot;:&quot;100&quot;,&quot;selector&quot;:&quot;p&quot;,&quot;animation&quot;:&quot;animate__animated animate__fadeInUp animate__delay-500ms&quot;,&quot;initialise&quot;:&quot;invisible&quot;},&quot;3&quot;:{&quot;selector&quot;:&quot;.btn&quot;,&quot;animation&quot;:&quot;animate__animated animate__flipInX animate__delay-1s&quot;,&quot;initialise&quot;:&quot;invisible&quot;},&quot;4&quot;:{&quot;offset&quot;:&quot;500&quot;,&quot;selector&quot;:&quot;ul&quot;,&quot;animateChilds&quot;:&quot;li&quot;,&quot;animation&quot;:&quot;animate__animated animate__fadeInUp animate__delay-300ms&quot;,&quot;initialise&quot;:&quot;invisible&quot;}}">
+            <toolbar class="d-none tvhl-content-toolbar text tvhl-tt_content16" data-uid="16" data-title="text [16]"></toolbar>
+            <div>
+                <div class=" frame-space-after-extra-small">
+                    
+                    
+                        
+
+
+
+                    
+                    
+                        
+
+    
+
+
+
+                    
+                    
+
+    <p class="text-right"><a href="/service/erklaerung-zur-barrierefreiheit">Erklärung zur Barrierefreiheit</a> | <a href="/service/impressum">Impressum</a> | <a href="/service/kontakt">Kontakt</a> | <a href="/service/datenschutz">Datenschutz</a></p>
+
+
+                    
+                        
+
+
+
+                    
+                    
+                        
+
+
+
+                    
+                </div>
+            </div>
+        </div>
+    
+
+
+
+
+        
+        
+        
+        
+                
+            
+        <div id="c85" class="frame frame-default frame-type-html frame-layout-0 " data-animation="null">
+            <toolbar class="d-none tvhl-content-toolbar html tvhl-tt_content85" data-uid="85" data-title="html [85]"></toolbar>
+            <div>
+                <div class="">
+                    
+                    
+                        
+
+
+
+                    
+                    
+                    
+
+    <!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://matomo.tricept.de/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '16']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
+
+                    
+                        
+
+
+
+                    
+                    
+                        
+
+
+
+                    
+                </div>
+            </div>
+        </div>
+    
+
+
+
+        </div>
+    </div>
+    <a href="#0" class="cd-top"><span class="bi bi-chevron-up"></span></a>
+</div>
+
+    <div class="modal" id="ajaxPageModal" tabindex="-1">
+        <div class="modal-dialog modal-xl">
+            <div class="modal-content overflow-hidden">
+                <div class="modal-header px-3 px-md-4">
+                    
+                            <h5 class="modal-title"></h5>
+                        
+                    <span>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span>&times;</span>
+                        </button>
+                        <a id="ajaxPageiFrameLink" href="#" type="button" class="close" target="_blank" title="Link in neuem Tab öffnen" aria-label="Link in neuem Tab öffnen">
+                            <span class="bi bi-link"></span>
+                        </a>
+                    </span>
+                </div>
+                <div class="position-relative py-3">
+                    <div class="ajax-page-modal-loader">
+                        <div class="absolute-top-left w-100 h-100 d-flex justify-content-center align-items-center bg-white transparent-4">
+                            <div class="spinner-border" role="status">
+                                <span class="sr-only">Loading...</span>
+                            </div>
+                        </div>
+                    </div>
+                    <iframe class="border-0 w-100" id="ajaxPageiFrame" src=""></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<script src="/typo3conf/ext/kalender/Resources/Public/JavaScript/shortlist.min.js?1766136268"></script>
+<script async="async" src="/typo3temp/assets/js/7f6f4007061a3385249e7e32f51dfafe.js?1783910290"></script>
+
+
+</body>
+</html>

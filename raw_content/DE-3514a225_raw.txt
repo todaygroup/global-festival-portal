@@ -1,0 +1,2657 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Das ist die Seite der Stadtverwaltung Herne">
+<title>Stadt Herne - Homepage der Stadt Herne </title>
+<!-- Ãnderungen Template -->
+<meta name="author" content="Stadt Herne">
+<meta name="DC.Creator" content="Pressestelle der Stadt Herne">
+<meta name="DC.Publisher" content="Stadt Herne">
+<meta name="DC.Language" content="de">
+<meta name="DC.Date" content="2026-07-15">
+<meta name="google-site-verification" content="Fgf4G-xbg3jRf8fgrWnfTtvBttjUlu_j5TTIkoPdmME" />
+<!-- jQuery -->
+<script src="media/js/jquery-1.12.4.min.js"></script>
+<!-- Bootstrap -->
+<link href="media/css/bootstrap.min.css" rel="stylesheet">
+<script src="media/js/bootstrap.min.js"></script>
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!-- Fontawesome -->
+<link rel="stylesheet" href="media/css/font-awesome.min.css">
+<!-- Herne Template -->
+<link href="media/template/css/herne_aktuell.css?ver=3.2" rel="stylesheet">
+<link href="media/template/css/startseite.css?ver=2.2" rel="stylesheet">
+<link href="media/template/css/herne_media_print.css" rel="stylesheet">
+<link href="media/template/css/herne_print.css" media="print" rel="stylesheet">
+<!-- KST START -->
+<link href="media/kst/css/kst-main.css" rel="stylesheet">
+<link href="media/kst/css/kst-pagination.css" rel="stylesheet">
+<!-- KST ENDE -->
+<link href="media/bficon/style.css" rel="stylesheet">
+<!-- Touchicons -->
+<link rel="apple-touch-icon" sizes="57x57" href="media/icon/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="media/icon/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="media/icon/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="media/icon/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="media/icon/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="media/icon/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="media/icon/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="media/icon/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="167x167" href="media/icon/apple-touch-icon-167x167.png">
+<link rel="apple-touch-icon" sizes="180x180" href="media/icon/apple-touch-icon-180x180.png" />
+<link rel="icon" type="image/png" href="media/favicon/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="media/icon/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="media/favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="media/favicon/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="media/manifest.json">
+<meta name="msapplication-square70x70logo" content="media/icon/small.png">
+<meta name="msapplication-square150x150logo" content="media/icon/medium.png" />
+<meta name="msapplication-wide310x150logo" content="media/icon/wide.png" />
+<meta name="msapplication-square310x310logo" content="media/icon/large.png" />
+<meta name="msapplication-config" content="media/browserconfig.xml"/>
+<meta name="application-name" content="Herne" />
+<meta name="theme-color" content="#ffffff">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="apple-itunes-app" content="app-id=1543213120">
+<script src="media/readspeaker/webReader.js?pids=wr" type="text/javascript"></script>
+<!-- Copyright (c) 2000-2022 etracker GmbH. All rights reserved. -->
+<!-- This material may not be reproduced, displayed, modified or distributed -->
+<!-- without the express prior written permission of the copyright holder. -->
+<!-- etracker tracklet 5.0 -->
+<script type="text/javascript">
+// var et_areas = "";
+// var et_tval = 0;
+// var et_tsale = 0;
+// var et_tonr = "";
+// var et_basket = "";
+</script>
+<script id="_etLoader" type="text/javascript" charset="UTF-8" data-block-cookies="true" data-respect-dnt="true" data-secure-code="kxgIWx" src="//code.etracker.com/code/e.js"></script>
+<!-- etracker tracklet 5.0 end -->
+</head>
+<body>
+<!-- Android App Banner mit Icon & SchlieÃen-Button -->
+<div id="android-app-banner">
+<div class="banner-content">
+<!-- App-Icon -->
+<img src="media/favicon/favicon-96x96.png" alt="App Icon" class="banner-icon">
+<div class="banner-text">
+<div class="main-text">Herne-App</div>
+<div class="sub-text">Offizielle App der Stadt Herne</div>
+</div>
+<a href="https://play.google.com/store/apps/details?id=de.cityagent.herne" class="banner-button" target="_blank">
+Jetzt installieren
+</a>
+<span id="close-banner">â</span>
+</div>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+// Erkennen, ob der Nutzer Android verwendet
+var userAgent = navigator.userAgent.toLowerCase();
+var isAndroid = userAgent.includes("android");
+// Falls es ein Android-GerÃ¤t ist, Banner anzeigen
+if (isAndroid) {
+document.getElementById("android-app-banner").style.display = "block";
+}
+// Banner schlieÃen, wenn der Nutzer auf "â" klickt
+document.getElementById("close-banner").addEventListener("click", function () {
+document.getElementById("android-app-banner").style.display = "none";
+});
+});
+</script>
+<!-- TAB-LINKS -->
+<nav role="navigation" aria-label="Sprunglink">
+<!--// TabIndex 1 //-->
+<a tabindex="1" class="sprunglinks_unsichtbar" href="#inhalt" title="Hier gelangen Sie sofort zum Inhalt">Zum Inhalt springen</a>
+<a id="sprung_link_suche" class="sprunglinks_unsichtbar" tabindex="2" href="javascript:focusMethod()">Sprung zur Sucheingabe</a>
+</nav>
+<a name="seitenanfang"></a>
+<!-- NO SCRIPT -->
+<noscript>
+<div class="alert">
+<h4>Wichtiger Hinweis: In Ihrem Browser ist JavaScript deaktiviert.</h4>
+<p><strong>Um diese Seite ohne EinschrÃ¤nkungen nutzen zu kÃ¶nnen, mÃ¼ssen Sie JavaScript aktivieren!</strong></p>
+<p>Im SELFHTML-Wiki erfahren Sie, <a href="https://wiki.selfhtml.org/wiki/JavaScript/Tutorials/JavaScript_aktivieren" target="_blank"> wie Sie JavaScript in Ihrem Browser aktivieren kÃ¶nnen. </a> </p>
+</div>
+</noscript>
+<div class="all_content">
+<div id="main_menu_container_overlay_full_width_bg">
+<div id="main_menu_container_overlay" class="">
+<div id="main_menu_container_overlay_innerbox">
+<button id="close" aria-label="MenÃ¼ schlieÃen"><span class="glyphicon glyphicon-remove"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="index.html"><i class="fa fa-home"></i> Herne.de</a></div>
+<ul>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/">Stadt und Leben</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<div class="menu_green_line"></div>
+<ul>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Frauen/">Frauen und geschlechtliche Vielfalt</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Frauen/Beratung/">Beratung fÃ¼r BÃ¼rger*innen</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Frauen/Frauenfoerderung-in-der-Stadtverwaltung/">Beratung von Mitarbeiter*innen</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Frauen/Gleichstellungsstelle/">BÃ¼ro fÃ¼r Gleichstellung und Vielfalt</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Frauen/Frauentreff-Wanne/">Frauentreff Wanne</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Frauen/Free-as-a-bird/">Free as a bird</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Frauen/Haeusliche-Gewalt/">HÃ¤usliche Gewalt</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Frauen/Herner-Frauenwoche/">Herner Frauenwoche</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Frauen/Netzwerke/">Netzwerke</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Frauen/Unsere-weiteren-Themen/">Unsere weiteren Themen</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Frauen/BÃ¼ro-fÃ¼r-Gleichstellung-und-Vielfalt/Vielfalt/">Vielfalt</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Frauen/Wegweiser/">Wegweiser</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Gesundheit/">Gesundheit</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Gesundheit/Familienkiosk/">Familienkiosk</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Gesundheit/Gesundheitsplanung/">Gesundheitsplanung</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Gesundheit/Herner-Gesundheitswoche/">Herner Gesundheitswoche</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Gesundheit/Hebammenzentrale/">Hebammenzentrale</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Gesundheit/Hitze/">Hitze</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Gesundheit/Kinder-und-Jugend-Gesundheitsdienst/">Kinder- und Jugend-Gesundheit</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Gesundheit/Schwangeren(Konflikt)Beratung/">Schwangeren(konflikt)beratung</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Gesundheit/Selbsthilfe/">Selbsthilfe</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Gesundheit/Sozialpsychiatrischer-Dienst/">Sozialpsychiatrischer Dienst</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Gesundheit/Neue-Trinkwasserverordnung/">Trinkwasserverordnung</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Gesundheit/Wegweiser-Demenz/">Wegweiser Demenz</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Gesundheit/Woche-der-seelischen-Gesundheit/">Woche der seelischen Gesundheit</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Gesundheit/Zahnmedizinische-Patientenberatungsstelle/">Zahnmedizinische Patientenberatungsstelle</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Integration/">Integration</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Integration/Auslaenderbehoerde/">AuslÃ¤nderbehÃ¶rde</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Integration/Beratung-Kontaktstellen/">Beratung / Kontaktstellen</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Integration/Beschaeftigung/Jobs-in-Herne/">BeschÃ¤ftigung</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Integration/Kommunales-Integrationszentrum/">Fachbereich Integration - Kommunales Integrationszentrum</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Integration/Neu-in-Herne/">Neu in Herne</a></div>
+<ul>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Klima/">Klima</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Klima/Klimafolgenanpassung/">Klimafolgenanpassung</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Klima/Klimaschutz/">Klimaschutz</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Klima/Klimatipps/">Klimatipps</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Klima/Klima-ABC/">Klima-ABC</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Klima/Klimaschutz/Kommunale-Waermeplanung/">Kommunale WÃ¤rmeplanung</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Klima/Nachhaltigkeit/">Nachhaltigkeit</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Klima/Foerderprogramme/">StÃ¤dtische FÃ¶rderprogramme</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Klima/Staedtische-Projekte/">StÃ¤dtische Projekte</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Menschen-mit-Behinderung/">Menschen mit Behinderung</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Menschen-mit-Behinderung/Behindertentoiletten/">Behindertentoiletten</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Menschen-mit-Behinderung/Beirat-fÃ¼r-Belange-von-Menschen-mit-Behinderungen/">Beirat fÃ¼r Belange von Menschen mit Behinderungen</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Menschen-mit-Behinderung/Beratung-und-Information/">Beratung und Information</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Menschen-mit-Behinderung/Berufliche-Eingliederung/">Berufliche Eingliederung</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Menschen-mit-Behinderung/Bundesteilhabegesetz/">Bundesteilhabegesetz</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Menschen-mit-Behinderung/Europaeischer-Protesttag/">EuropÃ¤ischer Protesttag</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Menschen-mit-Behinderung/Fallmanagement-fuer-arbeitsunfaehige-Personen/">Fallmanagement fÃ¼r arbeitsunfÃ¤hige Personen</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Menschen-mit-Behinderung/Finanzielle-Unterstuetzung/">Finanzielle UnterstÃ¼tzung</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Menschen-mit-Behinderung/Fruehe-Hilfen/">FrÃ¼he Hilfen</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Menschen-mit-Behinderung/Das-Host-Town-Programm-Herne-Castrop-Rauxel/">Host Town-Programm Herne / Castrop-Rauxel</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Menschen-mit-Behinderung/Inklusionskonferenz-2025/">Inklusionskonferenz 2025</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Menschen-mit-Behinderung/Inklusionsplan-Herne/">Inklusionsplan Herne</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Menschen-mit-Behinderung/Mobilitaet/">MobilitÃ¤t</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Menschen-mit-Behinderung/Palermos-Pottcast/">Palermos Pottcast</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="https://serviceportal.herne.de/detail/-/vr-bis-detail/dienstleistung/327986/show">Schwerbehindertenausweis <i class="fa fa-external-link"></i></a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Menschen-mit-Behinderung/Stille-Stunde/">Stille Stunde</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Menschen-mit-Behinderung/Wohnen/">Wohnen</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="https://www.total-lokal.de/publikationen/ratgeber-fuer-menschen-mit-behinderung-stadt-herne-auflage-8-.html">Weiterleitungen Behindertenratgeber <i class="fa fa-external-link"></i></a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Senioren/">Senioren</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Senioren/Aktive-Freizeit/">Aktive Freizeit</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Senioren/Altersgerechte-Quartiersentwicklung/">Altersgerechte Quartiersentwicklung</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Senioren/Beratung-und-Information/">Beratung und Information</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Senioren/Gemeinsames-Handeln/">Gemeinsames Handeln</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Senioren/Heimaufsicht/">Heimaufsicht</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Senioren/Pflegeeinrichtungen/">Pflegeeinrichtungen</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Senioren/Seniorenratgeber/">Seniorenratgeber</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Senioren/Wohnen-im-Alter/">Wohnen im Alter</a></div>
+<ul>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Stadtfakten/">Stadtfakten</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Stadtfakten/Geoportal/">Geoportal</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Stadtfakten/Statistiken/">Kommunalstatistik</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Stadtfakten/Open-Data/">Open-Data</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Stadtfakten/Patenstaedte-Patenschaften/">Patenschaften</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Stadtfakten/Stadt-Herne-App/">Stadt-Herne-App</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Stadtfakten/Stadtbezirke/">Stadtbezirke</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Stadtfakten/Staedtepartnerschaften/">StÃ¤dtepartnerschaften</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Stadtgeschichte/">Stadtgeschichte</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Stadtgeschichte/Bergbau/">Bergbau</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Stadtgeschichte/Historische-Karten/">Historische Karten</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Stadtgeschichte/Historisches-Bildmaterial/">Historisches Bildmaterial</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Stadtgeschichte/NS-Opfer/">NS-Opfer</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Stadtgeschichte/Stadtarchiv/">Stadtarchiv</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Stadtgeschichte/Stadtehe-2025/">Stadtehe 2025</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Stadtgeschichte/Stadtwappen/">Stadtwappen</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Staedtische-Grossprojekte/">StÃ¤dtische GroÃprojekte</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Ukrainehilfe/">Ukrainehilfe</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Ukrainehilfe/FAQ/">FAQ</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Ukrainehilfe/Freizeitangebote/">Freizeitangebote</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Ukrainehilfe/Hilfsangebote/">Hilfsangebote und Spenden</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Ukrainehilfe/Hilfsangebote-fÃ¼r-geflÃ¼chtete-Frauen-und-Kinder/">Hilfsangebote fÃ¼r geflÃ¼chtete Frauen und Kinder</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Ukrainehilfe/Ukrainehilfe-News/">Pressemeldungen</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Ukrainehilfe/Was-muss-ich-als-FlÃ¼chtling-tun/">Was muss ich als geflÃ¼chtete Person tun?</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Ukrainehilfe/Wohnraum/">Wohnraum</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Ukrainehilfe/Statement-des-OberbÃ¼rgermeisters/">Statement des OberbÃ¼rgermeisters</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Ukrainehilfe/Desinformation-im-russischen-Angriffskrieg-gegen-die-Ukraine/">Desinformation im russischen Angriffskrieg gegen die Ukraine</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Umwelt/">Umwelt</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Umwelt/Abfall/">Abfall</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Umwelt/Echt-schoen-hier/">Echt schÃ¶n hier</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Umwelt/Energie/">Energie</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Umwelt/Friedhoefe/">FriedhÃ¶fe</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Umwelt/Immissionsschutz/">Immissionsschutz</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Umwelt/Jagd-und-Fisch/">Jagd und Fisch</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Umwelt/Natur-und-Landschaft/">Natur</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Umwelt/Stadtgruen/">StadtgrÃ¼n</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Umwelt/Wasser/">Wasser</a></div>
+<ul>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Zukunftsimpuls-Herne-2025/">Zukunftsimpuls Herne 2025</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Zukunftsimpuls-Herne-2025/Arbeit-und-Wirtschaft/">Arbeit und Wirtschaft</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Zukunftsimpuls-Herne-2025/Bildung-und-Innovation/">Bildung und Innovation</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Zukunftsimpuls-Herne-2025/Gesundheit/">Gesundheit</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Zukunftsimpuls-Herne-2025/Kultur/">Kultur</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Zukunftsimpuls-Herne-2025/Natur-und-Nachhaltigkeit/">Natur und Nachhaltigkeit </a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Zukunftsimpuls-Herne-2025/Urban-Digital-International/">Urban-Digital-International</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Stadt-und-Leben/Zukunftsimpuls-Herne-2025/Wohnen-und-Leben/">Wohnen und Leben</a></div>
+<ul>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/">Rathaus</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<div class="menu_green_line"></div>
+<ul>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerbeteiligung/">BÃ¼rgerbeteiligung</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerbeteiligung/Ihre-Anregungen/">Anregungen und Beschwerden</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerbeteiligung/Buergerbeauftragte/">BÃ¼rgerbeauftragte</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerbeteiligung/Buergerlokale/">Ideen- und Beschwerdemanagement</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerbeteiligung/Ehrenamtsbuero/">EhrenamtsbÃ¼ro</a></div>
+<ul>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/">BÃ¼rgerservice</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Amtsblatt/">Amtsblatt</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Bodycams/">Bodycams</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Buergerdienste/">BÃ¼rgerdienste</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/DieStadtverwaltungimUeberblick/">Die Stadtverwaltung im Ãberblick</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="https://serviceportal.herne.de/">Dienstleistungen <i class="fa fa-external-link"></i></a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Dienstleistungsrichtlinie-der-EuropÃ¤ischen-Union/">Dienstleistungsrichtlinie der <abbr title="EuropÃ¤ischen Union">EU</abbr></a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Dokumentenausgabebox/">Dokumentenausgabebox</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Formulare/">Formulare</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Ihre-Anregungen/">Ihre Anregungen</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Maengelmelder/">MÃ¤ngelmelder</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Mobiler-Dienst-des-Einwohnermeldeamtes/">Mobiler Dienst des Einwohnermeldeamtes</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Oeffnungszeiten/">Ãffnungszeiten</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Online-Dienste-der-Stadt-Herne/">Online-Dienste der Stadt Herne</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Presse/">Presse</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Service-Hotlines/">Service-Hotlines</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Standorte/">Standorte</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Schiedsamtsangelegenheiten/">Schiedsamtsangelegenheiten</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/WochenmÃ¤rkte/index-2.html">WochenmÃ¤rkte</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Zentrale-Unterbringungseinrichtung-fÃ¼r-gefluechtete-Menschen/">Zentrale Unterbringungseinrichtung fÃ¼r geflÃ¼chtete Menschen</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Feuerwehr/">Feuerwehr</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Feuerwehr/Berufsinformation/">Berufsinformation</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Feuerwehr/Downloads/">Downloads und Datenschutz</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Feuerwehr/Freiwillige-Feuerwehr/">Freiwillige Feuerwehr</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Feuerwehr/Kommunales-Krisenmanagement/">Kommunales Krisenmanagement</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Feuerwehr/Neue-Hauptfeuer-und-Rettungswache/">Neue Hauptfeuer- und Rettungswache</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Buergerservice/Feuerwehr/So-erreichen-Sie-uns/">Kontakt</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Finanzen/">Stadtfinanzen</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Rathaus/Finanzen/Finanzsteuerung/">Finanzsteuerung</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Finanzen/Steuern/">Steuern</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Finanzen/Zahlungsabwicklung/">Zahlungsabwicklung</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Finanzen/Zentrale-Vollstreckung/">Zentrale Vollstreckung</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Politik/">Politik</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Rathaus/Politik/Der-Oberbuergermeister/">Der OberbÃ¼rgermeister</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Politik/Herner-Ortsrecht/">Herner Ortsrecht</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Politik/Informationen-zu-den-Gremien/">Informationen zu den Gremien</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Politik/Kinder-und-Jugendparlament/">Kinder- und Jugendparlament</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Politik/Korruptionsbekaempfungsgesetz/">KorruptionsbekÃ¤mpfungsgesetz</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Politik/Ratsinformationssystem/">Ratsinformationssystem</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Politik/Rats-TV/">Ratssitzung im Videostream</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Politik/Wahlen/">Wahlen</a></div>
+<ul>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Staedtische-Grossprojekte/">StÃ¤dtische GroÃprojekte</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Stellen-und-Ausbildung/">Stellen und Ausbildung</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="https://www.mein-check-in.de/herne/x/stellenangebote">Aktuelle Stellenangebote <i class="fa fa-external-link"></i></a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Stellen-und-Ausbildung/Ausbildung-und-Studium/">Ausbildung und Studium</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Stellen-und-Ausbildung/Bundesfreiwilligendienst/">Bundesfreiwilligendienst</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Stellen-und-Ausbildung/Freiwilliges-Soziales-Jahr/">Freiwilliges Soziales Jahr</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Stellen-und-Ausbildung/Praktikum/">Praktikum</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Rathaus/Stellen-und-Ausbildung/Stellenangebote-der-Tochterunternehmen/">Stellenangebote der Tochtergesellschaften</a></div>
+<ul>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/">Familie und Bildung</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<div class="menu_green_line"></div>
+<ul>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/AuÃerschulische-Bildung/">AuÃerschulische Bildung</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/AuÃerschulische-Bildung/Martin-Opitz-Bibliothek/">Martin-Opitz-Bibliothek</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/AuÃerschulische-Bildung/Musikschule/">Musikschule</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/AuÃerschulische-Bildung/Stadtbibliothek/">Stadtbibliothek</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/AuÃerschulische-Bildung/Volkshochschule/">Volkshochschule</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Beratung-und-Hilfe/">Beratung und Hilfe</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Beratung-und-Hilfe/Adoptionsvermittlungsstelle/">Adoptionsvermittlungsstelle</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Beratung-und-Hilfe/Beratung/">Bildungsberatung</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Beratung-und-Hilfe/Eingliederungshilfe/">Eingliederungshilfe</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Beratung-und-Hilfe/Familien-und-Schulberatungsstelle/">Familien- und Schulberatungsstelle</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Beratung-und-Hilfe/Familienbildung/">Familienbildung</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Beratung-und-Hilfe/FamilienbÃ¼ro/">FamilienbÃ¼ro</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Beratung-und-Hilfe/Familienbericht-Herne-2007/">FamilienfÃ¶rderung</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Beratung-und-Hilfe/Pflegekinderdienst/">Pflegekinderdienst</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Beratung-und-Hilfe/Schulsozialarbeit-in-Herne/">Schulsozialarbeit</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Beratung-und-Hilfe/Schwangeren(Konflikt)Beratung/">Schwangeren(Konflikt)Beratung</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Beratung-und-Hilfe/Beratung/index-2.html">UnterstÃ¼tzungsangebote</a></div>
+<ul>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Familienportal/">Familienportal</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kinderbetreuung/">Kinderbetreuung</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kinderbetreuung/Familienangebote/">Familienangebote</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kinderbetreuung/Kindertagesbetreuung/index-2.html">Kindertageseinrichtungen</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kinderbetreuung/Kindertagespflege/">Kindertagespflege</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kinderbetreuung/Kita-Navigator/">Kita-Navigator</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kinderbetreuung/Kinder-und-Jugendeinrichtungen/">Kinder- und Jugendeinrichtungen</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kinderbetreuung/Kinder-und-Jugendeinrichtungen/Abenteuerspielplatz-Hasenkamp/">Abenteuerspielplatz Hasenkamp</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kinderbetreuung/Kinder-und-Jugendeinrichtungen/Der-Heisterkamp/">Der Heisterkamp</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kinderbetreuung/Kinder-und-Jugendeinrichtungen/Die-Wache/">Die Wache</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kinderbetreuung/Kinder-und-Jugendeinrichtungen/Jugendtreff-Am-Freibad/">Jugendtreff - Am Freibad -</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kinder-und-Jugendeinrichtungen/Kinder-und-Jugendbeteiligung/">Kinder- und Jugendbeteiligung</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kinder-und-Jugendeinrichtungen/Pluto/">Pluto</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kinderbetreuung/Sommerferienprogramm/">Sommerferienprogramm</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kinderbetreuung/Kinder-und-Jugendeinrichtungen/StadtteilzentrumH2OE/">Stadtteilzentrum H2Ã</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kinder-und-Jugendeinrichtungen/Vermietung/">Vermietung</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Herner-Bildungsnetzwerk/">Kommunales BildungsbÃ¼ro</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kommunales-BildungsbÃ¼ro/Anne-Frank-Ausstellung/">Anne Frank Ausstellung</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kommunales-BildungsbÃ¼ro/Ansprechpersonen/">Ansprechpersonen</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kommunales-BildungsbÃ¼ro/Bildung-fÃ¼r-nachhaltige-Entwicklung/">Bildung fÃ¼r nachhaltige Entwicklung</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kommunales-BildungsbÃ¼ro/Bildungsmonitoring/">Bildungsmonitoring</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Schulische-Bildung/Wege-nach-der-10/">Herbinet</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Projekte-und-FÃ¶rderungen/Kein-Abschluss-ohne-Anschluss/">Kein Abschluss ohne Anschluss</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kommunales-BildungsbÃ¼ro/Netzwerke-und-Veranstaltungen/">Netzwerke und Veranstaltungen</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Kommunales-BildungsbÃ¼ro/Regionales-Bildungsnetzwerk/">Regionales Bildungsnetzwerk</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Projekte-und-FÃ¶rderungen/">Projekte und FÃ¶rderungen</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Projekte-und-FÃ¶rderungen/Bildungs-und-Teilhabepaket/">Bildungs- und Teilhabepaket</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Projekte-und-FÃ¶rderungen/Jugend-stÃ¤rken/">Jugend stÃ¤rken</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Projekte-und-FÃ¶rderungen/Demokratie-leben/">Demokratie leben</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Schulische-Bildung/">Schulische Bildung</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Schulische-Bildung/Digitale-Schule/">Digitale Schule</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Schulische-Bildung/Finanzielle-UnterstÃ¼tzung/">Finanzielle UnterstÃ¼tzung</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Schulische-Bildung/Ganztag/">Ganztagsschulen</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Schulische-Bildung/Gebaeudesituation-an-Herner-Schulen/">GebÃ¤udesituation an Herner Schulen</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Schulische-Bildung/Gegen-Antisemitismus/">Gegen Antisemitismus</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Schulische-Bildung/In-Herne-zÃ¤hlt-jede-einzelne-Bildungsbiografie!/">Inklusion</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Schulische-Bildung/Offene-Ganztagsschule/">Offene Ganztagsschule</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Schulische-Bildung/Schuelerbefoerderung/">SchÃ¼lerbefÃ¶rderung</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Schulische-Bildung/Schulabschluss-nachholen/">Schulabschluss nachholen</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Schulische-Bildung/Schulen/">Schulen in Herne</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Schulische-Bildung/Informationen-zur-Anmeldung-an-den-einzelnen-Schulen/">Schulanmeldungen</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Schulische-Bildung/Schulamt-fÃ¼r-die-Stadt-Herne/index-2.html">Schulamt fÃ¼r die Stadt Herne</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Schulische-Bildung/Schulentwicklungsplanung/">Schulentwicklungsplanung</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Herner-Bildungsnetzwerk/Wege-nach-der-10/">Wege nach der 10</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Familie-und-Bildung/Spielplaetze/">SpielplÃ¤tze</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/">Kultur und Freizeit</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<div class="menu_green_line"></div>
+<ul>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Freizeit/">Freizeit</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Freizeit/Kleingaerten-in-der-Stadt/">KleingÃ¤rten</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Freizeit/Gruen-in-der-Stadt/">Parks, GrÃ¼nanlagen und WÃ¤lder</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Freizeit/Radfahren-in-Herne/">Radfahren in Herne</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Freizeit/Kinderspielplaetze-in-der-Stadt/">SpielplÃ¤tze</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturelle-Bildung/">Kulturelle Bildung</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturelle-Bildung/Jugendkunstschule/">Jugendkunstschule</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturelle-Bildung/Kultur-fÃ¼r-Kids/">Kultur fÃ¼r Kids</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturelle-Bildung/Musikschule/">Musikschule</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturelle-Bildung/Stadtarchiv/">Stadtarchiv</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturelle-Bildung/Stadtbibliothek/">Stadtbibliothek</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturelle-Bildung/Volkshochschule/">Volkshochschule</a></div>
+<ul>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturorte/">Kulturorte</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturorte/Alter-Wartesaal/">Alter Wartesaal</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturorte/Circus-Schnick-Schnack/">Circus Schnick Schnack</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturorte/Flottmann-Hallen/">Flottmann-Hallen</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturorte/Heimatmuseum-Unser-Fritz/">Heimatmuseum Unser Fritz</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturorte/Kuenstlerzeche-Unser-Fritz/index-2.html">KÃ¼nstlerzeche Unser Fritz</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturorte/Kulturbrauerei-Huelsmann/">Kulturbrauerei HÃ¼lsmann</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturorte/Kulturzentrum/">Kulturzentrum</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturorte/Stadtteilzentrum-Pluto/">Pluto</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturorte/Schloss-StrÃ¼nkede/">Schloss StrÃ¼nkede</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturorte/Spielezentrum/">Spielezentrum</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturorte/Volkshaus-RÃ¶hlinghausen/">Volkshaus RÃ¶hlinghausen</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturservice/">Kulturservice</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturservice/Abo-Angebot/">Abo-Angebot</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturservice/Kulturfoerderung/">KulturfÃ¶rderung</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturservice/Staedtisches-Kulturbuero/">StÃ¤dtisches KulturbÃ¼ro</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturservice/Tickets-Service/">Vorverkauf</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Museen/">Museen und Ausstellungen</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Museen/Emschertal-Museum/">Emschertal-Museum</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Museen/Museum-fÃ¼r-ArchÃ¤ologie/index-2.html">Museum fÃ¼r ArchÃ¤ologie</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturorte/Schollbrockhaus/">Schollbrockhaus</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Kulturorte/VHS-Galerie/">VHS-Galerie</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/MusikundTheater/">Musik und Theater</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/MusikundTheater/AmateurbÃ¼hne-Lampenfieber/">AmateurbÃ¼hne Lampenfieber</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/MusikundTheater/Fidele-Horst/">Fidele Horst</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/MusikundTheater/Gospelprojekt-Ruhr/">Wondream</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/MusikundTheater/Herner-Symphoniker/">Herner Symphoniker</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/MusikundTheater/kleines-theater-herne/">kleines theater herne </a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/MusikundTheater/Mondpalast/">Mondpalast</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/MusikundTheater/Musikschule/">Musikschule</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/MusikundTheater/theater-kohlenpott/">theaterkohlenpott</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Sport/">Sport</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Sport/Lauf-und-Walkingstrecken/">Lauf- und Walkingstrecken</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Sport/Pakt-fuer-den-Sport/">Pakt fÃ¼r den Sport</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Sport/Reiten-in-Herne/">Reiten in Herne</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Sport/Schwimmbaeder/">SchwimmbÃ¤der</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Sport/Sperrungen/">Sperrungen von Sportanlagen</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Sport/Sportanlagen/">Sportanlagen</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Sport/Sportgala/">Sportgala</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Sport/Sport-Vereinssport/">Stadtsportbund</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Tourismus/">Tourismus</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Tourismus/SehenswÃ¼rdigkeiten/">SehenswÃ¼rdigkeiten</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Tourismus/Uebernachten-in-Herne/">Ãbernachten in Herne</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Tourismus/Tagen-in-Herne/">Tagen in Herne</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Tourismus/Touristeninfo/">Touristeninfo</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="https://pages.destination.one/de/veranstaltungen-herne/default/search/Event/mode:next_months,3/sort:chronological">Veranstaltungskalender <i class="fa fa-external-link"></i></a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Veranstaltungen/Herner-Veranstaltungen-im-Jahresueberblick/">Veranstaltungshighlights</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Veranstaltungen/Herner-Veranstaltungen-im-Jahresueberblick/Cranger-Kirmes/">Cranger Kirmes</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Veranstaltungen/Herner-Veranstaltungen-im-Jahresueberblick/HERKULES/">HERKULES</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Veranstaltungen/Herner-Veranstaltungen-im-Jahresueberblick/Die-Kuboshow/">Kuboshow</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Veranstaltungen/Kulturschiffe-Herne/">Kulturschiffe Herne</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Herner-Veranstaltungen-im-Jahresueberblick/Manifesta/">Manifesta</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Veranstaltungen/Herner-Veranstaltungen-im-Jahresueberblick/Nightlight-Dinner-und-City-Fest/">Nightlight-Dinner</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Veranstaltungen/Herner-Veranstaltungen-im-Jahresueberblick/Spielarten/">Spielarten</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Veranstaltungen/Herner-Veranstaltungen-im-Jahresueberblick/Struenkeder-Advent/">StrÃ¼nkeder Advent</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Veranstaltungen/Herner-Veranstaltungen-im-Jahresueberblick/Struenkeder-Sommer/">StrÃ¼nkeder Sommer</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Veranstaltungen/Herner-Veranstaltungen-im-Jahresueberblick/Tage-Alter-Musik/">Tage Alter Musik</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Veranstaltungen/Herner-Veranstaltungen-im-Jahresueberblick/Tegtmeiers-Erben/">Tegtmeiers Erben</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Kultur-und-Freizeit/Veranstaltungen/Herner-Veranstaltungen-im-Jahresueberblick/Wanner-Mondnaechte/">Wanner MondnÃ¤chte</a></div>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/">Wirtschaft, Bauen und Wohnen</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<div class="menu_green_line"></div>
+<ul>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Bauen-und-Wohnen/">Bauen und Wohnen</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Bauen-und-Wohnen/Bauen/">Bauen</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Bauen-und-Wohnen/Baulueckenkataster/">BaulÃ¼ckenkataster</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Bauen-und-Wohnen/Grundstuecksangebote/">GrundstÃ¼cksangebote</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Bauen-und-Wohnen/Grundstueckswerte/">GrundstÃ¼ckswerte</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Bauen-und-Wohnen/Oeffentliche-Gebaeude-und-Grundstuecke/">Ãffentliche GebÃ¤ude und GrundstÃ¼cke</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Bauen-und-Wohnen/Stadtentwaesserung/">StadtentwÃ¤sserung</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Bauen-und-Wohnen/Vermessung-Kataster/">Vermessung und Kataster</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Bauen-und-Wohnen/Wohnbauflaechen/">WohnbauflÃ¤chen</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Bauen-und-Wohnen/Wohnen/">Wohnen</a></div>
+<ul>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Digitalisierung-in-der-Stadt-Herne/">Digitalisierung</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Digitalisierung-in-der-Stadt-Herne/Breitbandausbau-in-Herne/">Breitbandausbau in Herne</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Digitalisierung-in-der-Stadt-Herne/Digitaler-Netzinfrastrukturausbau/">Digitaler Netzinfrastrukturausbau</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Digitalisierung-in-der-Stadt-Herne/Meilensteine-der-Digitalisierung-in-Herne/">Meilensteine der Digitalisierung in Herne</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Digitalisierung-in-der-Stadt-Herne/Mobilfunk/">Mobilfunk</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Digitalisierung-in-der-Stadt-Herne/Smart-People-City-Herne/">Smart People City Herne</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Gewerbe-und-Umwelt/">Gewerbe und Umwelt</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Gewerbe-und-Umwelt/Abfaelle/">AbfÃ¤lle</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Gewerbe-und-Umwelt/Abwassereinleitung/">Abwasser</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Gewerbe-und-Umwelt/Bodenschutz-und-Altlasten/">Bodenschutz und Altlasten</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Gewerbe-und-Umwelt/Immissionsschutz/">Immissionsschutz</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Gewerbe-und-Umwelt/Zustands-und-Funktionspruefung-privater-Abwasserleitungen-fuer-gewerbliches-und-industrielles-Abwasser/">SelbstÃ¼berwachung privater Abwasserleitungen</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Gewerbe-und-Umwelt/Umgang-mit-wassergefÃ¤hrdenden-Stoffen/">WassergefÃ¤hrdende Stoffe</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Verkehr/">MobilitÃ¤t und Verkehr</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Verkehr/Aktionen-und-Veranstaltungen/">Aktionen & Veranstaltungen</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Verkehr/Baustellen-und-Verkehrshinweise/">Baustellen- und Verkehrshinweise</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Verkehr/Bus-und-Bahn/">Bus und Bahn</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Verkehr/Cargobike-Roadshow/">Cargobike Roadshow</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Verkehr/Geschwindigkeitskontrollen/">Geschwindigkeitskontrollen</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Verkehr/Kanal-und-Strassenerneuerung-Emscherstrasse/">Kanal- und StraÃenerneuerung EmscherstraÃe</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Verkehr/KommunalinvestitionsfÃ¶rdergesetz/">KommunalinvestitionsfÃ¶rdergesetz</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Verkehr/Kraftfahrzeugverkehr/">Kraftfahrzeugverkehr</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Verkehr/Luft-Laerm-und-Umwelt/">Luft, LÃ¤rm und Umwelt</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Verkehr/Radfahren-in-Herne/">Radverkehr</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Verkehr/Soziale-Stadt-Wanne-Sued-Dorneburger-Strasse-Buergerbeteiligung/">Soziale Stadt Wanne SÃ¼d: Dorneburger StraÃe zwischen KurhausstraÃe und KÃ¶nigstraÃe - BÃ¼rgerbeteiligung</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Verkehr/Strassen-und-Wegekonzept/">StraÃen- und Wegekonzept</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Verkehr/StraÃenverzeichnis/">StraÃenverzeichnis</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Verkehr/Strassenzustandserfassung-mit-Entsorgungsfahrzeugen-im-Testbetrieb/">StraÃenzustandserfassung mit Entsorgungsfahrzeugen im Testbetrieb</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Verkehr/Umgestaltung-eines-klimagerechten-Parkplatzes-an-der-Haennes-Adamik-Strasse/">Umgestaltung eines klimagerechten Parkplatzes an der HÃ¤nnes-Adamik-StraÃe</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Verkehr/Verkehrssicherheit/">Verkehrssicherheit</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Verkehr/Vernetzte-Mobilitaet/">Vernetzte MobilitÃ¤t</a></div>
+<ul>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Stadtplanung/">Stadtplanung und -entwicklung</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="https://serviceportal.herne.de/detail/-/vr-bis-detail/dienstleistung/1853590/show">Auskunftsersuchen / Sammelanfrage <i class="fa fa-external-link"></i></a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Stadtplanung/Bauturbo-in-Herne/">Bauturbo in Herne</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Stadtplanung/Bebauungsplaene/">BebauungsplÃ¤ne und sonstige stÃ¤dtebauliche Satzungen</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Stadtplanung/Begruenungssatzung/">BegrÃ¼nungssatzung fÃ¼r Gewerbegebiete</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Stadtplanung/Denkmalschutz-und-Denkmalpflege/">Denkmalschutz</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Stadtplanung/Einzelhandel/">Einzelhandel</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Stadtplanung/General-Blumenthal/">General Blumenthal XI</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Stadtplanung/Integrierte-Stadtbezirksplanung-Wanne/">Integrierte Stadtbezirksplanung Wanne</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Stadtplanung/Kleinraeumige-Raumbeobachtung/">Integriertes, kleinrÃ¤umiges Monitoring</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="https://www.herne.de/Stadt-und-Leben/Klima/">Klima <i class="fa fa-external-link"></i></a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Stadtplanung/Klimasiedlung-Wettbewerb/">Klimasiedlung Wettbewerb</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Stadtplanung/Masterplan-Wasserlagen/">Masterplan Wasserlagen</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Stadtplanung/Quartiersanalysen-und-konzepte/">Quartiersanalysen und -konzepte</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Stadtplanung/Regionaler-Flaechennutzungsplan/">Gemeinsamer FlÃ¤chennutzungsplan</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Stadtplanung/Regionalplan-Ruhr/">Regionalplan Ruhr</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Stadtplanung/Solardachkataster/">Solardachkataster</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Stadtplanung/Projekte-in-Herne/Soziale-Stadt-Wanne-SÃ¼d/">Soziale Stadt Wanne-SÃ¼d</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Stadtplanung/Stadterneuerung/">Stadterneuerung</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Stadtplanung/Projekte-in-Herne/Stadtumbau-Herne-Mitte/">Stadtumbau Herne-Mitte</a></div>
+<ul>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Stadtplanung/StÃ¤edtische-GroÃprojekte/">StÃ¤dtische GroÃprojekte</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Standort-Herne/">Standort Herne</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Standort-Herne/Arbeit-und-Ausbildung/">Arbeit und Ausbildung</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Standort-Herne/Breitbandausbau-in-Herne/">Breitbandausbau in Herne</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Standort-Herne/ExistenzgrÃ¼ndung/">ExistenzgrÃ¼ndung</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Standort-Herne/WirtschaftsfÃ¶rderung/">WirtschaftsfÃ¶rderung</a></div>
+</li>
+</ul>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Unternehmensservice/">Unternehmensservice</a></div>
+<button class="opener" aria-expanded="false"><span class="glyphicon glyphicon-triangle-bottom"></span></button>
+<ul>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Unternehmensservice/Ausschreibungen/">Ausschreibungen</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Unternehmensservice/Dienstleistungen-Wirtschaft-von-A-bis-Z/">Dienstleistungen Wirtschaft</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Unternehmensservice/Fremdfirmen-Richtlinie/">Fremdfirmen-Richtlinie</a></div>
+</li>
+<li>
+<div class="menu_link"><a href="Wirtschaft-und-Infrastruktur/Unternehmensservice/Mittelstands-Lotsen/">Mittelstands-Lotsen</a></div>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- NEU 2022 Anfang -->
+<div id="datenschutz_container_overlay_full_width_bg">
+<div id="datenschutz_container_overlay" class="">
+<div id="datenschutz_container_overlay_innerbox">
+<button id="datenschutz_close" aria-label="Datenschutz schlieÃen"><span class="glyphicon glyphicon-remove"></span></button>
+<h6 class="title">
+Cookie-Einstellungen
+</h6>
+<div class="text">
+herne.de setzt sogenannte essentielle Cookies ein. Diese Cookies sind fÃ¼r das Bereitstellen der Internetseite, ihrer Funktionen wie der Suche und individuellen EinstellungsmÃ¶glichkeiten technisch notwendig und kÃ¶nnen nicht abgewÃ¤hlt werden.
+</div>
+<div class="text">
+DarÃ¼ber hinaus kÃ¶nnen Sie individuell einstellen, welche Cookies Sie bei
+der Nutzung von externen Webdiensten auf den Seiten von herne.de zulassen mÃ¶chten. Bitte beachten Sie, dass bei Aktivierung Daten, zum Beispiel Ihre IP-Adresse, an den jeweiligen Anbieter Ã¼bertragen werden kÃ¶nnen.
+</div>
+<div class="text">
+herne.de setzt zur Verbesserung der Nutzerfreundlichkeit das Webanalysetool eTracker in einer cookie-freien Variante ein. Mit Ihrer Zustimmung zum Setzen von eTracker-Cookies kÃ¶nnen Sie helfen, die Analyse weiter zu verfeinern.
+Eine MÃ¶glichkeit das Tracking vollstÃ¤ndig zu unterbinden finden Sie in unserer DatenschutzerklÃ¤rung.
+</div>
+<!-- eTracker -->
+<div class="fieldset_wrapper">
+<fieldset>
+<legend>eTracker:</legend>
+<div class="detailsbox_cookie_pretext">
+Statistik zur Optimierung des Internetauftritts
+</div>
+<label class="switch" for="cookie_etracker_1">nie
+<input data-cookie="herne-cookie" id= "cookie_etracker_1" class="cookie_etracker_1" type="radio" name="cookie_etracker" value="1" /> <span class="slider round"></span>
+</label>
+<label class="switch" for="cookie_etracker_2">fÃ¼r diese Browsersitzung
+<input data-cookie="herne-cookie" id= "cookie_etracker_2" class="cookie_etracker_2" type="radio" name="cookie_etracker" value="2" /> <span class="slider round"></span>
+</label>
+<label class="switch" for="cookie_etracker_3">dauerhaft
+<input data-cookie="herne-cookie" id= "cookie_etracker_3" class="cookie_etracker_3" type="radio" name="cookie_etracker" value="3" /> <span class="slider round"></span>
+</label>
+</fieldset>
+</div>
+<!-- Readspeaker -->
+<div class="fieldset_wrapper">
+<fieldset>
+<legend>Readspeaker:</legend>
+<div class="detailsbox_cookie_pretext">
+Vorlesefunktion
+</div>
+<label class="switch" for="cookie_readspeaker_1">nie
+<input data-cookie="herne-cookie" id= "cookie_readspeaker_1" class="cookie_readspeaker_1" type="radio" name="cookie_readspeaker" value="1" /> <span class="slider round"></span>
+</label>
+<label class="switch" for="cookie_readspeaker_2">fÃ¼r diese Browsersitzung
+<input data-cookie="herne-cookie" id= "cookie_readspeaker_2" class="cookie_readspeaker_2" type="radio" name="cookie_readspeaker" value="2" /> <span class="slider round"></span>
+</label>
+<label class="switch" for="cookie_readspeaker_3">dauerhaft
+<input data-cookie="herne-cookie" id= "cookie_readspeaker_3" class="cookie_readspeaker_3" type="radio" name="cookie_readspeaker" value="3" /> <span class="slider round"></span>
+</label>
+</fieldset>
+</div>
+<!-- Youtube -->
+<div class="fieldset_wrapper">
+<fieldset>
+<legend>Youtube:</legend>
+<div class="detailsbox_cookie_pretext">
+Video-FunktionalitÃ¤t
+</div>
+<label class="switch" for="cookie_youtube_1">nie
+<input data-cookie="herne-cookie" id= "cookie_youtube_1" class="cookie_youtube_1" type="radio" name="cookie_youtube" value="1" /> <span class="slider round"></span>
+</label>
+<label class="switch" for="cookie_youtube_2">fÃ¼r diese Browsersitzung
+<input data-cookie="herne-cookie" id= "cookie_youtube_2" class="cookie_youtube_2" type="radio" name="cookie_youtube" value="2" /> <span class="slider round"></span>
+</label>
+<label class="switch" for="cookie_youtube_3">dauerhaft
+<input data-cookie="herne-cookie" id= "cookie_youtube_3" class="cookie_youtube_3" type="radio" name="cookie_youtube" value="3" /> <span class="slider round"></span>
+</label>
+</fieldset>
+</div>
+<!-- Google Translate -->
+<div class="fieldset_wrapper">
+<fieldset>
+<legend>Google Translate:</legend>
+<div class="detailsbox_cookie_pretext">
+Ãbersetzungsdienste von Google
+</div>
+<label class="switch" for="cookie_googletranslate_1">nie
+<input data-cookie="herne-cookie" id= "cookie_googletranslate_1" class="cookie_googletranslate_1" type="radio" name="cookie_googletranslate" value="1" /> <span class="slider round"></span>
+</label>
+<label class="switch" for="cookie_googletranslate_2">fÃ¼r diese Browsersitzung
+<input data-cookie="herne-cookie" id= "cookie_googletranslate_2" class="cookie_googletranslate_2" type="radio" name="cookie_googletranslate" value="2" /> <span class="slider round"></span>
+</label>
+<label class="switch" for="cookie_googletranslate_3">dauerhaft
+<input data-cookie="herne-cookie" id= "cookie_googletranslate_3" class="cookie_googletranslate_3" type="radio" name="cookie_googletranslate" value="3" /> <span class="slider round"></span>
+</label>
+</fieldset>
+</div>
+<button id="accept_all_cookies">Alle Cookies akzeptieren</button>
+<button id="individual_cookies">Individuelle Einstellung speichern</button>
+<button id="reject_all_cookies">Alle Cookies ablehnen</button>
+</div>
+</div>
+</div>
+<!-- NEU 2022 Ende -->
+<!-- Header: start -->
+<header role="banner">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 col-md-12">
+<div class="header_flex_container">
+<div class="header_flex_box">
+<div id="header_logo">
+<div class="container_logo_inner" style="height: 50px">
+<div class="box_logo">
+<a href="index.html" title="Link zur Startseite" tabindex="6">
+<img id="stadt_herne_logo_header" src="media/template/images/stadt_herne_logo_header.svg" alt="Stadtlogo" />
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="header_flex_box">
+<div id="header_suche">
+<div id="jsuche" class="kbox_suche_d" role="search">
+<form id="kst-suchbox-xid_frm" role="search" method="post">
+<div class="input-group input-group-sm kst_sb_dsk_ie_fix">
+<input id="kst_suchbox" type="text" name="q" class="form-control kbox_suche_d" placeholder="Suche" tabindex="9" autocomplete="off">
+<input type="hidden" name="a" value="dispatcher">
+<span class="input-group-btn">
+<button id="j_btn" class="btn btn-default" type="submit" tabindex="10"><i class="fa fa-search"></i></button>
+</span>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="header_flex_box">
+<nav>
+<div id="header_menu">
+<div class="box_menu_button">
+<button id="datenschutz" aria-label="Datenschutzeinstellungen Ã¶ffnen"><span class="glyphicon glyphicon-cog"></span></button>
+<button id="menu" aria-label="MenÃ¼ Ã¶ffnen"><span class="glyphicon glyphicon-menu-hamburger"></span></button>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<!-- Header: ende -->
+<!-- Content Beginn -->
+<div id="content_beginn"></div>
+<!-- Panorama-Slider: start -->
+<!-- Schmuckleiste oben: start -->
+<div class="container_schmuckleiste_oben container_schmuckleiste_unten">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 col-md-12">
+<div class="container_breadcrumbs_inner">
+<span class="breadcrumbs_link"><a href="https://www.herne.de/">Homepage</a></span> /
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Schmuckleiste oben: ende -->
+<!-- MAIN- & ASIDE-CONTAINER: start -->
+<div class="container">
+<div class="row">
+<div class="col-lg-9 col-md-9 main_content">
+<!-- Main: start -->
+<main id="js-list"> <a name="inhalt"></a>
+<!-- MAIN CONTENT: start -->
+<div id="herne_readspeaker_box">
+<div id="readspeaker_button1" class="rs_skip rsbtn rs_preserve">
+<a rel="nofollow" class="rsbtn_play" accesskey="L" title="Um den Text anzuh&ouml;ren, verwenden Sie bitte ReadSpeaker webReader" href="//app-eu.readspeaker.com/cgi-bin/rsent?customerid=9708&lang=de_de&readid=js-list">
+<span class="rsbtn_left rsimg rspart"><span class="rsbtn_text"><span>Vorlesen</span></span></span>
+<span class="rsbtn_right rsimg rsplay rspart"></span>
+</a>
+</div>
+</div>
+<h6 class="sprunglinks_unsichtbar">Inhalt</h6>
+<h1>Stadt Herne</h1>
+<!-- home_portalseite: start -->
+<div class="home_portalseite">
+<!-- row: start -->
+<div class="row">
+<!-- meldung: start -->
+<div class="col-lg-6 col-md-6 col-sm-6">
+<div class="meldung_datum"> Meldung vom 15. Juli 2026 </div>
+<div class="meldung_titel">
+<h2>92 Millionen Euro Konjunkturpaket fÃ¼r Herne</h2>
+</div>
+<div class="meldung_bild"> <img class="img-responsive" src="Bilder/GebÃ¤ude/Fachbereiche/rathaus_herne_Beitragsbild.jpg" title="" alt="Rathaus Herne" /> </div>
+<div class="meldung_inhalt">
+<p>Nachdem Bundes- und insbesondere die NRW-Landesregierung mit dem Infrastrukturgesetz endlich die notwendigen Entscheidungen zur Verteilungssystematik der Mittel aus dem SondervermÃ¶gen Infrastruktur getroffen haben, steht nunmehr fest, wie viel Geld in den kommenden Jahren nach Herne flieÃen wird â und in welche Projekte: Der Rat der Stadt hat in seiner letzten Sitzung am Dienstag, 14. Juli 2026, eine entsprechende MaÃnahmenliste beschlossen.</p>
+</div>
+<div class="meldung_hyperlink"> <a href="/Meldungen/News-Detailansicht_295364.html">Mehr zur Meldung: 92 Millionen Euro Konjunkturpaket fÃ¼r Herne&nbsp;</a> </div>
+</div>
+<!-- meldung: ende -->
+<hr class="hr_innen" role="separator" />
+<!-- meldung: start -->
+<div class="col-lg-6 col-md-6 col-sm-6">
+<div class="meldung_datum"> Meldung vom 15. Juli 2026 </div>
+<div class="meldung_titel">
+<h2>Rat bestÃ¤tigt zweiten Vorstand fÃ¼r die Entsorgung Herne</h2>
+</div>
+<div class="meldung_bild"> <img class="img-responsive" src="Bilder/News/00News/Meldungen/Allgemein/150726_Foto_PM_Vorstand-Entsorgung-Herne_Beitragsbild.jpg" title="" alt=" " /> </div>
+<div class="meldung_inhalt">
+<p>Der Rat der Stadt Herne hat in seiner turnusmÃ¤Ãigen Sitzung am Dienstag, 14. Juli 2026, die vorausgehende Entscheidung des Verwaltungsrats der Entsorgung Herne AÃ¶R bestÃ¤tigt und Daniel Legnaro mit Wirkung vom 1. Januar 2027 zum Vorstand der Gesellschaft bestellt.</p>
+</div>
+<div class="meldung_hyperlink"> <a href="/Meldungen/News-Detailansicht_295367.html">Mehr zur Meldung: Rat bestÃ¤tigt zweiten Vorstand fÃ¼r die Entsorgung Herne&nbsp;</a> </div>
+</div>
+<!-- meldung: ende -->
+</div>
+<hr class="hr_aussen" role="separator" />
+<!-- row: start -->
+<div class="row">
+<!-- meldung: start -->
+<div class="col-lg-6 col-md-6 col-sm-6">
+<div class="meldung_datum"> Meldung vom 15. Juli 2026 </div>
+<div class="meldung_titel">
+<h2>Rat beschlieÃt Umsetzung der Seilbahn-Planungen</h2>
+</div>
+<div class="meldung_bild"> <img class="img-responsive" src="Bilder/adobe_stock/seilbahn2_adobe_stock_Beitragsbild.jpg" title="" alt=" " /> </div>
+<div class="meldung_inhalt">
+<p>Der Rat der Stadt Herne hat in seiner letzten turnusmÃ¤Ãigen Sitzung vor der parlamentarischen Sommerpause am Dienstag, 14. Juli 2026, die entscheidenden Weichen fÃ¼r die Realisierung der geplanten urbanen Seilbahn zur verkehrlichen ErschlieÃung des Blumenthal-Areals gestellt.</p>
+</div>
+<div class="meldung_hyperlink"> <a href="/Meldungen/News-Detailansicht_295366.html">Mehr zur Meldung: Rat beschlieÃt Umsetzung der Seilbahn-Planungen&nbsp;</a> </div>
+</div>
+<!-- meldung: ende -->
+<hr class="hr_innen" role="separator" />
+<!-- meldung: start -->
+<div class="col-lg-6 col-md-6 col-sm-6">
+<div class="meldung_datum"> Meldung vom 15. Juli 2026 </div>
+<div class="meldung_titel">
+<h2>Erneute Termin- und Ortsverschiebungen bei den Kulturschiffen Herne 2026</h2>
+</div>
+<div class="meldung_bild"> <img class="img-responsive" src="Bilder/News/00News/Kultur/Beitragsbild_Kulturschiff_Beitragsbild.jpg" title="" alt=" " /> </div>
+<div class="meldung_inhalt">
+<p>Aufgrund der SchÃ¤den an der Schleuse Wanne-Eickel kommt es bei der Veranstaltungsreihe âKulturschiffe Herneâ erneut zu unvorhersehbaren Ãnderungen im Fahrplan. Die Schleuse kann von den Schiffen nur bedingt genutzt werden.</p>
+</div>
+<div class="meldung_hyperlink"> <a href="/Meldungen/News-Detailansicht_295362.html">Mehr zur Meldung: Erneute Termin- und Ortsverschiebungen bei den Kulturschiffen Herne 2026&nbsp;</a> </div>
+</div>
+<!-- meldung: ende -->
+</div>
+<hr class="hr_aussen" role="separator" />
+<!-- row: start -->
+<div class="row">
+<!-- meldung: start -->
+<div class="col-lg-6 col-md-6 col-sm-6">
+<div class="meldung_datum"> Meldung vom 15. Juli 2026 </div>
+<div class="meldung_titel">
+<h2>Inklusiver Podcast: Neue Folge erschienen</h2>
+</div>
+<div class="meldung_bild"> <img class="img-responsive" src="Bilder/Menschen-mit-Behinderungen/ppb_Beitragsbild.jpg" title="" alt="In einem schwarzen Anzug, einer weiÃen Bluse, einer roten Rose und einer Sonnenbrille gekleidet, sitzt Miriana Palermo in Anlehnung an den Film âDer Pateâ auf einem imposanten Rednerstuhl. Neben Ihr auf dem Boden sitzt die BlindenfÃ¼hrhÃ¼ndin Xelies (ein schwarzer Labrador) und schaut Miriana Palermo an" /> </div>
+<div class="meldung_inhalt">
+<p>In der inklusiven Podcast-Reihe âPalermos Pottcastâ der Stadt Herne ist ein neuer Beitrag erschienen. Die 46. Folge âCordelia Neige Ã¼ber Vielfalt und Chancengleichheit in Herneâ ist ab Mittwoch, 15. Juli 2026, online. Moderiert wird die Reihe von Miriana Palermo aus dem InklusionsbÃ¼ro. </p>
+</div>
+<div class="meldung_hyperlink"> <a href="/Meldungen/News-Detailansicht_295361.html">Mehr zur Meldung: Inklusiver Podcast: Neue Folge erschienen&nbsp;</a> </div>
+</div>
+<!-- meldung: ende -->
+<hr class="hr_innen" role="separator" />
+<!-- meldung: start -->
+<div class="col-lg-6 col-md-6 col-sm-6">
+<div class="meldung_datum"> Meldung vom 14. Juli 2026 </div>
+<div class="meldung_titel">
+<h2>Bezirksregierung schaltet Zeugnistelefon</h2>
+</div>
+<div class="meldung_bild"> <img class="img-responsive" src="Bilder/adobe_stock/adobe_stock_zeugnistelefon_Beitragsbild.jpg" title="" alt=" " /> </div>
+<div class="meldung_inhalt">
+<p>Verbunden mit der Zeugnisausgabe des Schuljahres 2025 / 2026 bieten Mitarbeitende der Schulabteilung der Bezirksregierung Arnsberg wieder ein Zeugnistelefon an. </p>
+</div>
+<div class="meldung_hyperlink"> <a href="/Meldungen/News-Detailansicht_295296.html">Mehr zur Meldung: Bezirksregierung schaltet Zeugnistelefon&nbsp;</a> </div>
+</div>
+<!-- meldung: ende -->
+</div>
+<hr class="hr_aussen" role="separator" />
+<!-- row: start -->
+<div class="row">
+<!-- meldung: start -->
+<div class="col-lg-6 col-md-6 col-sm-6">
+<div class="meldung_datum"> Meldung vom 13. Juli 2026 </div>
+<div class="meldung_titel">
+<h2>Stadt informiert Ã¼ber FÃ¶rderung fÃ¼r GrÃ¼ndÃ¤cher</h2>
+</div>
+<div class="meldung_bild"> <img class="img-responsive" src="Bilder/News/00News/Meldungen/Allgemein/Gruendach_urheber_Adobe-Stock_Beitragsbild.jpg" title="" alt=" " /> </div>
+<div class="meldung_inhalt">
+<p>Die Zukunftsinitiative Klima.Werk, der neben den StÃ¤dten der Emscher-Lippe-Region vor allem auch Emschergenossenschaft und Lippeverband (EGLV) angehÃ¶ren, bietet eine FÃ¶rderung fÃ¼r ImmobilieneingentÃ¼mer*innen an, die ihre DÃ¤cher begrÃ¼nen wollen. Die Stadt Herne schreibt deshalb aktuell BÃ¼rger*innen an, um auf das FÃ¶rderprogramm aufmerksam zu machen.</p>
+</div>
+<div class="meldung_hyperlink"> <a href="/Meldungen/News-Detailansicht_295234.html">Mehr zur Meldung: Stadt informiert Ã¼ber FÃ¶rderung fÃ¼r GrÃ¼ndÃ¤cher&nbsp;</a> </div>
+</div>
+<!-- meldung: ende -->
+<hr class="hr_innen" role="separator" />
+<!-- meldung: start -->
+<div class="col-lg-6 col-md-6 col-sm-6">
+<div class="meldung_datum"> Meldung vom 13. Juli 2026 </div>
+<div class="meldung_titel">
+<h2>Apfelfest 2026 am Herner Meer: Jetzt aktiv mitgestalten</h2>
+</div>
+<div class="meldung_bild"> <img class="img-responsive" src="Bilder/News/00News/Meldungen/Allgemein/apfel_urheber_Thomas_Schmidt_Stadt_Herne_Beitragsbild.jpg" title="" alt=" " /> </div>
+<div class="meldung_inhalt">
+<p>Das Apfelfest in Horsthausen geht mit einem neuen Standort und engagierten Veranstaltungspartner*innen in die nÃ¤chste Runde. Nachdem das beliebte Familienfest einige Jahre auf der Streuobstwiese Holper Heide stattgefunden hat, lÃ¤dt es am Freitag, 4. September 2026, erstmals ans Herner Meer ein. Engagierte BÃ¼rger*innen haben wieder die Chance, es aktiv mitzugestalten.</p>
+</div>
+<div class="meldung_hyperlink"> <a href="/Meldungen/News-Detailansicht_295233.html">Mehr zur Meldung: Apfelfest 2026 am Herner Meer: Jetzt aktiv mitgestalten&nbsp;</a> </div>
+</div>
+<!-- meldung: ende -->
+</div>
+<hr class="hr_aussen" role="separator" />
+<!-- row: start -->
+<div class="row">
+<!-- meldung: start -->
+<div class="col-lg-6 col-md-6 col-sm-6">
+<div class="meldung_datum"> Meldung vom 13. Juli 2026 </div>
+<div class="meldung_titel">
+<h2>Stadt Herne unterstÃ¼tzt Gedenkveranstaltung in Maissemy</h2>
+</div>
+<div class="meldung_bild"> <img class="img-responsive" src="Bilder/News/00cc/Maissemy-02072026_Stadt-Herne_Foto-Uwe-Zucchi_050_2_Beitragsbild.jpg" title="" alt=" " /> </div>
+<div class="meldung_inhalt">
+<p>Der Volksbund Deutsche KriegsgrÃ¤berfÃ¼rsorge e.V. dankt der Stadt Herne fÃ¼r die UnterstÃ¼tzung einer Gedenkveranstaltung auf der deutschen KriegsgrÃ¤berstÃ¤tte Maissemy (Frankreich). Dort wurde am Donnerstag, 2. Juli 2026, der Opfer der KÃ¤mpfe an der Somme wÃ¤hrend des Ersten Weltkriegs gedacht. </p>
+</div>
+<div class="meldung_hyperlink"> <a href="/Meldungen/News-Detailansicht_295236.html">Mehr zur Meldung: Stadt Herne unterstÃ¼tzt Gedenkveranstaltung in Maissemy&nbsp;</a> </div>
+</div>
+<!-- meldung: ende -->
+<hr class="hr_innen" role="separator" />
+<!-- meldung: start -->
+<div class="col-lg-6 col-md-6 col-sm-6">
+<div class="meldung_datum"> Meldung vom 13. Juli 2026 </div>
+<div class="meldung_titel">
+<h2>SchÃ¼lerinnen und SchÃ¼ler begeistern mit sportlichem KÃ¶nnen in Herne</h2>
+</div>
+<div class="meldung_bild"> <img class="img-responsive" src="Bilder/News/00brz/1G2A1090_Beitragsbild.jpg" title="" alt=" " /> </div>
+<div class="meldung_inhalt">
+<p>Am Mittwoch, 8. Juli 2026, hat sich Herne in die Sporthauptstadt fÃ¼r die besten Grundschulteams, die sich zuvor auf Stadt- und Kreisebene durchgesetzt hatten, verwandelt. Es war das Bezirksfinale der NRW Youngstars 2026 im Regierungsbezirk Arnsberg. Junge Nachwuchstalente lieferten sich in den Disziplinen GerÃ¤tturnen, Leichtathletik, Heidelberger Ballschule, Volleyball, Basketball und Schwimmen spannende und faire WettkÃ¤mpfe. </p>
+</div>
+<div class="meldung_hyperlink"> <a href="/Meldungen/News-Detailansicht_295235.html">Mehr zur Meldung: SchÃ¼lerinnen und SchÃ¼ler begeistern mit sportlichem KÃ¶nnen in Herne&nbsp;</a> </div>
+</div>
+<!-- meldung: ende -->
+</div>
+<hr class="hr_aussen" role="separator" />
+<!-- row: start -->
+<div class="row">
+<!-- meldung: start -->
+<div class="col-lg-6 col-md-6 col-sm-6">
+<div class="meldung_datum"> Meldung vom 09. Juli 2026 </div>
+<div class="meldung_titel">
+<h2>Neubau der Michaelschule feierlich eingeweiht</h2>
+</div>
+<div class="meldung_bild"> <img class="img-responsive" src="Bilder/News/00News/Homepage-Meldungen/Einweihnung-Michealschule/IMG_7882-(1)_Beitragsbild.jpg" title="" alt=" " /> </div>
+<div class="meldung_inhalt">
+<p>Im Rahmen einer Feierstunde am Donnerstag, 9. Juli 2026, haben die Schulgemeinde der Wanner Michaelschule und Vertreter*innen der Stadt Herne gemeinsam den Abschluss der mehrjÃ¤hrigen Umbau- und Modernisierungsarbeiten begangen. Neben einer Erweiterung des zur VerfÃ¼gung stehenden Schulraums wurden zusÃ¤tzliche OGS-KapazitÃ¤ten geschaffen. Der neue Schulbau erfÃ¼llt alle pÃ¤dagogischen und technischen Anforderungen fÃ¼r einen modernen Unterricht.</p>
+</div>
+<div class="meldung_hyperlink"> <a href="/Meldungen/News-Detailansicht_295042.html">Mehr zur Meldung: Neubau der Michaelschule feierlich eingeweiht&nbsp;</a> </div>
+</div>
+<!-- meldung: ende -->
+<hr class="hr_innen" role="separator" />
+<!-- meldung: start -->
+<div class="col-lg-6 col-md-6 col-sm-6">
+<div class="meldung_datum"> Meldung vom 09. Juli 2026 </div>
+<div class="meldung_titel">
+<h2>Stadt Herne erhÃ¤lt FÃ¶rdermittel zur Sanierung des Schollbrockhauses und der KÃ¼nstlerzeche</h2>
+</div>
+<div class="meldung_bild"> <img class="img-responsive" src="Bilder/Kultur-und-Freizeit/Kultur/KÃ¼nstlerzeche-Unser-FritzÂ©Stadt-Herne012_web_Beitragsbild.jpg" title="" alt=" " /> </div>
+<div class="meldung_inhalt">
+<p>Gute Nachrichten fÃ¼r die Stadt Herne: FÃ¼r die energetische Sanierung zweier stÃ¤dtischer GebÃ¤ude mit historischer Bedeutung erhÃ¤lt sie FÃ¶rdermittel aus dem EuropÃ¤ischen Fonds fÃ¼r regionale Entwicklung (EFRE). Die Bezirksregierung Arnsberg bewilligte zum einen bis zu 1,6 Millionen Euro fÃ¼r die energieeffiziente Sanierung des Schollbrockhauses im Schlosspark StrÃ¼nkede. <br />Zum anderen bis zu 5,9 Millionen Euro fÃ¼r die Instandsetzung der KÃ¼nstlerzeche âUnser Fritz 2/3â in Wanne. Die FÃ¶rderquote entspricht in beiden FÃ¤llen 90 Prozent der zuwendungsfÃ¤higen Gesamtausgaben. </p>
+</div>
+<div class="meldung_hyperlink"> <a href="/Meldungen/News-Detailansicht_295046.html">Mehr zur Meldung: Stadt Herne erhÃ¤lt FÃ¶rdermittel zur Sanierung des Schollbrockhauses und der KÃ¼nstlerzeche&nbsp;</a> </div>
+</div>
+<!-- meldung: ende -->
+</div>
+<hr class="hr_aussen" role="separator" />
+<!-- row: start -->
+<div class="row">
+<!-- meldung: start -->
+<div class="col-lg-6 col-md-6 col-sm-6">
+<div class="meldung_datum"> Meldung vom 09. Juli 2026 </div>
+<div class="meldung_titel">
+<h2>âDeutsch-Checkerâ: Programm zur SprachfÃ¶rderung seit zehn Jahren erfolgreich</h2>
+</div>
+<div class="meldung_bild"> <img class="img-responsive" src="Bilder/News/00cc/10_Jahre_Deutsch_Checker_urheber_Thomas_Schmidt_Stadt_Herne_038_Beitragsbild.jpg" title="" alt=" " /> </div>
+<div class="meldung_inhalt">
+<p>Am Mittwoch, 8. Juli 2026, fand im Veranstaltungszentrum Gysenberg die feierliche ZertifikatsÃ¼bergabe fÃ¼r die diesjÃ¤hrigen Deutsch-Checker statt. Insgesamt 42 engagierte SchÃ¼ler*innen der JahrgÃ¤nge 9 bis 12 erhielten ihr Zertifikat fÃ¼r ihren Einsatz im Schuljahr 2025/26. Das erfolgreiche Programm zur SprachfÃ¶rderung feiert in diesem Jahr sein zehnjÃ¤hriges Bestehen. </p>
+</div>
+<div class="meldung_hyperlink"> <a href="/Meldungen/News-Detailansicht_294976.html">Mehr zur Meldung: âDeutsch-Checkerâ: Programm zur SprachfÃ¶rderung seit zehn Jahren erfolgreich&nbsp;</a> </div>
+</div>
+<!-- meldung: ende -->
+<hr class="hr_innen" role="separator" />
+<!-- meldung: start -->
+<div class="col-lg-6 col-md-6 col-sm-6">
+<div class="meldung_datum"> Meldung vom 09. Juli 2026 </div>
+<div class="meldung_titel">
+<h2>Kommunale WÃ¤rmeplanung: Kostenloses Onlinetool bietet Hilfestellung fÃ¼r GebÃ¤udeeigentÃ¼mer*innen</h2>
+</div>
+<div class="meldung_bild"> <img class="img-responsive" src="Bilder/Klima/shwphwsh_880_375_Beitragsbild.png" title="" alt="Mann in einem Parka plus Schriftzug WÃ¤rmewnde in Herne - Kommunale WÃ¤rmeplanung in Herne" /> </div>
+<div class="meldung_inhalt">
+<p>Lohnt sich eine WÃ¤rmepumpe oder macht der Anschluss an das FernwÃ¤rmenetz vielleicht doch mehr Sinn? Die Versorgungsoptionen in den verschiedenen Stadtteilen zeigt die kommunale WÃ¤rmeplanung der Stadt Herne, die im Juni 2026 verÃ¶ffentlicht wurde. FÃ¼r Durchblick im Einzelfall sorgt das kostenlose Onlinetool âheatfindâ, welches die Stadt Herne ihren BÃ¼rger*innen zur VerfÃ¼gung stellt. Dazu findet am Mittwoch, 15. Juli 2026, ein Webinar statt. Auch das Infomobil ist unterwegs.</p>
+</div>
+<div class="meldung_hyperlink"> <a href="/Meldungen/News-Detailansicht_295040.html">Mehr zur Meldung: Kommunale WÃ¤rmeplanung: Kostenloses Onlinetool bietet Hilfestellung fÃ¼r GebÃ¤udeeigentÃ¼mer*innen&nbsp;</a> </div>
+</div>
+<!-- meldung: ende -->
+</div>
+<hr class="hr_aussen" role="separator" />
+</div>
+<!-- publikationen_group: start -->
+<div class="publikationen_group">
+<!-- publikation_group_heder: start -->
+<div class="publikationen_group_header">
+<div class="publikationen_group_header_titel">
+Herne kurz notiert
+</div>
+</div>
+<!-- publikation_reihe: start -->
+<div class="publikation_reihe">
+<div class="box_publikation_left">
+<div class="publikation_bild">
+<img src="Bilder/News/00News/Meldungen/Allgemein/Batteriespeicher_AdobeStock_2051457853_Publikationen.jpg" width="134" title="" alt=" " />
+</div>
+</div>
+<div class="box_publikation_right">
+<div class="publikation_titel">
+<b>FÃ¶rderung fÃ¼r Batteriespeicher und SteckersolargerÃ¤te</b>
+</div>
+<div class="publikation_text" >
+<p>Die Stadt Herne mÃ¶chte weiterhin MaÃnahmen zum Klimaschutz unterstÃ¼tzen. DafÃ¼r werden zwei FÃ¶rderungen aufgelegt â fÃ¼r SteckersolargerÃ¤te bei Zwei- und MehrfamilienhÃ¤usern und bei nachweislich ungeeigneten DÃ¤chern auch bei EinfamilienhÃ¤usern sowie fÃ¼r Batteriespeicher bei gleichzeitiger Neuerrichtung einer Photovoltaik-(PV)Anlage.</p><p>
+<a href="https://www.herne.de/Meldungen/News-Detailansicht_295232.html" title="Mehr zur Meldung: FÃ¶rderung fÃ¼r Batteriespeicher und SteckersolargerÃ¤te">Mehr zur Meldung: FÃ¶rderung fÃ¼r Batteriespeicher und SteckersolargerÃ¤te</a></p><p>Bild: Adobe Stock</p>
+</div>
+</div>
+</div>
+<!-- publikation_group_heder: ende -->
+<!-- publikation_reihe: start -->
+<div class="publikation_reihe">
+<div class="box_publikation_left">
+<div class="publikation_bild">
+<img src="Bilder/adobe_stock/AdobeStock_617305989_publikation_Publikationen.jpg" width="134" title="" alt=" " />
+</div>
+</div>
+<div class="box_publikation_right">
+<div class="publikation_titel">
+<b>Der WÃ¤rmeplan fÃ¼r die Stadt Herne</b>
+</div>
+<div class="publikation_text" >
+<p>Die Stadt Herne hat einen kommunalen WÃ¤rmeplan fÃ¼r das Stadtgebiet erarbeitet. Vom 20. Februar bis zum 22. MÃ¤rz 2026 lag ein Entwurf des WÃ¤rmeplans Ã¶ffentlich aus und bot BÃ¼rgerinnen und BÃ¼rgern sowie weiteren Akteuren die MÃ¶glichkeit, Stellungnahmen einzureichen. Der WÃ¤rmeplan wurde anschlieÃend Ã¼berarbeitet und am 19. Mai 2026 vom Rat der Stadt Herne als Satzung beschlossen. Die VerÃ¶ffentlichung erfolgte am 12. Juni 2026 im Rahmen einer Pressekonferenz. </p><p>
+<a href="https://www.herne.de/Stadt-und-Leben/Klima/Kommunale-Waermeplanung/Waermeplan-fuer-die-Stadt-Herne/"
+>
+Weitere Informationen zur WÃ¤rmeplanung
+</a>
+</p><p>Bild Adobe Stock </p>
+</div>
+</div>
+</div>
+<!-- publikation_group_heder: ende -->
+<!-- publikation_reihe: start -->
+<div class="publikation_reihe">
+<div class="box_publikation_left">
+<div class="publikation_bild">
+<img src="Bilder/adobe_stock/standesamt2_pub_adobe_stock_Publikationen.jpg" width="134" title="" alt=" " />
+</div>
+</div>
+<div class="box_publikation_right">
+<div class="publikation_titel">
+<b>EingeschrÃ¤nkte Erreichbarkeit im Standesamt</b>
+</div>
+<div class="publikation_text" >
+<p>Im
+<a href="https://www.herne.de/Rathaus/Buergerservice/Buergerdienste/Das-Standesamt/"
+>
+Standesamt Herne
+</a>
+ist aufgrund personeller EngpÃ¤sse mit einer Bearbeitungsdauer von 6 bis 8 Wochen zu rechnen. Die telefonische Erreichbarkeit ist ebenfalls bis auf weiteres eingeschrÃ¤nkt. Bitte setzen Sie sich deshalb mit dem Standesamt vorzugsweise per E-Mail unter
+<a href="mailto:standesamt@herne.de">standesamt@herne.de</a>
+in Verbindung und sehen Sie von telefonischen RÃ¼ckfragen ab. </p><p>Bild Adobe Stock</p>
+</div>
+</div>
+</div>
+<!-- publikation_group_heder: ende -->
+<!-- publikation_reihe: start -->
+<div class="publikation_reihe">
+<div class="box_publikation_left">
+<div class="publikation_bild">
+<img src="Bilder/pub/but_pub_Publikationen.jpg" width="134" title="" alt=" " />
+</div>
+</div>
+<div class="box_publikation_right">
+<div class="publikation_titel">
+<b>Leistungen der Bildung und Teilhabe jetzt beantragen</b>
+</div>
+<div class="publikation_text" >
+<p>Die Stadt Herne weist auf die MÃ¶glichkeit hin, Leistungen aus dem Bildungs- und Teilhabepaket zu beantragen. Es unterstÃ¼tzt Kinder und Jugendliche aus Familien, die BÃ¼rgergeld, Wohngeld, Kinderzuschlag, Leistungen nach dem Asylbewerberleistungsgesetz oder Hilfe zum Lebensunterhalt erhalten.</p><p>
+<a href="https://www.herne.de/Familie-und-Bildung/Projekte-und-FÃ¶rderungen/Bildungs-und-Teilhabepaket/"
+>
+Leistungen der Bildung und Teilhabe jetzt beantragen
+</a>
+</p>
+</div>
+</div>
+</div>
+<!-- publikation_group_heder: ende -->
+<!-- publikation_reihe: start -->
+<div class="publikation_reihe">
+<div class="box_publikation_left">
+<div class="publikation_bild">
+<img src="Bilder/adobe_stock/wildschwein2_adobe_stock_Publikationen.jpg" width="134" title="" alt=" " />
+</div>
+</div>
+<div class="box_publikation_right">
+<div class="publikation_titel">
+<b>Afrikanische Schweinepest in Nordrhein-Westfalen angekommen</b>
+</div>
+<div class="publikation_text" >
+<p>Verhaltensregeln kÃ¶nnen Sie in der von der unteren JagdbehÃ¶rde erlassenen
+<a href="https://www.herne.de/PDF/Umwelt/schweinepest_bf_ua.pdf" target="_blank" title="Dokument Ã¶ffnet sich in einem neuen Browserfenster." >
+AllgemeinverfÃ¼gung (PDF, 94 KB)</a>
+nachlesen. </p><p>
+<a href="https://www.herne.de/PDF/Umwelt/afrikanische_schweinepest_info_an_jaeger_bf_ua.pdf" target="_blank" title="Dokument Ã¶ffnet sich in einem neuen Browserfenster." >
+Informationstext fÃ¼r die JÃ¤ger und JÃ¤gerinnen (PDF, 86 KB)</a>
+</p><p>Bild Adobe Stock</p>
+</div>
+</div>
+</div>
+<!-- publikation_group_heder: ende -->
+<!-- publikation_reihe: start -->
+<div class="publikation_reihe">
+<div class="box_publikation_left">
+<div class="publikation_bild">
+<img src="Bilder/adobe_stock/fotograf_134_adobe_stock_Publikationen.jpg" width="134" title="" alt=" " />
+</div>
+</div>
+<div class="box_publikation_right">
+<div class="publikation_titel">
+<b>Bestandserfassung der Zechensiedlungen</b>
+</div>
+<div class="publikation_text" >
+<p>Um einen Ãberblick Ã¼ber den Zustand der historischen Bergarbeitersiedlungen in Herne zu erlangen, findet zurzeit eine systematische Bestandserfassung statt. Das Projekt wird durchgefÃ¼hrt von Mitarbeitenden der Unteren DenkmalbehÃ¶rde der Stadt Herne. </p><p>
+<a href="https://www.herne.de/Meldungen/News-Detailansicht_271424.html" title="Mehr zur Meldung: Bestandserfassung der Zechensiedlungen">Mehr zur Meldung: Bestandserfassung der Zechensiedlungen</a></p>
+</div>
+</div>
+</div>
+<!-- publikation_group_heder: ende -->
+</div>
+<!-- publikationen_group: ende -->
+</main>
+<!-- Main: ende -->
+</div>
+<!-- div main_content: ende -->
+<div class="col-lg-3 col-md-3 marginalie">
+<!-- Marginalie: start -->
+<aside role="complementary"> <a name="marginalie"></a>
+<h6 class="sprunglinks_unsichtbar">Rechte Spalte</h6>
+<!-- MARGINALIE CONTENT: start -->
+<!-- box_marginalie: start -->
+<div class="box_marginalie">
+<div class="box_marginalie_header">
+<h6 class="box_marginalie_header_titel">
+<a class="serviceportal_info_box" target="_blank" title="Link Ã¶ffnet sich im neuen Browserfenster" href="https://serviceportal.herne.de/">BÃ¼rger-Service-Portal</a>
+</h6>
+</div>
+<div class="box_marginalie_content">
+<a class="serviceportal_info_box" target="_blank" title="Link Ã¶ffnet sich im neuen Browserfenster" href="https://serviceportal.herne.de/"><img class="img-responsive" src="https://www.herne.de/Bilder/Logos/BÃ¼rgerservice.jpg" alt="Stadt Herne - Online-Dienstleistungen"/></a>
+</div>
+</div>
+<!-- box_marginalie: ende -->
+<!-- box_marginalie: start -->
+<div class="box_marginalie">
+<div class="box_marginalie_header">
+<h6 class="box_marginalie_header_titel">
+Veranstaltungen
+</h6>
+</div>
+<div class="box_marginalie_content" >
+<p><a href="https://pages.veranstaltungen-herne.de/de/veranstaltungen-herne/streaming/search/Event/mode:next_months,3/sort:chronological" target="_blank" title="Zum Veranstaltungskalender">Zum Veranstaltungskalender <i class="fa fa-external-link"></i></a></p>
+<p><a href="https://www.herne.de/Kultur-und-Freizeit/Kulturservice/Staedtisches-Kulturbuero/Veranstaltung-melden/index.html" title="Link zur Informationsseite um Veranstaltungen zu melden.">Veranstaltung melden</a></p>
+</div>
+</div>
+<!-- box_marginalie: ende -->
+<!-- box_marginalie: start -->
+<div class="box_marginalie">
+<div class="box_marginalie_header">
+<h6 class="box_marginalie_header_titel">
+Leichte Sprache
+</h6>
+</div>
+<div class="box_marginalie_content">
+<a class="link_blau" href="Leichte-Sprache/">Unser Angebot in Leichter Sprache</a>
+</div>
+</div>
+<!-- box_marginalie: start -->
+<div class="box_marginalie">
+<div class="box_marginalie_header">
+<h6 class="box_marginalie_header_titel">
+Google Translate
+</h6>
+</div>
+<div class="box_marginalie_content" id="translate_box">
+<a id="activategoogle" name="translate" href="#translate" title="activate Google translate">Google Translate aktivieren</a>
+<div id="google_translate_element" ></div>
+</div>
+</div>
+<!-- box_marginalie: ende -->
+<script type="text/javascript">
+$(document).ready(function () {
+$("#translate_box").css("min-height", "89px");
+$("#translate_box").css("text-align", "center");
+});
+function googleTranslateElementInit() {
+new google.translate.TranslateElement({pageLanguage: 'de'}, 'google_translate_element');
+}
+$("#activategoogle").click(function(){
+$("#activategoogle").remove();
+$.getScript('//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit');
+});
+</script>
+<!-- box_marginalie: start -->
+<div class="box_marginalie">
+<div class="box_marginalie_header">
+<h6 class="box_marginalie_header_titel">
+Karriere bei der Stadt Herne
+</h6>
+</div>
+<div class="box_marginalie_content">
+<ul >
+<li><a href="
+https://www.mein-check-in.de/herne/x/stellenangebote
+" >Stellenausschreibungen</a></li>
+</ul>
+</div>
+</div>
+<!-- box_marginalie: ende -->
+<!-- box_marginalie: start -->
+<div class="box_marginalie">
+<div class="box_marginalie_header">
+<h6 class="box_marginalie_header_titel">
+Stadt-Herne-App
+</h6>
+</div>
+<div class="box_marginalie_content">
+<ul >
+<li><a href="
+Stadt-und-Leben/Stadtfakten/Stadt-Herne-App/
+" >Stadt-Herne-App</a></li>
+</ul>
+</div>
+</div>
+<!-- box_marginalie: ende -->
+<!-- box_marginalie: start -->
+<div class="box_marginalie">
+<div class="box_marginalie_header">
+<h6 class="box_marginalie_header_titel">
+Pressemitteilungen
+</h6>
+</div>
+<div class="box_marginalie_content">
+<ul >
+<li><a href="
+Meldungen/Alle-News.html
+" >Ãbersicht Pressemeldungen</a></li>
+</ul>
+</div>
+</div>
+<!-- box_marginalie: ende -->
+<!-- MARGINALIE CONTENT: ende -->
+</aside>
+<!-- Marginalie: ende -->
+</div>
+<!-- div marginalie: ende -->
+</div>
+<!-- row: ende -->
+</div>
+<!-- container: ende -->
+<!-- MAIN- & ASIDE-CONTAINER: ende -->
+<!-- FOOTER -->
+<footer>
+<!-- Schmuckleiste - Footer -->
+<div class="container_schmuckleiste_footer abstand_top_21px" role="presentation">
+</div>
+<!-- Footer - Content -->
+<div class="container_footer fullwidth">
+<div class="container">
+<div class="fullwidth">
+<h6 class="sprunglinks_unsichtbar">FuÃzeile</h6>
+<!-- footer_box: start -->
+<div class="box_footer">
+<div class="box_footer_logo">
+<a href="index.html"><img id ="stadt_herne_logo_footer" src="https://www.herne.de/media/template/images/stadt_herne_logo_footer.svg" title="Logo der Stadt Herne" alt="Logo der Stadt Herne" /></a>
+</div>
+<div class="box_adresse_footer">
+Friedrich-Ebert-Platz 2<br />
+44623 Herne
+</div>
+<div class="box_telefon_footer">
+Telefon: 0 23 23 / 16 - 0 <br />
+Telefax: 0 23 23 / 16 - 21 00 </div>
+<div class="box_internet_footer">
+E-Mail: <a href="mailto:info@herne.de" title="E-Mail-Adresse der Stadt Herne">info@herne.de</a><br />
+Internet: <a href="http://www.herne.de" title="Internet-Adresse der Stadt Herne">www.herne.de</a><br />
+App: <a href="https://www.herne.de/Stadt-und-Leben/Stadtfakten/Stadt-Herne-App/" title="Informationen zur Stadt-Herne-App">Stadt-Herne-App</a>
+</div>
+</div>
+<!-- footer_box: ende -->
+<!-- footer_box: start -->
+<div class="box_footer">
+<ul>
+<li><a href="
+https://www.herne.de/Homepage.html
+" title="Link zur Seite Stadt Herne">Stadt Herne</a></li>
+<li><a href="https://pages.veranstaltungen-herne.de/de/veranstaltungen-herne/streaming/search/Event/mode:next_months,3/sort:chronological" target="blank" title="Externer Link zur Seite Veranstaltungskalender">Veranstaltungskalender <i class="fa fa-external-link"></i></a></li>
+<li><a href="
+https://www.herne.de/Rathaus/Buergerservice/
+" title="Link zur Seite BÃ¼rgerservice">BÃ¼rgerservice</a></li>
+<li><a href="http://www.inherne.net" target="blank" title="Externer Link zur Seite Stadtmagazin">Stadtmagazin <i class="fa fa-external-link"></i></a></li>
+<li><a href="
+https://www.herne.de/Technische-Seiten/Social-Media/
+" title="Link zur Seite Soziale Medien">Soziale Medien</a></li>
+<li><a href="
+https://www.herne.de/Technische-Seiten/Tochtergesellschaften/
+" title="Link zur Seite Tochtergesellschaften">Tochtergesellschaften</a></li>
+</ul>
+</div>
+<!-- footer_box: ende -->
+<!-- footer_box: start -->
+<div class="box_footer">
+<div class="container_box_icons_footer">
+<div class="box_icon_reihe_footer">
+<div class="box_icon_footer">
+<a href="http://www.facebook.com/pages/Stadt-Herne/119593054779168" target="_blank" title="Link Ã¶ffnet sich in einem neuen Browserfenster.">
+<img src="https://www.herne.de/Bilder/Bilder-Footer-Icons/icon_facebook_44x44px_SocialMedia.png" title="Folgen Sie Stadt Herne auf Facebook!" alt="Das Logo von Facebook" />
+</a>
+</div>
+<div class="box_icon_footer">
+<a href="https://www.linkedin.com/company/stadt-herne/" target="_blank" title="Link Ã¶ffnet sich in einem neuen Browserfenster.">
+<img src="https://www.herne.de/Bilder/Bilder-Footer-Icons/LinkedIn_icon_44x44px_SocialMedia.png" title="Folgen Sie Stadt Herne auf LinkedIn!" alt=" " />
+</a>
+</div>
+<div class="box_icon_footer">
+<a href="https://www.instagram.com/stadt_herne/" target="_blank" title="Link Ã¶ffnet sich in einem neuen Browserfenster.">
+<img src="https://www.herne.de/Bilder/Bilder-Footer-Icons/instagramm_icon_SocialMedia.png" title="Instagram" alt="Das Instagram-Logo" />
+</a>
+</div>
+</div>
+<div class="box_icon_reihe_footer">
+<div class="box_icon_footer">
+<a href="https://european-union.europa.eu/" target="_blank" title="Link Ã¶ffnet sich in einem neuen Browserfenster.">
+<img src="https://www.herne.de/Bilder/Bilder-Footer-Icons/icon_europaeische_union_44x44px_SocialMedia.png" title="EuropÃ¤ische Union" alt="Die Flagge der EuropÃ¤ischen Union: Goldene Sterne auf blauem Grund" />
+</a>
+</div>
+<div class="box_icon_footer">
+<a href="https://www.total-e-quality.de/" target="_blank" title="Link Ã¶ffnet sich in einem neuen Browserfenster.">
+<img src="https://www.herne.de/Bilder/Bilder-Footer-Icons/icon_teq_44x44px_SocialMedia.png" title="Total E-Quality" alt="Logo Total E-Quality" />
+</a>
+</div>
+<div class="box_icon_footer">
+<a href="http://www.cranger-kirmes.de/" target="_blank" title="Link Ã¶ffnet sich in einem neuen Browserfenster.">
+<img src="https://www.herne.de/Bilder/Bilder-Footer-Icons/icon_cranger_kirmes_44x44px_SocialMedia.png" title="Cranger Kirmes" alt="Cranger-Kirmes-WindmÃ¼hle" />
+</a>
+</div>
+</div>
+<div class="box_icon_reihe_footer">
+<div class="box_icon_footer">
+<a href="https://www.youtube.com/channel/UCbvUODXJS0fE2fkBnzXPXEA" target="_blank" title="Link Ã¶ffnet sich in einem neuen Browserfenster.">
+<img src="https://www.herne.de/Bilder/Bilder-Footer-Icons/yt_icon_red_digital_SocialMedia.png" title="Youtube" alt=" " />
+</a>
+</div>
+<div class="box_icon_footer">
+<a href="
+https://www.herne.de/Wirtschaft-und-Infrastruktur/Bauen-und-Wohnen/Bauen/Geoportal/
+">
+<img src="https://www.herne.de/Bilder/Bilder-Footer-Icons/globus_ohne_hintergrund_44x44_SocialMedia.png" title="Geoportal" alt="Geoportal" />
+</a>
+</div>
+<div class="box_icon_footer">
+<a href="http://www.inherne.net/" target="_blank" title="Link Ã¶ffnet sich in einem neuen Browserfenster.">
+<img src="https://www.herne.de/Bilder/Bilder-Footer-Icons/logo_inherne_44px_neu_SocialMedia.jpg" title="Das Stadtmagazin inHerne online" alt="Logo InHerne" />
+</a>
+</div>
+</div>
+</div>
+<div class="clearfix"></div><!-- important: lÃ¶scht float -->
+</div>
+<!-- footer_box: ende -->
+<!-- footer_box: start -->
+<div class="box_footer">
+<ul>
+<li><a href="
+Technische-Seiten/Impressum/
+" >Impressum</a></li>
+<li><a href="
+Technische-Seiten/Barrierefreiheitserklaerung/
+" >BarrierefreiheitserklÃ¤rung</a></li>
+<li><a href="
+Technische-Seiten/Datenschutzerklaerung/
+" >DatenschutzerklÃ¤rung</a></li>
+<li><a href="
+Technische-Seiten/Kontakt/
+" >Kontakt</a></li>
+<li><a href="
+Rathaus/Buergerservice/Presse/
+" >Presse</a></li>
+<li><a href="https://geoportal.herne.de/basis/" title="Link Ã¶ffnet sich im neuen Fenster." target="_blank">Stadtplan <i class="fa fa-external-link"></i></a></li>
+<li><a href="
+Rathaus/Stellen-und-Ausbildung/
+" >Stellenangebote</a></li>
+<li><a href="https://www.herne.de/newsletter/anmeldung.php" title="Link Ã¶ffnet sich im neuen Fenster." target="_blank">Newsletter <i class="fa fa-external-link"></i></a></li>
+</ul>
+</div>
+<!-- startseite_footer_box: ende -->
+</div>
+</div>
+</div>
+<!-- Footer - Content: ende -->
+<!-- Footer - Copyright -->
+<div class="container_footer_bottom fullwidth">
+<div class="box_left">
+</div>
+<div class="box_middle">
+<div class="copyright">
+Â© Stadt Herne 2026
+</div>
+</div>
+<div class="box_right">
+<div class="pfeil_seitenanfang">
+<a href="#seitenanfang" title="Link zum Seitenanfang"><img src="https://www.herne.de/media/template/images/pfeil_seitenanfang.png" alt="Doppelpfeil nach oben" /></a>
+</div>
+</div>
+</div><!-- container_footer_bottom: ende -->
+</footer>
+<!-- FOOTER: ende -->
+<!-- NEU 2022 Cookie-Hinweisbox Prebox: Start -->
+<div class="herne_cookie_consent_container_pre_outerbox2" style="display: block; overflow-x: scroll;">
+<div class="herne_cookie_consent_container_pre_outerbox">
+<div class="pre_outerbox_maintext pre_outerbox_clearfix">
+<h6>Cookie-Hinweis</h6>
+Unsere Webseite verwendet Cookies, um ein besseres Nutzererlebnis zu bieten. Einige Cookies
+sind fÃ¼r die Grundfunktionen erforderlich, wÃ¤hrend Dienste von Drittanbietern helfen, die
+Website zu verbessern. Ãber diese Dienste finden Sie detaillierte Informationen in unserer
+<a href="https://www.herne.de/Technische-Seiten/Datenschutzerklaerung/">DatenschutzerklÃ¤rung</a>. Um diese Dienste verwenden zu dÃ¼rfen, benÃ¶tigen wir Ihre Einwilligung.<br />
+Ihre Einwilligungen kÃ¶nnen Sie jederzeit mit Wirkung fÃ¼r die Zukunft Ã¼ber das Zahnrad-Symbol <span class="glyphicon glyphicon-cog"></span>
+am oberen Seitenrand widerrufen oder Ã¤ndern. Bitte beachten Sie, dass auf Basis Ihrer Einstellungen
+womÃ¶glich nicht mehr alle FunktionalitÃ¤ten der Seite zur VerfÃ¼gung stehen.
+<div class="pre_outerbox_button_area">
+<button class="pre_outerbox_button" id="button_open_privacy" aria-label="Datenschutz Ã¶ffnen">Cookie-Einstellungen und -Informationen anzeigen</button>
+<button class="pre_outerbox_button" id="button_accept_all_cookies" aria-label="Alle Cookies akzeptieren">Alle Cookies akzeptieren</button>
+<button class="pre_outerbox_button" id="button_reject_all_cookies" aria-label="Alle Cookies ablehnen">Alle Cookies ablehnen</button>
+</div>
+<div class="pre_outerbox_link_box">
+<div class="pre_outerbox_link_impressum pre_outerbox_clearfix"><a href="https://www.herne.de/Technische-Seiten/Impressum/">Impressum</a></div>
+</div>
+</div>
+</div>
+<!-- NEU 2022 Cookie-Hinweisbox Prebox: Ende -->
+<script type="text/javascript" src="media/Cookiebanner-Test/ah_herne.js?ver=3.0"></script>
+<script src="media/kst/js/plugins_1/jqueryauto-complete.js"></script>
+<script src="media/kst/js/kst-config.js"></script>
+<script src="media/kst/js/kst-core.js"></script>
+<script src="media/kst/js/kst-suchbox.js?ver=2.0"></script>
+<script>
+// Document Ready Button Start unsichtbar
+$(document).ready(function(){
+$("#button_slider_start").css("display","none");
+});
+function pause_slider() {
+// SliderID Ã¼ber Slide Revolution JS-Code ermitteln
+pano_rev_slider_id = jQuery(".rev_slider_wrapper .revslider .rev_slider").attr("id");
+id_array = pano_rev_slider_id.split("_");
+pano_id = id_array[2];
+// Focus setzen
+$( ".rev_slider_wrapper .revslider .rev_slider" ).focus();
+// Pause setzen
+jQuery.globalEval( 'revapi'+pano_id+'.revpause();' );
+// Button Toggle
+$("#button_slider_pause").css("display","none");
+$("#button_slider_start").css("display","block");
+}
+function start_slider() {
+// SliderID Ã¼ber Slide Revolution JS-Code ermitteln
+pano_rev_slider_id = jQuery(".rev_slider_wrapper .revslider .rev_slider").attr("id");
+id_array = pano_rev_slider_id.split("_");
+pano_id = id_array[2];
+// Focus setzen
+$( ".rev_slider_wrapper .revslider .rev_slider" ).focus();
+// Pause setzen
+jQuery.globalEval( 'revapi'+pano_id+'.revresume();' );
+// Button Toggle
+$("#button_slider_start").css("display","none");
+$("#button_slider_pause").css("display","block");
+}
+</script>
+<script>
+$(document).ready(function () {
+$('#jsuche').kst_suchbox({
+boxtyp: 'desktop',
+platzhalter: 'Suche'
+});
+kst_modal();
+});
+</script>
+<style type="text/css">
+/* ---- Override Read Speaker ---- */
+/* ---- vor schliessendem Body-Tag ---- */
+/* Dragbar */
+.rsbtn.rsdetached .rsbtn_dragbar {
+border: 1px solid #ccc !important;
+}
+.rsbtn.rsdetached .rsbtn_dragbar:focus {
+background: #ccc !important;
+}
+/* Button Border */
+.rsbtn_player_item,
+.rs_addtools .rsbtn_play .rsbtn_right,
+.rsbtn .rsbtn_play .rsbtn_right {
+border-left: 1px solid #ccc !important;
+}
+.rsbtn .rsbtn_exp .rsbtn_exp_inner .rsbtn_progress_container {
+border: none !important;
+}
+.rsbtn .rsbtn_exp .rsbtn_exp_inner .rsbtn_stop {
+border-right: 1px solid #ccc !important;
+}
+.rs_addtools .rsbtn_play,
+.rsbtn .rsbtn_play {
+border: 1px solid #ccc !important;
+}
+.rsexpanded .rsbtn_play {
+border-right: none !important;
+}
+.rsbtn .rsbtn_exp .rsbtn_exp_inner {
+border: 1px solid #ccc !important;
+}
+/* Border-Radius */
+.rsbtn.rsexpanded .rsbtn_exp .rsbtn_exp_inner,
+.rs_addtools .rsbtn_play, .rsbtn .rsbtn_play {
+border-top-right-radius: 2px !important;
+border-bottom-right-radius: 2px !important;
+}
+/* Border ausblenden */
+.rspart,
+.rsbtn .rsbtn_exp .rsbtn_exp_inner {
+border-left: none !important;
+}
+/* Toolpanel unten */
+/* Toolpanel unten geoeffnet Hover */
+.rsbtn_toollist li .rsbtn_tool:hover,
+.rsbtn .rsbtn_toolpanel .rsbtn_tools .rsbtn_tools_inner .rsbtn_toolcontainer .rsbtn_toollist li .rsbtn_tool:focus,
+.rsbtn .rsbtn_toolpanel .rsbtn_tools .rsbtn_tools_inner .rsbtn_toolcontainer .rsbtn_toollist li .rsbtn_tool:hover {
+background: #fff !important;
+color: #000 !important;
+}
+/* Toolpanel unten geoeffnet */
+.rs_addtools .rsbtn_toolpanel .rsbtn_tools .rsbtn_tools_inner .rsbtn_toolcontainer .rsbtn_toollist li .rsbtn_tool,
+.rsbtn .rsbtn_toolpanel .rsbtn_tools .rsbtn_tools_inner .rsbtn_toolcontainer .rsbtn_toollist li .rsbtn_tool {
+color: #007d30 !important;
+}
+/* Toolpanel unten geoeffnet */
+.rs_addtools .rsbtn_toolpanel .rsbtn_tools, .rsbtn .rsbtn_toolpanel .rsbtn_tools {
+border: 1px solid #ccc !important;
+}
+/* Hintergruende */
+.rsbtn .rsbtn_play, .rs_addtools .rsbtn_play,
+.rsbtn .rsbtn_exp .rsbtn_exp_inner,
+.rs_addtools .rsbtn_toolpanel .rsbtn_tools, .rsbtn .rsbtn_toolpanel .rsbtn_tools,
+.rs_addtools .rsbtn_play, .rsbtn .rsbtn_play {
+background: #fff !important;
+background: -moz-linear-gradient(top,#fff 0,#fff 100%);
+background: -webkit-gradient(linear,left top,left bottom,color-stop(0,#fff),color-stop(100%,#fff));
+background: -webkit-linear-gradient(top,#fff 0,#fff 100%);
+background: -o-linear-gradient(top,#fff 0,#fff 100%);
+background: -ms-linear-gradient(top,#fff 0,#fff 100%);
+background: linear-gradient(to bottom,#fff 0,#fff 100%);
+}
+/* Open Close Tool */
+.rsbtn .rsbtn_tooltoggle, .rs_addtools .rsbtn_tooltoggle {
+border-right: 1px solid #ccc !important;
+border-top: 1px solid #ccc !important;
+}
+.rs_addtools.zoom-tooltoggler .rsbtn_tooltoggle, .rsbtn.zoom-tooltoggler .rsbtn_tooltoggle {
+background: #fff !important;
+border: 1px solid #ccc !important;
+}
+/* Suchleiste */
+.rsbtn .rsbtn_exp .rsbtn_exp_inner .rsbtn_progress_container .rsbtn_progress_handle a {
+background: #007d30 !important;
+}
+/* Suchleiste Hover Focus Dragged */
+.rsbtn .rsbtn_exp .rsbtn_exp_inner .rsbtn_progress_container .rsbtn_progress_handle a:focus,
+.rsbtn .rsbtn_exp .rsbtn_exp_inner .rsbtn_progress_container .rsbtn_progress_handle a:hover,
+.rsbtn .rsbtn_exp .rsbtn_exp_inner .rsbtn_progress_container .rsbtn_progress_handle.dragged a {
+background: #000 !important;
+}
+/* Suchleiste Progress Played Leiste */
+.rsbtn .rsbtn_exp .rsbtn_exp_inner .rsbtn_progress_container .rsbtn_progress_played {
+background: #999 !important;
+}
+/* Buttons */
+.rsbtn .rsbtn_exp .rsbtn_exp_inner .rsbtn_player_item {
+color: #007d30 !important;
+}
+/* Buttons Hover */
+.rsbtn .rsbtn_exp .rsbtn_exp_inner .rsbtn_player_item:focus,
+.rsbtn .rsbtn_exp .rsbtn_exp_inner .rsbtn_player_item:hover {
+color: #000 !important;
+}
+/* Volume Container */
+.rsbtn .rsbtn_exp .rsbtn_exp_inner .rsbtn_volume_container {
+background: #fff !important;
+border: 1px solid #ccc !important;
+}
+/* Volume */
+.rsbtn .rsbtn_exp .rsbtn_exp_inner .rsbtn_volume_container .rsbtn_volume_slider .rsbtn_volume_handle {
+background: #007d30 !important;
+}
+/* Volume Hover */
+.rsbtn .rsbtn_exp .rsbtn_exp_inner .rsbtn_volume_container .rsbtn_volume_slider .rsbtn_volume_handle.rsfocus,
+.rsbtn .rsbtn_exp .rsbtn_exp_inner .rsbtn_volume_container .rsbtn_volume_slider .rsbtn_volume_handle:focus,
+.rsbtn .rsbtn_exp .rsbtn_exp_inner .rsbtn_volume_container .rsbtn_volume_slider .rsbtn_volume_handle:hover {
+background: #000 !important;
+}
+/* ---- */
+.rsbtn .rsbtn_tooltoggle, .rs_addtools .rsbtn_tooltoggle {
+border-right: 1px solid #ccc !important;
+border-top: 1px solid #ccc !important;
+}
+.rsbtn_text span,
+.rsbtn .rsbtn_play .rsbtn_left .rsbtn_text,
+.rs_addtools .rsbtn_play .rsbtn_left .rsbtn_text,
+.rsbtn .rsbtn_play .rsbtn_right,
+.rs_addtools .rsbtn_play .rsbtn_right {
+color: #007d30 !important;
+}
+/* -- Hover -- */
+.rsbtn .rsbtn_play:hover .rsbtn_text,
+.rs_addtools .rsbtn_play:hover .rsbtn_text,
+.rsbtn .rsbtn_play:focus .rsbtn_text,
+.rs_addtools .rsbtn_play:focus .rsbtn_text,
+.rsbtn .rsbtn_play:hover .rsbtn_text::before,
+.rs_addtools .rsbtn_play:hover .rsbtn_text::before,
+.rsbtn .rsbtn_play:focus .rsbtn_text::before,
+.rs_addtools .rsbtn_play:focus .rsbtn_text::before,
+.rsbtn .rsbtn_play:hover .rsbtn_text span,
+.rs_addtools .rsbtn_play:hover .rsbtn_text span,
+.rsbtn .rsbtn_play:focus .rsbtn_text span,
+.rs_addtools .rsbtn_play:focus .rsbtn_text span,
+.rsbtn .rsbtn_play:hover .rsbtn_right::before,
+.rs_addtools .rsbtn_play:hover .rsbtn_right::before,
+.rsbtn .rsbtn_play:focus .rsbtn_right::before,
+.rs_addtools .rsbtn_play:focus .rsbtn_right::before {
+color: #000 !important;
+}
+</style>
+</body>
+</html>
+<!-- KST START -->

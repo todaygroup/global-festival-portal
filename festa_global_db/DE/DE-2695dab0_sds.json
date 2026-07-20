@@ -1,42 +1,38 @@
 {
   "identity": {
-    "festival_id": "DE-2695dab0",
-    "name_en": "Hamburg Hafengeburtstag",
-    "name_local": "Hafengeburtstag Hamburg",
-    "country": "Germany",
-    "city": "Hamburg",
-    "category": "Cultural"
+    "name_local": "Unknown Festival",
+    "name_en": "Unknown Festival",
+    "category": "Festival",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "address": null
   },
-  "schedule": {
-    "start_date": "May",
-    "end_date": "May",
-    "frequency": "Annual",
-    "season": "Spring"
+  "temporal": {
+    "start_date": null,
+    "end_date": null,
+    "frequency": null,
+    "detailed_schedule": null
+  },
+  "experience": {
+    "deep_description": null,
+    "highlights": [],
+    "local_tips": [],
+    "points_of_interest": []
   },
   "logistics": {
-    "location": {
-      "address": "Main square, Hamburg, Germany",
-      "coordinates": {
-        "lat": 53.5511,
-        "lon": 9.9937
-      }
-    },
-    "access": "Public transportation, taxis, and local shuttles."
+    "official_url": null,
+    "ticket_info": null,
+    "transport": null,
+    "accommodation_tips": null
   },
   "multimedia": {
-    "official_url": "https://www.hafengeburtstag.de",
-    "images": [
-      "https://cdn.festa-global.com/DE/DE-2695dab0_main.jpg"
-    ],
-    "videos": []
-  },
-  "resources": {
-    "tickets": "Available via official website",
-    "guide_url": "https://www.hafengeburtstag.de/guide"
+    "official_images": [],
+    "official_videos": []
   },
   "verification": {
-    "source": "Official Tourism Board",
-    "last_updated": "2026-07-14",
-    "status": "verified"
+    "source_url": null,
+    "update_date": "2026-07-16"
   }
 }

@@ -1,42 +1,38 @@
 {
   "identity": {
-    "festival_id": "DE-d92f3031",
-    "name_en": "Wacken Open Air",
-    "name_local": "Wacken Open Air",
-    "country": "Germany",
-    "city": "Wacken",
-    "category": "Music"
+    "name_local": "Unknown Festival",
+    "name_en": "Unknown Festival",
+    "category": "Festival",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "address": null
   },
-  "schedule": {
-    "start_date": "August",
-    "end_date": "August",
-    "frequency": "Annual",
-    "season": "Summer"
+  "temporal": {
+    "start_date": null,
+    "end_date": null,
+    "frequency": null,
+    "detailed_schedule": null
+  },
+  "experience": {
+    "deep_description": null,
+    "highlights": [],
+    "local_tips": [],
+    "points_of_interest": []
   },
   "logistics": {
-    "location": {
-      "address": "Main square, Wacken, Germany",
-      "coordinates": {
-        "lat": 53.8458,
-        "lon": 9.6125
-      }
-    },
-    "access": "Public transportation, taxis, and local shuttles."
+    "official_url": null,
+    "ticket_info": null,
+    "transport": null,
+    "accommodation_tips": null
   },
   "multimedia": {
-    "official_url": "https://www.wacken.com",
-    "images": [
-      "https://cdn.festa-global.com/DE/DE-d92f3031_main.jpg"
-    ],
-    "videos": []
-  },
-  "resources": {
-    "tickets": "Available via official website",
-    "guide_url": "https://www.wacken.com/guide"
+    "official_images": [],
+    "official_videos": []
   },
   "verification": {
-    "source": "Official Tourism Board",
-    "last_updated": "2026-07-14",
-    "status": "verified"
+    "source_url": null,
+    "update_date": "2026-07-16"
   }
 }

@@ -1,0 +1,1177 @@
+
+			<!DOCTYPE html>
+		 <html lang="de">
+<head><meta charset="UTF-8" /><meta name="author" content="Stadt Gelsenkirchen, stadt@gelsenkirchen.de" /><meta name="revisit-after" content="7 days" /><meta name="robots" content="index" /><meta name="robots" content="follow" /><meta name="description" content="Die Stadt Gelsenkirchen informiert über das Dienstleistungsabgebot sowie über Wirtschaft, Bildung, Tourismus, Kultur und das Leben in Gelsenkirchen." /><!-- Meta-->
+<meta name="geo.position" content="51.511143,7.093107" /><meta name="geo.placename" content="Gelsenkirchen, Nordrhein-Westfalen" /><meta name="geo.region" content="DE-NRW" /><meta name="icbm" content="51.511143,7.093107" /><meta name="viewport" content="width=device-width, user-scalable=yes, initial-scale=1.0, minimum-scale=1.0" />
+
+<!-- CSS -->
+<link rel="stylesheet" type="text/css" href="/1_technik/css/leaflet,leaflet.markercluster,leaflet.fullscreen,font,elemente,controls,layout,jquery.anythingslider,jquery-ui,navigation,bootstrap-grid,venobox.min" media="all" /><link rel="stylesheet" type="text/css" href="/1_technik/css/print" media="print" /><link rel="stylesheet" type="text/css" href="/1_technik/css/consentManager" />
+
+<!-- JS -->
+<script type="text/javascript" src="/1_technik/js/jquery"></script>
+<script type="text/javascript" src="/1_technik/js/jquery.anythingslider.min,jquery-ui.custom.min,mediaMatcher,jquery.event.swipe,leaflet.min,leaflet.markercluster.min,leaflet.fullscreen.min,leaflet.svgMarker,script,venobox.min"></script>
+<script type="text/javascript" src="/1_Technik/js/klaroConfig"></script>
+<script type="text/javascript" data-config="klaroConfig" src="/1_Technik/js/klaro"></script>
+<script type="text/javascript" data-name="karte" data-src="/1_Technik/js/geMap"></script>
+
+<!-- iOS -->
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" /><link rel="apple-touch-icon" href="/apple-touch-icon-precomposed.png" />
+<!-- Android -->
+<meta name="mobile-web-app-capable" content="yes" /><link rel="icon" type="image/png" href="/images/tiles/android.png" sizes="144x144" /><meta name="theme-color" content="#213181" />
+<!-- Windows -->
+<meta name="application-name" content="gelsenkirchen.de" /><meta name="msapplication-starturl" content="https://www.gelsenkirchen.de" /><meta name="msapplication-square70x70logo" content="/images/tiles/msapplication-square70x70logo.png" /><meta name="msapplication-square150x150logo" content="/images/tiles/msapplication-square150x150logo.png" /><meta name="msapplication-wide310x150logo" content="/images/tiles/msapplication-square310x150logo.png" /><meta name="msapplication-square310x310logo" content="/images/tiles/msapplication-square310x310logo.png" /> 
+<!-- Die weiteren MS-Angaben erfolgen über die /browserconfig.xml -->
+
+<!-- Link-->
+<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="www.gelsenkirchen.de" /><link rel="alternate" type="application/rss+xml" title="gelsenkirchen.de Newsfeed" href="/de/_meta/Aktuelles/artikel/newsfeed/" /><link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico" /><link rel="icon" type="image/png" href="/favicon.png" sizes="16x16" /><meta name="msapplication-square70x70logo" content="/images/tiles/msapplication-square70x70logo.png" /><meta name="msapplication-square150x150logo" content="/images/tiles/msapplication-square150x150logo.png" /><meta name="msapplication-wide310x150logo" content="/images/tiles/msapplication-square310x150logo.png" /><meta name="msapplication-square310x310logo" content="/images/tiles/msapplication-square310x310logo.png" /> 
+<!-- Die weiteren MS-Angaben erfolgen über die /browserconfig.xml -->
+
+<!-- Link-->
+<link rel="search" href="/opensearch.xml" type="application/opensearchdescription+xml" title="www.gelsenkirchen.de" /><link rel="alternate" type="application/rss+xml" title="gelsenkirchen.de Newsfeed" href="/de/_meta/Aktuelles/artikel/newsfeed/" /><link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico" /><link rel="icon" type="image/png" href="/favicon.png" sizes="16x16" /><link rel="alternate" type="application/rss+xml" title="Das GEhört sich so - Der Gelsenkirchen-Podcast" href="https://gelsenkirchen-podcast.podigee.io/feed/mp3" />
+
+<title>
+	www.gelsenkirchen.de - 
+				 Startseite 
+					
+</title>	
+				
+<meta name="DC.language" content="" />
+<meta name="PS.uniqueid" content="1.2" />
+<!--header Skript von Template "Template Gelsenkirchen Neu"-->
+			</head>
+<body> 
+				<form name="form" method="post" action="/de/default.aspx" id="form">
+<div>
+<input type="hidden" name="ToolkitScriptManager1_HiddenField" id="ToolkitScriptManager1_HiddenField" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Fy+O1Rsv2m6yZ7EbhO7JCPJt4fC4VsdIh0fIqPQ1pzd/5dZSGNJGO779zNLXCOEC7JuZzUnySLjc6LBO5q+aX0fflMfExJnASjf6dwuVRJAUjtqltbb48mI/ciXOg02JqL0e4wVCip8LY5zQ+12HJjvOw7c5GQ/fLcICaM36mjjNGi8xbDcsNxGtwFr3GHei2dNiSa2vTQNekX60nqYs59PDXE+HWgGkWB4hQsuQRrqSShQjU1AP7ZCsdgSXC0mNGUSOfpEXID6z5SI70qr94uAoR2A6cefG+/TeJhrJCl1cnfkStAx3evbC3r+JdPcHKqVLKysIuZ99VWDXhe3gxZN6KxPEpTL1kOz18DBenlvTUtHz/VH3ZqJVwSW0kkxEXo/jy1u60noQ172BfU9lVFe1lowOI0IFlXjoDXxT0LGU88SNy+9doIrjpifX77unAjOdqX87ZFpZBCnirNPLOZXF33aAH+k1ThsNVU6Uftcl8NrR6Uu71z+MHQCd/dfoqpjTy4BSRiy4IKNb0inwRMnE0SKyP/eGKX1ROZfOhq6WbMwg+hQXc8iIeuCiK9tq2PaKcg==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form'];
+if (!theForm) {
+    theForm = document.form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZKP9W-NKYfm7SaG9sc7rF1Q49Vktp5AGztF8jtcvyS_JvtDgzw2&amp;t=638901613900000000" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=yeSNAJTOPtPimTGCAo3LlR6LWN7z3wZfR93HfTtS4iY29Sdo2SENBGMVJyAFIVEy3YzEIbedqfsJizXP0NQZorVCnb_K9Vvi8uB_AeXfC6mpopoZ0&amp;t=f2cd5c5" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('Fehler beim Laden des clientseitigen ASP.NET Ajax-Frameworks.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=DT3YJR8QaqV61-teuz0hguPFyg283Otk7zmBSHyPPOBteQfuaN1mFx8ien9mKkEGR6Hd1V-KQZIL1450d42bN8lKsKNAxxB77KjIYwAGiVAMmY3tnv7L4CU_7pyJtQ4dlt55ng2&amp;t=f2cd5c5" type="text/javascript"></script>
+<script src="/WebService/CmsIntranetService.asmx/jsdebug" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="B3938569" />
+</div>
+					<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ToolkitScriptManager1', 'form', [], [], [], 90, 'ctl00$ctl00');
+//]]>
+</script>
+
+					
+			 <!--googleoff: index-->
+<!--nxid=1-->
+<a id="top">
+<!--sprungmarke-->
+</a> 
+				<ul id="schnellnavi">
+					<li><a href="#sprungmarke_content">Direkt zum Inhalt wechseln</a></li>
+					<li><a href="#sprungmarke_nav">Direkt zur Unternavigation</a></li>
+					<li><a href="#sprungmarke_suche">Direkt zur Suche</a></li>
+					<li><a href="/de/_funktionsnavigation/inhalt.aspx">Direkt zum Inhaltsverzeichnis</a></li>
+					<li><a href="/">Direkt zur Startseite</a></li>
+				</ul>
+			   <div id="smartnav"><ul>
+<li>
+<a href="/"><img src="/images/logo-ge_4.png" alt="Logo Stadt Gelsenkirchen" class="noprint" style="height: 30px;" /></a>
+</li>
+<li>
+<a href="#" id="shownav" class="icon-menu" aria-label="Men&uuml; ein-/ausblenden"><span class="noshow">Men&uuml;</span></a>
+<ul></ul>
+</li>
+</ul>
+<div class="clear"></div></div>
+<div id="all">
+<div id="smartnavpush">
+<!--div-->
+</div>
+<div id="header"> 
+							<div style="float: right;position: relative;">
+								
+								
+							</div>
+							<h1>www.gelsenkirchen.de</h1>
+							<!-- LOGO -->
+							<div id="logo">
+								<a href="/" class="noprint"><img alt="Logo der Stadt Gelsenkirchen" src="/images/logo-ge_4.png"/></a>
+								<a href="/" class="noscreen"><img src="/images/sim_3483468_102.png" alt="Stadt Gelsenkirchen"/></a>
+							</div>
+							<div id="suche">
+								<label for="sucheingabe" class="noshow">Suche</label>
+								<input id="sucheingabe" type="text" placeholder="Suche" />
+								<button type="submit" aria-label="Suchen"><span class="noshow">Suchen</span></button>
+							</div>
+							<div data-ctrl-gemenu="{}" id="nav" class="opensearchserver.ignore">
+								<a id="sprungmarke_nav"></a>
+									
+				
+
+<ul class="ebene1"><li><a href="/de/default.aspx" title="Zur Seite &quot;Startseite&quot;"><span>Startseite</span></a></li><li><a href="/de/Rathaus/index.aspx" title="Zur Seite &quot;Rathaus&quot;"><span>Rathaus</span></a><ul class="ebene2"><li><a href="/de/Rathaus/Politik_und_Verwaltung/index.aspx" title="Zur Seite &quot;Politik und Verwaltung&quot;"><span>Politik und Verwaltung</span></a><ul class="ebene3"><li><a href="/de/Rathaus/Politik_und_Verwaltung/Respekt" title="Zur Seite &quot;Respekt&quot;"><span>Respekt</span></a></li><li><a href="/de/Rathaus/Politik_und_Verwaltung/Oberbuergermeisterin" title="Zur Seite &quot;Oberbürgermeisterin&quot;"><span>Oberbürgermeisterin</span></a></li><li><a href="/de/Rathaus/Politik_und_Verwaltung/Buergermeister" title="Zur Seite &quot;Bürgermeister&quot;"><span>Bürgermeister</span></a></li><li><a href="/de/Rathaus/Politik_und_Verwaltung/Rat_der_Stadt" title="Zur Seite &quot;Rat der Stadt&quot;"><span>Rat der Stadt</span></a></li><li><a href="/de/Rathaus/Politik_und_Verwaltung/Livestream" title="Zur Seite &quot;Livestream Rat der Stadt&quot;"><span>Livestream Rat der Stadt</span></a></li><li><a href="/de/Rathaus/Politik_und_Verwaltung/Gremien_und_Ausschuesse" title="Zur Seite &quot;Gremien und Ausschüsse&quot;"><span>Gremien und Ausschüsse</span></a></li><li><a href="/de/Rathaus/Politik_und_Verwaltung/Bezirksvertretungen" title="Zur Seite &quot;Bezirksvertretungen&quot;"><span>Bezirksvertretungen</span></a></li><li><a href="/de/Rathaus/Politik_und_Verwaltung/Vorstandsbereiche_und_Dienststellen" title="Zur Seite &quot;Vorstandsbereiche und Dienststellen&quot;"><span>Vorstandsbereiche und Dienststellen</span></a></li><li><a href="/de/Rathaus/Politik_und_Verwaltung/Europa_in_Gelsenkirchen" title="Zur Seite &quot;Europa in Gelsenkirchen&quot;"><span>Europa in Gelsenkirchen</span></a></li><li><a href="/de/Rathaus/Politik_und_Verwaltung/Hans-Sachs-Haus" title="Zur Seite &quot;Hans-Sachs-Haus&quot;"><span>Hans-Sachs-Haus</span></a></li><li><a href="/de/Rathaus/Politik_und_Verwaltung/Rathaus_Buer" title="Zur Seite &quot;Rathaus Buer&quot;"><span>Rathaus Buer</span></a></li></ul></li><li><a href="/de/Rathaus/Informationen/index.aspx" title="Zur Seite &quot;Informationen&quot;"><span>Informationen</span></a><ul class="ebene3"><li><a href="/de/Rathaus/Informationen/Ratsinformationssystem.aspx" title="Zur Seite &quot;Ratsinformationssystem (Pilotphase neues System)&quot;"><span>Ratsinformationssystem (Pilotphase neues System)</span></a></li><li><a href="/de/Rathaus/Informationen/Presse_.aspx" title="Zur Seite &quot;Presse&quot;"><span>Presse</span></a></li><li><a href="/de/Rathaus/Informationen/Amtsblatt" title="Zur Seite &quot;Amtsblatt&quot;"><span>Amtsblatt</span></a></li><li><a href="/de/Rathaus/Informationen/Verordnungen_und_Satzungen" title="Zur Seite &quot;Verordnungen und Satzungen&quot;"><span>Verordnungen und Satzungen</span></a></li><li><a href="/de/Rathaus/Informationen/Beteiligungsberichte.aspx" title="Zur Seite &quot;Beteiligungsberichte&quot;"><span>Beteiligungsberichte</span></a></li><li><a href="/de/Rathaus/Informationen/Kommunale_Ausschreibungen" title="Zur Seite &quot;Kommunale Ausschreibungen&quot;"><span>Kommunale Ausschreibungen</span></a></li><li><a href="/de/Rathaus/Informationen/Bekanntmachungen_gemaess_Bundes-Immisionsschutzgesetz.aspx" title="Zur Seite &quot;Bekanntmachungen gemäß Bundes-Immisionsschutzgesetz&quot;"><span>Bekanntmachungen gemäß Bundes-Immisionsschutzgesetz</span></a></li><li><a href="/de/Rathaus/Informationen/Umweltinspektionen" title="Zur Seite &quot;Umweltinspektionen&quot;"><span>Umweltinspektionen</span></a></li><li><a href="/de/Rathaus/Informationen/Oeffentlichkeitsbeteiligung.aspx" title="Zur Seite &quot;Öffentlichkeitsbeteiligung bei Planungsvorhaben&quot;"><span>Öffentlichkeitsbeteiligung bei Planungsvorhaben</span></a></li><li><a href="/de/Rathaus/Informationen/Ergebnisberichte_Heimaufsicht.aspx" title="Zur Seite &quot;Ergebnisberichte Heimaufsicht&quot;"><span>Ergebnisberichte Heimaufsicht</span></a></li><li><a href="/de/Rathaus/Informationen/Kommunalinvestitionsfoerderungsgesetz" title="Zur Seite &quot;Kommunalinvestitionsförderungsgesetz&quot;"><span>Kommunalinvestitionsförderungsgesetz</span></a></li><li><a href="/de/Rathaus/Informationen/Koordination_Foerderlandschaft" title="Zur Seite &quot;Arbeitsmarkt- und Fördermittelmanagement&quot;"><span>Arbeitsmarkt- und Fördermittelmanagement</span></a></li></ul></li><li><a href="/de/Rathaus/Buergerservice/index.aspx" title="Zur Seite &quot;Bürgerservice&quot;"><span>Bürgerservice</span></a><ul class="ebene3"><li><a href="/de/Rathaus/Buergerservice/BuS-Mobil" title="Zur Seite &quot;BuS-Mobil&quot;"><span>BuS-Mobil</span></a></li><li><a href="/de/Rathaus/Buergerservice/Staedtische_Dienstleistungen.aspx" title="Zur Seite &quot;Städtische Dienstleistungen&quot;"><span>Städtische Dienstleistungen</span></a></li><li><a href="/de/Rathaus/Buergerservice/BUeRGERcenter.aspx" title="Zur Seite &quot;BÜRGERcenter&quot;"><span>BÜRGERcenter</span></a></li><li><a href="/de/Rathaus/Buergerservice/Stadtarchiv" title="Zur Seite &quot;Stadtarchiv&quot;"><span>Stadtarchiv</span></a></li><li><a href="/de/Rathaus/Buergerservice/Standesamt.aspx" title="Zur Seite &quot;Standesamt&quot;"><span>Standesamt</span></a></li><li><a href="/de/Rathaus/Buergerservice/Rund_ums_Auto.aspx" title="Zur Seite &quot;Rund ums Auto&quot;"><span>Rund ums Auto</span></a></li><li><a href="/de/Rathaus/Buergerservice/MuellabfuhrEntsorgung.aspx" title="Zur Seite &quot;Müllabfuhr/Entsorgung&quot;"><span>Müllabfuhr/Entsorgung</span></a></li><li><a href="/de/Rathaus/Buergerservice/fundsachen.aspx" title="Zur Seite &quot;Fundsachen&quot;"><span>Fundsachen</span></a></li><li><a href="/de/Rathaus/Buergerservice/feuerwehr" title="Zur Seite &quot;Feuerwehr&quot;"><span>Feuerwehr</span></a></li><li><a href="/de/Rathaus/Buergerservice/Schiedsamt.aspx" title="Zur Seite &quot;Schiedsamt&quot;"><span>Schiedsamt</span></a></li><li><a href="/de/Rathaus/Buergerservice/Weitere_Einrichtungen.aspx" title="Zur Seite &quot;Weitere Einrichtungen&quot;"><span>Weitere Einrichtungen</span></a></li><li><a href="/de/Rathaus/Buergerservice/Gelsenkirchen_von_A-Z.aspx" title="Zur Seite &quot;Gelsenkirchen von A-Z&quot;"><span>Gelsenkirchen von A-Z</span></a></li></ul></li><li><a href="/de/Rathaus/Buergerbeteiligung/index.aspx" title="Zur Seite &quot;Bürgerbeteiligung&quot;"><span>Bürgerbeteiligung</span></a><ul class="ebene3"><li><a href="/de/Rathaus/Buergerbeteiligung/App_GE-meldet.aspx" title="Zur Seite &quot;App GE-meldet&quot;"><span>App GE-meldet</span></a></li><li><a href="/de/Rathaus/Buergerbeteiligung/Buergerstiftung" title="Zur Seite &quot;Bürgerstiftung&quot;"><span>Bürgerstiftung</span></a></li><li><a href="/de/Rathaus/Buergerbeteiligung/Kulturentwicklungsplan" title="Zur Seite &quot;Kulturentwicklungsplan&quot;"><span>Kulturentwicklungsplan</span></a></li><li><a href="/de/Rathaus/Buergerbeteiligung/Bezirksforum" title="Zur Seite &quot;Bezirksforum&quot;"><span>Bezirksforum</span></a></li><li><a href="/de/Rathaus/Buergerbeteiligung/Lass_uns_reden" title="Zur Seite &quot;Lass uns reden&quot;"><span>Lass uns reden</span></a></li><li><a href="/de/Rathaus/Buergerbeteiligung/Weiterentwicklung_Nahverkehr.aspx" title="Zur Seite &quot;Weiterentwicklung Nahverkehr&quot;"><span>Weiterentwicklung Nahverkehr</span></a></li><li><a href="/de/Rathaus/Buergerbeteiligung/Praeventionsrat_Gelsenkirchen.aspx" title="Zur Seite &quot;Präventionsrat Gelsenkirchen&quot;"><span>Präventionsrat Gelsenkirchen</span></a></li><li><a href="/de/Rathaus/Buergerbeteiligung/Ehrenamt" title="Zur Seite &quot;Ehrenamt&quot;"><span>Ehrenamt</span></a></li><li><a href="/de/Rathaus/Buergerbeteiligung/Open_Data" title="Zur Seite &quot;Open Data&quot;"><span>Open Data</span></a></li><li><a href="/de/Rathaus/Buergerbeteiligung/Anregungen_und_Beschwerden_nach__24_GO" title="Zur Seite &quot;Anregungen und Beschwerden nach §24 GO&quot;"><span>Anregungen und Beschwerden nach §24 GO</span></a></li><li><a href="/de/Rathaus/Buergerbeteiligung/Buergerbegehren_und_Buergerentscheid" title="Zur Seite &quot;Bürgerbegehren und Bürgerentscheid&quot;"><span>Bürgerbegehren und Bürgerentscheid</span></a></li><li><a href="/de/Rathaus/Buergerbeteiligung/Einwohnerantrag" title="Zur Seite &quot;Einwohnerantrag&quot;"><span>Einwohnerantrag</span></a></li></ul></li><li><a href="/de/Rathaus/Staedtischer_Haushalt/index.aspx" title="Zur Seite &quot;Städtischer Haushalt&quot;"><span>Städtischer Haushalt</span></a><ul class="ebene3"><li><a href="/de/Rathaus/Staedtischer_Haushalt/Grundlagen_Haushalt_" title="Zur Seite &quot;Grundlagen Haushalt&quot;"><span>Grundlagen Haushalt</span></a></li><li><a href="/de/Rathaus/Staedtischer_Haushalt/Aktueller_Haushalt" title="Zur Seite &quot;Aktueller Haushalt&quot;"><span>Aktueller Haushalt</span></a></li><li><a href="/de/Rathaus/Staedtischer_Haushalt/Bezirksforum.aspx" title="Zur Seite &quot;Bezirksforum&quot;"><span>Bezirksforum</span></a></li></ul></li><li><a href="/de/Rathaus/Wahlen/index.aspx" title="Zur Seite &quot;Wahlen&quot;"><span>Wahlen</span></a><ul class="ebene3"><li><a href="/de/Rathaus/Wahlen/Landtagswahl" title="Zur Seite &quot;Landtagswahl&quot;"><span>Landtagswahl</span></a></li><li><a href="/de/Rathaus/Wahlen/Bundestagswahl" title="Zur Seite &quot;Bundestagswahl&quot;"><span>Bundestagswahl</span></a></li><li><a href="/de/Rathaus/Wahlen/Europawahl" title="Zur Seite &quot;Europawahl&quot;"><span>Europawahl</span></a></li><li><a href="/de/Rathaus/Wahlen/Kommunalwahlen" title="Zur Seite &quot;Kommunalwahlen&quot;"><span>Kommunalwahlen</span></a></li><li><a href="/de/Rathaus/Wahlen/Integrationsratswahl" title="Zur Seite &quot;Integrationsratswahl&quot;"><span>Integrationsratswahl</span></a></li><li><a href="/de/Rathaus/Wahlen/RVR-Wahl" title="Zur Seite &quot;RVR-Wahl&quot;"><span>RVR-Wahl</span></a></li><li><a href="/de/Rathaus/Wahlen/Wahlergebnisse.aspx" title="Zur Seite &quot;Wahlergebnisse&quot;"><span>Wahlergebnisse</span></a></li></ul></li><li><a href="/de/Rathaus/Karriere/index.aspx" title="Zur Seite &quot;Karriere&quot;"><span>Karriere</span></a><ul class="ebene3"><li><a href="/de/Rathaus/Karriere/Stellenangebote" title="Zur Seite &quot;Stellenangebote&quot;"><span>Stellenangebote</span></a></li><li><a href="/de/Rathaus/Karriere/Die_Stadt_als_Arbeitgeber" title="Zur Seite &quot;Vorteile bei der Stadt&quot;"><span>Vorteile bei der Stadt</span></a></li><li><a href="/de/Rathaus/Karriere/Berufe" title="Zur Seite &quot;Berufe&quot;"><span>Berufe</span></a></li><li><a href="/de/Rathaus/Karriere/Quereinstieg_.aspx" title="Zur Seite &quot;Quereinstieg&quot;"><span>Quereinstieg</span></a></li><li><a href="/de/Rathaus/Karriere/Ausbildung_bei_der_Stadt" title="Zur Seite &quot;Ausbildung bei der Stadt&quot;"><span>Ausbildung bei der Stadt</span></a></li><li><a href="/de/Rathaus/Karriere/Praktika" title="Zur Seite &quot;Praktika&quot;"><span>Praktika</span></a></li><li><a href="/de/Rathaus/Karriere/Freiwilligendienste.aspx" title="Zur Seite &quot;Freiwilligendienste&quot;"><span>Freiwilligendienste</span></a></li></ul></li></ul></li><li><a href="/de/Stadtprofil/index.aspx" title="Zur Seite &quot;Stadtprofil&quot;"><span>Stadtprofil</span></a><ul class="ebene2"><li><a href="/de/Stadtprofil/Stadtfakten/index.aspx" title="Zur Seite &quot;Stadtfakten&quot;"><span>Stadtfakten</span></a><ul class="ebene3"><li><a href="/de/Stadtprofil/Stadtfakten/Die_blaue_Stadt" title="Zur Seite &quot;Die blaue Stadt&quot;"><span>Die blaue Stadt</span></a></li><li><a href="/de/Stadtprofil/Stadtfakten/Ausgezeichnet" title="Zur Seite &quot;Ausgezeichnet&quot;"><span>Ausgezeichnet</span></a></li><li><a href="/de/Stadtprofil/Stadtfakten/Statistiken" title="Zur Seite &quot;Statistiken&quot;"><span>Statistiken</span></a></li><li><a href="/de/Stadtprofil/Stadtfakten/Partnerstaedte" title="Zur Seite &quot;Partnerstädte&quot;"><span>Partnerstädte</span></a></li></ul></li><li><a href="/de/Stadtprofil/Stadtthemen/index.aspx" title="Zur Seite &quot;Stadtthemen&quot;"><span>Stadtthemen</span></a><ul class="ebene3"><li><a href="/de/Stadtprofil/Stadtthemen/Mobilitaet_und_Klima" title="Zur Seite &quot;Mobilität und Klima&quot;"><span>Mobilität und Klima</span></a></li><li><a href="/de/Stadtprofil/Stadtthemen/Unsere_Stadt" title="Zur Seite &quot;Unsere Stadt&quot;"><span>Unsere Stadt</span></a></li><li><a href="/de/Stadtprofil/Stadtthemen/Nachhaltiges_Gelsenkirchen" title="Zur Seite &quot;Nachhaltiges Gelsenkirchen&quot;"><span>Nachhaltiges Gelsenkirchen</span></a></li><li><a href="/de/Stadtprofil/Stadtthemen/Die_vernetzte_Stadt" title="Zur Seite &quot;Die Vernetzte Stadt&quot;"><span>Die Vernetzte Stadt</span></a></li><li><a href="/de/Stadtprofil/Stadtthemen/Aktives_Gelsenkirchen" title="Zur Seite &quot;Aktives Gelsenkirchen&quot;"><span>Aktives Gelsenkirchen</span></a></li><li><a href="/de/Stadtprofil/Stadtthemen/Bunte_Heimat_Gelsenkirchen" title="Zur Seite &quot;Bunte Heimat Gelsenkirchen&quot;"><span>Bunte Heimat Gelsenkirchen</span></a></li><li><a href="/de/Stadtprofil/Stadtthemen/Familienfreundliche_Stadt" title="Zur Seite &quot;Familienfreundliche Stadt&quot;"><span>Familienfreundliche Stadt</span></a></li><li><a href="/de/Stadtprofil/Stadtthemen/Freizeit_und_Kultur" title="Zur Seite &quot;Freizeit und Kultur&quot;"><span>Freizeit und Kultur</span></a></li><li><a href="/de/Stadtprofil/Stadtthemen/Lebensqualitaet_in_der_Stadt" title="Zur Seite &quot;Lebensqualität in der Stadt&quot;"><span>Lebensqualität in der Stadt</span></a></li><li><a href="/de/Stadtprofil/Stadtthemen/Erinnerungskultur" title="Zur Seite &quot;Erinnerungskultur&quot;"><span>Erinnerungskultur</span></a></li></ul></li><li><a href="/de/Stadtprofil/Stadtgeschichten/index.aspx" title="Zur Seite &quot;Stadtgeschichte(n)&quot;"><span>Stadtgeschichte(n)</span></a><ul class="ebene3"><li><a href="/de/Stadtprofil/Stadtgeschichten/Juedische_Verfolgte_in_Gelsenkirchen_1933-1945" title="Zur Seite &quot;Jüdische Verfolgte in Gelsenkirchen 1933-1945&quot;"><span>Jüdische Verfolgte in Gelsenkirchen 1933-1945</span></a></li><li><a href="/de/Stadtprofil/Stadtgeschichten/Stadtgeschichte" title="Zur Seite &quot;Stadtgeschichte&quot;"><span>Stadtgeschichte</span></a></li><li><a href="/de/Stadtprofil/Stadtgeschichten/Stadtname_und_Stadtwappen" title="Zur Seite &quot;Stadtname und Stadtwappen&quot;"><span>Stadtname und Stadtwappen</span></a></li><li><a href="/de/Stadtprofil/Stadtgeschichten/Politische_Entwicklung" title="Zur Seite &quot;Politische Entwicklung&quot;"><span>Politische Entwicklung</span></a></li><li><a href="/de/Stadtprofil/Stadtgeschichten/Strukturwandel" title="Zur Seite &quot;Strukturwandel&quot;"><span>Strukturwandel</span></a></li><li><a href="/de/Stadtprofil/Stadtgeschichten/Zuwanderung" title="Zur Seite &quot;Zuwanderung&quot;"><span>Zuwanderung</span></a></li><li><a href="/de/Stadtprofil/Stadtgeschichten/Stadtbild_und_Baugeschichte" title="Zur Seite &quot;Stadtbild und Baugeschichte&quot;"><span>Stadtbild und Baugeschichte</span></a></li><li><a href="/de/Stadtprofil/Stadtgeschichten/Erinnerungsorte" title="Zur Seite &quot;Erinnerungsorte&quot;"><span>Erinnerungsorte</span></a></li><li><a href="/de/Stadtprofil/Stadtgeschichten/Gelsenkirchener_Persoenlichkeiten" title="Zur Seite &quot;Gelsenkirchener Persönlichkeiten&quot;"><span>Gelsenkirchener Persönlichkeiten</span></a></li><li><a href="/de/Stadtprofil/Stadtgeschichten/Geschichtsarbeit.aspx" title="Zur Seite &quot;Geschichtsarbeit&quot;"><span>Geschichtsarbeit</span></a></li><li><a href="/de/Stadtprofil/Stadtgeschichten/Institut_fuer_Stadtgeschichte.aspx" title="Zur Seite &quot;Institut für Stadtgeschichte&quot;"><span>Institut für Stadtgeschichte</span></a></li><li><a href="/de/Stadtprofil/Stadtgeschichten/Stadtarchiv.aspx" title="Zur Seite &quot;Stadtarchiv&quot;"><span>Stadtarchiv</span></a></li><li><a href="/de/Stadtprofil/Stadtgeschichten/Dokumentationsstaette_Gelsenkirchen_im_Nationalsozialismus.aspx" title="Zur Seite &quot;Dokumentationsstätte Gelsenkirchen im Nationalsozialismus&quot;"><span>Dokumentationsstätte Gelsenkirchen im Nationalsozialismus</span></a></li><li><a href="/de/Stadtprofil/Stadtgeschichten/Tag_des_offenen_Denkmals.aspx" title="Zur Seite &quot;Tag des offenen Denkmals&quot;"><span>Tag des offenen Denkmals</span></a></li></ul></li><li><a href="/de/Stadtprofil/Stadtansichten/index.aspx" title="Zur Seite &quot;Stadtansichten&quot;"><span>Stadtansichten</span></a><ul class="ebene3"><li><a href="/de/Stadtprofil/Stadtansichten/Bilder.aspx" title="Zur Seite &quot;Bilder&quot;"><span>Bilder</span></a></li><li><a href="/de/Stadtprofil/Stadtansichten/Gelsenkirchen_Walk_of_Fame" title="Zur Seite &quot;Gelsenkirchen Walk of Fame&quot;"><span>Gelsenkirchen Walk of Fame</span></a></li><li><a href="/de/Stadtprofil/Stadtansichten/Podcast" title="Zur Seite &quot;Podcast&quot;"><span>Podcast</span></a></li><li><a href="/de/Stadtprofil/Stadtansichten/Stankowski_Die_grosse_Nummer.aspx" title="Zur Seite &quot;Stankowski: Die große Nummer&quot;"><span>Stankowski: Die große Nummer</span></a></li><li><a href="/de/Stadtprofil/Stadtansichten/GELSENKIRCHEN_Die_Stadtzeitung" title="Zur Seite &quot;GELSENKIRCHEN Die Stadtzeitung&quot;"><span>GELSENKIRCHEN Die Stadtzeitung</span></a></li><li><a href="/de/Stadtprofil/Stadtansichten/Stadtplan.aspx" title="Zur Seite &quot;Stadtplan&quot;"><span>Stadtplan</span></a></li><li><a href="/de/Stadtprofil/Stadtansichten/Gelsenkirchen-Artikel.aspx" title="Zur Seite &quot;Gelsenkirchen-Artikel&quot;"><span>Gelsenkirchen-Artikel</span></a></li></ul></li></ul></li><li><a href="/de/Kultur/index.aspx" title="Zur Seite &quot;Kultur&quot;"><span>Kultur</span></a><ul class="ebene2"><li><a href="/de/Kultur/Theater_und_Musik/index.aspx" title="Zur Seite &quot;Theater und Musik&quot;"><span>Theater und Musik</span></a><ul class="ebene3"><li><a href="/de/Kultur/Theater_und_Musik/Musiktheater_im_Revier_MiR" title="Zur Seite &quot;Musiktheater im Revier (MiR)&quot;"><span>Musiktheater im Revier (MiR)</span></a></li><li><a href="/de/Kultur/Theater_und_Musik/Consol_Theater" title="Zur Seite &quot;Consol Theater&quot;"><span>Consol Theater</span></a></li><li><a href="/de/Kultur/Theater_und_Musik/Neue_Philharmonie_Westfalen" title="Zur Seite &quot;Neue Philharmonie Westfalen&quot;"><span>Neue Philharmonie Westfalen</span></a></li><li><a href="/de/Kultur/Theater_und_Musik/Amphitheater" title="Zur Seite &quot;Amphitheater&quot;"><span>Amphitheater</span></a></li><li><a href="/de/Kultur/Theater_und_Musik/emschertainment" title="Zur Seite &quot;emschertainment&quot;"><span>emschertainment</span></a></li><li><a href="/de/Kultur/Theater_und_Musik/Musikschule_Gelsenkirchen.aspx" title="Zur Seite &quot;Musikschule Gelsenkirchen&quot;"><span>Musikschule Gelsenkirchen</span></a></li><li><a href="/de/Kultur/Theater_und_Musik/Musikprobenzentrum_Consol_4" title="Zur Seite &quot;Musikprobenzentrum Consol 4&quot;"><span>Musikprobenzentrum Consol 4</span></a></li><li><a href="/de/Kultur/Theater_und_Musik/Jazz__Musikkneipen__Clubs" title="Zur Seite &quot;Jazz, Musikkneipen, Clubs&quot;"><span>Jazz, Musikkneipen, Clubs</span></a></li><li><a href="/de/Kultur/Theater_und_Musik/Orgelmusik" title="Zur Seite &quot;Orgelmusik&quot;"><span>Orgelmusik</span></a></li><li><a href="/de/Kultur/Theater_und_Musik/Gruppen_und_Einzelkuenstler_-innen" title="Zur Seite &quot;Gruppen und Einzelkünstler/-innen&quot;"><span>Gruppen und Einzelkünstler/-innen</span></a></li></ul></li><li><a href="/de/Kultur/Museen_und_Dauerausstellungen/index.aspx" title="Zur Seite &quot;Museen und Dauerausstellungen&quot;"><span>Museen und Dauerausstellungen</span></a><ul class="ebene3"><li><a href="/de/Kultur/Museen_und_Dauerausstellungen/Kunstmuseum_Gelsenkirchen" title="Zur Seite &quot;Kunstmuseum&quot;"><span>Kunstmuseum</span></a></li><li><a href="/de/Kultur/Museen_und_Dauerausstellungen/Museum_der_Baukultur" title="Zur Seite &quot;Museum der Baukultur&quot;"><span>Museum der Baukultur</span></a></li><li><a href="/de/Kultur/Museen_und_Dauerausstellungen/Museum_Schloss_Horst" title="Zur Seite &quot;Museum Schloss Horst&quot;"><span>Museum Schloss Horst</span></a></li><li><a href="/de/Kultur/Museen_und_Dauerausstellungen/Schalke-Museum" title="Zur Seite &quot;Schalke-Museum&quot;"><span>Schalke-Museum</span></a></li><li><a href="/de/Kultur/Museen_und_Dauerausstellungen/Stadtgeschichtliche_Ausstellung_Hans-Sachs-Haus" title="Zur Seite &quot;Stadtgeschichtliche Ausstellung Hans-Sachs-Haus&quot;"><span>Stadtgeschichtliche Ausstellung Hans-Sachs-Haus</span></a></li><li><a href="/de/Kultur/Museen_und_Dauerausstellungen/Alter_juedischer_Betsaal" title="Zur Seite &quot;Alter jüdischer Betsaal&quot;"><span>Alter jüdischer Betsaal</span></a></li><li><a href="/de/Kultur/Museen_und_Dauerausstellungen/Dokumentationsstaette_Gelsenkirchen_im_Nationalsozialismus" title="Zur Seite &quot;Dokumentationsstätte Gelsenkirchen im Nationalsozialismus&quot;"><span>Dokumentationsstätte Gelsenkirchen im Nationalsozialismus</span></a></li><li><a href="/de/Kultur/Museen_und_Dauerausstellungen/Dauerausstellung_Nordsternturm.aspx" title="Zur Seite &quot;Dauerausstellung Nordsternturm&quot;"><span>Dauerausstellung Nordsternturm</span></a></li><li><a href="/de/Kultur/Museen_und_Dauerausstellungen/Der_Treudank_-_Allensteiner_Heimatmuseum" title="Zur Seite &quot;Der Treudank - Allensteiner Heimatmuseum&quot;"><span>Der Treudank - Allensteiner Heimatmuseum</span></a></li><li><a href="/de/Kultur/Museen_und_Dauerausstellungen/Kunstinstallation_Sammlung_Werner_Thiel" title="Zur Seite &quot;Kunstinstallation Sammlung Werner Thiel&quot;"><span>Kunstinstallation Sammlung Werner Thiel</span></a></li><li><a href="/de/Kultur/Museen_und_Dauerausstellungen/Bergbausammlung_Rotthausen" title="Zur Seite &quot;Bergbausammlung Rotthausen&quot;"><span>Bergbausammlung Rotthausen</span></a></li><li><a href="/de/Kultur/Museen_und_Dauerausstellungen/das_kleine_museum___Zeche_Hugo" title="Zur Seite &quot;das kleine museum &amp; Zeche Hugo&quot;"><span>das kleine museum & Zeche Hugo</span></a></li><li><a href="/de/Kultur/Museen_und_Dauerausstellungen/Suedliches_Maschinenhaus_Zeche_Consol" title="Zur Seite &quot;Südliches Maschinenhaus Zeche Consol&quot;"><span>Südliches Maschinenhaus Zeche Consol</span></a></li></ul></li><li><a href="/de/Kultur/Bildende_Kunst__Literatur__Tanz/index.aspx" title="Zur Seite &quot;Bildende Kunst, Literatur, Tanz&quot;"><span>Bildende Kunst, Literatur, Tanz</span></a><ul class="ebene3"><li><a href="/de/Kultur/Bildende_Kunst__Literatur__Tanz/Streetart" title="Zur Seite &quot;Streetart&quot;"><span>Streetart</span></a></li><li><a href="/de/Kultur/Bildende_Kunst__Literatur__Tanz/kunst_im_oeffentlichen_raum" title="Zur Seite &quot;Kunst im öffentlichen Raum&quot;"><span>Kunst im öffentlichen Raum</span></a></li><li><a href="/de/Kultur/Bildende_Kunst__Literatur__Tanz/Kunstvereine_und_-verbaende" title="Zur Seite &quot;Kunstvereine und -verbände&quot;"><span>Kunstvereine und -verbände</span></a></li><li><a href="/de/Kultur/Bildende_Kunst__Literatur__Tanz/Galeriemeile_Gelsenkirchen" title="Zur Seite &quot;Galeriemeile Gelsenkirchen&quot;"><span>Galeriemeile Gelsenkirchen</span></a></li><li><a href="/de/Kultur/Bildende_Kunst__Literatur__Tanz/Galerien_und_Ausstellungsr%C3%A4ume" title="Zur Seite &quot;Galerien und Ausstellungsräume&quot;"><span>Galerien und Ausstellungsräume</span></a></li><li><a href="/de/Kultur/Bildende_Kunst__Literatur__Tanz/Kunst_im_OB-Bereich" title="Zur Seite &quot;Kunst im OB-Bereich&quot;"><span>Kunst im OB-Bereich</span></a></li><li><a href="/de/Kultur/Bildende_Kunst__Literatur__Tanz/CityARTists" title="Zur Seite &quot;CityARTists&quot;"><span>CityARTists</span></a></li><li><a href="/de/Kultur/Bildende_Kunst__Literatur__Tanz/Literaturstipendium_writer_in_residence" title="Zur Seite &quot;Literaturstipendium writer in residence&quot;"><span>Literaturstipendium writer in residence</span></a></li><li><a href="/de/Kultur/Bildende_Kunst__Literatur__Tanz/Homestory" title="Zur Seite &quot;Jugendschreibwettbewerb Homestory&quot;"><span>Jugendschreibwettbewerb Homestory</span></a></li><li><a href="/de/Kultur/Bildende_Kunst__Literatur__Tanz/Poetry_Slam" title="Zur Seite &quot;Poetry Slam&quot;"><span>Poetry Slam</span></a></li><li><a href="/de/Kultur/Bildende_Kunst__Literatur__Tanz/Gruppen_und_Einzelkuenstler_-innen" title="Zur Seite &quot;Gruppen und Einzelkünstler/-innen&quot;"><span>Gruppen und Einzelkünstler/-innen</span></a></li></ul></li><li><a href="/de/Kultur/Film__Foto__Medien/index.aspx" title="Zur Seite &quot;Film, Foto, Medien&quot;"><span>Film, Foto, Medien</span></a><ul class="ebene3"><li><a href="/de/Kultur/Film__Foto__Medien/Kinos" title="Zur Seite &quot;Kinos&quot;"><span>Kinos</span></a></li><li><a href="/de/Kultur/Film__Foto__Medien/Kommunales_Kino" title="Zur Seite &quot;Kommunales Kino&quot;"><span>Kommunales Kino</span></a></li><li><a href="/de/Kultur/Film__Foto__Medien/Kokiki.aspx" title="Zur Seite &quot;Kommunales Kinderkino (Kokiki)&quot;"><span>Kommunales Kinderkino (Kokiki)</span></a></li><li><a href="/de/Kultur/Film__Foto__Medien/Pixelprojekt_Ruhrgebiet" title="Zur Seite &quot;Pixelprojekt_Ruhrgebiet&quot;"><span>Pixelprojekt_Ruhrgebiet</span></a></li><li><a href="/de/Kultur/Film__Foto__Medien/Weitere_Film-__Foto-_und_Medienprojekte" title="Zur Seite &quot;Weitere Film-, Foto- und Medienprojekte&quot;"><span>Weitere Film-, Foto- und Medienprojekte</span></a></li></ul></li><li><a href="/de/Kultur/Festivals_und_Programmreihen/index.aspx" title="Zur Seite &quot;Festivals und Programmreihen&quot;"><span>Festivals und Programmreihen</span></a><ul class="ebene3"><li><a href="/de/Kultur/Festivals_und_Programmreihen/Goldstuecke" title="Zur Seite &quot;Goldstücke&quot;"><span>Goldstücke</span></a></li><li><a href="/de/Kultur/Festivals_und_Programmreihen/JugendJazzFestival_.aspx" title="Zur Seite &quot;JugendJazzFestival&quot;"><span>JugendJazzFestival</span></a></li><li><a href="/de/Kultur/Festivals_und_Programmreihen/JugendKlassikFestival.aspx" title="Zur Seite &quot;JugendKlassikFestival&quot;"><span>JugendKlassikFestival</span></a></li><li><a href="/de/Kultur/Festivals_und_Programmreihen/Manifesta.aspx" title="Zur Seite &quot;Manifesta&quot;"><span>Manifesta</span></a></li><li><a href="/de/Kultur/Festivals_und_Programmreihen/Volles_Programm" title="Zur Seite &quot;Volles Programm&quot;"><span>Volles Programm</span></a></li><li><a href="/de/Kultur/Festivals_und_Programmreihen/Kulturtipps.aspx" title="Zur Seite &quot;Kulturtipps Gelsenkirchen&quot;"><span>Kulturtipps Gelsenkirchen</span></a></li><li><a href="/de/Kultur/Festivals_und_Programmreihen/Consolfest" title="Zur Seite &quot;Consolfest&quot;"><span>Consolfest</span></a></li><li><a href="/de/Kultur/Festivals_und_Programmreihen/ErzaehlFestival" title="Zur Seite &quot;ErzählFestival&quot;"><span>ErzählFestival</span></a></li><li><a href="/de/Kultur/Festivals_und_Programmreihen/FigurenTheaterWoche" title="Zur Seite &quot;FigurenTheaterWoche&quot;"><span>FigurenTheaterWoche</span></a></li><li><a href="/de/Kultur/Festivals_und_Programmreihen/gekko" title="Zur Seite &quot;GeKKo&quot;"><span>GeKKo</span></a></li><li><a href="/de/Kultur/Festivals_und_Programmreihen/klezmerwelten" title="Zur Seite &quot;klezmer.welten&quot;"><span>klezmer.welten</span></a></li><li><a href="/de/Kultur/Festivals_und_Programmreihen/Kulturpicknick_auf_Consol" title="Zur Seite &quot;Kulturpicknick auf Consol&quot;"><span>Kulturpicknick auf Consol</span></a></li><li><a href="/de/Kultur/Festivals_und_Programmreihen/Mord_am_Hellweg" title="Zur Seite &quot;Mord am Hellweg&quot;"><span>Mord am Hellweg</span></a></li><li><a href="/de/Kultur/Festivals_und_Programmreihen/SommerSound" title="Zur Seite &quot;SommerSound&quot;"><span>SommerSound</span></a></li><li><a href="/de/Kultur/Festivals_und_Programmreihen/Szeniale" title="Zur Seite &quot;Szeniale&quot;"><span>Szeniale</span></a></li><li><a href="/de/Kultur/Festivals_und_Programmreihen/Tag_des_offenen_Denkmals.aspx" title="Zur Seite &quot;Tag des offenen Denkmals&quot;"><span>Tag des offenen Denkmals</span></a></li><li><a href="/de/Kultur/Festivals_und_Programmreihen/Westfaelische_Schlosskonzerte_-_caterva_musica" title="Zur Seite &quot;Westfälische Schlosskonzerte - caterva musica&quot;"><span>Westfälische Schlosskonzerte - caterva musica</span></a></li><li><a href="/de/Kultur/Festivals_und_Programmreihen/Weitere_Festivals.aspx" title="Zur Seite &quot;Weitere Festivals&quot;"><span>Weitere Festivals</span></a></li></ul></li><li><a href="/de/Kultur/Kultur-_und_Veranstaltungsorte/index.aspx" title="Zur Seite &quot;Kultur- und Veranstaltungsorte&quot;"><span>Kultur- und Veranstaltungsorte</span></a><ul class="ebene3"><li><a href="/de/Kultur/Kultur-_und_Veranstaltungsorte/Schloss_Horst.aspx" title="Zur Seite &quot;Schloss Horst&quot;"><span>Schloss Horst</span></a></li><li><a href="/de/Kultur/Kultur-_und_Veranstaltungsorte/Kulturraum__die_flora_" title="Zur Seite &quot;Kulturraum &quot;die flora&quot;&quot;"><span>Kulturraum "die flora"</span></a></li><li><a href="/de/Kultur/Kultur-_und_Veranstaltungsorte/stadtbauraum" title="Zur Seite &quot;stadtbauraum&quot;"><span>stadtbauraum</span></a></li><li><a href="/de/Kultur/Kultur-_und_Veranstaltungsorte/KAUE" title="Zur Seite &quot;KAUE&quot;"><span>KAUE</span></a></li><li><a href="/de/Kultur/Kultur-_und_Veranstaltungsorte/Kreativquartier_Ueckendorf___Halfmannshof" title="Zur Seite &quot;Kreativquartier Ückendorf&quot;"><span>Kreativquartier Ückendorf</span></a></li><li><a href="/de/Kultur/Kultur-_und_Veranstaltungsorte/K%C3%BCnstlersiedlung_Halfmannshof" title="Zur Seite &quot;Künstlersiedlung Halfmannshof&quot;"><span>Künstlersiedlung Halfmannshof</span></a></li><li><a href="/de/Kultur/Kultur-_und_Veranstaltungsorte/kultur.gebiet_CONSOL" title="Zur Seite &quot;Kulturgebiet Consol&quot;"><span>Kulturgebiet Consol</span></a></li><li><a href="/de/Kultur/Kultur-_und_Veranstaltungsorte/Bleckkirche_-_Kirche_der_Kulturen" title="Zur Seite &quot;Bleckkirche - Kirche der Kulturen&quot;"><span>Bleckkirche - Kirche der Kulturen</span></a></li><li><a href="/de/Kultur/Kultur-_und_Veranstaltungsorte/Luettinghof_Die_Burg_im_Wasser" title="Zur Seite &quot;Lüttinghof_Die Burg im Wasser&quot;"><span>Lüttinghof_Die Burg im Wasser</span></a></li><li><a href="/de/Kultur/Kultur-_und_Veranstaltungsorte/Synagoge_Gelsenkirchen" title="Zur Seite &quot;Synagoge Gelsenkirchen&quot;"><span>Synagoge Gelsenkirchen</span></a></li><li><a href="/de/Kultur/Kultur-_und_Veranstaltungsorte/Wissenschaftspark_Gelsenkirchen.aspx" title="Zur Seite &quot;Wissenschaftspark Gelsenkirchen&quot;"><span>Wissenschaftspark Gelsenkirchen</span></a></li><li><a href="/de/Kultur/Kultur-_und_Veranstaltungsorte/Weitere_Kultur-_und_Veranstaltungsorte" title="Zur Seite &quot;Weitere Kultur- und Veranstaltungsorte&quot;"><span>Weitere Kultur- und Veranstaltungsorte</span></a></li><li><a href="/de/Kultur/Kultur-_und_Veranstaltungsorte/KulturOrte_GE" title="Zur Seite &quot;KulturOrte GE&quot;"><span>KulturOrte GE</span></a></li></ul></li><li><a href="/de/Kultur/Foerderungen/index.aspx" title="Zur Seite &quot;Förderungen&quot;"><span>Förderungen</span></a><ul class="ebene3"><li><a href="/de/Kultur/Foerderungen/Fortbildungen" title="Zur Seite &quot;Fortbildungen&quot;"><span>Fortbildungen</span></a></li><li><a href="/de/Kultur/Foerderungen/Stipendien_Freie_Szene" title="Zur Seite &quot;Stipendien zur Förderung der Freien Szene Gelsenkirchen&quot;"><span>Stipendien zur Förderung der Freien Szene Gelsenkirchen</span></a></li><li><a href="/de/Kultur/Foerderungen/KulturPott_Ruhr.aspx" title="Zur Seite &quot;KulturPott.Ruhr&quot;"><span>KulturPott.Ruhr</span></a></li><li><a href="/de/Kultur/Foerderungen/Kulturpass.aspx" title="Zur Seite &quot;Kulturpass&quot;"><span>Kulturpass</span></a></li></ul></li><li><a href="/de/Kultur/Kulturelle_Bildung/index.aspx" title="Zur Seite &quot;Kulturelle Bildung&quot;"><span>Kulturelle Bildung</span></a><ul class="ebene3"><li><a href="/de/Kultur/Kulturelle_Bildung/Musikschule_Gelsenkirchen" title="Zur Seite &quot;Musikschule Gelsenkirchen&quot;"><span>Musikschule Gelsenkirchen</span></a></li><li><a href="/de/Kultur/Kulturelle_Bildung/Stadtbibliothek.aspx" title="Zur Seite &quot;Stadtbibliothek&quot;"><span>Stadtbibliothek</span></a></li><li><a href="/de/Kultur/Kulturelle_Bildung/Volkshochschule.aspx" title="Zur Seite &quot;Volkshochschule&quot;"><span>Volkshochschule</span></a></li><li><a href="/de/Kultur/Kulturelle_Bildung/Kunstvermittlung_im_Kunstmuseum.aspx" title="Zur Seite &quot;Kunstvermittlung im Kunstmuseum&quot;"><span>Kunstvermittlung im Kunstmuseum</span></a></li><li><a href="/de/Kultur/Kulturelle_Bildung/Museumspaedagogik_im_Schloss_Horst" title="Zur Seite &quot;Museumspädagogik im Schloss Horst&quot;"><span>Museumspädagogik im Schloss Horst</span></a></li><li><a href="/de/Kultur/Kulturelle_Bildung/Stadion_der_Traeume.aspx" title="Zur Seite &quot;Stadion der Träume&quot;"><span>Stadion der Träume</span></a></li><li><a href="/de/Kultur/Kulturelle_Bildung/stadtklaenge.aspx" title="Zur Seite &quot;StadtklänGE&quot;"><span>StadtklänGE</span></a></li><li><a href="/de/Kultur/Kulturelle_Bildung/Kunstschule_Gelsenkirchen" title="Zur Seite &quot;Kunstschule Gelsenkirchen e.V.&quot;"><span>Kunstschule Gelsenkirchen e.V.</span></a></li><li><a href="/de/Kultur/Kulturelle_Bildung/Kulturrucksack_NRW" title="Zur Seite &quot;Kulturrucksack NRW&quot;"><span>Kulturrucksack NRW</span></a></li><li><a href="/de/Kultur/Kulturelle_Bildung/Kulturstrolche.aspx" title="Zur Seite &quot;Kulturstrolche&quot;"><span>Kulturstrolche</span></a></li><li><a href="/de/Kultur/Kulturelle_Bildung/Kultur_und_Schule" title="Zur Seite &quot;Kultur und Schule&quot;"><span>Kultur und Schule</span></a></li><li><a href="/de/Kultur/Kulturelle_Bildung/Kunst_und_Kultur_fuer_Kinder_und_Jugendliche" title="Zur Seite &quot;Kunst und Kultur für Kinder und Jugendliche&quot;"><span>Kunst und Kultur für Kinder und Jugendliche</span></a></li></ul></li></ul></li><li><a href="/de/Freizeit/index.aspx" title="Zur Seite &quot;Freizeit&quot;"><span>Freizeit</span></a><ul class="ebene2"><li><a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/index.aspx" title="Zur Seite &quot;Ausflüge und Sehenswürdigkeiten&quot;"><span>Ausflüge und Sehenswürdigkeiten</span></a><ul class="ebene3"><li><a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/IGA_2027" title="Zur Seite &quot;IGA&quot;"><span>IGA</span></a></li><li><a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/Nordsternpark" title="Zur Seite &quot;Nordsternpark&quot;"><span>Nordsternpark</span></a></li><li><a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/ZOOM_Erlebniswelt" title="Zur Seite &quot;ZOOM Erlebniswelt&quot;"><span>ZOOM Erlebniswelt</span></a></li><li><a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/Rhein-Herne-Kanal" title="Zur Seite &quot;Rhein-Herne-Kanal&quot;"><span>Rhein-Herne-Kanal</span></a></li><li><a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/Arena_Park" title="Zur Seite &quot;Arena Park&quot;"><span>Arena Park</span></a></li><li><a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/Glueckauf-Kampfbahn" title="Zur Seite &quot;Glückauf-Kampfbahn&quot;"><span>Glückauf-Kampfbahn</span></a></li><li><a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/Hans-Sachs-Haus.aspx" title="Zur Seite &quot;Hans-Sachs-Haus&quot;"><span>Hans-Sachs-Haus</span></a></li><li><a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/Luettinghof_Die_Burg_im_Wasser.aspx" title="Zur Seite &quot;Lüttinghof_Die Burg im Wasser&quot;"><span>Lüttinghof_Die Burg im Wasser</span></a></li><li><a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/Schloss_Horst.aspx" title="Zur Seite &quot;Schloss Horst&quot;"><span>Schloss Horst</span></a></li><li><a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/Schloss_Berge" title="Zur Seite &quot;Schloss Berge&quot;"><span>Schloss Berge</span></a></li><li><a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/Musiktheater_im_Revier_MiR.aspx" title="Zur Seite &quot;Musiktheater im Revier (MiR)&quot;"><span>Musiktheater im Revier (MiR)</span></a></li><li><a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/kulturgebiet_CONSOL.aspx" title="Zur Seite &quot;kultur.gebiet CONSOL&quot;"><span>kultur.gebiet CONSOL</span></a></li><li><a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/Architektur" title="Zur Seite &quot;Architektur&quot;"><span>Architektur</span></a></li><li><a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/Emscher_Landschaftspark" title="Zur Seite &quot;Emscher Landschaftspark&quot;"><span>Emscher Landschaftspark</span></a></li><li><a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/Parks_und_Halden" title="Zur Seite &quot;Parks und Halden&quot;"><span>Parks und Halden</span></a></li><li><a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/Kultur-_und_Veranstaltungsorte.aspx" title="Zur Seite &quot;Kultur- und Veranstaltungsorte&quot;"><span>Kultur- und Veranstaltungsorte</span></a></li><li><a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/Museen_und_Dauerausstellungen.aspx" title="Zur Seite &quot;Museen und Dauerausstellungen&quot;"><span>Museen und Dauerausstellungen</span></a></li><li><a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/Unterwegs_in_der_Metropole_Ruhr.aspx" title="Zur Seite &quot;Unterwegs in der Metropole Ruhr&quot;"><span>Unterwegs in der Metropole Ruhr</span></a></li></ul></li><li><a href="/de/Freizeit/Kino/index.aspx" title="Zur Seite &quot;Kino&quot;"><span>Kino</span></a><ul class="ebene3"><li><a href="/de/Freizeit/Kino/Kommu.aspx" title="Zur Seite &quot;Kommunales Kino&quot;"><span>Kommunales Kino</span></a></li><li><a href="/de/Freizeit/Kino/Schauburg_Filmtheater.aspx" title="Zur Seite &quot;Schauburg Filmtheater&quot;"><span>Schauburg Filmtheater</span></a></li><li><a href="/de/Freizeit/Kino/Apollo_Cinemas.aspx" title="Zur Seite &quot;Apollo Cinemas&quot;"><span>Apollo Cinemas</span></a></li></ul></li><li><a href="/de/Freizeit/Festivals_und_Feste/index.aspx" title="Zur Seite &quot;Festivals und Feste&quot;"><span>Festivals und Feste</span></a><ul class="ebene3"><li><a href="/de/Freizeit/Festivals_und_Feste/ExtraSchicht" title="Zur Seite &quot;ExtraSchicht&quot;"><span>ExtraSchicht</span></a></li><li><a href="/de/Freizeit/Festivals_und_Feste/Sommerfestival_Schloss_Berge" title="Zur Seite &quot;Sommerfestival Schloss Berge&quot;"><span>Sommerfestival Schloss Berge</span></a></li><li><a href="/de/Freizeit/Festivals_und_Feste/Rock_Hard_Festival" title="Zur Seite &quot;RockHard Festival&quot;"><span>RockHard Festival</span></a></li><li><a href="/de/Freizeit/Festivals_und_Feste/Rock_am_Dom.aspx" title="Zur Seite &quot;Rock am Dom&quot;"><span>Rock am Dom</span></a></li><li><a href="/de/Freizeit/Festivals_und_Feste/Rock_am_Bahnwerk.aspx" title="Zur Seite &quot;Rock am Bahnwerk&quot;"><span>Rock am Bahnwerk</span></a></li><li><a href="/de/Freizeit/Festivals_und_Feste/Bismarcker_Rocktage.aspx" title="Zur Seite &quot;Bismarcker Rocktage&quot;"><span>Bismarcker Rocktage</span></a></li><li><a href="/de/Freizeit/Festivals_und_Feste/Weitere_Festivals_und_Feste.aspx" title="Zur Seite &quot;Weitere Festivals und Feste&quot;"><span>Weitere Festivals und Feste</span></a></li></ul></li><li><a href="/de/Freizeit/Einkaufen/index.aspx" title="Zur Seite &quot;Einkaufen&quot;"><span>Einkaufen</span></a><ul class="ebene3"><li><a href="/de/Freizeit/Einkaufen/Weihnachtsmaerkte.aspx" title="Zur Seite &quot;Weihnachtsmärkte&quot;"><span>Weihnachtsmärkte</span></a></li><li><a href="/de/Freizeit/Einkaufen/Feierabendmaerkte.aspx" title="Zur Seite &quot;Feierabendmärkte&quot;"><span>Feierabendmärkte</span></a></li><li><a href="/de/Freizeit/Einkaufen/Shopping" title="Zur Seite &quot;Shopping&quot;"><span>Shopping</span></a></li><li><a href="/de/Freizeit/Einkaufen/Wochenmaerkte.aspx" title="Zur Seite &quot;Wochenmärkte&quot;"><span>Wochenmärkte</span></a></li><li><a href="/de/Freizeit/Einkaufen/Verkaufsoffene_Sonntage" title="Zur Seite &quot;Verkaufsoffene Sonntage&quot;"><span>Verkaufsoffene Sonntage</span></a></li></ul></li><li><a href="/de/Freizeit/Fit_und_aktiv/index.aspx" title="Zur Seite &quot;Fit und aktiv&quot;"><span>Fit und aktiv</span></a><ul class="ebene3"><li><a href="/de/Freizeit/Fit_und_aktiv/Olympia" title="Zur Seite &quot;Olympiabewerbung KölnRheinRuhr&quot;"><span>Olympiabewerbung KölnRheinRuhr</span></a></li><li><a href="/de/Freizeit/Fit_und_aktiv/UEFA_EURO_2024" title="Zur Seite &quot;UEFA EURO 2024™&quot;"><span>UEFA EURO 2024™</span></a></li><li><a href="/de/Freizeit/Fit_und_aktiv/Special_Olympics" title="Zur Seite &quot;Special Olympics&quot;"><span>Special Olympics</span></a></li><li><a href="/de/Freizeit/Fit_und_aktiv/Sportparadies" title="Zur Seite &quot;Sportparadies&quot;"><span>Sportparadies</span></a></li><li><a href="/de/Freizeit/Fit_und_aktiv/Schwimmbaeder" title="Zur Seite &quot;Schwimmbäder&quot;"><span>Schwimmbäder</span></a></li><li><a href="/de/Freizeit/Fit_und_aktiv/Radfahren" title="Zur Seite &quot;Radfahren&quot;"><span>Radfahren</span></a></li><li><a href="/de/Freizeit/Fit_und_aktiv/Lauf-_und_Wanderstrecken" title="Zur Seite &quot;Lauf- und Wanderstrecken&quot;"><span>Lauf- und Wanderstrecken</span></a></li><li><a href="/de/Freizeit/Fit_und_aktiv/Reiten" title="Zur Seite &quot;Reiten&quot;"><span>Reiten</span></a></li><li><a href="/de/Freizeit/Fit_und_aktiv/Naturbeobachtungen" title="Zur Seite &quot;Naturbeobachtungen&quot;"><span>Naturbeobachtungen</span></a></li><li><a href="/de/Freizeit/Fit_und_aktiv/Sportkurse__Sportvereine__Sportanlagen" title="Zur Seite &quot;Sportkurse, Sportvereine, Sportanlagen&quot;"><span>Sportkurse, Sportvereine, Sportanlagen</span></a></li><li><a href="/de/Freizeit/Fit_und_aktiv/Spiel-_und_Bolzplaetze__Skateranlagen__Bauspielplaetze" title="Zur Seite &quot;Spiel- und Bolzplätze, Skateranlagen, Bauspielplätze&quot;"><span>Spiel- und Bolzplätze, Skateranlagen, Bauspielplätze</span></a></li><li><a href="/de/Freizeit/Fit_und_aktiv/FC_Schalke_04" title="Zur Seite &quot;FC Schalke 04&quot;"><span>FC Schalke 04</span></a></li><li><a href="/de/Freizeit/Fit_und_aktiv/Alma_Park.aspx" title="Zur Seite &quot;Alma Park&quot;"><span>Alma Park</span></a></li><li><a href="/de/Freizeit/Fit_und_aktiv/Firebowl_Gelsenkirchen.aspx" title="Zur Seite &quot;Firebowl Gelsenkirchen&quot;"><span>Firebowl Gelsenkirchen</span></a></li><li><a href="/de/Freizeit/Fit_und_aktiv/Trabrennbahn" title="Zur Seite &quot;Trabrennbahn&quot;"><span>Trabrennbahn</span></a></li><li><a href="/de/Freizeit/Fit_und_aktiv/Gesundheitspark_Nienhausen" title="Zur Seite &quot;Gesundheitspark Nienhausen&quot;"><span>Gesundheitspark Nienhausen</span></a></li></ul></li><li><a href="/de/Freizeit/Zu_Gast_in_Gelsenkirchen/index.aspx" title="Zur Seite &quot;Zu Gast in Gelsenkirchen&quot;"><span>Zu Gast in Gelsenkirchen</span></a><ul class="ebene3"><li><a href="/de/Freizeit/Zu_Gast_in_Gelsenkirchen/Stadt-_und_Touristinfo" title="Zur Seite &quot;Stadt- und Touristinfo&quot;"><span>Stadt- und Touristinfo</span></a></li><li><a href="/de/Freizeit/Zu_Gast_in_Gelsenkirchen/Anreise_und_Parken" title="Zur Seite &quot;Anreise und Parken&quot;"><span>Anreise und Parken</span></a></li><li><a href="/de/Freizeit/Zu_Gast_in_Gelsenkirchen/Stadtrundfahrten_und_Fuehrungen" title="Zur Seite &quot;Stadtrundfahrten und Führungen&quot;"><span>Stadtrundfahrten und Führungen</span></a></li><li><a href="/de/Freizeit/Zu_Gast_in_Gelsenkirchen/Hotelsuche.aspx" title="Zur Seite &quot;Hotelsuche&quot;"><span>Hotelsuche</span></a></li><li><a href="/de/Freizeit/Zu_Gast_in_Gelsenkirchen/privatunterkuenfte_reisemobilstellplatz" title="Zur Seite &quot;Privatunterkünfte / Reisemobilstellplatz&quot;"><span>Privatunterkünfte / Reisemobilstellplatz</span></a></li><li><a href="/de/Freizeit/Zu_Gast_in_Gelsenkirchen/Infomaterialien" title="Zur Seite &quot;Infomaterialien&quot;"><span>Infomaterialien</span></a></li><li><a href="/de/Freizeit/Zu_Gast_in_Gelsenkirchen/Gelsenkirchen-Artikel" title="Zur Seite &quot;Gelsenkirchen-Artikel&quot;"><span>Gelsenkirchen-Artikel</span></a></li><li><a href="/de/Freizeit/Zu_Gast_in_Gelsenkirchen/Bogestra_Ticketverkauf" title="Zur Seite &quot;Bogestra Ticketverkauf&quot;"><span>Bogestra Ticketverkauf</span></a></li><li><a href="/de/Freizeit/Zu_Gast_in_Gelsenkirchen/Tagungsmoeglichkeiten.aspx" title="Zur Seite &quot;Tagungsmöglichkeiten&quot;"><span>Tagungsmöglichkeiten</span></a></li><li><a href="/de/Freizeit/Zu_Gast_in_Gelsenkirchen/Veranstalten_in_Gelsenkirchen" title="Zur Seite &quot;Veranstalten in Gelsenkirchen&quot;"><span>Veranstalten in Gelsenkirchen</span></a></li></ul></li></ul></li><li><a href="/de/Bildung/index.aspx" title="Zur Seite &quot;Bildung&quot;"><span>Bildung</span></a><ul class="ebene2"><li><a href="/de/Bildung/Vorschulische_Bildung_und_Kinderbetreuung/index.aspx" title="Zur Seite &quot;Vorschulische Bildung und Kinderbetreuung&quot;"><span>Vorschulische Bildung und Kinderbetreuung</span></a><ul class="ebene3"><li><a href="/de/Bildung/Vorschulische_Bildung_und_Kinderbetreuung/Familienzentren_in_Kitas.aspx" title="Zur Seite &quot;Familienzentren in Kitas&quot;"><span>Familienzentren in Kitas</span></a></li><li><a href="/de/Bildung/Vorschulische_Bildung_und_Kinderbetreuung/karte.aspx" title="Zur Seite &quot;Karte der Betreuungseinrichtungen&quot;"><span>Karte der Betreuungseinrichtungen</span></a></li><li><a href="/de/Bildung/Vorschulische_Bildung_und_Kinderbetreuung/Kindertageseinrichtungen" title="Zur Seite &quot;Kindertageseinrichtungen&quot;"><span>Kindertageseinrichtungen</span></a></li><li><a href="/de/Bildung/Vorschulische_Bildung_und_Kinderbetreuung/Kitaportal.aspx" title="Zur Seite &quot;Kitaportal&quot;"><span>Kitaportal</span></a></li><li><a href="/de/Bildung/Vorschulische_Bildung_und_Kinderbetreuung/Kindertagespflege" title="Zur Seite &quot;Kindertagespflege&quot;"><span>Kindertagespflege</span></a></li><li><a href="/de/Bildung/Vorschulische_Bildung_und_Kinderbetreuung/Anmeldung" title="Zur Seite &quot;Anmeldung&quot;"><span>Anmeldung</span></a></li></ul></li><li><a href="/de/Bildung/Schulen/index.aspx" title="Zur Seite &quot;Schulen&quot;"><span>Schulen</span></a><ul class="ebene3"><li><a href="/de/Bildung/Schulen/Karte_der_Schulen" title="Zur Seite &quot;Karte der Schulen&quot;"><span>Karte der Schulen</span></a></li><li><a href="/de/Bildung/Schulen/Anmeldung_an_Schulen" title="Zur Seite &quot;Anmeldung an Schulen&quot;"><span>Anmeldung an Schulen</span></a></li><li><a href="/de/Bildung/Schulen/Ferienangebote.aspx" title="Zur Seite &quot;Ferienangebote&quot;"><span>Ferienangebote</span></a></li><li><a href="/de/Bildung/Schulen/Ganztag_in_Schulen" title="Zur Seite &quot;Ganztag&quot;"><span>Ganztag</span></a></li><li><a href="/de/Bildung/Schulen/Verlaessliche_Schule.aspx" title="Zur Seite &quot;Verlässliche Schule&quot;"><span>Verlässliche Schule</span></a></li><li><a href="/de/Bildung/Schulen/Schulweg" title="Zur Seite &quot;Schulweg&quot;"><span>Schulweg</span></a></li><li><a href="/de/Bildung/Schulen/Inklusion_in_Schulen.aspx" title="Zur Seite &quot;Inklusion&quot;"><span>Inklusion</span></a></li><li><a href="/de/Bildung/Schulen/Angebote_fuer_Schulen" title="Zur Seite &quot;Angebote für Schulen&quot;"><span>Angebote für Schulen</span></a></li><li><a href="/de/Bildung/Schulen/Oertliche_Schulaufsicht.aspx" title="Zur Seite &quot;Örtliche Schulaufsicht&quot;"><span>Örtliche Schulaufsicht</span></a></li><li><a href="/de/Bildung/Schulen/Gute_Schule_2020" title="Zur Seite &quot;Gute Schule 2020&quot;"><span>Gute Schule 2020</span></a></li></ul></li><li><a href="/de/Bildung/Uebergang_Schule-Beruf/index.aspx" title="Zur Seite &quot;Übergang Schule-Beruf&quot;"><span>Übergang Schule-Beruf</span></a><ul class="ebene3"><li><a href="/de/Bildung/Uebergang_Schule-Beruf/Berufliche_Ausbildung.aspx" title="Zur Seite &quot;Berufliche Ausbildung&quot;"><span>Berufliche Ausbildung</span></a></li><li><a href="/de/Bildung/Uebergang_Schule-Beruf/Eine_Woche_Berufliche_Orientierung_extra.aspx" title="Zur Seite &quot;Eine Woche Berufliche Orientierung extra&quot;"><span>Eine Woche Berufliche Orientierung extra</span></a></li><li><a href="/de/Bildung/Uebergang_Schule-Beruf/Angebote_fuer_junge_Menschen" title="Zur Seite &quot;Angebote für junge Menschen und Eltern&quot;"><span>Angebote für junge Menschen und Eltern</span></a></li><li><a href="/de/Bildung/Uebergang_Schule-Beruf/Angebote_fuer_beratende_Fachkraefte" title="Zur Seite &quot;Angebote für beratende Fachkräfte&quot;"><span>Angebote für beratende Fachkräfte</span></a></li><li><a href="/de/Bildung/Uebergang_Schule-Beruf/Kein_Abschluss_ohne_Anschluss" title="Zur Seite &quot;Kein Abschluss ohne Anschluss&quot;"><span>Kein Abschluss ohne Anschluss</span></a></li><li><a href="/de/Bildung/Uebergang_Schule-Beruf/Talente_frueh_entdecken" title="Zur Seite &quot;Talente früh entdecken&quot;"><span>Talente früh entdecken</span></a></li><li><a href="/de/Bildung/Uebergang_Schule-Beruf/Berufsfelder_erkunden" title="Zur Seite &quot;Berufsfelder erkunden&quot;"><span>Berufsfelder erkunden</span></a></li></ul></li><li><a href="/de/Bildung/Studium/index.aspx" title="Zur Seite &quot;Studium&quot;"><span>Studium</span></a><ul class="ebene3"><li><a href="/de/Bildung/Studium/Westfaelische_Hochschule.aspx" title="Zur Seite &quot;Westfälische Hochschule&quot;"><span>Westfälische Hochschule</span></a></li><li><a href="/de/Bildung/Studium/Fachhochschule_fuer_oeffentliche_Verwaltung.aspx" title="Zur Seite &quot;Hochschule für Polizei und öffentliche Verwaltung NRW&quot;"><span>Hochschule für Polizei und öffentliche Verwaltung NRW</span></a></li></ul></li><li><a href="/de/Bildung/Aus-_und_Weiterbildung/index.aspx" title="Zur Seite &quot;Aus- und Weiterbildung&quot;"><span>Aus- und Weiterbildung</span></a><ul class="ebene3"><li><a href="/de/Bildung/Aus-_und_Weiterbildung/Berufsorientierung" title="Zur Seite &quot;Berufsorientierung&quot;"><span>Berufsorientierung</span></a></li><li><a href="/de/Bildung/Aus-_und_Weiterbildung/Bildungscampus" title="Zur Seite &quot;Bildungscampus&quot;"><span>Bildungscampus</span></a></li><li><a href="/de/Bildung/Aus-_und_Weiterbildung/Jugendberufshilfe" title="Zur Seite &quot;Jugendberufshilfe&quot;"><span>Jugendberufshilfe</span></a></li><li><a href="/de/Bildung/Aus-_und_Weiterbildung/Karte_der_Aus-_und_Weiterbildungsorte.aspx" title="Zur Seite &quot;Karte der Aus- und Weiterbildungsorte&quot;"><span>Karte der Aus- und Weiterbildungsorte</span></a></li><li><a href="/de/Bildung/Aus-_und_Weiterbildung/Berufliche_Weiterbildung" title="Zur Seite &quot;Berufliche Weiterbildung&quot;"><span>Berufliche Weiterbildung</span></a></li><li><a href="/de/Bildung/Aus-_und_Weiterbildung/Berufskollegs" title="Zur Seite &quot;Berufskollegs&quot;"><span>Berufskollegs</span></a></li><li><a href="/de/Bildung/Aus-_und_Weiterbildung/B.box" title="Zur Seite &quot;B.box&quot;"><span>B.box</span></a></li><li><a href="/de/Bildung/Aus-_und_Weiterbildung/.aspx" title="Zur Seite &quot;Bewerbungstraining&quot;"><span>Bewerbungstraining</span></a></li><li><a href="/de/Bildung/Aus-_und_Weiterbildung/justiq" title="Zur Seite &quot;JUGEND STÄRKEN im Quartier&quot;"><span>JUGEND STÄRKEN im Quartier</span></a></li></ul></li><li><a href="/de/Bildung/Ausserschulische_Bildung/index.aspx" title="Zur Seite &quot;Außerschulische Bildung&quot;"><span>Außerschulische Bildung</span></a><ul class="ebene3"><li><a href="/de/Bildung/Ausserschulische_Bildung/karte_der_ausserschulischen_bildungseinrichtungen" title="Zur Seite &quot;Karte der außerschulischen Bildungseinrichtungen&quot;"><span>Karte der außerschulischen Bildungseinrichtungen</span></a></li><li><a href="/de/Bildung/Ausserschulische_Bildung/Stadtbibliothek" title="Zur Seite &quot;Stadtbibliothek&quot;"><span>Stadtbibliothek</span></a></li><li><a href="/de/Bildung/Ausserschulische_Bildung/Familienzentren" title="Zur Seite &quot;Familienzentren&quot;"><span>Familienzentren</span></a></li><li><a href="/de/Bildung/Ausserschulische_Bildung/Volkshochschule" title="Zur Seite &quot;Volkshochschule&quot;"><span>Volkshochschule</span></a></li><li><a href="/de/Bildung/Ausserschulische_Bildung/demokratiebewegen" title="Zur Seite &quot;demokratie.bewegen&quot;"><span>demokratie.bewegen</span></a></li><li><a href="/de/Bildung/Ausserschulische_Bildung/Institut_fuer_Stadtgeschichte" title="Zur Seite &quot;Institut für Stadtgeschichte&quot;"><span>Institut für Stadtgeschichte</span></a></li><li><a href="/de/Bildung/Ausserschulische_Bildung/Musikschule.aspx" title="Zur Seite &quot;Musikschule&quot;"><span>Musikschule</span></a></li><li><a href="/de/Bildung/Ausserschulische_Bildung/Kunstmuseum.aspx" title="Zur Seite &quot;Kunstmuseum&quot;"><span>Kunstmuseum</span></a></li><li><a href="/de/Bildung/Ausserschulische_Bildung/Schloss_Horst.aspx" title="Zur Seite &quot;Schloss Horst&quot;"><span>Schloss Horst</span></a></li><li><a href="/de/Bildung/Ausserschulische_Bildung/Kunstschule.aspx" title="Zur Seite &quot;Kunstschule&quot;"><span>Kunstschule</span></a></li><li><a href="/de/Bildung/Ausserschulische_Bildung/Agenda21-Buero" title="Zur Seite &quot;Agenda21-Büro&quot;"><span>Agenda21-Büro</span></a></li><li><a href="/de/Bildung/Ausserschulische_Bildung/Kulturelle_Bildung.aspx" title="Zur Seite &quot;Kulturelle Bildung&quot;"><span>Kulturelle Bildung</span></a></li><li><a href="/de/Bildung/Ausserschulische_Bildung/Digitaltag" title="Zur Seite &quot;Digitaltag&quot;"><span>Digitaltag</span></a></li><li><a href="/de/Bildung/Ausserschulische_Bildung/Umweltbildung" title="Zur Seite &quot;Umweltbildung&quot;"><span>Umweltbildung</span></a></li><li><a href="/de/Bildung/Ausserschulische_Bildung/zdi_Netzwerk_Gelsenkirchen" title="Zur Seite &quot;zdi Netzwerk Gelsenkirchen&quot;"><span>zdi Netzwerk Gelsenkirchen</span></a></li></ul></li><li><a href="/de/Bildung/Bildung_fuer_nachhaltige_Entwicklung/index.aspx" title="Zur Seite &quot;Bildung für nachhaltige Entwicklung&quot;"><span>Bildung für nachhaltige Entwicklung</span></a><ul class="ebene3"><li><a href="/de/Bildung/Bildung_fuer_nachhaltige_Entwicklung/KreativWerkstatt.aspx" title="Zur Seite &quot;KreativWerkstatt&quot;"><span>KreativWerkstatt</span></a></li><li><a href="/de/Bildung/Bildung_fuer_nachhaltige_Entwicklung/Solarbruecke_Zenica-Gelsenkirchen.aspx" title="Zur Seite &quot;Solarbrücke Zenica-Gelsenkirchen&quot;"><span>Solarbrücke Zenica-Gelsenkirchen</span></a></li><li><a href="/de/Bildung/Bildung_fuer_nachhaltige_Entwicklung/Umwelt.aspx" title="Zur Seite &quot;Umweltdiplom&quot;"><span>Umweltdiplom</span></a></li><li><a href="/de/Bildung/Bildung_fuer_nachhaltige_Entwicklung/Zukunftsstadt2030_" title="Zur Seite &quot;Zukunftsstadt2030+&quot;"><span>Zukunftsstadt2030+</span></a></li></ul></li><li><a href="/de/Bildung/Kommunales_Bildungsbuero/index.aspx" title="Zur Seite &quot;Kommunales Bildungsbüro&quot;"><span>Kommunales Bildungsbüro</span></a><ul class="ebene3"><li><a href="/de/Bildung/Kommunales_Bildungsbuero/Fachtage_und_Fortbildungen.aspx" title="Zur Seite &quot;Fachtage und Fortbildungen&quot;"><span>Fachtage und Fortbildungen</span></a></li><li><a href="/de/Bildung/Kommunales_Bildungsbuero/Seminare" title="Zur Seite &quot;Seminare&quot;"><span>Seminare</span></a></li><li><a href="/de/Bildung/Kommunales_Bildungsbuero/Bildungskonferenz.aspx" title="Zur Seite &quot;Bildungskonferenz&quot;"><span>Bildungskonferenz</span></a></li><li><a href="/de/Bildung/Kommunales_Bildungsbuero/Bildung_in_Zahlen" title="Zur Seite &quot;Bildung in Zahlen&quot;"><span>Bildung in Zahlen</span></a></li><li><a href="/de/Bildung/Kommunales_Bildungsbuero/Konferenzen_und_Fachtagungen.aspx" title="Zur Seite &quot;Konferenzen und Fachtagungen&quot;"><span>Konferenzen und Fachtagungen</span></a></li><li><a href="/de/Bildung/Kommunales_Bildungsbuero/Medientag.aspx" title="Zur Seite &quot;Medientag „Jedem Kind ein iPad in GE – und jetzt?“&quot;"><span>Medientag „Jedem Kind ein iPad in GE – und jetzt?“</span></a></li><li><a href="/de/Bildung/Kommunales_Bildungsbuero/Themen_und_Partner" title="Zur Seite &quot;Themen und Partner&quot;"><span>Themen und Partner</span></a></li><li><a href="/de/Bildung/Kommunales_Bildungsbuero/Stadtschuelerschaft.aspx" title="Zur Seite &quot;Stadtschülerschaft&quot;"><span>Stadtschülerschaft</span></a></li></ul></li><li><a href="/de/Bildung/Projekte_und_Foerderungen/index.aspx" title="Zur Seite &quot;Projekte und Förderungen&quot;"><span>Projekte und Förderungen</span></a><ul class="ebene3"><li><a href="/de/Bildung/Projekte_und_Foerderungen/BAfoeG.aspx" title="Zur Seite &quot;BAföG&quot;"><span>BAföG</span></a></li><li><a href="/de/Bildung/Projekte_und_Foerderungen/Bildungs-_und_Teilhabepaket" title="Zur Seite &quot;Bildungs- und Teilhabepaket&quot;"><span>Bildungs- und Teilhabepaket</span></a></li><li><a href="/de/Bildung/Projekte_und_Foerderungen/NRW-Talentzentrum" title="Zur Seite &quot;NRW-Zentrum für Talentförderung&quot;"><span>NRW-Zentrum für Talentförderung</span></a></li><li><a href="/de/Bildung/Projekte_und_Foerderungen/Bildungsverbund_Schalke" title="Zur Seite &quot;Bildungsverbund Schalke&quot;"><span>Bildungsverbund Schalke</span></a></li><li><a href="/de/Bildung/Projekte_und_Foerderungen/Foerderung_im_Umfeld_Schule" title="Zur Seite &quot;Förderung im Umfeld Schule&quot;"><span>Förderung im Umfeld Schule</span></a></li><li><a href="/de/Bildung/Projekte_und_Foerderungen/Sprachfoerderung" title="Zur Seite &quot;Sprachförderung&quot;"><span>Sprachförderung</span></a></li></ul></li></ul></li><li><a href="/de/Familie/index.aspx" title="Zur Seite &quot;Familie&quot;"><span>Familie</span></a><ul class="ebene2"><li><a href="/de/Familie/Auf_dem_Standesamt/index.aspx" title="Zur Seite &quot;Auf dem Standesamt&quot;"><span>Auf dem Standesamt</span></a><ul class="ebene3"><li><a href="/de/Familie/Auf_dem_Standesamt/Heiraten" title="Zur Seite &quot;Heiraten&quot;"><span>Heiraten</span></a></li><li><a href="/de/Familie/Auf_dem_Standesamt/Anmeldung_eines_Kindes" title="Zur Seite &quot;Anmeldung eines Kindes&quot;"><span>Anmeldung eines Kindes</span></a></li><li><a href="/de/Familie/Auf_dem_Standesamt/Sterbefall" title="Zur Seite &quot;Sterbefall&quot;"><span>Sterbefall</span></a></li><li><a href="/de/Familie/Auf_dem_Standesamt/Namensrecht" title="Zur Seite &quot;Namensrecht&quot;"><span>Namensrecht</span></a></li><li><a href="/de/Familie/Auf_dem_Standesamt/Urkunden_und_Beglaubigungen" title="Zur Seite &quot;Urkunden und Beglaubigungen&quot;"><span>Urkunden und Beglaubigungen</span></a></li></ul></li><li><a href="/de/Familie/Beratung_und_Hilfe/index.aspx" title="Zur Seite &quot;Beratung und Hilfe&quot;"><span>Beratung und Hilfe</span></a><ul class="ebene3"><li><a href="/de/Familie/Beratung_und_Hilfe/Ehrenamtliche_Vormundschaft.aspx" title="Zur Seite &quot;Ehrenamtliche Vormundschaft&quot;"><span>Ehrenamtliche Vormundschaft</span></a></li><li><a href="/de/Familie/Beratung_und_Hilfe/Kindeswohlgefaehrdung" title="Zur Seite &quot;Kindeswohlgefährdung&quot;"><span>Kindeswohlgefährdung</span></a></li><li><a href="/de/Familie/Beratung_und_Hilfe/Allgemeiner_Staedtischer_Sozialdienst" title="Zur Seite &quot;Bezirkssozialarbeit des Jugendamtes&quot;"><span>Bezirkssozialarbeit des Jugendamtes</span></a></li><li><a href="/de/Familie/Beratung_und_Hilfe/beratungsstelle_fuer_kinder_jugendliche_und_eltern" title="Zur Seite &quot;Beratungsstelle für Kinder, Jugendliche und Eltern&quot;"><span>Beratungsstelle für Kinder, Jugendliche und Eltern</span></a></li><li><a href="/de/Familie/Beratung_und_Hilfe/Betreuungsbehoerde.aspx" title="Zur Seite &quot;Betreuungsbehörde&quot;"><span>Betreuungsbehörde</span></a></li><li><a href="/de/Familie/Beratung_und_Hilfe/Sozialdienst_Schule" title="Zur Seite &quot;Sozialdienst Schule&quot;"><span>Sozialdienst Schule</span></a></li><li><a href="/de/Familie/Beratung_und_Hilfe/PFAD" title="Zur Seite &quot;PFAD&quot;"><span>PFAD</span></a></li><li><a href="/de/Familie/Beratung_und_Hilfe/Kinder-_und_Jugendschutz" title="Zur Seite &quot;Kinder- und Jugendschutz&quot;"><span>Kinder- und Jugendschutz</span></a></li><li><a href="/de/Familie/Beratung_und_Hilfe/Jugendgerichtshilfe" title="Zur Seite &quot;Jugendgerichtshilfe&quot;"><span>Jugendgerichtshilfe</span></a></li><li><a href="/de/Familie/Beratung_und_Hilfe/Linktipps_fuer_Eltern.aspx" title="Zur Seite &quot;Linktipps für Eltern&quot;"><span>Linktipps für Eltern</span></a></li></ul></li><li><a href="/de/Familie/Eltern/index.aspx" title="Zur Seite &quot;Eltern&quot;"><span>Eltern</span></a><ul class="ebene3"><li><a href="/de/Familie/Eltern/Geburt" title="Zur Seite &quot;Geburt&quot;"><span>Geburt</span></a></li><li><a href="/de/Familie/Eltern/Wickeln_und_Stillen.aspx" title="Zur Seite &quot;Wickeln und Stillen&quot;"><span>Wickeln und Stillen</span></a></li><li><a href="/de/Familie/Eltern/Kinderbetreuung.aspx" title="Zur Seite &quot;Kinderbetreuung&quot;"><span>Kinderbetreuung</span></a></li><li><a href="/de/Familie/Eltern/Kitaportal.aspx" title="Zur Seite &quot;Kitaportal&quot;"><span>Kitaportal</span></a></li><li><a href="/de/Familie/Eltern/Familienzentren.aspx" title="Zur Seite &quot;Familienzentren&quot;"><span>Familienzentren</span></a></li><li><a href="/de/Familie/Eltern/Familienbuero" title="Zur Seite &quot;Familienbüro&quot;"><span>Familienbüro</span></a></li><li><a href="/de/Familie/Eltern/Eltern-Kind-Kurse" title="Zur Seite &quot;Eltern-Kind-Kurse&quot;"><span>Eltern-Kind-Kurse</span></a></li><li><a href="/de/Familie/Eltern/Finanzielle_Unterstuetzung_fuer_Familien" title="Zur Seite &quot;Finanzielle Unterstützung für Familien&quot;"><span>Finanzielle Unterstützung für Familien</span></a></li><li><a href="/de/Familie/Eltern/Unterhalt" title="Zur Seite &quot;Unterhalt&quot;"><span>Unterhalt</span></a></li><li><a href="/de/Familie/Eltern/Adoption" title="Zur Seite &quot;Adoption&quot;"><span>Adoption</span></a></li><li><a href="/de/Familie/Eltern/Pflegekinder" title="Zur Seite &quot;Pflegekinder&quot;"><span>Pflegekinder</span></a></li><li><a href="/de/Familie/Eltern/Trennung_und_Scheidung.aspx" title="Zur Seite &quot;Trennung und Scheidung&quot;"><span>Trennung und Scheidung</span></a></li></ul></li><li><a href="/de/Familie/Netzwerke/index.aspx" title="Zur Seite &quot;Netzwerke und Koordination&quot;"><span>Netzwerke und Koordination</span></a><ul class="ebene3"><li><a href="/de/Familie/Netzwerke/Jedem_Kind_seine_Chance_" title="Zur Seite &quot;Jedem Kind seine Chance!&quot;"><span>Jedem Kind seine Chance!</span></a></li><li><a href="/de/Familie/Netzwerke/Netzwerk_Kinderschutz.aspx" title="Zur Seite &quot;Netzwerk Kinderschutz&quot;"><span>Netzwerk Kinderschutz</span></a></li><li><a href="/de/Familie/Netzwerke/Netzwerke_Fruehe_Hilfe_und_Kinderschutz.aspx" title="Zur Seite &quot;Netzwerk Frühe Hilfen&quot;"><span>Netzwerk Frühe Hilfen</span></a></li></ul></li><li><a href="/de/Familie/Kinder_und_Jugendliche/index.aspx" title="Zur Seite &quot;Kinder und Jugendliche&quot;"><span>Kinder und Jugendliche</span></a><ul class="ebene3"><li><a href="/de/Familie/Kinder_und_Jugendliche/Jugendrat" title="Zur Seite &quot;Jugendrat&quot;"><span>Jugendrat</span></a></li><li><a href="/de/Familie/Kinder_und_Jugendliche/Platz_der_Kinderrechte.aspx" title="Zur Seite &quot;Platz der Kinderrechte&quot;"><span>Platz der Kinderrechte</span></a></li><li><a href="/de/Familie/Kinder_und_Jugendliche/Jugendbeteiligung.aspx" title="Zur Seite &quot;Jugendbeteiligung&quot;"><span>Jugendbeteiligung</span></a></li><li><a href="/de/Familie/Kinder_und_Jugendliche/Kinderbeauftragte.aspx" title="Zur Seite &quot;Kinderbeauftragte&quot;"><span>Kinderbeauftragte</span></a></li><li><a href="/de/Familie/Kinder_und_Jugendliche/Ferienangebote" title="Zur Seite &quot;Ferienangebote&quot;"><span>Ferienangebote</span></a></li><li><a href="/de/Familie/Kinder_und_Jugendliche/Auslandserfahrungen_und_austausch.aspx" title="Zur Seite &quot;Auslandserfahrungen und -austausch&quot;"><span>Auslandserfahrungen und -austausch</span></a></li><li><a href="/de/Familie/Kinder_und_Jugendliche/Jugendzentren" title="Zur Seite &quot;Jugendzentren&quot;"><span>Jugendzentren</span></a></li><li><a href="/de/Familie/Kinder_und_Jugendliche/Kunst_und_Kultur.aspx" title="Zur Seite &quot;Kunst und Kultur&quot;"><span>Kunst und Kultur</span></a></li><li><a href="/de/Familie/Kinder_und_Jugendliche/nachtfrequenz.aspx" title="Zur Seite &quot;nachtfrequenz&quot;"><span>nachtfrequenz</span></a></li><li><a href="/de/Familie/Kinder_und_Jugendliche/Kulturstrolche.aspx" title="Zur Seite &quot;Kulturstrolche&quot;"><span>Kulturstrolche</span></a></li><li><a href="/de/Familie/Kinder_und_Jugendliche/Kinderbibliothek" title="Zur Seite &quot;Kinderbibliothek&quot;"><span>Kinderbibliothek</span></a></li><li><a href="/de/Familie/Kinder_und_Jugendliche/Fit_und_aktiv.aspx" title="Zur Seite &quot;Fit und aktiv&quot;"><span>Fit und aktiv</span></a></li></ul></li><li><a href="/de/Familie/Aelter_werden/index.aspx" title="Zur Seite &quot;Älter werden&quot;"><span>Älter werden</span></a><ul class="ebene3"><li><a href="/de/Familie/Aelter_werden/Generationennetz" title="Zur Seite &quot;Generationennetz&quot;"><span>Generationennetz</span></a></li><li><a href="/de/Familie/Aelter_werden/Anlaufstellen_fuer_aeltere_Menschen.aspx" title="Zur Seite &quot;Anlaufstellen für ältere Menschen&quot;"><span>Anlaufstellen für ältere Menschen</span></a></li><li><a href="/de/Familie/Aelter_werden/Wohnen_im_Alter" title="Zur Seite &quot;Wohnen im Alter&quot;"><span>Wohnen im Alter</span></a></li><li><a href="/de/Familie/Aelter_werden/SeniorenHaeuser_Gelsenkirchen" title="Zur Seite &quot;SeniorenHäuser Gelsenkirchen&quot;"><span>SeniorenHäuser Gelsenkirchen</span></a></li><li><a href="/de/Familie/Aelter_werden/Pflegeangebote" title="Zur Seite &quot;Pflegeangebote&quot;"><span>Pflegeangebote</span></a></li><li><a href="/de/Familie/Aelter_werden/Demenz" title="Zur Seite &quot;Demenz&quot;"><span>Demenz</span></a></li><li><a href="/de/Familie/Aelter_werden/Aktiv_im_Alter" title="Zur Seite &quot;Aktiv im Alter&quot;"><span>Aktiv im Alter</span></a></li><li><a href="/de/Familie/Aelter_werden/Projekte" title="Zur Seite &quot;Projekte&quot;"><span>Projekte</span></a></li><li><a href="/de/Familie/Aelter_werden/Vorsorgeformulare" title="Zur Seite &quot;Vorsorgeformulare&quot;"><span>Vorsorgeformulare</span></a></li><li><a href="/de/Familie/Aelter_werden/Beirat_fuer_Senioren.aspx" title="Zur Seite &quot;Beirat für Senioren&quot;"><span>Beirat für Senioren</span></a></li></ul></li></ul></li><li><a href="/de/Soziales/index.aspx" title="Zur Seite &quot;Soziales&quot;"><span>Soziales</span></a><ul class="ebene2"><li><a href="/de/Soziales/Gesundheit/index.aspx" title="Zur Seite &quot;Gesundheit&quot;"><span>Gesundheit</span></a><ul class="ebene3"><li><a href="/de/Soziales/Gesundheit/Notdienste" title="Zur Seite &quot;Notdienste&quot;"><span>Notdienste</span></a></li><li><a href="/de/Soziales/Gesundheit/Aerzte_und_Kliniken" title="Zur Seite &quot;Ärzte und Kliniken&quot;"><span>Ärzte und Kliniken</span></a></li><li><a href="/de/Soziales/Gesundheit/Gesundheitskarte.aspx" title="Zur Seite &quot;Karte der Krankenhäuser und ambulanten Dienste&quot;"><span>Karte der Krankenhäuser und ambulanten Dienste</span></a></li><li><a href="/de/Soziales/Gesundheit/Beratung_und_Hilfe" title="Zur Seite &quot;Beratung und Hilfe&quot;"><span>Beratung und Hilfe</span></a></li><li><a href="/de/Soziales/Gesundheit/Gesundheitskonferenz" title="Zur Seite &quot;Gesundheitskonferenz&quot;"><span>Gesundheitskonferenz</span></a></li><li><a href="/de/Soziales/Gesundheit/Pflegeangebote.aspx" title="Zur Seite &quot;Pflegeangebote&quot;"><span>Pflegeangebote</span></a></li><li><a href="/de/Soziales/Gesundheit/Belehrung_nach_dem_Infektionsschutzgesetz.aspx" title="Zur Seite &quot;Belehrung nach dem Infektionsschutzgesetz&quot;"><span>Belehrung nach dem Infektionsschutzgesetz</span></a></li><li><a href="/de/Soziales/Gesundheit/Gesund_auf_Reisen" title="Zur Seite &quot;Gesund auf Reisen&quot;"><span>Gesund auf Reisen</span></a></li><li><a href="/de/Soziales/Gesundheit/Hygiene_und_Gesundheitsschutz" title="Zur Seite &quot;Hygiene und Gesundheitsschutz&quot;"><span>Hygiene und Gesundheitsschutz</span></a></li><li><a href="/de/Soziales/Gesundheit/Projekte_und_Netzwerke" title="Zur Seite &quot;Projekte und Netzwerke&quot;"><span>Projekte und Netzwerke</span></a></li></ul></li><li><a href="/de/Soziales/Gleichstellung/index.aspx" title="Zur Seite &quot;Gleichstellung&quot;"><span>Gleichstellung</span></a><ul class="ebene3"><li><a href="/de/Soziales/Gleichstellung/Antidiskriminierungsberatungs-_und_Beschwerdestelle.aspx" title="Zur Seite &quot;Antidiskriminierungsberatungs- und Beschwerdestelle&quot;"><span>Antidiskriminierungsberatungs- und Beschwerdestelle</span></a></li><li><a href="/de/Soziales/Gleichstellung/Internationaler_Frauentag" title="Zur Seite &quot;Internationaler_Frauentag&quot;"><span>Internationaler_Frauentag</span></a></li><li><a href="/de/Soziales/Gleichstellung/Kein_Platz.aspx" title="Zur Seite &quot;Kein Platz für sexualisierte Gewalt&quot;"><span>Kein Platz für sexualisierte Gewalt</span></a></li><li><a href="/de/Soziales/Gleichstellung/LSBTIQ_" title="Zur Seite &quot;LSBTIQ*&quot;"><span>LSBTIQ*</span></a></li><li><a href="/de/Soziales/Gleichstellung/Need-help.nrw_Praevention_und_Schutz_fuer_ukrainische_Frauen_.aspx" title="Zur Seite &quot;Need-help.nrw: Prävention und Schutz für ukrainische Frauen&quot;"><span>Need-help.nrw: Prävention und Schutz für ukrainische Frauen</span></a></li><li><a href="/de/Soziales/Gleichstellung/Orange_Day_-_Internationaler_Tag_gegen_Gewalt_an_Frauen_.aspx" title="Zur Seite &quot;Orange Day - Internationaler Tag gegen Gewalt an Frauen&quot;"><span>Orange Day - Internationaler Tag gegen Gewalt an Frauen</span></a></li><li><a href="/de/Soziales/Gleichstellung/Sexuelle_Gewalt_an_Kindern_und_Jugendlichen.aspx" title="Zur Seite &quot;Sexuelle Gewalt an Kindern und Jugendlichen&quot;"><span>Sexuelle Gewalt an Kindern und Jugendlichen</span></a></li><li><a href="/de/Soziales/Gleichstellung/Netzwerk__Zwangsehe.aspx" title="Zur Seite &quot;Netzwerk  Zwangsehe&quot;"><span>Netzwerk  Zwangsehe</span></a></li><li><a href="/de/Soziales/Gleichstellung/Haeusliche_Gewalt.aspx" title="Zur Seite &quot;Häusliche Gewalt&quot;"><span>Häusliche Gewalt</span></a></li><li><a href="/de/Soziales/Gleichstellung/Vertrauliche_Spurensicherung_nach_sexueller_Gewalt.aspx" title="Zur Seite &quot;Vertrauliche Spurensicherung nach sexueller Gewalt&quot;"><span>Vertrauliche Spurensicherung nach sexueller Gewalt</span></a></li></ul></li><li><a href="/de/Soziales/Arbeit/index.aspx" title="Zur Seite &quot;Arbeit&quot;"><span>Arbeit</span></a><ul class="ebene3"><li><a href="/de/Soziales/Arbeit/Arbeitsmarkt" title="Zur Seite &quot;Arbeitsmarkt&quot;"><span>Arbeitsmarkt</span></a></li><li><a href="/de/Soziales/Arbeit/Job_Point" title="Zur Seite &quot;Job Point&quot;"><span>Job Point</span></a></li><li><a href="/de/Soziales/Arbeit/Aus-_und_Weiterbildung.aspx" title="Zur Seite &quot;Aus- und Weiterbildung&quot;"><span>Aus- und Weiterbildung</span></a></li><li><a href="/de/Soziales/Arbeit/Arbeitslosigkeit" title="Zur Seite &quot;Arbeitslosigkeit&quot;"><span>Arbeitslosigkeit</span></a></li><li><a href="/de/Soziales/Arbeit/Equal_Pay_Day.aspx" title="Zur Seite &quot;Equal Pay Day&quot;"><span>Equal Pay Day</span></a></li><li><a href="/de/Soziales/Arbeit/Kommunale_Beschaeftigungsfoerderung.aspx" title="Zur Seite &quot;Kommunale Beschäftigungsförderung&quot;"><span>Kommunale Beschäftigungsförderung</span></a></li></ul></li><li><a href="/de/Soziales/Integration/index.aspx" title="Zur Seite &quot;Integration&quot;"><span>Integration</span></a><ul class="ebene3"><li><a href="/de/Soziales/Integration/Integrationsrat" title="Zur Seite &quot;Integrationsrat&quot;"><span>Integrationsrat</span></a></li><li><a href="/de/Soziales/Integration/Kommunales_Integrationszentrum" title="Zur Seite &quot;Kommunales Integrationszentrum&quot;"><span>Kommunales Integrationszentrum</span></a></li><li><a href="/de/Soziales/Integration/Kommunales_Integrationsmanagement.aspx" title="Zur Seite &quot;Kommunales Integrationsmanagement (KIM)&quot;"><span>Kommunales Integrationsmanagement (KIM)</span></a></li><li><a href="/de/Soziales/Integration/Beratung_und_Hilfe" title="Zur Seite &quot;Beratung und Hilfe&quot;"><span>Beratung und Hilfe</span></a></li><li><a href="/de/Soziales/Integration/Aufenthalts-_und_Arbeitsgenehmigungen" title="Zur Seite &quot;Aufenthalts- und Arbeitsgenehmigungen&quot;"><span>Aufenthalts- und Arbeitsgenehmigungen</span></a></li><li><a href="/de/Soziales/Integration/Zuwanderung" title="Zur Seite &quot;Zuwanderung&quot;"><span>Zuwanderung</span></a></li><li><a href="/de/Soziales/Integration/Asyl" title="Zur Seite &quot;Asyl&quot;"><span>Asyl</span></a></li><li><a href="/de/Soziales/Integration/Fluechtlingen_helfen" title="Zur Seite &quot;Hilfe für Geflüchtete&quot;"><span>Hilfe für Geflüchtete</span></a></li><li><a href="/de/Soziales/Integration/Projekte" title="Zur Seite &quot;Projekte&quot;"><span>Projekte</span></a></li></ul></li><li><a href="/de/Soziales/Hilfen_in_Not/index.aspx" title="Zur Seite &quot;Hilfen in Not&quot;"><span>Hilfen in Not</span></a><ul class="ebene3"><li><a href="/de/Soziales/Hilfen_in_Not/Demokratief%C3%B6rderung" title="Zur Seite &quot;demokratie.bewegen&quot;"><span>demokratie.bewegen</span></a></li><li><a href="/de/Soziales/Hilfen_in_Not/Einsamkeit.aspx" title="Zur Seite &quot;Einsamkeit&quot;"><span>Einsamkeit</span></a></li><li><a href="/de/Soziales/Hilfen_in_Not/Gewalt" title="Zur Seite &quot;Gewalt&quot;"><span>Gewalt</span></a></li><li><a href="/de/Soziales/Hilfen_in_Not/Notfall" title="Zur Seite &quot;Notfall-Infopunkte&quot;"><span>Notfall-Infopunkte</span></a></li><li><a href="/de/Soziales/Hilfen_in_Not/Kindeswohlgefaehrdung.aspx" title="Zur Seite &quot;Kindeswohlgefährdung&quot;"><span>Kindeswohlgefährdung</span></a></li><li><a href="/de/Soziales/Hilfen_in_Not/Sucht.aspx" title="Zur Seite &quot;Sucht&quot;"><span>Sucht</span></a></li><li><a href="/de/Soziales/Hilfen_in_Not/Psychische_Erkrankungen.aspx" title="Zur Seite &quot;Psychische Erkrankungen&quot;"><span>Psychische Erkrankungen</span></a></li><li><a href="/de/Soziales/Hilfen_in_Not/Wohnungsnotfaelle" title="Zur Seite &quot;Wohnungsnotfälle&quot;"><span>Wohnungsnotfälle</span></a></li><li><a href="/de/Soziales/Hilfen_in_Not/Betreuungsbehoerde.aspx" title="Zur Seite &quot;Betreuungsbehörde&quot;"><span>Betreuungsbehörde</span></a></li></ul></li><li><a href="/de/Soziales/Leben_mit_Behinderungen/index.aspx" title="Zur Seite &quot;Leben mit Behinderungen&quot;"><span>Leben mit Behinderungen</span></a><ul class="ebene3"><li><a href="/de/Soziales/Leben_mit_Behinderungen/Inklusionswettbewerb_2020.aspx" title="Zur Seite &quot;Inklusionswettbewerb 2020&quot;"><span>Inklusionswettbewerb 2020</span></a></li><li><a href="/de/Soziales/Leben_mit_Behinderungen/Special_Olympics.aspx" title="Zur Seite &quot;Special Olympics&quot;"><span>Special Olympics</span></a></li><li><a href="/de/Soziales/Leben_mit_Behinderungen/Barrierefreie_Stadt" title="Zur Seite &quot;Barrierefreie Stadt&quot;"><span>Barrierefreie Stadt</span></a></li><li><a href="/de/Soziales/Leben_mit_Behinderungen/Beratung_und_Hilfe" title="Zur Seite &quot;Beratung und Hilfe&quot;"><span>Beratung und Hilfe</span></a></li><li><a href="/de/Soziales/Leben_mit_Behinderungen/einrichtungen_fuer_menschen_mit_behinderung" title="Zur Seite &quot;Einrichtungen für Menschen mit Behinderung&quot;"><span>Einrichtungen für Menschen mit Behinderung</span></a></li><li><a href="/de/Soziales/Leben_mit_Behinderungen/fahrdienste_fuer_schwerbehinderte" title="Zur Seite &quot;Fahrdienste für Schwerbehinderte&quot;"><span>Fahrdienste für Schwerbehinderte</span></a></li><li><a href="/de/Soziales/Leben_mit_Behinderungen/GEmeinsam_Barrieren_abbauen.aspx" title="Zur Seite &quot;GE-meinsam Barrieren abbauen&quot;"><span>GE-meinsam Barrieren abbauen</span></a></li><li><a href="/de/Soziales/Leben_mit_Behinderungen/Inklusion_in_Schulen" title="Zur Seite &quot;Inklusion in Schulen&quot;"><span>Inklusion in Schulen</span></a></li><li><a href="/de/Soziales/Leben_mit_Behinderungen/Schwerbehindertenausweise.aspx" title="Zur Seite &quot;Schwerbehindertenausweise&quot;"><span>Schwerbehindertenausweise</span></a></li></ul></li><li><a href="/de/Soziales/Finanzielle_Unterstuetzung/index.aspx" title="Zur Seite &quot;Finanzielle Unterstützung&quot;"><span>Finanzielle Unterstützung</span></a><ul class="ebene3"><li><a href="/de/Soziales/Finanzielle_Unterstuetzung/GE-Pass" title="Zur Seite &quot;GE-Pass&quot;"><span>GE-Pass</span></a></li><li><a href="/de/Soziales/Finanzielle_Unterstuetzung/GruSi.aspx" title="Zur Seite &quot;GruSi im Alter und bei Erwerbsminderung&quot;"><span>GruSi im Alter und bei Erwerbsminderung</span></a></li><li><a href="/de/Soziales/Finanzielle_Unterstuetzung/Hilfe_zum_Lebensunterhalt.aspx" title="Zur Seite &quot;Hilfe zum Lebensunterhalt&quot;"><span>Hilfe zum Lebensunterhalt</span></a></li><li><a href="/de/Soziales/Finanzielle_Unterstuetzung/Wohngeld" title="Zur Seite &quot;Wohngeld&quot;"><span>Wohngeld</span></a></li><li><a href="/de/Soziales/Finanzielle_Unterstuetzung/Bildungs-_und_Teilhabepaket.aspx" title="Zur Seite &quot;Bildungs- und Teilhabepaket&quot;"><span>Bildungs- und Teilhabepaket</span></a></li><li><a href="/de/Soziales/Finanzielle_Unterstuetzung/Schuldnerberatung.aspx" title="Zur Seite &quot;Schuldnerberatung&quot;"><span>Schuldnerberatung</span></a></li><li><a href="/de/Soziales/Finanzielle_Unterstuetzung/Buergerservice.aspx" title="Zur Seite &quot;Bürgerservice&quot;"><span>Bürgerservice</span></a></li><li><a href="/de/Soziales/Finanzielle_Unterstuetzung/KulturPott_Ruhr.aspx" title="Zur Seite &quot;KulturPott.Ruhr&quot;"><span>KulturPott.Ruhr</span></a></li></ul></li><li><a href="/de/Soziales/SSQ/index.aspx" title="Zur Seite &quot;Strategische Sozialplanung und Quartiersmanagement&quot;"><span>Strategische Sozialplanung und Quartiersmanagement</span></a><ul class="ebene3"><li><a href="/de/Soziales/SSQ/Altstadt" title="Zur Seite &quot;Altstadt&quot;"><span>Altstadt</span></a></li><li><a href="/de/Soziales/SSQ/Quartiersladen_Horst" title="Zur Seite &quot;Quartiersladen Horst&quot;"><span>Quartiersladen Horst</span></a></li><li><a href="/de/Soziales/SSQ/Quartiersladen_Schalke" title="Zur Seite &quot;Quartiersladen Schalke&quot;"><span>Quartiersladen Schalke</span></a></li><li><a href="/de/Soziales/SSQ/Stadtteil-_und_Quartiersinitiativen.aspx" title="Zur Seite &quot;Stadtteil- und Quartiersinitiativen&quot;"><span>Stadtteil- und Quartiersinitiativen</span></a></li><li><a href="/de/Soziales/SSQ/Stadtteilarbeit_Gelsenkirchen.aspx" title="Zur Seite &quot;Stadtteilarbeit Gelsenkirchen&quot;"><span>Stadtteilarbeit Gelsenkirchen</span></a></li></ul></li></ul></li><li><a href="/de/Wirtschaft/index.aspx" title="Zur Seite &quot;Wirtschaft&quot;"><span>Wirtschaft</span></a><ul class="ebene2"><li><a href="/de/Wirtschaft/Standort_Gelsenkirchen/index.aspx" title="Zur Seite &quot;Standort Gelsenkirchen&quot;"><span>Standort Gelsenkirchen</span></a><ul class="ebene3"><li><a href="/de/Wirtschaft/Standort_Gelsenkirchen/Wirtschaftsdaten" title="Zur Seite &quot;Wirtschaftsdaten&quot;"><span>Wirtschaftsdaten</span></a></li><li><a href="/de/Wirtschaft/Standort_Gelsenkirchen/Lage_und_Infrastruktur" title="Zur Seite &quot;Lage und Infrastruktur&quot;"><span>Lage und Infrastruktur</span></a></li><li><a href="/de/Wirtschaft/Standort_Gelsenkirchen/Leben_in_Gelsenkirchen" title="Zur Seite &quot;Leben in Gelsenkirchen&quot;"><span>Leben in Gelsenkirchen</span></a></li><li><a href="/de/Wirtschaft/Standort_Gelsenkirchen/Ausbildung_und_Fachkraefte" title="Zur Seite &quot;Ausbildung und Fachkräfte&quot;"><span>Ausbildung und Fachkräfte</span></a></li><li><a href="/de/Wirtschaft/Standort_Gelsenkirchen/Kampagne_Wirtschaftsstandort" title="Zur Seite &quot;Kampagne Wirtschaftsstandort&quot;"><span>Kampagne Wirtschaftsstandort</span></a></li></ul></li><li><a href="/de/Wirtschaft/Zukunftsprojekte/index.aspx" title="Zur Seite &quot;Zukunftsprojekte&quot;"><span>Zukunftsprojekte</span></a><ul class="ebene3"><li><a href="/de/Wirtschaft/Zukunftsprojekte/Arena_Park" title="Zur Seite &quot;Arena Park&quot;"><span>Arena Park</span></a></li><li><a href="/de/Wirtschaft/Zukunftsprojekte/Graf_Bismarck" title="Zur Seite &quot;Graf Bismarck&quot;"><span>Graf Bismarck</span></a></li><li><a href="/de/Wirtschaft/Zukunftsprojekte/Schalker_Verein" title="Zur Seite &quot;Schalker Verein&quot;"><span>Schalker Verein</span></a></li></ul></li><li><a href="/de/Wirtschaft/Fokusbranchen/index.aspx" title="Zur Seite &quot;Fokusbranchen&quot;"><span>Fokusbranchen</span></a><ul class="ebene3"><li><a href="/de/Wirtschaft/Fokusbranchen/Chemie" title="Zur Seite &quot;Chemie&quot;"><span>Chemie</span></a></li><li><a href="/de/Wirtschaft/Fokusbranchen/Einzelhandel" title="Zur Seite &quot;Einzelhandel&quot;"><span>Einzelhandel</span></a></li><li><a href="/de/Wirtschaft/Fokusbranchen/Gesundheit" title="Zur Seite &quot;Gesundheit&quot;"><span>Gesundheit</span></a></li><li><a href="/de/Wirtschaft/Fokusbranchen/Innovative_Dienstleistungen" title="Zur Seite &quot;Innovative Dienstleistungen&quot;"><span>Innovative Dienstleistungen</span></a></li><li><a href="/de/Wirtschaft/Fokusbranchen/Kreativwirtschaft" title="Zur Seite &quot;Kreativwirtschaft&quot;"><span>Kreativwirtschaft</span></a></li><li><a href="/de/Wirtschaft/Fokusbranchen/Logistik" title="Zur Seite &quot;Logistik&quot;"><span>Logistik</span></a></li><li><a href="/de/Wirtschaft/Fokusbranchen/Metall" title="Zur Seite &quot;Metall&quot;"><span>Metall</span></a></li><li><a href="/de/Wirtschaft/Fokusbranchen/Zukunftsenergien" title="Zur Seite &quot;Zukunftsenergien&quot;"><span>Zukunftsenergien</span></a></li></ul></li><li><a href="/de/Wirtschaft/Services_und_Ansprechpartner/index.aspx" title="Zur Seite &quot;Services und Ansprechpartner&quot;"><span>Services und Ansprechpartner</span></a><ul class="ebene3"><li><a href="/de/Wirtschaft/Services_und_Ansprechpartner/wirtschaftsfoerderung_gelsenkirchen" title="Zur Seite &quot;Wirtschaftsförderung Gelsenkirchen&quot;"><span>Wirtschaftsförderung Gelsenkirchen</span></a></li><li><a href="/de/Wirtschaft/Services_und_Ansprechpartner/Sofortprogramm_Innenstadt" title="Zur Seite &quot;Zukunftsfähige Innenstädte und Ortszentren&quot;"><span>Zukunftsfähige Innenstädte und Ortszentren</span></a></li><li><a href="/de/Wirtschaft/Services_und_Ansprechpartner/Wissenschaftspark_Gelsenkirchen" title="Zur Seite &quot;Wissenschaftspark Gelsenkirchen&quot;"><span>Wissenschaftspark Gelsenkirchen</span></a></li><li><a href="/de/Wirtschaft/Services_und_Ansprechpartner/Tagen_in_Gelsenkirchen" title="Zur Seite &quot;Tagen in Gelsenkirchen&quot;"><span>Tagen in Gelsenkirchen</span></a></li><li><a href="/de/Wirtschaft/Services_und_Ansprechpartner/Wettbewerbe" title="Zur Seite &quot;Wettbewerbe&quot;"><span>Wettbewerbe</span></a></li><li><a href="/de/Wirtschaft/Services_und_Ansprechpartner/Netzwerke_Gelsenkirchen" title="Zur Seite &quot;Netzwerke Gelsenkirchen&quot;"><span>Netzwerke Gelsenkirchen</span></a></li><li><a href="/de/Wirtschaft/Services_und_Ansprechpartner/Netzwerke_NRW_und_bundesweit" title="Zur Seite &quot;Netzwerke NRW und bundesweit&quot;"><span>Netzwerke NRW und bundesweit</span></a></li></ul></li></ul></li><li><a href="/de/Infrastruktur/index.aspx" title="Zur Seite &quot;Infrastruktur&quot;"><span>Infrastruktur</span></a><ul class="ebene2"><li><a href="/de/Infrastruktur/Stadtplanung/index.aspx" title="Zur Seite &quot;Stadtplanung&quot;"><span>Stadtplanung</span></a><ul class="ebene3"><li><a href="/de/Infrastruktur/Stadtplanung/Aktuelle_Projekte" title="Zur Seite &quot;Aktuelle Projekte&quot;"><span>Aktuelle Projekte</span></a></li><li><a href="/de/Infrastruktur/Stadtplanung/Landschaftsplan" title="Zur Seite &quot;Landschaftsplan&quot;"><span>Landschaftsplan</span></a></li><li><a href="/de/Infrastruktur/Stadtplanung/Oeffentlichkeitsbeteiligung" title="Zur Seite &quot;Öffentlichkeitsbeteiligung&quot;"><span>Öffentlichkeitsbeteiligung</span></a></li><li><a href="/de/Infrastruktur/Stadtplanung/Stadterneuerung_Gelsenkirchen" title="Zur Seite &quot;Stadterneuerung Gelsenkirchen&quot;"><span>Stadterneuerung Gelsenkirchen</span></a></li><li><a href="/de/Infrastruktur/Stadtplanung/Verkehrsplanung" title="Zur Seite &quot;Verkehrsplanung&quot;"><span>Verkehrsplanung</span></a></li><li><a href="/de/Infrastruktur/Stadtplanung/PlanungsAtlas.aspx" title="Zur Seite &quot;PlanungsAtlas&quot;"><span>PlanungsAtlas</span></a></li><li><a href="/de/Infrastruktur/Stadtplanung/Flaechennutzungsplan" title="Zur Seite &quot;Flächennutzungsplan&quot;"><span>Flächennutzungsplan</span></a></li><li><a href="/de/Infrastruktur/Stadtplanung/Gesamtstaedtische_Konzepte" title="Zur Seite &quot;Gesamtstädtische Konzepte&quot;"><span>Gesamtstädtische Konzepte</span></a></li><li><a href="/de/Infrastruktur/Stadtplanung/Quartierskoordination.aspx" title="Zur Seite &quot;Quartierskoordination&quot;"><span>Quartierskoordination</span></a></li></ul></li><li><a href="/de/Infrastruktur/Verkehr/index.aspx" title="Zur Seite &quot;Verkehr&quot;"><span>Verkehr</span></a><ul class="ebene3"><li><a href="/de/Infrastruktur/Verkehr/Parken_in_Buer.aspx" title="Zur Seite &quot;Parken in Buer&quot;"><span>Parken in Buer</span></a></li><li><a href="/de/Infrastruktur/Verkehr/Verkehrsinformationen" title="Zur Seite &quot;Verkehrsinformationen&quot;"><span>Verkehrsinformationen</span></a></li><li><a href="/de/Infrastruktur/Verkehr/Rund_ums_Auto" title="Zur Seite &quot;Rund ums Auto&quot;"><span>Rund ums Auto</span></a></li><li><a href="/de/Infrastruktur/Verkehr/Bus_und_Bahn" title="Zur Seite &quot;Bus und Bahn&quot;"><span>Bus und Bahn</span></a></li><li><a href="/de/Infrastruktur/Verkehr/Radverkehr" title="Zur Seite &quot;Radverkehr&quot;"><span>Radverkehr</span></a></li><li><a href="/de/Infrastruktur/Verkehr/E-Mobilitaet.aspx" title="Zur Seite &quot;E-Mobilität&quot;"><span>E-Mobilität</span></a></li><li><a href="/de/Infrastruktur/Verkehr/Weiterentwicklung_Nahverkehr.aspx" title="Zur Seite &quot;Weiterentwicklung Nahverkehr&quot;"><span>Weiterentwicklung Nahverkehr</span></a></li><li><a href="/de/Infrastruktur/Verkehr/Zukunft_Mobilitaet.aspx" title="Zur Seite &quot;Zukunft Mobilität&quot;"><span>Zukunft Mobilität</span></a></li></ul></li><li><a href="/de/Infrastruktur/Bauen_und_Wohnen/index.aspx" title="Zur Seite &quot;Bauen und Wohnen&quot;"><span>Bauen und Wohnen</span></a><ul class="ebene3"><li><a href="/de/Infrastruktur/Bauen_und_Wohnen/Bauberatung" title="Zur Seite &quot;Bauberatung&quot;"><span>Bauberatung</span></a></li><li><a href="/de/Infrastruktur/Bauen_und_Wohnen/Baugenehmigung.aspx" title="Zur Seite &quot;Baugenehmigung&quot;"><span>Baugenehmigung</span></a></li><li><a href="/de/Infrastruktur/Bauen_und_Wohnen/Baustoffboerse" title="Zur Seite &quot;Baustoffbörse&quot;"><span>Baustoffbörse</span></a></li><li><a href="/de/Infrastruktur/Bauen_und_Wohnen/Grundbesitzabgaben.aspx" title="Zur Seite &quot;Grundbesitzabgaben&quot;"><span>Grundbesitzabgaben</span></a></li><li><a href="/de/Infrastruktur/Bauen_und_Wohnen/wohnungsaushang.aspx" title="Zur Seite &quot;Wohnungsaushang&quot;"><span>Wohnungsaushang</span></a></li><li><a href="/de/Infrastruktur/Bauen_und_Wohnen/Denkmalschutz" title="Zur Seite &quot;Denkmalschutz&quot;"><span>Denkmalschutz</span></a></li><li><a href="/de/Infrastruktur/Bauen_und_Wohnen/Baurechtliche_Grundlagen" title="Zur Seite &quot;Baurechtliche Grundlagen&quot;"><span>Baurechtliche Grundlagen</span></a></li><li><a href="/de/Infrastruktur/Bauen_und_Wohnen/Energieeffiziente_Gebaeude" title="Zur Seite &quot;Energieeffiziente Gebäude&quot;"><span>Energieeffiziente Gebäude</span></a></li><li><a href="/de/Infrastruktur/Bauen_und_Wohnen/Baugebiete_und_Grundstuecke" title="Zur Seite &quot;Baugebiete und Grundstücke&quot;"><span>Baugebiete und Grundstücke</span></a></li><li><a href="/de/Infrastruktur/Bauen_und_Wohnen/Wohnungssuche" title="Zur Seite &quot;Wohnungssuche&quot;"><span>Wohnungssuche</span></a></li><li><a href="/de/Infrastruktur/Bauen_und_Wohnen/Wohnberechtigung.aspx" title="Zur Seite &quot;Wohnberechtigung&quot;"><span>Wohnberechtigung</span></a></li><li><a href="/de/Infrastruktur/Bauen_und_Wohnen/Wohnraumfoerderung" title="Zur Seite &quot;Wohnraumförderung&quot;"><span>Wohnraumförderung</span></a></li><li><a href="/de/Infrastruktur/Bauen_und_Wohnen/Immobilienmesse_Wohnen" title="Zur Seite &quot;Immobilienmesse Wohnen&quot;"><span>Immobilienmesse Wohnen</span></a></li></ul></li><li><a href="/de/Infrastruktur/Umwelt/index.aspx" title="Zur Seite &quot;Umwelt&quot;"><span>Umwelt</span></a><ul class="ebene3"><li><a href="/de/Infrastruktur/Umwelt/Energiesparen" title="Zur Seite &quot;Energiesparen&quot;"><span>Energiesparen</span></a></li><li><a href="/de/Infrastruktur/Umwelt/GEpflanzt" title="Zur Seite &quot;GEpflanzt&quot;"><span>GEpflanzt</span></a></li><li><a href="/de/Infrastruktur/Umwelt/Kommunale_Waermeplanung_Gelsenkirchen.aspx" title="Zur Seite &quot;Kommunale Wärmeplanung Gelsenkirchen&quot;"><span>Kommunale Wärmeplanung Gelsenkirchen</span></a></li><li><a href="/de/Infrastruktur/Umwelt/Unwetterwarnungen.aspx" title="Zur Seite &quot;Unwetterwarnungen&quot;"><span>Unwetterwarnungen</span></a></li><li><a href="/de/Infrastruktur/Umwelt/Klima" title="Zur Seite &quot;Klima&quot;"><span>Klima</span></a></li><li><a href="/de/Infrastruktur/Umwelt/Altlasten_und_Bodenschutz" title="Zur Seite &quot;Altlasten und Bodenschutz&quot;"><span>Altlasten und Bodenschutz</span></a></li><li><a href="/de/Infrastruktur/Umwelt/Laerm" title="Zur Seite &quot;Lärm&quot;"><span>Lärm</span></a></li><li><a href="/de/Infrastruktur/Umwelt/Natur_und_Landschaftsschutz" title="Zur Seite &quot;Natur- und Landschaftsschutz&quot;"><span>Natur- und Landschaftsschutz</span></a></li><li><a href="/de/Infrastruktur/Umwelt/Artenschutz" title="Zur Seite &quot;Artenschutz&quot;"><span>Artenschutz</span></a></li><li><a href="/de/Infrastruktur/Umwelt/Luft" title="Zur Seite &quot;Luft&quot;"><span>Luft</span></a></li><li><a href="/de/Infrastruktur/Umwelt/Wasser" title="Zur Seite &quot;Wasser&quot;"><span>Wasser</span></a></li><li><a href="/de/Infrastruktur/Umwelt/Hochspannung_und_Funk" title="Zur Seite &quot;Hochspannung und Funk&quot;"><span>Hochspannung und Funk</span></a></li><li><a href="/de/Infrastruktur/Umwelt/Emscherumbau.aspx" title="Zur Seite &quot;Emscherumbau&quot;"><span>Emscherumbau</span></a></li><li><a href="/de/Infrastruktur/Umwelt/Starkregen.aspx" title="Zur Seite &quot;Starkregen&quot;"><span>Starkregen</span></a></li><li><a href="/de/Infrastruktur/Umwelt/klimagenial" title="Zur Seite &quot;klimaGEnial&quot;"><span>klimaGEnial</span></a></li></ul></li><li><a href="/de/Infrastruktur/Abfall_und_Entsorgung/index.aspx" title="Zur Seite &quot;Abfall und Entsorgung&quot;"><span>Abfall und Entsorgung</span></a><ul class="ebene3"><li><a href="/de/Infrastruktur/Abfall_und_Entsorgung/Standorte_Entsorgung.aspx" title="Zur Seite &quot;Containerstandorte und Wertstoffhöfe&quot;"><span>Containerstandorte und Wertstoffhöfe</span></a></li><li><a href="/de/Infrastruktur/Abfall_und_Entsorgung/Kommunale_Entsorgung" title="Zur Seite &quot;Kommunale Entsorgung&quot;"><span>Kommunale Entsorgung</span></a></li><li><a href="/de/Infrastruktur/Abfall_und_Entsorgung/Abfallrecht" title="Zur Seite &quot;Abfallrecht&quot;"><span>Abfallrecht</span></a></li><li><a href="/de/Infrastruktur/Abfall_und_Entsorgung/Gefaehrliche_und_nicht_gefaehrliche_Abfaelle" title="Zur Seite &quot;Gefährliche und nicht gefährliche Abfälle&quot;"><span>Gefährliche und nicht gefährliche Abfälle</span></a></li></ul></li></ul></li><li class="mehr"><a href="#"><span>Mehr</span></a><ul class="ebene1"></ul></li></ul>
+			
+							</div>
+							<div id="metanavi">
+								
+
+<ul>
+  <li>
+    <a href="/de/_meta/Aktuelles" title="Zur Seite &quot;Aktuelles&quot;">
+      <span>Aktuelles</span>
+    </a>
+  </li>
+  <li>
+    <a href="/de/_meta/Buergerservice" title="Zur Seite &quot;Bürgerservice&quot;">
+      <span>Bürgerservice</span>
+    </a>
+  </li>
+  <li>
+    <a href="/de/_meta/veranstaltungskalender" title="Zur Seite &quot;Veranstaltungskalender&quot;">
+      <span>Veranstaltungskalender</span>
+    </a>
+  </li>
+  <li>
+    <a href="/de/_meta/Lebenslagen" title="Zur Seite &quot;Lebenslagen&quot;">
+      <span>Lebenslagen</span>
+    </a>
+  </li>
+  <li>
+    <a href="/de/_meta/a_bis_z.aspx" title="Zur Seite &quot;A bis Z&quot;">
+      <span>A bis Z</span>
+    </a>
+  </li>
+</ul>
+							</div>
+							<div id="funktionsnavi">
+								
+
+<ul>
+  <li>
+    <a href="/de/_funktionsnavigation/Leichte_Sprache" title="Zur Seite &quot;Leichte Sprache&quot;">
+      <span>Leichte Sprache</span>
+    </a>
+  </li>
+  <li>
+    <a href="/de/_funktionsnavigation/kontakt.aspx" title="Zur Seite &quot;Kontakt&quot;">
+      <span>Kontakt</span>
+    </a>
+  </li>
+  <li>
+    <a href="/de/_funktionsnavigation/stadtplan.aspx" title="Zur Seite &quot;Stadtplan&quot;">
+      <span>Stadtplan</span>
+    </a>
+  </li>
+  <li>
+    <a href="/de/_funktionsnavigation/KarriereWeiterleitung.aspx" title="Zur Seite &quot;Karriere&quot;">
+      <span>Karriere</span>
+    </a>
+  </li>
+  <li>
+    <a href="/de/_funktionsnavigation/presse" title="Zur Seite &quot;Presse&quot;">
+      <span>Presse</span>
+    </a>
+  </li>
+  <li>
+    <a href="/de/_funktionsnavigation/hilfe" title="Zur Seite &quot;Hilfe&quot;">
+      <span>Hilfe</span>
+    </a>
+  </li>
+  <li>
+    <a href="/de/_funktionsnavigation/impressum.aspx" title="Zur Seite &quot;Impressum&quot;">
+      <span>Impressum</span>
+    </a>
+  </li>
+  <li>
+    <a href="/de/_funktionsnavigation/Barrierefreiheit.aspx" title="Zur Seite &quot;Barrierefreiheit&quot;">
+      <span>Barrierefreiheit</span>
+    </a>
+  </li>
+  <li>
+    <a href="/de/_funktionsnavigation/Barriere_melden.aspx" title="Zur Seite &quot;Barriere melden&quot;">
+      <span>Barriere melden</span>
+    </a>
+  </li>
+</ul>
+							</div>
+						 </div>
+<div id="content"> 
+									
+		 <div id="breadcrumb"> 
+					<a href="https://www.gelsenkirchen.de/de/default.aspx"><span>Startseite</span></a>
+				 </div>
+<!--googleon: index-->
+<!--nxid=1-->
+<!--contentid=1-->
+<div id="gesamte_breite"> 
+					
+
+
+
+<script>
+    $(document).ready(function () {
+
+        var btnBlacksiteClick = function () {
+            $("#blacksite_gesamt").toggle();
+        }
+        //$("#btnAusbelenden").click(function () {
+        //    alert("test");
+        //    $("#blacksite_gesamt").toggle();
+        //});
+
+
+    });
+</script>
+
+
+
+
+					
+
+
+
+<script>
+    $(document).ready(function () {
+
+        var btnMeldungClick = function () {
+            $("#meldungGesamt").toggle();
+        }
+        //$("#btnAusbelenden").click(function () {
+        //    alert("test");
+        //    $("#blacksite_gesamt").toggle();
+        //});
+
+
+    });
+</script>
+
+
+
+
+				 </div>
+<div id="spalte_links"> 
+					<a id="sprungmarke_content"></a>
+					
+		<div class="element ueberschrift_themenseite noshow">
+			<h2>Startseite</h2>
+			<div></div>
+		</div>
+	
+		
+            <div class="element slider-themeneinstieg" data-ctrl-geSlider="{'theme':'themeneinstieg'}">
+				<ul>
+		
+            <li data-geSlider-title="2. Bürgermeister">
+			    <a href="/de/_meta/aktuelles/artikel/71899-rat-der-stadt-waehlt-werner-woell-zum-neuen-2-buergermeister" title="Der CDU-Stadtverordnete Werner Wöll ist heute vom Rat der Stadt zum Bürgermeister und 2. Stellvertreter der Oberbürgermeisterin gewählt worden. Er erreichte 41 von 66 Stimmen. [...]">
+				    <img src="/images/dummy.gif" alt="" data-ctrl-geImage="{'type':'slider-themeneinstieg','src':'/images/scoop/32299-pi0907_-_buergermeister_werner_woell_und_oberbuergermeisterin_andrea_henze.jpg'}"/>
+				    <div>
+					    <h3>Rat der Stadt wählt Werner Wöll zum neuen 2. Bürgermeister</h3>
+					    <p class="text">
+						    Der CDU-Stadtverordnete Werner Wöll ist heute vom Rat der Stadt zum Bürgermeister und 2. Stellvertreter der Oberbürgermeisterin gewählt worden. Er erreichte 41 von 66 Stimmen. [...] Bild: Stadt Gelsenkirchen
+						    <span></span>
+					    </p>
+				    </div>
+			    </a>
+		    </li>
+		
+            <li data-geSlider-title="Buerscher Waldbogen">
+			    <a href="/de/_meta/aktuelles/artikel/71918-urbanitaet-und-naturnaehe-der-buersche-waldbogen-ist-nahezu-fertiggestellt" title="Nach nunmehr zehn Jahren seit Baurechtschaffung ist des neue Wohnquartier „Am Buerschen Waldbogen“ nahezu fertiggestellt.">
+				    <img src="/images/dummy.gif" alt="" data-ctrl-geImage="{'type':'slider-themeneinstieg','src':'/images/scoop/32311-pi1307_-_am_buerschen_waldbogen_gkfoto_2026_57460.jpg'}"/>
+				    <div>
+					    <h3>Urbanität und Naturnähe – der Buersche Waldbogen ist nahezu fertiggestellt</h3>
+					    <p class="text">
+						    Nach nunmehr zehn Jahren seit Baurechtschaffung ist des neue Wohnquartier „Am Buerschen Waldbogen“ nahezu fertiggestellt. Bild: Stadt Gelsenkirchen - Gerd Kaemper
+						    <span></span>
+					    </p>
+				    </div>
+			    </a>
+		    </li>
+		
+            <li data-geSlider-title="Sportanlage Lohmühle">
+			    <a href="/de/_meta/aktuelles/artikel/71861-sportanlage-lohmuehle-ist-komplett-runderneuert" title="Die Bezirkssportanlage Lohmühle ist nicht nur komplett runderneuert, sondern nun auch mit einer smarten Anlage zur Zeiterfassung ausgestattet. Außerdem wurde die Tartanbahn erneuert.">
+				    <img src="/images/dummy.gif" alt="" data-ctrl-geImage="{'type':'slider-themeneinstieg','src':'/images/scoop/32276-260703_eroeffnung_der_neuen_leichtathletikanlage_gkfoto_2026_55574.jpg'}"/>
+				    <div>
+					    <h3>Sportanlage Lohmühle ist komplett runderneuert</h3>
+					    <p class="text">
+						    Die Bezirkssportanlage Lohmühle ist nicht nur komplett runderneuert, sondern nun auch mit einer smarten Anlage zur Zeiterfassung ausgestattet. Außerdem wurde die Tartanbahn erneuert. Bild: Gerd Kaemper
+						    <span></span>
+					    </p>
+				    </div>
+			    </a>
+		    </li>
+		
+            <li data-geSlider-title="Urbanus-Kiez">
+			    <a href="/de/_meta/aktuelles/artikel/71860-neuer-urbanus-kiez-offiziell-eroeffnet-weiterer-schub-fuer-die-innenstadt-von-buer" title="Die Hagenstraße in Gelsenkirchen-Buer wird zwischen den Hausnummern 52 bis 58 zur Fußgängerzone und bietet jetzt Raum für verschiedene Aktionen und Gastronomie.">
+				    <img src="/images/dummy.gif" alt="" data-ctrl-geImage="{'type':'slider-themeneinstieg','src':'/images/scoop/32281-pi0307_-_urban_kiez2.jpg'}"/>
+				    <div>
+					    <h3>Neuer Urbanus-Kiez offiziell eröffnet: Weiterer Schub für die Innenstadt von Buer</h3>
+					    <p class="text">
+						    Die Hagenstraße in Gelsenkirchen-Buer wird zwischen den Hausnummern 52 bis 58 zur Fußgängerzone und bietet jetzt Raum für verschiedene Aktionen und Gastronomie. Bild: Stadt Gelsenkirchen - Andreas Weiß
+						    <span></span>
+					    </p>
+				    </div>
+			    </a>
+		    </li>
+		
+            <li data-geSlider-title="Lotsenstelle">
+			    <a href="/de/_meta/aktuelles/artikel/71897-lotsenstelle-zu-gesundheitsfragen-beraet-nun-auch-im-familienbuero" title="Die Beratungs- und Lotsenstelle für gesundheitsbezogene Anliegen bietet nun jeden Freitag persönliche, kostenlose Gesprächsmöglichkeiten im Familienbüro an.">
+				    <img src="/images/dummy.gif" alt="" data-ctrl-geImage="{'type':'slider-themeneinstieg','src':'/images/scoop/32296-img_6013.jpeg'}"/>
+				    <div>
+					    <h3>Lotsenstelle zu Gesundheitsfragen berät nun auch im Familienbüro</h3>
+					    <p class="text">
+						    Die Beratungs- und Lotsenstelle für gesundheitsbezogene Anliegen bietet nun jeden Freitag persönliche, kostenlose Gesprächsmöglichkeiten im Familienbüro an. Bild: Stadt Gelsenkirchen
+						    <span></span>
+					    </p>
+				    </div>
+			    </a>
+		    </li>
+		
+            <li data-geSlider-title="NRW-Infrastrukturgesetz">
+			    <a href="/de/_meta/aktuelles/artikel/71790-verwaltung-legt-vorschlaege-zur-foerderung-durch-das-nrw-infrastrukturgesetz-vor" title="Gelsenkirchen erhält 164,75 Millionen Euro Fördermittel für die Jahre 2025 bis 2036. Die Stadt hat eine  Liste mit Projekten erarbeitet, für diese Mittel verwendet werden sollen.">
+				    <img src="/images/dummy.gif" alt="" data-ctrl-geImage="{'type':'slider-themeneinstieg','src':'/images/scoop/32220-pexels-sejio402-27134570.jpg'}"/>
+				    <div>
+					    <h3>Verwaltung legt Vorschläge zur Förderung durch das NRW-Infrastrukturgesetz vor</h3>
+					    <p class="text">
+						    Gelsenkirchen erhält 164,75 Millionen Euro Fördermittel für die Jahre 2025 bis 2036. Die Stadt hat eine  Liste mit Projekten erarbeitet, für diese Mittel verwendet werden sollen. Bild: Pexels
+						    <span></span>
+					    </p>
+				    </div>
+			    </a>
+		    </li>
+		
+			</ul>
+            </div>
+		
+	
+	
+
+
+	
+		<ul class="element teaser bildteaser">
+			
+		<li>
+			<a href="/de/Soziales/Gesundheit/Hygiene_und_Gesundheitsschutz/Hitzetipps.aspx" title="Link: Hitzetipps">
+				<img data-ctrl-geimage="{'type':'teaser','src':'/images/Sonne_pexels-goumbik-296234_26735.jpg'}" alt="Sonne scheint am blauen Himmel" src="https://www.gelsenkirchen.de/images/dummy.gif">
+				<div>
+					<span></span>
+					<div class="text bildunterschrift">
+						<p>
+							Grafik: pexels/goumbik
+						</p>
+					</div>
+					<h3>Infos und Tipps bei Hitze</h3>
+					<div class="text">
+						<p>
+							Gesund durch die hei&szlig;en Tage kommen
+						</p>
+					</div>
+				</div>
+			</a>
+		</li>
+	
+		<li>
+			<a href="/de/Freizeit/Fit_und_aktiv/Olympia/" title="Link: Olympiabewerbung">
+				<img data-ctrl-geimage="{'type':'teaser','src':'/images/250726_RR25_Waterpolo_MM_01822_26061.jpg'}" alt="Logo Olympiabewerbung" src="https://www.gelsenkirchen.de/images/dummy.gif">
+				<div>
+					<span></span>
+					<div class="text bildunterschrift">
+						<p>
+							Copyright: RR2025
+						</p>
+					</div>
+					<h3>Olympiabewerbung K&ouml;lnRheinRuhr</h3>
+					<div class="text">
+						<p>
+							Gelsenkirchen ist Teil der Bewerbung des Landes NRW.
+						</p>
+					</div>
+				</div>
+			</a>
+		</li>
+	
+		<li>
+			<a href="/de/Freizeit/Ausfluege_und_Sehenswuerdigkeiten/IGA_2027/" title="Link: IGA">
+				<img data-ctrl-geimage="{'type':'teaser','src':'/images/220809_IGA_Perspektive_Promenade_Ost_20677.jpg'}" alt="Rendering mit Blumen und Spazierg&auml;ngern im NSP" src="https://www.gelsenkirchen.de/images/dummy.gif">
+				<div>
+					<span></span>
+					<div class="text bildunterschrift">
+						<p>
+							Copyright: Stadt Gelsenkirchen
+						</p>
+					</div>
+					<h3>IGA 2027</h3>
+					<div class="text">
+						<p>
+							2027 kommt die Internationale Gartenausstellung nach Gelsenkirchen!
+						</p>
+					</div>
+				</div>
+			</a>
+		</li>
+	
+		<li>
+			<a href="/de/Rathaus/Karriere/Stellenangebote/" title="Link: Stellenangebote">
+				<img data-ctrl-geimage="{'type':'teaser','src':'/images/EIN-BUNTER-HAUFEN-Visual-Verlauf-ohne-Zusatz_16x9_weiss_umgekehrt_21424.png'}" alt="Grafik: Bunte Sprechblase mit Text &quot;Wir sind ein Bunter Haufen - Echte Vielfalt. Ein Arbeitgeber&quot;" src="https://www.gelsenkirchen.de/images/dummy.gif">
+				<div>
+					<span></span>
+					<div class="text bildunterschrift">
+						<p>
+							Grafik: Stadt Gelsenkirchen
+						</p>
+					</div>
+					<h3>Stellenangebote</h3>
+					<div class="text">
+						<p>
+							Jetzt bei der Stadt Gelsenkirchen bewerben!
+						</p>
+					</div>
+				</div>
+			</a>
+		</li>
+	
+		<li>
+			<a href="https://www.gelsenkirchen.de/de/Kultur/Festivals_und_Programmreihen/Volles_Programm/index.aspx" title="Link: Volles Programm">
+				<img data-ctrl-geimage="{'type':'teaser','src':'/images/Teaser_VP_2026_2_26079.jpg'}" alt="Logo Volles Programm 2026" src="https://www.gelsenkirchen.de/images/dummy.gif">
+				<div>
+					<span></span>
+					<div class="text bildunterschrift">
+						<p>
+							Grafik: Stadt Gelsenkirchen
+						</p>
+					</div>
+					<h3>Volles Programm</h3>
+					<div class="text">
+						<p>
+							Das Veranstaltungs- und Festivaljahr 2026 in Gelsenkirchen
+						</p>
+					</div>
+				</div>
+			</a>
+		</li>
+	
+		<li>
+			<a href="https://serviceportal.gelsenkirchen.de/" title="Link: Serviceportal">
+				<img data-ctrl-geimage="{'type':'teaser','src':'/images/pexels-anete-lusina-5239740_22027.jpg'}" alt="Auf einem Tisch drau&szlig;en steht ein Laptop, H&auml;nde mit rot lackierten Fingern&auml;geln halt ein Smartphone vor sich. " src="https://www.gelsenkirchen.de/images/dummy.gif">
+				<div>
+					<span></span>
+					<div class="text bildunterschrift">
+						<p>
+							Foto: Pexels / Anete Lusina
+						</p>
+					</div>
+					<h3>Serviceportal</h3>
+					<div class="text">
+						<p>
+							Online-Dienste der Stadt Gelsenkirchen. Einfach von zuhause oder unterwegs nutzen!
+						</p>
+					</div>
+				</div>
+			</a>
+		</li>
+	
+		</ul>
+		<div class="element clear"></div>
+	
+		
+<div class="element aktuelles noindex" data-ctrl-geAktuelles="{}">
+	<h3 class="element zwischenueberschrift"><span>Aktuelles</span></h3>
+
+				<ul>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/71942-lesesaal-des-stadtarchivs-schliesst-vom-20-bis-zum-31-juli" title="Diesen Artikel aufrufen">
+					<div>
+						<p>15.07.2026</p>
+						<h4>Lesesaal des Stadtarchivs schließt vom 20. bis zum 31. Juli: </h4>
+						<p>Um- und Aufräumarbeiten</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/71930-mobiler-multifunktionaler-ueberwachungsturm-soll-muellablagerungen-verhindern" title="Diesen Artikel aufrufen">
+					<div>
+						<p>14.07.2026</p>
+						<h4>Mobiler, multifunktionaler Überwachungsturm soll Müllablagerungen verhindern: </h4>
+						<p>Oberbürgermeisterin Andrea Henze gab am ersten Einsatzort den Startschuss</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/71923-lotsen-und-beratungsstelle-zu-gesundheitsfragen-baut-angebot-weiter-aus-ab-sofort-woechentliche-beratung-im-marienhospital-in-ueckendorf" title="Diesen Artikel aufrufen">
+					<div>
+						<p>14.07.2026</p>
+						<h4>Lotsen- und Beratungsstelle zu Gesundheitsfragen baut Angebot weiter aus: ab sofort wöchentliche Beratung im Marienhospital in Ückendorf: </h4>
+						<p>Auftakt in Ückendorf am 15. Juli</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/71918-urbanitaet-und-naturnaehe-der-buersche-waldbogen-ist-nahezu-fertiggestellt" title="Diesen Artikel aufrufen">
+					<div>
+						<p>13.07.2026</p>
+						<h4>Urbanität und Naturnähe – der Buersche Waldbogen ist nahezu fertiggestellt: </h4>
+						<p>Oberbürgermeisterin Andrea Henze besichtigt Baugebiet</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/71921-primaklimahorst" title="Diesen Artikel aufrufen">
+					<div>
+						<p>13.07.2026</p>
+						<h4>Prima.Klima.Horst.: </h4>
+						<p>Quartiersspaziergang brachte Ideen für ein schöneres, grüneres Horst</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/71899-rat-der-stadt-waehlt-werner-woell-zum-neuen-2-buergermeister" title="Diesen Artikel aufrufen">
+					<div>
+						<p>09.07.2026</p>
+						<h4>Rat der Stadt wählt Werner Wöll zum neuen 2. Bürgermeister: </h4>
+						<p>Zuvor Zweidrittelmehrheit für Abberufung Norbert Emmerichs</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/71895-anreisehinweise-zum-konzertabend-in-der-veltins-arena-am-samstag" title="Diesen Artikel aufrufen">
+					<div>
+						<p>09.07.2026</p>
+						<h4>Anreisehinweise zum Konzertabend in der VELTINS-Arena am Samstag: </h4>
+						<p>Böhse-Onkelz-Konzert startet um19:30 Uhr</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/71889-zukunft-gestalten-neues-entdecken" title="Diesen Artikel aufrufen">
+					<div>
+						<p>08.07.2026</p>
+						<h4>Zukunft gestalten, Neues entdecken: </h4>
+						<p>Anmeldebeginn zum Herbstsemester der VHS Gelsenkirchen am 13. Juli 2026</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/71881-15-jahre-bildung-und-teilhabe-zweites-kundenbuero-eroeffnet-in-kuerze" title="Diesen Artikel aufrufen">
+					<div>
+						<p>07.07.2026</p>
+						<h4>15 Jahre Bildung und Teilhabe: Zweites Kundenbüro eröffnet in Kürze: </h4>
+						<p>Vorübergehende Schließung des Standorts Kurt-Schumacher-Straße 4 wegen Umzugsarbeiten</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/71864-bombenblindgaenger-in-hessler-erfolgreich-entschaerft" title="Diesen Artikel aufrufen">
+					<div>
+						<p>06.07.2026</p>
+						<h4>Bombenblindgänger in Heßler erfolgreich entschärft</h4>
+						
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/71873-sommersound-2026-steht-in-den-startloechern" title="Diesen Artikel aufrufen">
+					<div>
+						<p>06.07.2026</p>
+						<h4>SommerSound 2026 steht in den Startlöchern: </h4>
+						<p>Open-Air-Musikfestival im Stadtgarten vom 26. Juli bis 23. August</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/71861-sportanlage-lohmuehle-ist-komplett-runderneuert" title="Diesen Artikel aufrufen">
+					<div>
+						<p>03.07.2026</p>
+						<h4>Sportanlage Lohmühle ist komplett runderneuert: </h4>
+						<p>Oberbürgermeisterin Andrea Henze: „Eine in dieser Form einzigartige Anlage in der Stadt.“</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			</ul>
+		
+	
+	
+
+	<div class="bttnzeile">
+		<a href="/de/_meta/aktuelles/artikel/bereich/13-" class="bttn">Alle Nachrichten </a>
+	</div>
+</div>
+
+	
+				 </div>
+<div id="spalte_rechts">
+		<div class="element karte_rechts noshow" data-ctrl-geMap="{'rel':'accordion','displayIfEmpty':false}"></div>
+		<div data-ctrl-geaccordion="{}" class="element accordion accordion_rechts">
+			<h3 class="element noshow">Servicebereich</h3>
+			
+		<h4><span class="icon-buergerservice"></span>B&uuml;rgerservice</h4>
+		<div>
+			
+
+		<ul class="element linkliste">
+				
+		<li><a href="https://serviceportal.gelsenkirchen.de/" title="Link: Serviceportal"><span></span><p><span>Serviceportal Gelsenkirchen</span><span>Dienstleistungen online</span></p></a></li>
+			
+		<li><a href="/de/_meta/Buergerservice/" title="Link: Alle Dienstleistungen der Stadt Gelsenkirchen im &Uuml;berblick"><span></span><p><span>Dienstleistungen und &Ouml;ffnungszeiten</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Buergerservice/BUERGERcenter/" title="Alle B&uuml;rgercenter auf einen Blick"><span></span><p><span>B&Uuml;RGERcenter</span><span></span></p></a></li>
+			
+		<li><a href="/de/rathaus/politik_und_verwaltung/Vorstandsbereiche_und_Dienststellen/31232-32-2-auslaenderangelegenheiten" title="Link: Ausl&auml;nderangeldenheiten"><span></span><p><span>Ausl&auml;nderangelegenheiten // foreigners' affairs (website in german) // affaires étrangères (site web en allemand)</span><span>
+</span></p></a></li>
+			
+		<li><a href="/de/_meta/Buergerservice/Wichtige_Adressen_fuer_Ihr_Anliegen.aspx" title="Zur &Uuml;bersicht &uuml;ber die st&auml;dtischen Einrichtungen"><span></span><p><span>Wichtige Anlaufstellen</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Buergerservice/formularservice.aspx" title="Zum Formularservice"><span></span><p><span>Formulare</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/a_bis_z.aspx" title="Zur &Uuml;bersicht Gelsenkirchen von A-Z"><span></span><p><span>Gelsenkirchen von A-Z</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Buergerservice/Onlinedienste/" title="Link: Onlinedienste"><span></span><p><span>Terminvergaben und weitere Onlinedienste</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Buergerservice/Onlinedienste/gemeldet.aspx" title="Link: Ge-meldet"><span></span><p><span>M&auml;ngelmelder GE-meldet</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Buergerservice/Onlinedienste/Geoportal/" title="Link: Geoportal"><span></span><p><span>Geoportal</span><span></span></p></a></li>
+	
+		</ul>
+	
+		<div class="element text text_links">
+			<p>Der&nbsp;Besuch der B&Uuml;RGERcenter&nbsp;ist <strong>ausschlie&szlig;lich mit Termin</strong> m&ouml;glich.</p>
+		</div>
+	
+		<div class="bttnzeile">
+			<a class="bttn" href="/de/_meta/Buergerservice/" title="Zum B&uuml;rgerservice">Zum B&uuml;rgerservice</a>
+		</div>
+	
+		</div>
+	
+		
+
+<h4 class="noindex">
+	<span class="icon-art"></span>
+	Aktuelles B&#252;rgerservice
+</h4>
+<div class="noindex">
+
+	
+			<div class="element box_aktuelles">
+				<ul>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/71717-digitale-katasterauskunft-neuer-online-service-verfuegbar">
+					<div>
+						<p>18.06.2026</p>
+						<h4>Digitale Katasterauskunft: neuer Online-Service verfügbar</h4>
+						<p class="subline">Geoshop – Digitale Katasterauskunft: Liegenschaftskarten jetzt online bestellen</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/65548-neue-funktion-im-online-buergerservice-wohnsitzanmeldung-nun-online-moeglich">
+					<div>
+						<p>02.01.2025</p>
+						<h4>Neue Funktion im Online-Bürgerservice: Wohnsitzanmeldung nun online möglich</h4>
+						<p class="subline">Stadt Gelsenkirchen bietet neue digitale Dienstleistung im Online-Service für Bürgerinnen und Bürger ab sofort</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/65527-neue-online-buergerservices-beantragung-von-aufenthaltserlaubnissen-ab-januar-digital-moeglich">
+					<div>
+						<p>20.12.2024</p>
+						<h4>Neue Online-Bürgerservices:  Beantragung von Aufenthaltserlaubnissen ab Januar digital möglich</h4>
+						<p class="subline">Stadt weitet den digitalen Service für Bürgerinnen und Bürger ab dem 1. Januar 2025 weiter aus</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/65518-verloren-gefunden">
+					<div>
+						<p>20.12.2024</p>
+						<h4>Verloren - gefunden</h4>
+						<p class="subline">Liste von Fundsachen auch im Internet</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/65374-30-jahre-unterstuetzung-im-kampf-gegen-die-heroinsucht-jubilaeum-der-methadonambulanz">
+					<div>
+						<p>28.11.2024</p>
+						<h4>30 Jahre Unterstützung im Kampf gegen die Heroinsucht: Jubiläum der Methadonambulanz</h4>
+						<p class="subline">Seit Ende des Jahres 1994 unterstützt der Sozialpsychiatrische Dienst der Stadt in der Methadonambulanz täglich bis zu 50 Menschen.  Auch intensive Beratung und Begleitung sind Teil des Projekts</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/64986-neue-broschuere-informiert-effizient-und-umweltfreundlich-heizen">
+					<div>
+						<p>02.10.2024</p>
+						<h4>Neue Broschüre informiert: Effizient und umweltfreundlich heizen</h4>
+						<p class="subline">Verschiedene Heizungssysteme im Überblick</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/64763-zwei-neue-online-dienste-in-gelsenkirchen">
+					<div>
+						<p>04.09.2024</p>
+						<h4>Zwei neue Online-Dienste in Gelsenkirchen:</h4>
+						<p class="subline">Melderegisterauskunft und Online-Antrag auf Einbürgerung stehen zur Verfügung</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/64754-zwei-neue-online-dienste-in-gelsenkirchen-melderegisterauskunft-und-online-antrag-auf-einbuergerung-stehen-zur-verfuegung">
+					<div>
+						<p>04.09.2024</p>
+						<h4>Zwei neue Online-Dienste in Gelsenkirchen: Melderegisterauskunft und Online-Antrag auf Einbürgerung stehen zur Verfügung</h4>
+						
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/64648-stadt-gelsenkirchen-startet-pilot-projekt-erste-digitale-ki-assistenz-im-buergerservice-einer-deutschen-kommune">
+					<div>
+						<p>26.08.2024</p>
+						<h4>Stadt Gelsenkirchen startet Pilot-Projekt: Erste digitale KI-Assistenz im Bürgerservice einer deutschen Kommune</h4>
+						<p class="subline">Die Stadt Gelsenkirchen und das in Gelsenkirchen ansässige Technologieunternehmen evocenta GmbH starten ein wegweisendes Pilotprojekt mit einer Machbarkeitsstudie</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			<li>
+				<a href="/de/_meta/aktuelles/artikel/59113-neue-online-services-fuer-buergerinnen-und-buerger-verfuegbar">
+					<div>
+						<p>08.02.2023</p>
+						<h4>Neue Online-Services für Bürgerinnen und Bürger verfügbar</h4>
+						<p class="subline">Wohnberechtigungsschein und Förderanträge im Bereich Klima einfach online über das Serviceportal der Stadt beantragen</p>
+					</div>
+					<span></span>
+				</a>
+			</li>
+		
+			</ul>
+			</div>
+		
+	
+	
+
+	<div class="bttnzeile">
+		<a href="/de/_meta/aktuelles/artikel/bereich/30-buergerservice" class="bttn">Alle Nachrichten B&#252;rgerservice</a>
+	</div>
+</div>
+	
+		<h4><span class="icon-ausweis-pass"></span>Ausweis und Meldewesen</h4>
+		<div>
+			
+
+		<ul class="element linkliste">
+				
+		<li><a href="/de/_meta/buergerservice/535-anmeldung-beim-bezug-einer-wohnung" title="Anmelden eines Wohnsitzes"><span></span><p><span>Anmelden eines Wohnsitzes</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Buergerservice/536-beantragung-eines-personalausweises" title="Link: Dienstleistung Personalausweis beantragen"><span></span><p><span>Personalausweis beantragen</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Buergerservice/532-beglaubigung-von-kopien-und-urkunden" title="Beglaubigung von Kopien und Unterschriften"><span></span><p><span>Beglaubigung von Kopien und Unterschriften</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Buergerservice/541-antrag-auf-erteilung-eines-fuehrungszeugnisses" title="Beantragung F&uuml;hrungszeugnis"><span></span><p><span>F&uuml;hrungszeugnis beantragen</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/buergerservice/540-ummelden-des-wohnsitzes-in-einer-gemeinde" title="Ummelden in Gelsenkirchen"><span></span><p><span>Ummelden in Gelsenkirchen</span><span></span></p></a></li>
+	
+		</ul>
+	
+		</div>
+	
+		<h4><span class="icon-car"></span>Rund ums Auto</h4>
+		<div>
+			
+
+		<ul class="element linkliste">
+				
+		<li><a href="/de/_meta/Buergerservice/Onlinedienste/Terminvergabe_Fuehrerscheinstelle.aspx" title="Link: Terminvergabe F&uuml;hrerscheinstelle"><span></span><p><span>Terminvergabe F&uuml;hrerscheinstelle</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Buergerservice/Onlinedienste/Terminvergabe_Fahrzeug-Zulassungsstelle.aspx" title="Link: Terminvereinbarung Kfz-Zulassungsstelle"><span></span><p><span>Terminvereinbarung Fahrzeug-Zulassungsstelle</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Buergerservice/546-anmeldung-zulassung-eines-neufahrzeugs" title="Link: Dienstleistung Anmeldung eines Neufahrzeugs"><span></span><p><span>Anmeldung eines Neufahrzeugs</span><span></span></p></a></li>
+			
+		<li><a href="/de/Infrastruktur/Verkehr/Verkehrsinformationen/Baustellenkarte/" title="Link: Baustellenkarte"><span></span><p><span>Baustellenkarte</span><span></span></p></a></li>
+			
+		<li><a href="_meta/Buergerservice/691-bewohnerparkausweise" title="Bewohnerparken online"><span></span><p><span>Bewohnerparkausweis online beantragen</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Buergerservice/945-feinstaubplaketten" title="Link: Dienstleistung Feinstaubplakette"><span></span><p><span>Feinstaubplakette</span><span></span></p></a></li>
+			
+		<li><a href="/de/Infrastruktur/Verkehr/Verkehrsinformationen/" title="Link: Verkehrsmeldungen"><span></span><p><span>Verkehrsmeldungen</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/buergerservice/577-wunschkennzeichen" title="Wunschkennzeichen"><span></span><p><span>Wunschkennzeichen</span><span></span></p></a></li>
+	
+		</ul>
+	
+		</div>
+	
+		<h4><span class="icon-house"></span>Wegweiser Bauen</h4>
+		<div>
+			
+
+		<ul class="element linkliste">
+				
+		<li><a href="/de/Infrastruktur/Bauen_und_Wohnen/Bauberatung/" title="Link: Bauberatung"><span></span><p><span>Bauberatung</span><span></span></p></a></li>
+			
+		<li><a href="/de/Infrastruktur/Bauen_und_Wohnen/Baugebiete_und_Grundstuecke/" title="Link: Baugebiete und Grundst&uuml;cke"><span></span><p><span>Baugebiete und -grundst&uuml;cke</span><span></span></p></a></li>
+			
+		<li><a href="/de/Infrastruktur/Bauen_und_Wohnen/Baugenehmigung.aspx" title="Link: Baugenehmigung"><span></span><p><span>Baugenehmigung</span><span></span></p></a></li>
+			
+		<li><a href="/de/Infrastruktur/Stadtplanung/PlanungsAtlas.aspx" title="Link: Planungsatlas"><span></span><p><span>PlanungsAtlas</span><span></span></p></a></li>
+			
+		<li><a href="/de/Infrastruktur/Bauen_und_Wohnen/Denkmalschutz/" title="Link: Denkmalschutz"><span></span><p><span>Denkmalschutz</span><span></span></p></a></li>
+	
+		</ul>
+	
+		</div>
+	
+		<h4><span class="icon-papierkorb"></span>Abfall/Entsorgung</h4>
+		<div>
+			
+
+		<ul class="element linkliste">
+				
+		<li><a href="https://www.gelsendienste.de/Muellabfuhr/Unsere_Leistungen/Abfallkalender/default.asp" title="Link: Abfallkalender Gelsendienste"><span></span><p><span>Abfuhrtermine</span><span></span></p></a></li>
+			
+		<li><a href="https://www.gelsendienste.de/START/default.asp" title="Link. Gelsendienste"><span></span><p><span>GELSENDIENSTE</span><span></span></p></a></li>
+			
+		<li><a href="/de/Infrastruktur/Abfall_und_Entsorgung/Standorte_Entsorgung.aspx" title="Link: Containerstandorte und Wertstoffh&ouml;fe"><span></span><p><span>Containerstandorte und Wertstoffh&ouml;fe</span><span></span></p></a></li>
+	
+		</ul>
+	
+		</div>
+	
+		<h4><span class="icon-hotel"></span>Hotels und Tourismus</h4>
+		<div>
+			
+
+		<ul class="element linkliste">
+				
+		<li><a href="/de/Freizeit/Zu_Gast_in_Gelsenkirchen/Stadt-_und_Touristinfo/" title="Link: Stadt- und Touristinfo"><span></span><p><span>Stadt- und Touristinfo</span><span></span></p></a></li>
+			
+		<li><a href="/de/Freizeit/Zu_Gast_in_Gelsenkirchen/Hotelsuche.aspx" title="Link: Hotels"><span></span><p><span>Hotels</span><span></span></p></a></li>
+			
+		<li><a href="/de/Freizeit/Zu_Gast_in_Gelsenkirchen/Anreise_und_Parken/" title="Link: Anreise und Parken"><span></span><p><span>Anreise und Parken</span><span></span></p></a></li>
+	
+		</ul>
+	
+		</div>
+	
+		<h4><span class="icon-lebenslagen"></span>Lebenslagen</h4>
+		<div>
+			
+
+		<ul class="element linkliste">
+				
+		<li><a href="/de/_meta/Lebenslagen/Geburt.aspx" title="Link: Lebenslage Geburt"><span></span><p><span>Geburt</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Lebenslagen/Kinderbetreuung_und_Erziehung.aspx" title="Link: Lebenslage Kinderbetreuung"><span></span><p><span>Kinderbetreuung</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Lebenslagen/Schule.aspx" title="Link: lebenslage Schule"><span></span><p><span>Schule</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Lebenslagen/Ausbildung.aspx" title="Link: Lebenslage Ausbildung"><span></span><p><span>Ausbildung</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Lebenslagen/Beruf.aspx" title="Link: Lebenslage Beruf"><span></span><p><span>Beruf</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Lebenslagen/Heirat.aspx" title="Link: Lebenslage Heirat"><span></span><p><span>Heirat</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Lebenslagen/Wohnen.aspx" title="Link: Lebenslage Wohnen"><span></span><p><span>Wohnen</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Lebenslagen/Bauen.aspx" title="Link: Lebenslage Bauen"><span></span><p><span>Bauen</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Lebenslagen/Alter.aspx" title="Link: Lebenlage Alter"><span></span><p><span>Alter</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Lebenslagen/Behinderung.aspx" title="Link: Lebenslage Behinderung"><span></span><p><span>Behinderung</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Lebenslagen/Sterbefall.aspx" title="Link: Lebenslage Sterbefall"><span></span><p><span>Sterbefall</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Lebenslagen/Neu_in_Gelsenkirchen.aspx" title="Link: Lebenslage neu in Gelsenkirchen"><span></span><p><span>Neu in Gelsenkirchen</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Lebenslagen/Notlagen.aspx" title="Link: Lebenslage Notlagen"><span></span><p><span>Notlagen</span><span></span></p></a></li>
+	
+		</ul>
+	
+		</div>
+	
+		<h4><span class="icon-smartphone"></span>Apps</h4>
+		<div>
+			
+
+		<ul class="element linkliste">
+				
+		<li><a href="/de/Stadtprofil/Stadtthemen/Die_vernetzte_Stadt/Projekte/Kommunalprojekte/City_App.aspx" title="Link: City-App"><span></span><p><span>City-App</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Buergerservice/Onlinedienste/gemeldet.aspx" title="Link: GEmeldet"><span></span><p><span>GEmeldet</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/Buergerservice/Onlinedienste/Baby-App_Gelsenkirchen/" title="Link: Baby-App Gelsenkirchen"><span></span><p><span>Baby-App Gelsenkirchen</span><span></span></p></a></li>
+			
+		<li><a href="/de/_meta/aktuelles/artikel/46342-giesspatinnen-und-paten-gesucht" title="Link: Baum-App"><span></span><p><span>Baum-App Gelsenkirchen</span><span></span></p></a></li>
+	
+		</ul>
+	
+		</div>
+	
+		<h4><span class="icon-aktentasche"></span>Karriere</h4>
+		<div>
+			
+
+		<ul class="element linkliste">
+				
+		<li><a href="/de/Rathaus/Karriere/Stellenangebote/" title="Link: Stellenanagebote"><span></span><p><span>Aktuelle Stellenangebote</span><span></span></p></a></li>
+			
+		<li><a href="/de/Rathaus/Karriere/Ausbildung_bei_der_Stadt/" title="Link: Ausbildungsangebot"><span></span><p><span>Ausbildung bei der Stadt</span><span></span></p></a></li>
+			
+		<li><a href="https://www.gelsenkirchen.de/de/Rathaus/Karriere/Quereinstieg_.aspx" title="Link: Quereinstieg"><span></span><p><span>Quereinstieg</span><span></span></p></a></li>
+			
+		<li><a href="https://www.gelsenkirchen.de/de/Rathaus/Karriere/Praktika/" title="Link: Praktika"><span></span><p><span>Praktika</span><span></span></p></a></li>
+			
+		<li><a href="https://www.gelsenkirchen.de/de/Rathaus/Karriere/Freiwilligendienste.aspx" title="Link: Freiwilligendienste"><span></span><p><span>Freiwilligendienste</span><span></span></p></a></li>
+	
+		</ul>
+	
+		</div>
+	
+		</div>
+	
+		<div class="element rahmen_rechts">
+			<h3 class="element">Kontakt</h3>
+			
+		<div class="element text text_links">
+			<p><strong>Stadt Gelsenkirchen</strong><br />Ebertstra&szlig;e 11<br />45879 Gelsenkirchen<br />Telefon +49 (209) 169-0<br />Fax +49 (209) 169-3530<br /><a title="Sendet eine neue eMail an stadt@gelsenkirchen.de" href="mailto:stadt@gelsenkirchen.de">stadt@gelsenkirchen.de</a></p>
+		</div>
+	
+		<div class="bttnzeile">
+			<a class="bttn" href="/de/_funktionsnavigation/kontakt.aspx" title="Link: Kontaktformular">Kontaktformular</a>
+		</div>
+
+	
+		</div>
+	
+
+		
+<div class="element noindex">
+	<div class="rahmen_rechts">
+		<h3 class="element">Termine Startseite</h3>
+
+    	
+		<div class="element box_termine">
+			
+					<ul>
+				
+					<li>
+						<a href="/de/_meta/veranstaltungskalender/95962-never-give-up-sagt-monika-feuersenger" title="Details zu diesem Termin aufrufen">
+							<div>
+								<span class="datum">bis Sa.<span>01</span><span>August</span></span>
+								Ausstellung | ganztägig
+								<h4>Never give up sagt Monika Feuersenger</h4>
+								<span class="ort">Kunstkiosk</span>
+								<div class="clear"></div>
+							</div>
+						</a>
+					</li>
+				
+					<li>
+						<a href="/de/_meta/veranstaltungskalender/95964-gelsenkirchen-in-geschichte-und-gegenwart-stadtansichten-aus-150-jahren" title="Details zu diesem Termin aufrufen">
+							<div>
+								<span class="datum">bis Fr.<span>28</span><span>August</span></span>
+								Ausstellung | ganztägig
+								<h4>Gelsenkirchen in Geschichte und Gegenwart. Stadtansichten aus 150 Jahren</h4>
+								<span class="ort">Bildungszentrum</span>
+								<div class="clear"></div>
+							</div>
+						</a>
+					</li>
+				
+					<li>
+						<a href="/de/_meta/veranstaltungskalender/95830-6-literaturfestival-nah-fern" title="Details zu diesem Termin aufrufen">
+							<div>
+								<span class="datum">am Do.<span>16</span><span>Juli</span></span>
+								Festival | ganztägig
+								<h4>6. Literaturfestival "Nah & Fern"</h4>
+								<span class="ort">Metropolengarten auf Dahlbusch e.V.</span>
+								<div class="clear"></div>
+							</div>
+						</a>
+					</li>
+				
+					<li>
+						<a href="/de/_meta/veranstaltungskalender/96225-move-2026-romeo-und-julia" title="Details zu diesem Termin aufrufen">
+							<div>
+								<span class="datum">heute <span>16</span><span>Juli</span></span>
+								Theater/Ballett | 11:00 Uhr
+								<h4>MOVE! 2026 – Romeo und Julia</h4>
+								<span class="ort">Musiktheater im Revier (MiR) - Großes Haus</span>
+								<div class="clear"></div>
+							</div>
+						</a>
+					</li>
+				
+					</ul>
+				
+
+			
+			
+
+			<div id="contentContentPlaceHolder_spalte_rechts_ctl00_btnNurTerminePanel">
+	
+    			<div class="bttnzeile">
+					<a class="bttn" href="/de/_meta/veranstaltungskalender/kalender/1011-startseite">Alle Termine Startseite</a>
+				</div>
+			
+</div>
+			<!--<div class="bttnzeile">
+				<a class="bttn" href="/de/_meta/veranstaltungskalender/kalender/1011-startseite">Alle Termine Startseite</a>
+			</div>-->
+		</div>
+    
+	</div>
+
+
+	
+
+</div>
+
+	
+
+<div class="element rahmen_rechts">
+<h3 class="element noshow">Social Media</h3>
+<div class="element sociallinks">
+<ul>
+<li>
+<a href="https://facebook.com/StadtGelsenkirchen" title="Link zum Facebook Konto der Stadt Gelsenkirchen"><span class="icon-facebook"></span><span class="noshow">Facebook</span></a>
+</li>
+<li>
+<a href="https://twitter.com/_gelsenkirchen_?lang=de" title="Link zum Twitter Konto der Stadt Gelsenkirchen"><span class="icon-twitter"></span><span class="noshow">Twitter</span></a>
+</li>
+<li>
+<a href="https://www.instagram.com/stadtgelsenkirchen/" title="Link zum Instagram Konto der Stadt Gelsenkirchen"><span class="icon-instagram"></span><span class="noshow">Instagram</span></a>
+</li>
+<li>
+<a href="https://www.gelsenkirchen.de/youtube" title="Link zum Youtube-Kanal der Stadt Gelsenkirchen"><span class="icon-youtube"></span><span class="noshow">Youtube</span></a>
+</li>
+<li>
+<a href="https://www.gelsenkirchen.de/de/Stadtprofil/Stadtansichten/Podcast/" title="Link zum Podcast der Stadt Gelsenkirchen"><span class="icon-microphone"></span><span class="noshow">Podcast</span></a>
+</li>
+<li>
+<a href="/de/_meta/aktuelles/artikel/newsfeed/" title="RSS-Feed der Stadt Gelsenkirchen"><span class="icon-link-rss"></span><span class="noshow">Newsfeeds</span></a>
+</li>
+</ul>
+<div class="clear"></div>
+</div>
+</div>
+
+<div class="element rahmen_rechts werbung">
+<h3 class="element">Werbung</h3>
+<div class="element">
+<!-- Revive Adserver Asynchronous JS Tag - Generated with Revive Adserver v5.3.0 -->
+<ins data-revive-zoneid="1" data-revive-id="d76a6879457e16dc9bc106cd9110cc5b"></ins>
+<script async src="//ads2.gelsen.net/www/delivery/asyncjs.php"></script>
+<!-- Revive Adserver Asynchronous JS Tag - Generated with Revive Adserver v5.3.0 -->
+<ins data-revive-zoneid="2" data-revive-id="d76a6879457e16dc9bc106cd9110cc5b"></ins>
+<script async src="//ads2.gelsen.net/www/delivery/asyncjs.php"></script>
+</div>
+</div></div>
+<!--googleoff: index-->
+<!--contentid=1-->
+<!--nxid=1--> 		
+			
+						 <div class="clear">
+<!--div-->
+</div>
+</div>
+<div id="footerpush">
+<!--div-->
+</div>
+</div>
+<div id="footer"><a href="#" id="backtotop" title="zum Seitenanfang"></a>
+
+<div>
+<div class="logo noprint">
+<a href="/"><img src="/images/logo-ge_4.png" alt="Logo Stadt Gelsenkirchen" /></a>
+</div>
+<div class="text">
+<h2 class="noshow">Darstellungsgr&ouml;&szlig;e der Seite</h2>
+<ul id="sizeselect"></ul>
+<p><a href="/de/" title="Zur Startseite">Startseite</a> | <a href="/de/_funktionsnavigation/_inhalt.aspx" title="Zur Startseite">Inhalt</a> | <a href="/de/_funktionsnavigation/impressum.aspx" title="Zum Impressum">Impressum</a> | <a href="/de/_funktionsnavigation/hilfe/datenschutzerklaerung.aspx" title="Zur Datenschutzerkl&auml;rung">Datenschutz</a> | <a href="/de/_funktionsnavigation/Barrierefreiheit.aspx" title="Zur Erkl&auml;rung der Barrierefreiheit">Barrierefreiheit</a> |
+<a href="/de/_funktionsnavigation/Barriere_melden.aspx" title="Zur Meldung einer Barriere">Barriere melden</a> | Copyright 2026 Stadt Gelsenkirchen</p>
+</div>
+</div></div> 
+							<span id="consentManager" title="Datenschutz Einstellungen"></span>
+						  
+ <!--nxid=1--> 
+				
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {$get("ToolkitScriptManager1_HiddenField").value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();//]]>
+</script>
+</form>
+				
+			 </body>
+</html>

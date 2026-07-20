@@ -1,0 +1,69 @@
+<html>
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<meta name="description" content="Es gibt mehr als ein M&uuml;lheim in Deutschland. Daher bietet die Stadt M&uuml;lheim an der Ruhr eine zentrale Sammlung der Links aller M&uuml;lheims, M&uuml;hlheims und M&uuml;llheims.">
+<meta name="keywords" content="M&uuml;lheim an der Ruhr, M&uuml;lheim-K&auml;rlich, Gemeinde M&uuml;lheim, M&uuml;lheim/Mosel, M&uuml;hlheim am Main, M&uuml;hlheim an der Donau, Stadt M&uuml;llheim">
+<title>M&uuml;lheim</title>
+<link rel="stylesheet" href="http://www.muelheim-ruhr.de/cms/shared/style/stadtmh.css" type="text/css">
+<style type="text/css">html, body { background-image:none;} </style>
+</head>
+
+<body bgcolor="#FFFFFF">
+<center>
+<table width="85%" height="60%">
+<tr>
+  <td></td>
+  <td><strong>M&uuml;lheim an der Ruhr - Stadt am Fluss</strong><br /><a href="http://www.muelheim-ruhr.de/cms/index.php"><img src="mh_ruhr.jpg" align="left" border="0"></a></td>
+
+  <td width="30%" valign="top">
+    <table height="100%">
+      <tr>
+        <td valign="center" height="50%" width="50%"><a href="http://www.muelheim-kaerlich.de"><img src="mh_kaerlich.jpg" align="right" border="0"></a></td>
+        <td valign="center" height="50%" width="50%"><a href="http://www.muelheim-kaerlich.de">M&uuml;lheim-K&auml;rlich</a><br>
+                         Die Internetseite der Stadt M&uuml;lheim-K&auml;rlich in Rheinland-Pfalz.</td>
+      </tr>
+      <tr><td colspan="2"><br></td></tr>
+          <tr>
+            <td valign="center" height="50%" width="50%"><a href="http://www.muelheim.org"><img src="mh_warstein.jpg" align="right" border="0"></a></td>
+            <td valign="center" height="50%" width="50%"><a href="http://www.muelheim.org">Gemeinde&nbsp;M&uuml;lheim</a><br> im Kirchspiel
+                             M&uuml;lheim, Sichtigvor, Waldhausen, am Rande des Sauerlandes.</td>
+          </tr>
+          <tr><td colspan="2"><br></td></tr>
+      <tr>
+        <td valign="center" height="50%" width="50%"><a href="http://www.muelheimmosel.de"><img src="mh_mosel.gif" align="right" border="0"></td>
+        <td valign="center" height="50%" width="50%"><a href="http://www.muelheimmosel.de">M&uuml;lheim/Mosel</a>,<br>
+                                der Wein- und Ferienort, liegt umrahmt von W&auml;ldern und Wiesen an der Mittelmosel.                     </td>
+      </tr>
+      </table>
+  </td>
+</tr>
+<tr>
+  <td></td>
+  <td><strong><br><br><br>
+               Weitere &quot;M&uuml;lheims&quot;<br /><br />
+               <a href="http://www.muehlheim.de">M&uuml;hlheim am Main</a><br />
+          <a href="http://www.muehlheim-donau.de">M&uuml;hlheim an der Donau</a><br />
+               <a href="http://www.muellheim.de">Stadt M&uuml;llheim</a><br />
+               <a href="http://www.stadt-koeln.de/bezirke/muelheim/index.html">Stadtbezirk K&ouml;ln-M&uuml;lheim</a>
+               </strong>
+  </td>
+</tr>
+<tr>
+  <td colspan="3" align="right"><a title="Impressum" accesskey="i" tabindex="10" href="http://www.muelheim-ruhr.de/cms/shared/plain.php?fuid=2a197bccc48ae86892623c4a9b1719a6" onclick="window.open('http://www.muelheim-ruhr.de/cms/shared/plain.php?fuid=2a197bccc48ae86892623c4a9b1719a6', 'Impressum', 'width=600,height=700,scrollbars=yes'); return false;" target="_blank">Impressum</a></td>
+</tr>
+</table>
+</center>
+<!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://stats.muelheim-ruhr.de/" : "http://stats.muelheim-ruhr.de/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 15);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://stats.muelheim-ruhr.de/piwik.php?idsite=15" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tag -->
+</body>

@@ -1,0 +1,1307 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>Prefeitura de Parintins | Portal institucional com serviços, transparência e notícias</title>
+    <meta name="description" content="Portal institucional da Prefeitura de Parintins com acesso rápido a serviços digitais, notícias, transparência, publicações oficiais e atendimento ao cidadão.">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="googlebot" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="theme-color" content="#0b4da1">
+    <meta name="application-name" content="Prefeitura de Parintins">
+    <meta name="apple-mobile-web-app-title" content="Parintins">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="canonical" href="https://parintins.am.gov.br/">
+    <link rel="alternate" hreflang="pt-BR" href="https://parintins.am.gov.br/">
+    <link rel="icon" href="https://parintins.am.gov.br/images/icon.png"    >
+    <link rel="manifest" href="https://parintins.am.gov.br/site.webmanifest">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload" href="https://parintins.am.gov.br/css/theme-parintins.css?v=20260525-gallery-no-highlight" as="style">
+    <link rel="preload" href="https://files.parintins.am.gov.br/categoria/8045.png">
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Sora:wght@600;700;800&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://parintins.am.gov.br/css/theme-parintins.css?v=20260525-gallery-no-highlight">
+    <meta property="og:locale" content="pt_BR">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Prefeitura de Parintins | Portal institucional com serviços, transparência e notícias">
+    <meta property="og:description" content="Portal institucional da Prefeitura de Parintins com acesso rápido a serviços digitais, notícias, transparência, publicações oficiais e atendimento ao cidadão.">
+    <meta property="og:url" content="https://parintins.am.gov.br/">
+    <meta property="og:site_name" content="Prefeitura de Parintins">
+    <meta property="og:image" content="https://files.parintins.am.gov.br/categoria/8045.png">
+    <meta property="og:image:alt" content="Portal institucional da Prefeitura de Parintins">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Prefeitura de Parintins | Portal institucional com serviços, transparência e notícias">
+    <meta name="twitter:description" content="Portal institucional da Prefeitura de Parintins com acesso rápido a serviços digitais, notícias, transparência, publicações oficiais e atendimento ao cidadão.">
+    <meta name="twitter:image" content="https://files.parintins.am.gov.br/categoria/8045.png">
+    <meta name="twitter:image:alt" content="Portal institucional da Prefeitura de Parintins">
+    <script type="application/ld+json">[
+    {
+        "@context": "https://schema.org",
+        "@type": "GovernmentOrganization",
+        "name": "Prefeitura de Parintins",
+        "url": "https://parintins.am.gov.br/",
+        "logo": "https://parintins.am.gov.br/images/brasao.png",
+        "description": "Portal institucional da Prefeitura de Parintins com acesso rápido a serviços digitais, notícias, transparência, publicações oficiais e atendimento ao cidadão.",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Parintins",
+            "addressRegion": "AM",
+            "addressCountry": "BR"
+        },
+        "areaServed": {
+            "@type": "City",
+            "name": "Parintins"
+        },
+        "contactPoint": [
+            {
+                "@type": "ContactPoint",
+                "contactType": "atendimento ao cidadão",
+                "availableLanguage": [
+                    "Portuguese"
+                ]
+            }
+        ]
+    },
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Portal institucional da Prefeitura de Parintins",
+        "url": "https://parintins.am.gov.br/",
+        "inLanguage": "pt-BR"
+    }
+]</script>
+    <noscript>
+        <style>
+            .reveal {
+                opacity: 1 !important;
+                transform: none !important;
+            }
+        </style>
+    </noscript>
+</head>
+
+<body id="topo">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0RXMSF8XZV"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-0RXMSF8XZV');
+</script>
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KSDQ3JJ"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><a class="skip-link" href="#conteudo">Pular para o conteúdo principal</a>
+
+<header class="site-header" data-site-header>
+    <div class="topbar">
+        <div class="container">
+            <div class="topbar__inner d-flex justify-content-between align-items-center flex-wrap">
+                <div class="topbar__links">
+                    
+                    <a href="https://parintins.am.gov.br/categoria/mapa-do-site">Mapa do site</a>
+                    
+                    <a href="#">Lei de Acesso à Informação</a>
+                    <a href="https://transparencia.parintins.am.gov.br/">Portal transparência</a>
+                    <a href="https://transparencia.parintins.am.gov.br/?q=517-lista-8317-servico-de-informacao-ao-cidadao-e-sic">E-SIC</a>
+                    <a href="https://falabr.cgu.gov.br/web/AM/Parintins">Ouvidoria</a>
+                </div>
+
+                <div class="topbar__social social d-flex align-items-center">
+                    
+                    <a href="https://www.instagram.com/prefeituradeparintins/" target="_blank"><i class="bi bi-instagram"></i></a>
+                    
+                    <a href="https://www.facebook.com/PrefeituraOficialParintins" target="_blank"><i class="bi bi-facebook"></i></a>
+                    
+                    <a href="https://www.youtube.com/@prefeituradeparintins" target="_blank"><i class="bi bi-youtube"></i></a>
+                    
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="masthead">
+        <div class="container">
+            <div class="masthead__inner">
+                
+                <div class="brand-cluster">
+                    <a href="https://parintins.am.gov.br/"><img src="https://parintins.am.gov.br/images/logo.png" alt="Logo da Prefeitura de Parintins" width="320" height="160" class="brand-cluster__logo"></a>
+                </div>
+                
+                <div class="masthead__badges" aria-label="Destaques do portal">
+
+                    <div class="info-badge">
+                        <i class="bi bi-shield-check "></i>
+                        <span>Acesso à informação</span>
+                    </div>
+
+                    <div class="info-badge">
+                        <i class="bi bi-phone "></i>
+                        <span>Atendimento digital</span>
+                    </div>
+
+                    <div class="info-badge">
+                        <i class="bi bi-grid-1x2-fill "></i>
+                        <span>Serviços integrados</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="accessibility-dock" data-accessibility-dock>
+    <div class="accessibility-dock__panel" id="accessibility-panel" aria-label="Ferramentas de acessibilidade">
+        <button type="button" data-accessibility-action="font-increase">
+            <i class="bi bi-plus-lg" aria-hidden="true"></i>
+            <span>Aumentar fonte</span>
+        </button>
+        <button type="button" data-accessibility-action="font-decrease">
+            <i class="bi bi-dash-lg" aria-hidden="true"></i>
+            <span>Diminuir fonte</span>
+        </button>
+        <button type="button" data-accessibility-action="font-reset">
+            <i class="bi bi-type" aria-hidden="true"></i>
+            <span>Fonte regular</span>
+        </button>
+        <button type="button" data-accessibility-action="contrast">
+            <i class="bi bi-circle-half" aria-hidden="true"></i>
+            <span>Inverter cores</span>
+        </button>
+        <button type="button" data-accessibility-action="underline">
+            <i class="bi bi-type-underline" aria-hidden="true"></i>
+            <span>Sublinhar links</span>
+        </button>
+        <button type="button" data-accessibility-action="speech">
+            <i class="bi bi-mic-fill" aria-hidden="true"></i>
+            <span>Texto para voz</span>
+        </button>
+    </div>
+
+    <button
+        class="accessibility-dock__toggle"
+        type="button"
+        aria-expanded="false"
+        aria-controls="accessibility-panel"
+        data-accessibility-toggle
+    >
+        <i class="bi bi-universal-access" aria-hidden="true"></i>
+        <span class="visually-hidden">Abrir ferramentas de acessibilidade</span>
+    </button>
+</div>
+
+<div vw class="enabled vlibras-widget">
+    <div vw-access-button class="active"></div>
+    <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+    </div>
+</div>
+<script src="https://code.responsivevoice.org/responsivevoice.js?key=tfwWEsGj" data-responsive-voice-script></script>
+<nav class="navbar navbar-expand-xl navbar-portal navbar-dark p-0" id="navegacao" aria-label="Navegação principal">
+    <div class="container">
+        
+        <a class="navbar-portal__brand" href="#topo" aria-label="Voltar ao topo do portal">
+            <img src="https://parintins.am.gov.br/images/logo.png" alt="Brasão da Prefeitura de Parintins" width="84" height="42">
+        </a>
+        
+        <button class="navbar-toggler border-0 shadow-none my-2" type="button" data-bs-toggle="collapse" data-bs-target="#portalNav" aria-controls="portalNav" aria-expanded="false" aria-label="Abrir navegação">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="portalNav">
+            <ul class="navbar-nav mx-auto">
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Nossa Cidade</a>
+                    <ul class="dropdown-menu">
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/breve-historico">Breve histórico</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/simbolos-oficiais">Símbolos oficiais</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/hino-oficial">Hino oficial</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/bandeira-oficial">Bandeira oficial</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/logotipo">Logotipo</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/brasao-oficial">Brasão oficial</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/manual-de-identidade-visual">Manual de identidade visual</a></li>
+                        
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Prefeitura</a>
+                    <ul class="dropdown-menu">
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/gabinete-do-prefeito">Gabinete do Prefeito</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/controladoria-geral-do-municipio">Controladoria Geral do Município</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/procuradoria-geral-do-municipio">Procuradoria Geral do Município</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/secretarias-1">Secretarias</a></li>
+                        
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Imprensa</a>
+                    <ul class="dropdown-menu">
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/destaque">Destaque</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/ultimas-noticias">Ultimas Noticias</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/videos">Vídeos</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/galeria-de-fotos">Galeria de Fotos</a></li>
+                        
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Cidadão</a>
+                    <ul class="dropdown-menu">
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/guia-de-servicos">Guia de Serviços</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/iptu-online">IPTU Online</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/esic">eSic</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/parintins-digital">Parintins Digital</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/extrato-de-debitos">Extrato de débitos</a></li>
+                        
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Empresa</a>
+                    <ul class="dropdown-menu">
+                        
+                        <li><a class="dropdown-item" href="https://parintinsnfe.am.gov.br/">IPTU Online</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintinsnfe.am.gov.br/">NFSe</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintinsnfe.am.gov.br/">Extratos de débitos</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://transparencia.parintins.am.gov.br/?q=517-lista-8389-licitacoes">Licitacões</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/licenca-ambiental">Licença ambiental</a></li>
+                        
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Servidor</a>
+                    <ul class="dropdown-menu">
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/meu-acesso-holerite">Meu acesso | Holerite</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/portal-do-servidor">Portal do Servidor</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/requerimentos">Requerimentos</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/informe-servidor">Informe Servidor</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/avaliacao">Avaliação</a></li>
+                        
+                    </ul>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Publicações</a>
+                    <ul class="dropdown-menu">
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/editais">Editais</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/decretos">Decretos</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/portarias">Portarias</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/comunicados">Comunicados</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/tarifas">Tarifas </a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/documentos">Documentos</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://parintins.am.gov.br/categoria/decisoes-judiciais">Decisões Judiciais</a></li>
+                        
+                    </ul>
+                </li>
+
+                <li class="nav-item"><a class="nav-link" href="#">Carta de Serviços</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<main id="conteudo">
+    <section class="hero">
+        <div id="heroPortal" class="carousel slide" data-bs-ride="carousel" data-bs-interval="5000" data-bs-pause="false" data-bs-wrap="true">
+            <div class="carousel-inner">
+                
+                <div class="carousel-item active">
+                    <div class="hero-slide">
+                        <span class="hero-slide__media" aria-hidden="true">
+                            <img class="hero-slide__image" src="https://files.parintins.am.gov.br/documents/107398_20260526151201_90bbc21d_g.jpeg" alt="" width="1920" height="485">
+                        </span>
+                    </div>
+                </div>
+                
+
+            </div>
+
+            <button class="carousel-control-prev" type="button" data-bs-target="#heroPortal" data-bs-slide="prev" aria-label="Banner anterior">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#heroPortal" data-bs-slide="next" aria-label="Próximo banner">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            </button>
+        </div>
+    </section>
+
+    <section class="search-shell">
+        <div class="container">
+            <div class="service-search reveal">
+                <form class="service-search__form" role="search" aria-label="Buscar no portal" method="get" action="pesquisa" data-site-search-form>
+                    <label for="service-search" class="visually-hidden">Buscar no portal</label>
+                    <i class="bi bi-search"></i>
+                    <input id="service-search" type="search" name="busca" data-site-search-input placeholder="Busque por IPTU, holerite, ouvidoria, certidão ou outro serviço" autocomplete="off">
+                    <button type="submit" class="portal-btn portal-btn--primary portal-btn--sm">Buscar</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+    <section class="section-shell section-shell--compact">
+        <div class="container">
+            <div class="section-heading reveal section-heading--compact">
+                <span class="section-label">Acessos rápidos</span>
+            </div>
+            <div class="quick-grid">
+
+                
+                <a href="https://transparencia.parintins.am.gov.br/"  class="quick-card tone-blue reveal">
+                    <div class="quick-card__icon">
+                        <i class="bi bi-bar-chart-line-fill"></i>
+                    </div>
+                    <div class="quick-card__body">
+                        <h3>Portal da Transparência</h3>
+                        <p></p>
+                    </div>
+                    <span class="quick-card__arrow"><i class="bi bi-arrow-up-right"></i></span>
+                </a>
+                
+                <a href="https://parintins.am.gov.br/categoria/carta-de-servicos"  class="quick-card tone-gold reveal">
+                    <div class="quick-card__icon">
+                        <i class="bi bi-journal-check"></i>
+                    </div>
+                    <div class="quick-card__body">
+                        <h3>Carta de Serviços</h3>
+                        <p></p>
+                    </div>
+                    <span class="quick-card__arrow"><i class="bi bi-arrow-up-right"></i></span>
+                </a>
+                
+                <a href="https://parintins.am.gov.br/categoria/ouvidoria-digital"  class="quick-card tone-green reveal">
+                    <div class="quick-card__icon">
+                        <i class="bi bi-chat-dots-fill"></i>
+                    </div>
+                    <div class="quick-card__body">
+                        <h3>Ouvidoria digital</h3>
+                        <p></p>
+                    </div>
+                    <span class="quick-card__arrow"><i class="bi bi-arrow-up-right"></i></span>
+                </a>
+                
+                <a href="categoria/destaque"  class="quick-card tone-coral reveal">
+                    <div class="quick-card__icon">
+                        <i class="bi bi-megaphone-fill"></i>
+                    </div>
+                    <div class="quick-card__body">
+                        <h3>Notícias oficiais</h3>
+                        <p></p>
+                    </div>
+                    <span class="quick-card__arrow"><i class="bi bi-arrow-up-right"></i></span>
+                </a>
+                
+            </div>
+        </div>
+    </section>
+
+    <section class="section-shell section-shell--muted" id="noticias">
+        <div class="container">
+            <div class="gallery-heading news-heading reveal">
+
+                <div class="section-heading reveal section-heading--compact">
+                    <span class="section-label">Notícias e Destaques</span>
+                </div>
+                <a href="categoria/noticias" class="gallery-heading__action news-heading__action bg-blue" aria-label="Ir para notícias em destaque">
+                    <i class="bi bi-plus-lg"></i>
+                </a>
+            </div>
+
+            <div class="news-showcase reveal">
+                <div class="row g-3 align-items-stretch">
+                    <div class="col-lg-6">
+                        
+                         <a href="https://parintins.am.gov.br/noticia/prefeito-mateus-assayag-destaca-avanco-historico-na-regularizacao-fundiaria-com-entrega-de-57-taus" class="news-showcase__link">
+                             <article class="news-feature h-100" style="background-image: url('https://files.parintins.am.gov.br/documents/107733_20260715122036_feab02f6_g.jpeg')">
+                                 <div class="news-feature-content">
+                                     <div class="news-accent"></div>
+                                     <h3>Prefeito Mateus Assayag destaca avanço histórico na regularização fundiária com entrega de 57 TAUS</h3>
+                                     <p>Mais seguran&ccedil;a para produzir e tranquilidade para as fam&iacute;lias das comunidades de v&aacute;rzea. Esse foi...</p>
+                                 </div>
+                             </article>
+                         </a>
+                        
+                    </div>
+
+                    
+                          <div class="col-lg-3 col-md-6">
+                              <a href="https://parintins.am.gov.br/noticia/prefeito-entrega-nona-ambulancha-e-reestrutura-resgate-em-saude-na-zona-rural-de-parintins" class="news-showcase__link">
+                                  <article class="news-mini h-100">
+                                      <div class="news-mini-thumb " style="background-image: url('https://files.parintins.am.gov.br/documents/107727_20260714100109_eb148b31_g.jpeg')"></div>
+                                      <div class="news-mini-body quick-card__body">
+                                          <div class="news-accent"></div>
+                                          <small>14/07/2026</small>
+                                          <h3>Prefeito entrega nona ambulancha e reestrutura resgate em saúde na zona rural de Parintins</h3>
+                                          <p>O prefeito de Parintins, Mateus Assayag, entregou no s&aacute;bado, 11, a ambulancha da regi&atilde;o do...</p>
+                                      </div>
+                                  </article>
+                              </a>
+                          </div>
+                    
+                          <div class="col-lg-3 col-md-6">
+                              <a href="https://parintins.am.gov.br/noticia/gestao-mateus-assayag-antecipa-pagamento-de-50-do-decimo-terceiro-e-injeta-mais-de-r-8-7-milhoes-na-economia-de-parintins" class="news-showcase__link">
+                                  <article class="news-mini h-100">
+                                      <div class="news-mini-thumb " style="background-image: url('https://files.parintins.am.gov.br/documents/107724_20260713213659_ee827bfc_g.jpeg')"></div>
+                                      <div class="news-mini-body quick-card__body">
+                                          <div class="news-accent"></div>
+                                          <small>13/07/2026</small>
+                                          <h3>Gestão Mateus Assayag antecipa pagamento de 50% do décimo terceiro e injeta mais de R$ 8,7 milhões na economia de Parintins</h3>
+                                          <p>Fruto do planejamento financeiro e da organiza&ccedil;&atilde;o das contas p&uacute;blicas, a Prefeitura de Parintins realiza,...</p>
+                                      </div>
+                                  </article>
+                              </a>
+                          </div>
+                    
+                </div>
+
+                <div class="news-color-boxes">
+                    
+                    <a href="https://parintins.am.gov.br/noticia/parceria-entre-prefeitura-e-dsei-promove-acao-de-saude-mental-para-indigenas-em-parintins" class="news-showcase__link">
+                        <article class="quick-card news-color-quick-card" data-news-tone-card>
+                            <div class="news-color-quick-card__media">
+                                <img src="https://files.parintins.am.gov.br/documents/107734_20260715184335_ab92ab02_g.jpeg" alt="Parceria entre Prefeitura e DSEI promove ação de saúde mental para indígenas em Parintins" loading="lazy" width="88" height="88">
+                            </div>
+                            <div class="quick-card__body">
+                                <small>15/07/2026</small>
+                                <h3>Parceria entre Prefeitura e DSEI promove ação de saúde mental para indígenas em Parintins</h3>
+                                <p>A Prefeitura de Parintins, por meio da Secretaria Municipal de Assist&ecirc;ncia Social, Trabalho e Habita&ccedil;&atilde;o (Semasth), em parceria com o...</p>
+                            </div>
+                            <span class="quick-card__arrow"><i class="bi bi-arrow-up-right"></i></span>
+                        </article>
+                    </a>
+
+                    
+                    <a href="https://parintins.am.gov.br/noticia/com-apoio-da-prefeitura-atletas-parintinenses-chegam-a-manaus-para-disputa-dos-jogos-escolares-do-amazonas" class="news-showcase__link">
+                        <article class="quick-card news-color-quick-card" data-news-tone-card>
+                            <div class="news-color-quick-card__media">
+                                <img src="https://files.parintins.am.gov.br/documents/107732_20260715112032_ba12fd04_g.jpeg" alt="Com apoio da Prefeitura, atletas parintinenses chegam a Manaus para disputa dos Jogos Escolares do Amazonas" loading="lazy" width="88" height="88">
+                            </div>
+                            <div class="quick-card__body">
+                                <small>15/07/2026</small>
+                                <h3>Com apoio da Prefeitura, atletas parintinenses chegam a Manaus para disputa dos Jogos Escolares do Amazonas</h3>
+                                <p>A delega&ccedil;&atilde;o de Parintins desembarcou na manh&atilde; desta quarta-feira, 15, em Manaus para a disputa do 47&ordm; Jogos Escolares do...</p>
+                            </div>
+                            <span class="quick-card__arrow"><i class="bi bi-arrow-up-right"></i></span>
+                        </article>
+                    </a>
+
+                    
+                    <a href="https://parintins.am.gov.br/noticia/prefeitura-reforca-acoes-de-limpeza-publica-e-infraestrutura-no-bairro-teixeirao" class="news-showcase__link">
+                        <article class="quick-card news-color-quick-card" data-news-tone-card>
+                            <div class="news-color-quick-card__media">
+                                <img src="https://files.parintins.am.gov.br/documents/107731_20260715091943_34e75fad_g.jpeg" alt="Prefeitura reforça ações de limpeza pública e infraestrutura no bairro Teixeirão" loading="lazy" width="88" height="88">
+                            </div>
+                            <div class="quick-card__body">
+                                <small>15/07/2026</small>
+                                <h3>Prefeitura reforça ações de limpeza pública e infraestrutura no bairro Teixeirão</h3>
+                                <p>A Prefeitura de Parintins, por meio das Secretarias Municipais de Infraestrutura e de Limpeza P&uacute;blica, realizou uma reuni&atilde;o com a...</p>
+                            </div>
+                            <span class="quick-card__arrow"><i class="bi bi-arrow-up-right"></i></span>
+                        </article>
+                    </a>
+
+                    
+                    <a href="https://parintins.am.gov.br/noticia/exposicao-entre-cores-e-emocoes-reune-17-obras-produzidas-por-usuarios-do-caps-ii" class="news-showcase__link">
+                        <article class="quick-card news-color-quick-card" data-news-tone-card>
+                            <div class="news-color-quick-card__media">
+                                <img src="https://files.parintins.am.gov.br/documents/107729_20260714133200_3ef9f1b1_g.jpeg" alt="Exposição "Entre Cores e Emoções" reúne 17 obras produzidas por usuários do CAPS II" loading="lazy" width="88" height="88">
+                            </div>
+                            <div class="quick-card__body">
+                                <small>14/07/2026</small>
+                                <h3>Exposição "Entre Cores e Emoções" reúne 17 obras produzidas por usuários do CAPS II</h3>
+                                <p>A Prefeitura de Parintins, por meio da Secretaria Municipal de Sa&uacute;de (SEMSA) e do Centro de Aten&ccedil;&atilde;o Psicossocial Adolfo Lourido...</p>
+                            </div>
+                            <span class="quick-card__arrow"><i class="bi bi-arrow-up-right"></i></span>
+                        </article>
+                    </a>
+
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="section-shell section-shell--muted" id="galeria">
+        <div class="container">
+            <div class="gallery-heading reveal">
+                <div class="gallery-heading__title">
+                    <span class="gallery-heading__icon"><i class="bi bi-camera-fill"></i></span>
+                    <div class="gallery-heading__copy">
+                        <h2>Galeria de Fotos</h2>
+                        <p>Registros visuais com mais ritmo editorial para destacar agenda pública, entregas e presença institucional.</p>
+                    </div>
+                </div>
+
+                <a href="categoria/fotos" class="gallery-heading__action" aria-label="Abrir galeria completa de fotos">
+                    <i class="bi bi-plus-lg"></i>
+                </a>
+            </div>
+
+            <div class="photo-gallery-mosaic">
+                
+                <button
+                    type="button"
+                    class="photo-gallery-stage tone-blue reveal">
+                    <span class="photo-gallery-stage__media">
+                        <img src="https://files.parintins.am.gov.br/documents/107477_20260605191930_5a1c5983_g.jpg" alt="Bosque Linear das Acácias" loading="lazy" width="1200" height="900">
+                    </span>
+                    <span class="photo-gallery-stage__date">
+                        <strong>05</strong>
+                        <small>JUN</small>
+                    </span>
+                    <span class="photo-gallery-stage__content">
+                        <span class="photo-gallery-stage__eyebrow">Galeria de Fotos</span>
+                        <strong>Bosque Linear das Acácias</strong>
+                        <span class="photo-gallery-stage__text"></span>
+                       <a href="https://parintins.am.gov.br/noticia/bosque-linear-das-acacias"> <span class="photo-gallery-stage__cta">Acesse a galeria completa<i class="bi bi-arrow-up-right"></i></span></a>
+                    </span>
+                </button>
+                
+
+                <article class="photo-gallery-note reveal" aria-label="Apresentação da galeria institucional">
+                    <span class="photo-gallery-note__eyebrow">Acervo visual</span>
+                    <h3>Uma galeria com mais presença editorial para valorizar ações, eventos e registros do cotidiano institucional.</h3>
+                    <p>A nova composição funciona como vitrine fotográfica do portal, dando mais destaque para cenas de campo, entregas públicas, agenda oficial e memória visual da Prefeitura.</p>
+
+                    <div class="photo-gallery-note__palette" aria-hidden="true">
+                        <span class="is-blue"></span>
+                        <span class="is-brown"></span>
+                        <span class="is-gold"></span>
+                        <span class="is-red"></span>
+                    </div>
+
+                    <ul class="photo-gallery-note__list">
+                        <li>Coberturas oficiais</li>
+                        <li>Entregas e obras</li>
+                        <li>Saúde, educação e cidadania</li>
+                        <li>Memória institucional</li>
+                    </ul>
+
+                    <a href="/categoria/galeria-de-fotos" class="photo-gallery-note__link">
+                        Ver galeria completa <i class="bi bi-arrow-up-right"></i>
+                    </a>
+                </article>
+                
+                <button
+                        type="button"
+                        class="photo-gallery-thumb photo-gallery-thumb-- tone-azul reveal" >
+                        <span class="photo-gallery-thumb__media">
+                            <img src="https://files.parintins.am.gov.br/documents/107333_20260518120017_2533cc6e_g.jpg" alt="Entrega do novo Mamógrafo no Hospital Jofre Cohen" loading="lazy" width="760" height="500">
+                        </span>
+                    <span class="photo-gallery-thumb__content">
+                            <span class="photo-gallery-thumb__top">
+                                <span class="photo-gallery-thumb__category"></span>
+                                <span class="photo-gallery-thumb__date">
+                                    <strong>16</strong>
+                                    <small>MAI</small>
+                                </span>
+                            </span>
+                            <strong>Entrega do novo Mamógrafo no Hospital Jofre Cohen</strong>
+                            <span class="photo-gallery-thumb__text"></span>
+                            <a href="https://parintins.am.gov.br/noticia/entrega-do-novo-mamografo-no-hospital-jofre-cohen"><span class="photo-gallery-thumb__cta">Ver Galeria <i class="bi bi-arrow-up-right"></i></span></a>
+                        </span>
+                </button>
+                
+                <button
+                        type="button"
+                        class="photo-gallery-thumb photo-gallery-thumb-- tone-azul reveal" >
+                        <span class="photo-gallery-thumb__media">
+                            <img src="https://files.parintins.am.gov.br/documents/107331_20260518121258_6780268f_g.jpg" alt="Final da Copa Seo Jovem de Futsal 2026" loading="lazy" width="760" height="500">
+                        </span>
+                    <span class="photo-gallery-thumb__content">
+                            <span class="photo-gallery-thumb__top">
+                                <span class="photo-gallery-thumb__category"></span>
+                                <span class="photo-gallery-thumb__date">
+                                    <strong>15</strong>
+                                    <small>MAI</small>
+                                </span>
+                            </span>
+                            <strong>Final da Copa Seo Jovem de Futsal 2026</strong>
+                            <span class="photo-gallery-thumb__text"></span>
+                            <a href="https://parintins.am.gov.br/noticia/final-da-copa-seo-jovem-de-futsal-2026"><span class="photo-gallery-thumb__cta">Ver Galeria <i class="bi bi-arrow-up-right"></i></span></a>
+                        </span>
+                </button>
+                
+            </div>
+        </div>
+    </section>
+
+    <section class="section-shell section-shell--dark video-shell" id="videos">
+        <div class="container">
+            <div class="gallery-heading reveal">
+                <div class="section-heading reveal">
+                    <span class="section-label section-label--hero">Galeria de vídeos</span>
+                </div>
+
+                <a href="categoria/videos" class="gallery-heading__action news-heading__action " aria-label="Abrir galeria de vídeos">
+                    <i class="bi bi-plus-lg"></i>
+                </a>
+            </div>
+            <div class="video-gallery reveal">
+                
+                <a href="https://parintins.am.gov.br/noticia/entrega-de-mais-novas-escolas">
+                    <div class="video-gallery__featured tone-azul" data-video-featured>
+                        <button
+                                type="button"
+                                class="video-stage"
+                                aria-label="Vídeo destaque da galeria"
+                        >
+                        <span class="video-stage__media">
+                            <img
+                                    src="https://files.parintins.am.gov.br/documents/107334_20260518120007_867d3085_g.png"
+                                    alt="Entrega de mais novas escolas"
+                                    id="videoStageImage"
+                                    width="1280"
+                                    height="720"
+                            >
+                        </span>
+                            <span class="video-stage__overlay"></span>
+                            <span class="video-stage__play"><i class="bi bi-play-fill"></i></span>
+                            <span class="video-stage__badge" id="videoStageCategory"></span>
+                        </button>
+
+                        <div class="video-stage__caption">
+                            <span class="video-stage__meta"><i class="bi bi-camera-video-fill"></i> <span id="videoStageDuration">3 min 5</span></span>
+                            <h3 id="videoStageTitle">Entrega de mais novas escolas</h3>
+                            <p id="videoStageDescription"></p>
+                        </div>
+                    </div>
+                </a>
+                
+                <div class="video-gallery__playlist" role="listbox" aria-label="Lista de vídeos">
+                    
+                        <a href="https://parintins.am.gov.br/noticia/tudo-depois-dessa-noite-vai-ser-diferente">
+                            <button type="button" class="video-playlist__item" >
+                            <span class="video-playlist__thumb">
+                                <img src="https://files.parintins.am.gov.br/documents/107296_20260510175557_554f9b1d_g.png" alt="TUDO DEPOIS DESSA NOITE VAI SER DIFERENTE!" loading="lazy" width="320" height="180">
+                                <span class="video-playlist__thumb-overlay"></span>
+                                <span class="video-playlist__play"><i class="bi bi-play-fill"></i></span>
+                                <span class="video-playlist__time">1 min 8</span>
+                            </span>
+                                <span class="video-playlist__body">
+                                <strong>TUDO DEPOIS DESSA NOITE VAI SER DIFERENTE!</strong>
+                                <span>Boi Garantido no circuito Carnailha 2026</span>
+                            </span>
+                            </button>
+                        </a>
+                    
+                        <a href="https://parintins.am.gov.br/noticia/o-couro-vai-comer">
+                            <button type="button" class="video-playlist__item" >
+                            <span class="video-playlist__thumb">
+                                <img src="https://files.parintins.am.gov.br/documents/107295_20260510175025_3e5b4510_g.png" alt="O COURO VAI COMER!" loading="lazy" width="320" height="180">
+                                <span class="video-playlist__thumb-overlay"></span>
+                                <span class="video-playlist__play"><i class="bi bi-play-fill"></i></span>
+                                <span class="video-playlist__time">1 min 10</span>
+                            </span>
+                                <span class="video-playlist__body">
+                                <strong>O COURO VAI COMER!</strong>
+                                <span>Boi Caprichoso no circuito Carnailha</span>
+                            </span>
+                            </button>
+                        </a>
+                    
+                        <a href="https://parintins.am.gov.br/noticia/obras-da-prefeitura-municipal-de-parintins">
+                            <button type="button" class="video-playlist__item" >
+                            <span class="video-playlist__thumb">
+                                <img src="https://files.parintins.am.gov.br/documents/107294_20260510174644_ea55fc8a_g.png" alt="Obras da Prefeitura Municipal de Parintins" loading="lazy" width="320" height="180">
+                                <span class="video-playlist__thumb-overlay"></span>
+                                <span class="video-playlist__play"><i class="bi bi-play-fill"></i></span>
+                                <span class="video-playlist__time">1 min e 36</span>
+                            </span>
+                                <span class="video-playlist__body">
+                                <strong>Obras da Prefeitura Municipal de Parintins</strong>
+                                <span>A cidade de Parintins vira um canteiro de obras da Gest&atilde;o do prefeito Mateus Assayag&nbsp;</span>
+                            </span>
+                            </button>
+                        </a>
+                    
+                        <a href="https://parintins.am.gov.br/noticia/retorno-a-normalidade">
+                            <button type="button" class="video-playlist__item" >
+                            <span class="video-playlist__thumb">
+                                <img src="" alt="Retorno à normalidade" loading="lazy" width="320" height="180">
+                                <span class="video-playlist__thumb-overlay"></span>
+                                <span class="video-playlist__play"><i class="bi bi-play-fill"></i></span>
+                                <span class="video-playlist__time"></span>
+                            </span>
+                                <span class="video-playlist__body">
+                                <strong>Retorno à normalidade</strong>
+                                <span></span>
+                            </span>
+                            </button>
+                        </a>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <section class="section-shell" id="servicos">
+        <div class="container">
+            <div class="section-heading reveal">
+                <span class="section-label">Serviços digitais</span>
+                <h2>Acesse os principais serviços públicos por perfil, com mais agilidade e clareza na navegação.</h2>
+                <p>Os atalhos foram organizados para facilitar a busca por informações, solicitações, documentos e canais oficiais de atendimento da Prefeitura.</p>
+            </div>
+
+            <div class="service-tabs reveal" role="tablist" aria-label="Perfis de serviço">
+                <button
+                        type="button"
+                        id="tab-grupo-cidadao"
+                        class="service-tab tone-blue"
+                        data-service-tab="grupo-cidadao"
+                        role="tab"
+                        aria-controls="grupo-cidadao"
+                        aria-selected="true"
+                        tabindex="0"
+                >
+                    <i class="bi bi-people-fill"></i>
+                    <span>Cidadão</span>
+                </button>
+                <button
+                        type="button"
+                        id="tab-grupo-contribuinte"
+                        class="service-tab tone-gold"
+                        data-service-tab="grupo-contribuinte"
+                        role="tab"
+                        aria-controls="grupo-contribuinte"
+                        aria-selected="false"
+                        tabindex="-1"
+                >
+                    <i class="bi bi-cash-coin"></i>
+                    <span>Contribuinte</span>
+                </button>
+                <button
+                        type="button"
+                        id="tab-grupo-empresas"
+                        class="service-tab tone-green"
+                        data-service-tab="grupo-empresas"
+                        role="tab"
+                        aria-controls="grupo-empresas"
+                        aria-selected="false"
+                        tabindex="-1"
+                >
+                    <i class="bi bi-buildings-fill"></i>
+                    <span>Empresas</span>
+                </button>
+                <button
+                        type="button"
+                        id="tab-grupo-servidor"
+                        class="service-tab tone-coral"
+                        data-service-tab="grupo-servidor"
+                        role="tab"
+                        aria-controls="grupo-servidor"
+                        aria-selected="false"
+                        tabindex="-1"
+                >
+                    <i class="bi bi-person-badge-fill"></i>
+                    <span>Servidor</span>
+                </button>
+            </div>
+
+            <section
+                    id="grupo-cidadao"
+                    class="service-panel reveal"
+                    data-service-panel
+                    role="tabpanel"
+                    aria-labelledby="tab-grupo-cidadao"
+            >
+                <div class="service-panel__header">
+                    <div>
+                        <h3>Cidadão</h3>
+                        <p>Serviços públicos voltados ao dia a dia da população.</p>
+                    </div>
+                    <span class="service-panel__badge"><i class="bi bi-people-fill"></i> Atendimento por perfil</span>
+                </div>
+
+                <div class="service-grid">
+                    <article class="service-card tone-blue" data-service-card data-keywords="carta de serviços atendimento canais etapas">
+                        <div class="service-card__icon">
+                            <i class="bi bi-journal-bookmark-fill"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Carta de Serviços</h4>
+                            <p>Consulte etapas, requisitos e canais oficiais.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-blue" data-service-card data-keywords="ouvidoria protocolo reclamação sugestão">
+                        <div class="service-card__icon">
+                            <i class="bi bi-chat-dots-fill"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Ouvidoria</h4>
+                            <p>Envie manifestações e acompanhe protocolos.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-blue" data-service-card data-keywords="esic sic acesso informacao la i">
+                        <div class="service-card__icon">
+                            <i class="bi bi-info-circle-fill"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>e-SIC</h4>
+                            <p>Solicite informações públicas com mais agilidade.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-blue" data-service-card data-keywords="cep endereço localização consulta">
+                        <div class="service-card__icon">
+                            <i class="bi bi-geo-alt-fill"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Consulta de CEP</h4>
+                            <p>Facilite pesquisas de localização e endereçamento.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-blue" data-service-card data-keywords="saúde campanha prevenção atendimento">
+                        <div class="service-card__icon">
+                            <i class="bi bi-heart-pulse-fill"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Saúde e campanhas</h4>
+                            <p>Veja campanhas, avisos e conteúdos de prevenção.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-blue" data-service-card data-keywords="agenda eventos calendário institucional">
+                        <div class="service-card__icon">
+                            <i class="bi bi-calendar-event-fill"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Agenda institucional</h4>
+                            <p>Acompanhe eventos, ações e atividades públicas.</p>
+                        </div>
+                    </article>
+                </div>
+
+                <p class="service-empty" data-panel-empty hidden>Nenhum serviço desse perfil corresponde ao termo pesquisado.</p>
+            </section>
+            <section
+                    id="grupo-contribuinte"
+                    class="service-panel reveal"
+                    data-service-panel
+                    role="tabpanel"
+                    aria-labelledby="tab-grupo-contribuinte"
+                    hidden                >
+                <div class="service-panel__header">
+                    <div>
+                        <h3>Contribuinte</h3>
+                        <p>Atalhos para tributos, consultas e autenticações.</p>
+                    </div>
+                    <span class="service-panel__badge"><i class="bi bi-cash-coin"></i> Atendimento por perfil</span>
+                </div>
+
+                <div class="service-grid">
+                    <article class="service-card tone-gold" data-service-card data-keywords="iptu carnê segunda via imposto imóvel">
+                        <div class="service-card__icon">
+                            <i class="bi bi-house-check-fill"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>IPTU Online</h4>
+                            <p>Acesse emissão, consulta e acompanhamento digital.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-gold" data-service-card data-keywords="extrato débitos tributos consulta">
+                        <div class="service-card__icon">
+                            <i class="bi bi-receipt-cutoff"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Extrato de Débitos</h4>
+                            <p>Visualize pendências e histórico do cadastro.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-gold" data-service-card data-keywords="nfse nota fiscal eletrônica serviço">
+                        <div class="service-card__icon">
+                            <i class="bi bi-file-earmark-text-fill"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>NFS-e</h4>
+                            <p>Navegação preparada para nota fiscal eletrônica.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-gold" data-service-card data-keywords="nota fiscal avulsa emissão">
+                        <div class="service-card__icon">
+                            <i class="bi bi-file-earmark-plus-fill"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Nota Fiscal Avulsa</h4>
+                            <p>Fluxo para emissão eventual e conferência.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-gold" data-service-card data-keywords="autenticidade documento validação">
+                        <div class="service-card__icon">
+                            <i class="bi bi-patch-check-fill"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Autenticidade documental</h4>
+                            <p>Valide documentos emitidos pela plataforma.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-gold" data-service-card data-keywords="transparência dados receitas despesas">
+                        <div class="service-card__icon">
+                            <i class="bi bi-bank2"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Portal da Transparência</h4>
+                            <p>Consulta pública conectada à jornada tributária.</p>
+                        </div>
+                    </article>
+                </div>
+
+                <p class="service-empty" data-panel-empty hidden>Nenhum serviço desse perfil corresponde ao termo pesquisado.</p>
+            </section>
+            <section
+                    id="grupo-empresas"
+                    class="service-panel reveal"
+                    data-service-panel
+                    role="tabpanel"
+                    aria-labelledby="tab-grupo-empresas"
+                    hidden                >
+                <div class="service-panel__header">
+                    <div>
+                        <h3>Empresas</h3>
+                        <p>Ambiente para regularização, certidões e oportunidades.</p>
+                    </div>
+                    <span class="service-panel__badge"><i class="bi bi-buildings-fill"></i> Atendimento por perfil</span>
+                </div>
+
+                <div class="service-grid">
+                    <article class="service-card tone-green" data-service-card data-keywords="certidão crc regularização">
+                        <div class="service-card__icon">
+                            <i class="bi bi-file-earmark-check-fill"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Certidões</h4>
+                            <p>Área preparada para emissão e acompanhamento.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-green" data-service-card data-keywords="licitações editais contratos compras">
+                        <div class="service-card__icon">
+                            <i class="bi bi-briefcase-fill"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Licitações</h4>
+                            <p>Consulte editais, fases e documentos oficiais.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-green" data-service-card data-keywords="alvará vigilância sanitária licença">
+                        <div class="service-card__icon">
+                            <i class="bi bi-shield-fill-check"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Alvarás e vigilância</h4>
+                            <p>Serviços para regularização e renovação.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-green" data-service-card data-keywords="economia empreendedor desenvolvimento">
+                        <div class="service-card__icon">
+                            <i class="bi bi-graph-up-arrow"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Desenvolvimento econômico</h4>
+                            <p>Projetos, incentivos e iniciativas empreendedoras.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-green" data-service-card data-keywords="balcão digital empresas protocolo">
+                        <div class="service-card__icon">
+                            <i class="bi bi-laptop-fill"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Balcão digital</h4>
+                            <p>Organização para futuros serviços empresariais integrados.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-green" data-service-card data-keywords="oportunidades chamadas editais públicos">
+                        <div class="service-card__icon">
+                            <i class="bi bi-megaphone-fill"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Portal de oportunidades</h4>
+                            <p>Espaço para editais, parcerias e chamadas públicas.</p>
+                        </div>
+                    </article>
+                </div>
+
+                <p class="service-empty" data-panel-empty hidden>Nenhum serviço desse perfil corresponde ao termo pesquisado.</p>
+            </section>
+            <section
+                    id="grupo-servidor"
+                    class="service-panel reveal"
+                    data-service-panel
+                    role="tabpanel"
+                    aria-labelledby="tab-grupo-servidor"
+                    hidden                >
+                <div class="service-panel__header">
+                    <div>
+                        <h3>Servidor</h3>
+                        <p>Ferramentas internas e jornadas operacionais do município.</p>
+                    </div>
+                    <span class="service-panel__badge"><i class="bi bi-person-badge-fill"></i> Atendimento por perfil</span>
+                </div>
+
+                <div class="service-grid">
+                    <article class="service-card tone-coral" data-service-card data-keywords="portal do servidor acesso interno">
+                        <div class="service-card__icon">
+                            <i class="bi bi-display-fill"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Portal do Servidor</h4>
+                            <p>Centralize acessos, avisos e demandas internas.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-coral" data-service-card data-keywords="holerite contracheque servidor">
+                        <div class="service-card__icon">
+                            <i class="bi bi-file-earmark-person-fill"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Holerite</h4>
+                            <p>Área de consulta para documentos e comprovantes.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-coral" data-service-card data-keywords="requerimento protocolo interno">
+                        <div class="service-card__icon">
+                            <i class="bi bi-journal-check"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Requerimentos</h4>
+                            <p>Fluxos internos com melhor organização visual.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-coral" data-service-card data-keywords="webmail email institucional">
+                        <div class="service-card__icon">
+                            <i class="bi bi-envelope-fill"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Webmail</h4>
+                            <p>Atalho institucional para comunicação oficial.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-coral" data-service-card data-keywords="código de ética governança">
+                        <div class="service-card__icon">
+                            <i class="bi bi-book-half"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Código de ética</h4>
+                            <p>Referências de conduta e governança pública.</p>
+                        </div>
+                    </article>
+                    <article class="service-card tone-coral" data-service-card data-keywords="cartão ponto frequência servidor">
+                        <div class="service-card__icon">
+                            <i class="bi bi-clock-history"></i>
+                        </div>
+                        <div class="service-card__body">
+                            <h4>Gestão de ponto</h4>
+                            <p>Base preparada para integrações operacionais.</p>
+                        </div>
+                    </article>
+                </div>
+
+                <p class="service-empty" data-panel-empty hidden>Nenhum serviço desse perfil corresponde ao termo pesquisado.</p>
+            </section>
+        </div>
+    </section>
+
+    <section class="section-shell section-shell--dark" id="transparencia">
+        <div class="container">
+            <div class="transparency-layout">
+                <div class="transparency-copy reveal">
+                    <span class="section-label section-label--hero">Transparência e governança</span>
+                    <h2>Acesso claro às informações públicas, prestação de contas e instrumentos de controle social.</h2>
+                    <p>Este espaço reúne conteúdos essenciais para consulta cidadã, acompanhamento da gestão, fiscalização social e acesso a documentos oficiais com navegação mais simples, leitura mais organizada e atualização contínua.</p>
+
+                    <div class="transparency-points">
+                        <div class="transparency-point">
+                            <i class="bi bi-check2-circle"></i>
+                            <span>Consulta pública de receitas, despesas, contratos, convênios e demonstrativos oficiais.</span>
+                        </div>
+                        <div class="transparency-point">
+                            <i class="bi bi-check2-circle"></i>
+                            <span>Acesso rápido a relatórios, instrumentos legais, editais e publicações administrativas.</span>
+                        </div>
+                        <div class="transparency-point">
+                            <i class="bi bi-check2-circle"></i>
+                            <span>Informações organizadas para ampliar a transparência ativa e fortalecer o controle social.</span>
+                        </div>
+                        <div class="transparency-point">
+                            <i class="bi bi-check2-circle"></i>
+                            <span>Navegação clara para cidadãos, órgãos de controle, imprensa e pesquisadores.</span>
+                        </div>
+                    </div>
+
+                    <div class="hero__actions">
+                        <a href="#publicacoes" class="portal-btn portal-btn--light">Ver publicações oficiais</a>
+                        <a href="#contato" class="portal-btn portal-btn--ghost-light">Canais de atendimento</a>
+                    </div>
+                </div>
+
+                <div class="transparency-grid">
+                    <article class="transparency-card reveal">
+                        <div class="transparency-card__icon">
+                            <i class="bi bi-shield-lock-fill"></i>
+                        </div>
+                        <h3>Lei de Acesso à Informação</h3>
+                        <p>Canal para solicitar informações públicas, consultar orientações e acompanhar a transparência ativa do município.</p>
+                    </article>
+                    <article class="transparency-card reveal">
+                        <div class="transparency-card__icon">
+                            <i class="bi bi-person-lock"></i>
+                        </div>
+                        <h3>LGPD e privacidade</h3>
+                        <p>Área dedicada a proteção de dados, privacidade e orientações sobre o tratamento de informações pessoais.</p>
+                    </article>
+                    <article class="transparency-card reveal">
+                        <div class="transparency-card__icon">
+                            <i class="bi bi-file-earmark-bar-graph-fill"></i>
+                        </div>
+                        <h3>Licitações e contratos</h3>
+                        <p>Consulta de editais, contratos, resultados e documentos relacionados às compras e contratações públicas.</p>
+                    </article>
+                    <article class="transparency-card reveal">
+                        <div class="transparency-card__icon">
+                            <i class="bi bi-clipboard-data-fill"></i>
+                        </div>
+                        <h3>Prestação de contas</h3>
+                        <p>Publicações e relatórios para acompanhamento da execução orçamentária, fiscal e administrativa da gestão.</p>
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section-shell" id="publicacoes">
+        <div class="container">
+            <div class="section-heading reveal">
+                <span class="section-label">Publicações oficiais</span>
+                <h2>Consulte editais, decretos, portarias, comunicados e demais atos oficiais do município.</h2>
+                <p>As publicações estão organizadas para facilitar o acesso à informação, ampliar a transparência administrativa e apoiar a consulta pública de documentos oficiais.</p>
+            </div>
+
+            <div class="publication-grid">
+               <a href="categoria/editais">
+                   <article class="publication-card tone-blue reveal">
+                       <div class="publication-card__icon">
+                           <i class="bi bi-megaphone-fill"></i>
+                       </div>
+                       <h3>Editais</h3>
+                       <p>Convocações, aberturas e processos com hierarquia editorial clara.</p>
+                   </article>
+               </a>
+                <a href="categoria/decretos">
+                <article class="publication-card tone-gold reveal">
+                    <div class="publication-card__icon">
+                        <i class="bi bi-file-earmark-text-fill"></i>
+                    </div>
+                    <h3>Decretos</h3>
+                    <p>Atos normativos organizados para leitura e consulta rápida.</p>
+                </article>
+                </a>
+                <a href="categoria/portarias">
+                <article class="publication-card tone-green reveal">
+                    <div class="publication-card__icon">
+                        <i class="bi bi-journal-text"></i>
+                    </div>
+                    <h3>Portarias</h3>
+                    <p>Publicações administrativas com melhor escaneabilidade.</p>
+                </article>
+                </a>
+                <a href="categoria/comunicados">
+                <article class="publication-card tone-coral reveal">
+                    <div class="publication-card__icon">
+                        <i class="bi bi-bell-fill"></i>
+                    </div>
+                    <h3>Comunicados</h3>
+                    <p>Avisos oficiais, notas e atualizações prioritárias da gestão.</p>
+                </article>
+                </a>
+            </div>
+        </div>
+    </section>
+</main>
+<footer class="site-footer" id="contato">
+    <div class="container">
+        <div class="site-footer__grid">
+            <div class="site-footer__brand reveal">
+                
+                <img src="https://parintins.am.gov.br/images/logpmp.png" alt="Logo da Prefeitura de Parintins" width="320" height="108">
+                
+                <div>
+                    <p>Portal institucional da Prefeitura de Parintins com acesso rápido a serviços digitais, notícias, transparência, publicações oficiais e atendimento ao cidadão.</p>
+                </div>
+            </div>
+
+            <div class="site-footer__links reveal">
+                <h3>Acesso rápido</h3>
+                <ul>
+                    
+                    <li><a href="https://parintins.am.gov.br/categoria/destaque">Destaque</a></li>
+                    
+                    <li><a href="https://parintins.am.gov.br/categoria/ultimas-noticias">Ultimas Noticias</a></li>
+                    
+                    <li><a href="https://parintins.am.gov.br/categoria/videos">Vídeos</a></li>
+                    
+                    <li><a href="https://parintins.am.gov.br/categoria/galeria-de-fotos">Galeria de Fotos</a></li>
+                    
+                </ul>
+            </div>
+
+            <div class="site-footer__contact reveal">
+                <h3>Contato institucional</h3>
+                <p><i class="bi bi-geo-alt-fill"></i> Parintins - AM</p>
+                <p><i class="bi bi-headset"></i> Canais digitais e atendimento institucional</p>
+                <p><i class="bi bi-clock-fill"></i> Atendimento em horário administrativo</p>
+            </div>
+        </div>
+
+        <div class="site-footer__bottom" >
+            <small style="text-align: center; float: left; width: 100%">&copy; 2026 Todos os direitos reservados - Prefeitura Municipal de Parintins - CNPJ 04.329.736/0001-69 - Rua Jhonathas Pedrosa, s/n Centro - Parintins -
+                Amazonas - CEP 69151-030</small>
+        </div>
+    </div>
+</footer><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
+<script src="https://parintins.am.gov.br/js/theme-parintins.js"></script>
+
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"4afcb5bf25344989a262c6113d6ada86","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>

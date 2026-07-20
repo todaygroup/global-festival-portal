@@ -1,0 +1,802 @@
+			<!DOCTYPE html>
+<html lang="de">
+<head>
+<script type="text/javascript">
+    const env = 'prod';
+    const atiLevel2Id = '0';
+    const msCookieDomain = '.christkindlesmarkt.de';
+    const msPathExtra = 'ckm';
+    const useCmp = 'true';
+    const contentType = "site";
+    const cookieNameActiveTerms = '__pianoActiveTerms';
+    const cookieNamePianoParams = '__pianoParams';
+    const cookieNamePlusAccess = '__pianoHXA';
+    const cookieNamePurAccess = '__pianoHPA';
+    const linkPrefix = '';
+    const frcVendorId = 'c48135';
+    const googleNewsVendorId = 's135';
+    const frcSiteKey = 'FCMGI53GSKSNADM3';
+     const isNB = "" === "true";
+     const isNN = "" === "true";
+ </script>
+<title>N&uuml;rnberger Christkindlesmarkt - christkindlesmarkt.de</title>
+<meta charset="utf-8">
+<meta name="Description" content="Der weltber&uuml;hmte N&uuml;rnberger Christkindlesmarkt ist einer der sch&ouml;nsten und traditionsreichsten Weihnachtsm&auml;rkte in Bayern und weit &uuml;ber die Grenzen Deutschlands hinaus bekannt." />
+<link rel="canonical" href="/" />
+<meta name="Author" content="christkindlesmarkt.de, Nürnberg, Germany" />
+<meta name="Copyright" content="christkindlesmarkt.de, Nürnberg, Germany" />
+<meta name="Email" content="info@nordbayern.de" />
+<meta name="Date" content="2025-10-23T12:46:34+02:00" />
+    <meta property="og:description" content="Der weltber&uuml;hmte N&uuml;rnberger Christkindlesmarkt ist einer der sch&ouml;nsten und traditionsreichsten Weihnachtsm&auml;rkte in Bayern und weit &uuml;ber die Grenzen Deutschlands hinaus bekannt." />
+    <meta property="og:locale" content="de_DE" />
+    <meta property="og:title" content="" />
+    <meta property="og:url" content="https://www.christkindlesmarkt.de/" />
+    <meta property="og:image" content="https://www.christkindlesmarkt.de/img/ckm/fallback.png"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="theme-color" content="#dbbe4a">
+<link rel="apple-touch-icon" href="/img/ckm/apple-touch-icon-ckm.png"/>
+<link rel="stylesheet" type="text/css" media="screen" href="/css/ckm/main-20.2.0.css">
+<link rel="stylesheet" type="text/css" media="print" href="/css/ckm/print-20.2.0.css"><script type="text/javascript" src="/js/ckm/combined-20.2.0.js"></script>
+<script type="text/javascript" src="/js/multisite/pianotracking/piano-tracking-20.2.0.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+    Shadowbox.init({
+        overlayColor:'#808080',
+        players: ["html","iframe"],
+        handleOversize: "resize"
+    });
+//]]>
+</script><link rel="shortcut icon" type="image/x-icon" href="/img/ckm/favicon_ckm.ico" />
+<!-- start:nbcropmark_piano_analytics_head -->
+<script type="text/javascript">
+    
+    window.pdl = window.pdl || {};
+    window.pdl.requireConsent = 'v2';
+    window.pdl.consent = {
+        defaultPreset: {
+            PA: 'opt-out'
+        }
+    };
+</script>
+<script type="text/javascript" crossorigin="anonymous" src="https://tag.aticdn.net/piano-analytics.js"></script>
+<script type="text/javascript">
+    
+    if (typeof pa === 'undefined' || pa === null) {
+        pa = undefined;
+    }
+    
+    pa?.setConfigurations({
+        site: getSiteId(),
+        collectDomain: "https://kjdjwkh.pa-cd.com"
+    });
+
+    
+        function setPianoAnalyticsConsent() {
+       if (useCmp && hasConsent("s218")) {
+           pa?.consent.setMode('opt-in');
+       } else {
+           pa?.consent.setMode('opt-out');
+       }
+       sendPianoAnalyticsPageRequest();
+    }
+</script>
+<!-- end:nbcropmark_piano_analytics_head -->
+</head>
+<body>
+	<!-- start:nbcropmark_piano_analytics_body -->
+    <script type="text/javascript">
+        function sendPianoAnalyticsPageRequest() {
+                        pa?.sendEvent('page.display', buildTrackingInfoJson({"content_type":"budensuchseite","content_id":"2.6697","page":"Budensuchseite"}));
+        }
+    </script>
+<!-- end:nbcropmark_piano_analytics_body -->
+			<script type="text/javascript">
+	</script>
+<script>if(!("gdprAppliesGlobally" in window)){window.gdprAppliesGlobally=true}if(!("cmp_id" in window)||window.cmp_id<1){window.cmp_id=0}if(!("cmp_cdid" in window)){window.cmp_cdid="f3ce12958410"}if(!("cmp_params" in window)){window.cmp_params=""}if(!("cmp_host" in window)){window.cmp_host="c.delivery.consentmanager.net"}if(!("cmp_cdn" in window)){window.cmp_cdn="cdn.consentmanager.net"}if(!("cmp_proto" in window)){window.cmp_proto="https:"}if(!("cmp_codesrc" in window)){window.cmp_codesrc="0"}window.cmp_getsupportedLangs=function(){var b=["DE","EN","FR","IT","NO","DA","FI","ES","PT","RO","BG","ET","EL","GA","HR","LV","LT","MT","NL","PL","SV","SK","SL","CS","HU","RU","SR","ZH","TR","UK","AR","BS","JA","CY"];if("cmp_customlanguages" in window){for(var a=0;a<window.cmp_customlanguages.length;a++){b.push(window.cmp_customlanguages[a].l.toUpperCase())}}return b};window.cmp_getRTLLangs=function(){var a=["AR"];if("cmp_customlanguages" in window){for(var b=0;b<window.cmp_customlanguages.length;b++){if("r" in window.cmp_customlanguages[b]&&window.cmp_customlanguages[b].r){a.push(window.cmp_customlanguages[b].l)}}}return a};window.cmp_getlang=function(a){if(typeof(a)!="boolean"){a=true}if(a&&typeof(cmp_getlang.usedlang)=="string"&&cmp_getlang.usedlang!==""){return cmp_getlang.usedlang}return window.cmp_getlangs()[0]};window.cmp_extractlang=function(a){if(a.indexOf("cmplang=")!=-1){a=a.substr(a.indexOf("cmplang=")+8,2).toUpperCase();if(a.indexOf("&")!=-1){a=a.substr(0,a.indexOf("&"))}}else{a=""}return a};window.cmp_getlangs=function(){var g=window.cmp_getsupportedLangs();var c=[];var f=location.hash;var e=location.search;var j="cmp_params" in window?window.cmp_params:"";var a="languages" in navigator?navigator.languages:[];if(cmp_extractlang(f)!=""){c.push(cmp_extractlang(f))}else{if(cmp_extractlang(e)!=""){c.push(cmp_extractlang(e))}else{if(cmp_extractlang(j)!=""){c.push(cmp_extractlang(j))}else{if("cmp_setlang" in window&&window.cmp_setlang!=""){c.push(window.cmp_setlang.toUpperCase())}else{if("cmp_langdetect" in window&&window.cmp_langdetect==1){c.push(window.cmp_getPageLang())}else{if(a.length>0){for(var d=0;d<a.length;d++){c.push(a[d])}}if("language" in navigator){c.push(navigator.language)}if("userLanguage" in navigator){c.push(navigator.userLanguage)}}}}}}var h=[];for(var d=0;d<c.length;d++){var b=c[d].toUpperCase();if(b.length<2){continue}if(g.indexOf(b)!=-1){h.push(b)}else{if(b.indexOf("-")!=-1){b=b.substr(0,2)}if(g.indexOf(b)!=-1){h.push(b)}}}if(h.length==0&&typeof(cmp_getlang.defaultlang)=="string"&&cmp_getlang.defaultlang!==""){return[cmp_getlang.defaultlang.toUpperCase()]}else{return h.length>0?h:["EN"]}};window.cmp_getPageLangs=function(){var a=window.cmp_getXMLLang();if(a!=""){a=[a.toUpperCase()]}else{a=[]}a=a.concat(window.cmp_getLangsFromURL());return a.length>0?a:["EN"]};window.cmp_getPageLang=function(){var a=window.cmp_getPageLangs();return a.length>0?a[0]:""};window.cmp_getLangsFromURL=function(){var c=window.cmp_getsupportedLangs();var b=location;var m="toUpperCase";var g=b.hostname[m]()+".";var a="/"+b.pathname[m]()+"/";a=a.split("_").join("-");a=a.split("//").join("/");a=a.split("//").join("/");var f=[];for(var e=0;e<c.length;e++){var j=a.substring(0,c[e].length+2);if(g.substring(0,c[e].length+1)==c[e]+"."){f.push(c[e][m]())}else{if(c[e].length==5){var k=c[e].substring(3,5)+"-"+c[e].substring(0,2);if(g.substring(0,k.length+1)==k+"."){f.push(c[e][m]())}}else{if(j=="/"+c[e]+"/"||j=="/"+c[e]+"-"){f.push(c[e][m]())}else{if(j=="/"+c[e].replace("-","/")+"/"||j=="/"+c[e].replace("-","/")+"/"){f.push(c[e][m]())}else{if(c[e].length==5){var k=c[e].substring(3,5)+"-"+c[e].substring(0,2);var h=a.substring(0,k.length+1);if(h=="/"+k+"/"||h=="/"+k.replace("-","/")+"/"){f.push(c[e][m]())}}}}}}}return f};window.cmp_getXMLLang=function(){var c=document.getElementsByTagName("html");if(c.length>0){c=c[0]}else{c=document.documentElement}if(c&&c.getAttribute){var a=c.getAttribute("xml:lang");if(typeof(a)!="string"||a==""){a=c.getAttribute("lang")}if(typeof(a)=="string"&&a!=""){a=a.split("_").join("-").toUpperCase();var b=window.cmp_getsupportedLangs();return b.indexOf(a)!=-1||b.indexOf(a.substr(0,2))!=-1?a:""}else{return""}}};(function(){var C=document;var D=C.getElementsByTagName;var o=window;var t="";var h="";var k="";var F=function(e){var i="cmp_"+e;e="cmp"+e+"=";var d="";var l=e.length;var K=location;var L=K.hash;var w=K.search;var u=L.indexOf(e);var J=w.indexOf(e);if(u!=-1){d=L.substring(u+l,9999)}else{if(J!=-1){d=w.substring(J+l,9999)}else{return i in o&&typeof(o[i])!=="function"?o[i]:""}}var I=d.indexOf("&");if(I!=-1){d=d.substring(0,I)}return d};var j=F("lang");if(j!=""){t=j;k=t}else{if("cmp_getlang" in o){t=o.cmp_getlang().toLowerCase();h=o.cmp_getlangs().slice(0,3).join("_");k=o.cmp_getPageLangs().slice(0,3).join("_");if("cmp_customlanguages" in o){var m=o.cmp_customlanguages;for(var y=0;y<m.length;y++){var a=m[y].l.toLowerCase();if(a==t){t="en"}}}}}var q=("cmp_proto" in o)?o.cmp_proto:"https:";if(q!="http:"&&q!="https:"){q="https:"}var n=("cmp_ref" in o)?o.cmp_ref:location.href;if(n.length>300){n=n.substring(0,300)}var A=function(d){var M=C.createElement("script");M.setAttribute("data-cmp-ab","1");M.type="text/javascript";M.async=true;M.src=d;var L=["body","div","span","script","head"];var w="currentScript";var J="parentElement";var l="appendChild";var K="body";if(C[w]&&C[w][J]){C[w][J][l](M)}else{if(C[K]){C[K][l](M)}else{for(var u=0;u<L.length;u++){var I=D(L[u]);if(I.length>0){I[0][l](M);break}}}}};var b=F("design");var c=F("regulationkey");var z=F("gppkey");var s=F("att");var f=o.encodeURIComponent;var g;try{g=C.cookie.length>0}catch(B){g=false}var x=F("darkmode");if(x=="0"){x=0}else{if(x=="1"){x=1}else{try{if("matchMedia" in window&&window.matchMedia){var H=window.matchMedia("(prefers-color-scheme: dark)");if("matches" in H&&H.matches){x=1}}}catch(B){x=0}}}var p=q+"//"+o.cmp_host+"/delivery/cmp.php?";p+=("cmp_id" in o&&o.cmp_id>0?"id="+o.cmp_id:"")+("cmp_cdid" in o?"&cdid="+o.cmp_cdid:"")+"&h="+f(n);p+=(b!=""?"&cmpdesign="+f(b):"")+(c!=""?"&cmpregulationkey="+f(c):"")+(z!=""?"&cmpgppkey="+f(z):"");p+=(s!=""?"&cmpatt="+f(s):"")+("cmp_params" in o?"&"+o.cmp_params:"")+(g?"&__cmpfcc=1":"");p+=(x>0?"&cmpdarkmode=1":"");A(p+"&l="+f(t)+"&ls="+f(h)+"&lp="+f(k)+"&o="+(new Date()).getTime());if(!("cmp_quickstub" in window)){var r="js";var v=F("debugunminimized")!=""?"":".min";if(F("debugcoverage")=="1"){r="instrumented";v=""}if(F("debugtest")=="1"){r="jstests";v=""}var G=new Date();var E=G.getFullYear()+"-"+(G.getMonth()+1)+"-"+G.getDate();A(q+"//"+o.cmp_cdn+"/delivery/"+r+"/cmp_final"+v+".js?t="+E)}})();window.cmp_rc=function(c,b){var l;try{l=document.cookie}catch(h){l=""}var j="";var f=0;var g=false;while(l!=""&&f<100){f++;while(l.substr(0,1)==" "){l=l.substr(1,l.length)}var k=l.substring(0,l.indexOf("="));if(l.indexOf(";")!=-1){var m=l.substring(l.indexOf("=")+1,l.indexOf(";"))}else{var m=l.substr(l.indexOf("=")+1,l.length)}if(c==k){j=m;g=true}var d=l.indexOf(";")+1;if(d==0){d=l.length}l=l.substring(d,l.length)}if(!g&&typeof(b)=="string"){j=b}return(j)};window.cmp_stub=function(){var a=arguments;__cmp.a=__cmp.a||[];if(!a.length){return __cmp.a}else{if(a[0]==="ping"){if(a[1]===2){a[2]({gdprApplies:gdprAppliesGlobally,cmpLoaded:false,cmpStatus:"stub",displayStatus:"hidden",apiVersion:"2.2",cmpId:31},true)}else{a[2](false,true)}}else{if(a[0]==="getTCData"){__cmp.a.push([].slice.apply(a))}else{if(a[0]==="addEventListener"||a[0]==="removeEventListener"){__cmp.a.push([].slice.apply(a))}else{if(a.length==4&&a[3]===false){a[2]({},false)}else{__cmp.a.push([].slice.apply(a))}}}}}};window.cmp_dsastub=function(){var a=arguments;a[0]="dsa."+a[0];window.cmp_gppstub(a)};window.cmp_gppstub=function(){var c=arguments;__gpp.q=__gpp.q||[];if(!c.length){return __gpp.q}var h=c[0];var g=c.length>1?c[1]:null;var f=c.length>2?c[2]:null;var a=null;var j=false;if(h==="ping"){a=window.cmp_gpp_ping();j=true}else{if(h==="addEventListener"){__gpp.e=__gpp.e||[];if(!("lastId" in __gpp)){__gpp.lastId=0}__gpp.lastId++;var d=__gpp.lastId;__gpp.e.push({id:d,callback:g});a={eventName:"listenerRegistered",listenerId:d,data:true,pingData:window.cmp_gpp_ping()};j=true}else{if(h==="removeEventListener"){__gpp.e=__gpp.e||[];a=false;for(var e=0;e<__gpp.e.length;e++){if(__gpp.e[e].id==f){__gpp.e[e].splice(e,1);a=true;break}}j=true}else{__gpp.q.push([].slice.apply(c))}}}if(a!==null&&typeof(g)==="function"){g(a,j)}};window.cmp_gpp_ping=function(){return{gppVersion:"1.1",cmpStatus:"stub",cmpDisplayStatus:"hidden",signalStatus:"not ready",supportedAPIs:["2:tcfeuv2","5:tcfcav1","7:usnat","8:usca","9:usva","10:usco","11:usut","12:usct","13:usfl","14:usmt","15:usor","16:ustx","17:usde","18:usia","19:usne","20:usnh","21:usnj","22:ustn"],cmpId:31,sectionList:[],applicableSections:[0],gppString:"",parsedSections:{}}};window.cmp_addFrame=function(b){if(!window.frames[b]){if(document.body){var a=document.createElement("iframe");a.style.cssText="display:none";if("cmp_cdn" in window&&"cmp_ultrablocking" in window&&window.cmp_ultrablocking>0){a.src="//"+window.cmp_cdn+"/delivery/empty.html"}a.name=b;a.setAttribute("title","Intentionally hidden, please ignore");a.setAttribute("role","none");a.setAttribute("tabindex","-1");document.body.appendChild(a)}else{window.setTimeout(window.cmp_addFrame,10,b)}}};window.cmp_msghandler=function(d){var a=typeof d.data==="string";try{var c=a?JSON.parse(d.data):d.data}catch(f){var c=null}if(typeof(c)==="object"&&c!==null&&"__cmpCall" in c){var b=c.__cmpCall;window.__cmp(b.command,b.parameter,function(h,g){var e={__cmpReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")})}if(typeof(c)==="object"&&c!==null&&"__tcfapiCall" in c){var b=c.__tcfapiCall;window.__tcfapi(b.command,b.version,function(h,g){var e={__tcfapiReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")},b.parameter)}if(typeof(c)==="object"&&c!==null&&"__gppCall" in c){var b=c.__gppCall;window.__gpp(b.command,function(h,g){var e={__gppReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")},"parameter" in b?b.parameter:null,"version" in b?b.version:1)}if(typeof(c)==="object"&&c!==null&&"__dsaCall" in c){var b=c.__dsaCall;window.__dsa(b.command,function(h,g){var e={__dsaReturn:{returnValue:h,success:g,callId:b.callId}};d.source.postMessage(a?JSON.stringify(e):e,"*")},"parameter" in b?b.parameter:null,"version" in b?b.version:1)}};window.cmp_setStub=function(a){if(!(a in window)||(typeof(window[a])!=="function"&&typeof(window[a])!=="object"&&(typeof(window[a])==="undefined"||window[a]!==null))){window[a]=window.cmp_stub;window[a].msgHandler=window.cmp_msghandler;window.addEventListener("message",window.cmp_msghandler,false)}};window.cmp_setGppStub=function(a){if(!(a in window)||(typeof(window[a])!=="function"&&typeof(window[a])!=="object"&&(typeof(window[a])==="undefined"||window[a]!==null))){window[a]=window.cmp_gppstub;window[a].msgHandler=window.cmp_msghandler;window.addEventListener("message",window.cmp_msghandler,false)}};if(!("cmp_noiframepixel" in window)){window.cmp_addFrame("__cmpLocator")}if((!("cmp_disabletcf" in window)||!window.cmp_disabletcf)&&!("cmp_noiframepixel" in window)){window.cmp_addFrame("__tcfapiLocator")}if((!("cmp_disablegpp" in window)||!window.cmp_disablegpp)&&!("cmp_noiframepixel" in window)){window.cmp_addFrame("__gppLocator")}if((!("cmp_disabledsa" in window)||!window.cmp_disabledsa)&&!("cmp_noiframepixel" in window)){window.cmp_addFrame("__dsaLocator")}window.cmp_setStub("__cmp");if(!("cmp_disabletcf" in window)||!window.cmp_disabletcf){window.cmp_setStub("__tcfapi")}if(!("cmp_disablegpp" in window)||!window.cmp_disablegpp){window.cmp_setGppStub("__gpp")}if(!("cmp_disabledsa" in window)||!window.cmp_disabledsa){window.cmp_setGppStub("__dsa")};</script>
+<script type="text/javascript" src="/js/multisite/cmp/cmp-custom-20.2.0.js"></script>	  	<div id="page">
+    	    		                    <header>
+        <div class="subnav">
+            <div>
+                <ul>
+                    <li><a href="/presse" target="_blank">Presse</a></li>
+                    <li><a href="/reiseveranstalter" target="_blank">Reiseveranstalter</a></li>
+                    <li><a href="/"><img src="/img/ckm/de.png"  alt="deutsch" title="deutsch"></a></li>
+                    <li><a href="https://www.christkindlesmarkt.de/en/"><img src="/img/ckm/uk.png"  alt="englisch" title="englisch"></a></li>
+                </ul>
+                <ul>
+                    <li>
+                        <form method="post" id="searchform" class="search-form" action="/servletsearchaction/ckm">
+                            <input name="query" id="search" type="text" placeholder="Ihr Suchbegriff" aria-label="Ihr Suchbegriff">
+                            <button class="icon-search" type="submit" aria-label="Suchen"></button>
+                        </form>
+                    </li>
+                    <li>
+                        <a href="/facebook" target="_blank" aria-label="facebook">
+                            <span class="icon-facebook"></span>
+                        </a>
+                        <a href="/instagram" target="_blank" aria-label="instagram">
+                            <span class="icon-instagram"></span>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="logo" href="https://www.nuernberg.de/internet/stadtportal/index.html" target="_blank">
+                            <picture>
+                                <img class="img-not-sticky img-nbg-mobile" src="/img/ckm/nuernberg_logo.png" alt="Nürnberg" title="Nürnberg">
+                            </picture>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <nav class="greedy">
+            <a class="logo" href="/">
+                <picture>
+                    <img class="logo-ckm-not-sticky" src="/img/ckm/logo-ckm-high.png" alt="Christkindlesmarkt Logo" title="Christkindlesmarkt Logo">
+                </picture>
+            </a>
+            <ul class="links">
+                                                                                                            <li class="mainNav" id="mainLi_1">
+                            <a class=" first" href="/das-christkind">Das Christkind</a>
+                                                            <span id="arrow_1" class="arrow"></span>
+                                                                                        <ul class="nav2hidden">
+                                                                                                                                                                                                                                                                <li><a class="" href="/das-christkind/das-n%C3%BCrnberger-christkind">Das Nürnberger Christkind </a></li>
+                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/das-christkind/so-wird-man-christkind">So wird man Christkind</a></li>
+                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/das-christkind/ehemalige-christkinder">Ehemalige Christkinder</a></li>
+                                                                                                                                                        </ul>
+                                                    </li>
+                                                                                                                                <li class="mainNav" id="mainLi_2">
+                            <a class=" first" href="/der-markt">Der Markt</a>
+                                                            <span id="arrow_2" class="arrow"></span>
+                                                                                        <ul class="nav2hidden">
+                                                                                                                                                                                                                                                                <li><a class="" href="/der-markt/die-eroeffnung">Die Eröffnung</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                        <li><a class="" href="/der-markt?budenplan=1">Budenplan</a></li>
+                                                                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/der-markt/haendlersuche">Händlersuche</a></li>
+                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/der-markt/erlebniswege">Erlebniswege</a></li>
+                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/der-markt/nachhaltigkeit">Nachhaltigkeit</a></li>
+                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/der-markt/veranstaltungen">Veranstaltungen</a></li>
+                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/der-markt/geschichte-des-marktes">Geschichte des Marktes</a></li>
+                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/der-markt/markt-der-partnerstaedte">Markt der Partnerstädte</a></li>
+                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/der-markt/f%C3%B6rderer">Förderer</a></li>
+                                                                                                                                                        </ul>
+                                                    </li>
+                                                                                                                                <li class="mainNav" id="mainLi_3">
+                            <a class=" first" href="/ihr-besuch">Ihr Besuch</a>
+                                                            <span id="arrow_3" class="arrow"></span>
+                                                                                        <ul class="nav2hidden">
+                                                                                                                                                                                                                                                                <li><a class="" href="/ihr-besuch/anreise">Anreise</a></li>
+                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/ihr-besuch/reiseangebote">Reiseangebote</a></li>
+                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/ihr-besuch/downloads">Downloads</a></li>
+                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/ihr-besuch/tipps">Tipps</a></li>
+                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/ihr-besuch/touren">Touren</a></li>
+                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/ihr-besuch/kirchen">Kirchen</a></li>
+                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/ihr-besuch/museen">Museen</a></li>
+                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/ihr-besuch/essen-trinken">Essen & Trinken</a></li>
+                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/ihr-besuch/shoppen-schenken">Shoppen & Schenken</a></li>
+                                                                                                                                                        </ul>
+                                                    </li>
+                                                                                                                                <li class="mainNav" id="mainLi_4">
+                            <a class=" first" href="/fuer-kinder">Für Kinder</a>
+                                                            <span id="arrow_4" class="arrow"></span>
+                                                                                        <ul class="nav2hidden">
+                                                                                                                                                                                                                                                                <li><a class="" href="/fuer-kinder/kinderweihnacht">Kinderweihnacht</a></li>
+                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/fuer-kinder/sternenhaus">Sternenhaus</a></li>
+                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/fuer-kinder/lichterzug">Lichterzug</a></li>
+                                                                                                                                                                                                                                                                                                                                                    <li><a class="" href="/fuer-kinder/postkutsche">Postkutsche</a></li>
+                                                                                                                                                        </ul>
+                                                    </li>
+                                                                                                                                                                                                </ul>
+            <button aria-label="Mobile Burger Menu"><span class="icon-menu"></span></button>
+            <div class="hidden-links-con hidden">
+                <ul class="hidden-links"></ul>
+            </div>
+        </nav>
+    </header>
+    		  			     						          	          		          			          			          		          		          							                                <a href="/der-markt/der-nurnberger-christkindlesmarkt-1.2493785">
+                    <div class="modul__stageslider">
+                                    <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.8009703:1542293460/ckm.jpg?f=3%3A1&h=640&m=FIT&w=2000&$p$f$h$m$w=35f9adb, https://images.nordbayern.de/image/contentid/policy:1.8009703:1542293460/ckm.jpg?f=3%3A1&h=1280&m=FIT&w=4000&$p$f$h$m$w=35f9adb 2x" media="(min-width: 62em)">
+                        <source srcset="https://images.nordbayern.de/image/contentid/policy:1.8009703:1542293460/ckm.jpg?m=FIT&w=1272&$p$m$w=f5c5880, https://images.nordbayern.de/image/contentid/policy:1.8009703:1542293460/ckm.jpg?m=FIT&w=2544&$p$m$w=f5c5880 2x" media="(min-width: 48em)">
+                            <source srcset="https://images.nordbayern.de/image/contentid/policy:1.8009703:1542293460/ckm.jpg?m=FIT&w=680&$p$m$w=ce1dd37, https://images.nordbayern.de/image/contentid/policy:1.8009703:1542293460/ckm.jpg?m=FIT&w=1360&$p$m$w=ce1dd37 2x" media="(max-width: 48em)">
+                <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.8009703:1542293460/ckm.jpg?f=3%3A1&h=640&m=FIT&w=2000&$p$f$h$m$w=35f9adb" alt="" class="" title="" data-id="18009703">
+</picture>
+                                <div class="modul__stageslider--content">
+                                                                                                        <h1 class="h1-teaser">Nürnberger Christkindlesmarkt</h1>
+                                                                                                                                                        <h3 class="h3-teaser">27.11. - 24.12.2026</h3>
+                                                                                                                        </div>
+            </div>
+        </a>
+                <div id="page__content">
+                                <div class="content-wrapper">
+            <section class="modul__intro" id="page__content--nb">
+            <div class="modul__nordbayern modul__nordbayern--slideshow">
+                <span>powered by</span>
+                <a href="/vnp" target="_blank" aria-label="vnp.de">
+                    <img src="/img/ckm/vnp-logo-gray.png" alt="VNP Logo">
+                </a>
+            </div>
+            <div class="modul__lebkuchen_schmidt modul__lebkuchen_schmidt--slideshow">
+                <span> Hauptförderer</span>
+                <a href="/hauptsponsor" target="_blank">
+                    <img src="/img/ckm/lebkuchen-schmidt-logo.png" alt="Lebkuchen Schmidt">
+                </a>
+            </div>
+        </section>
+            </div>
+                    <div class="content-wrapper">
+            <section class="modul__intro">
+                                    <a href="/der-markt/der-nurnberger-christkindlesmarkt-1.2493785">
+                                    <article class="modul__intro--content">
+                                                    <h4 class="h4-intro">Der Nürnberger Christkindlesmarkt</h4>
+                                                                                                    <p class="p-intro">Der Nürnberger Christkindlesmarkt ist einer der ältesten und sicher der berühmteste Christkindlesmarkt der Welt. In den Holzbuden des „Städtleins aus Holz und Tuch gemacht“ findet man traditionellen, oft handgearbeiteten Weihnachtsschmuck und süße Leckereien wie Lebkuchen. Zusätzliche Attraktionen sind die Kinderweihnacht und das Sternenhaus, der Markt der Partnerstädte und der Lichterzug der Nürnberger Kinder.</p>
+                                            </article>
+                </a>
+            </section>
+        </div>
+        	  	          		          		          			          							<div class="content-wrapper">
+    <section class="modul__intro" id="modul_ckm-opening">
+                    <h5 class="h5-intro">Öffnungszeiten </h5>
+                <article class="modul__intro--content modul__intro--content--opening">
+                                    <div class="ckm_opening">
+                <div class="ckm_opening--element">
+                            <p>
+                <span class="span-opening bold">Montag bis Sonntag</span>
+                <span class="span-opening">
+                    <span class="opening-icon opening-icon--clock"></span>
+                    <span>10 bis 21 Uhr</span>
+                </span>
+            </p>
+                                                <p>
+                <span class="span-opening bold">Heilig Abend, 24. Dezember 2026</span>
+                <span class="span-opening">
+                    <span class="opening-icon opening-icon--clock"></span>
+                    <span>10 bis 14 Uhr </span>
+                </span>
+            </p>
+                                </div>
+            </div>
+                                                <div class="ckm_opening">
+                <div class="ckm_opening--element">
+                            <p>
+                <span class="span-opening bold"> Nürnberger Christkindlesmarkt 2026</span>
+                <span class="span-opening">
+                    <span class="opening-icon opening-icon--calendar"></span>
+                    <span>27. November bis 24. Dezember 2026</span>
+                </span>
+            </p>
+                                                <p>
+                <span class="span-opening bold"> Nürnberger Christkindlesmarkt 2027</span>
+                <span class="span-opening">
+                    <span class="opening-icon opening-icon--calendar"></span>
+                    <span>26. November bis 24. Dezember 2027</span>
+                </span>
+            </p>
+                                </div>
+            </div>
+                    </article>
+    </section>
+</div>
+    	  	          		          		          			          							                                <div class="content-wrapper">
+                            <section class="modul__tile">
+                    <div class="modul__tile--arrow"></div>
+            <div class="modul__tile--img-tile">
+                <a href="/der-markt/die-schonsten-buden-werden-ausgezeichnet-1.14941553">
+                                                                                                                                                                                            <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.14941811:1765979839/Hans-Steffin-Hierzer_Gold_Zwetschgermoh%20(4).JPG?f=4%3A3&h=450&m=FIT&w=600&$p$f$h$m$w=e01c4ad, https://images.nordbayern.de/image/contentid/policy:1.14941811:1765979839/Hans-Steffin-Hierzer_Gold_Zwetschgermoh%20(4).JPG?f=4%3A3&h=900&m=FIT&w=1200&$p$f$h$m$w=e01c4ad 2x" media="(min-width: 62em)">
+                    <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.14941811:1765979839/Hans-Steffin-Hierzer_Gold_Zwetschgermoh%20(4).JPG?f=4%3A3&h=450&m=FIT&w=600&$p$f$h$m$w=e01c4ad" alt="Der goldene Zwetschgermoh" class="" title="Der goldene Zwetschgermoh" data-id="114941811">
+</picture>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </a>
+            </div>
+            <div class="modul__tile--article">
+                <article class="modul__intro--content modul__intro--content--tile">
+                                        <a href="/der-markt/die-schonsten-buden-werden-ausgezeichnet-1.14941553">
+                        <h4 class="h4-intro"> Die schönsten Buden werden ausgezeichnet </h4>
+                                                                                                            <p>
+                                                        Seit 1981 zeichnet die Stadt Nürnberg die schönsten Buden des Christkindlesmarkts aus. Auch in diesem Jahr hat eine Jury, bestehend aus Vertreterinnen und Vertretern der Nürnberger Märkte, der Congress ­und Tourismus-Zentrale, des Amts für Kommunikation und Stadtmarketing, der Nürnberger Museen und des Hochbauamts, die insgesamt 144 Verkaufsstände kritisch begutachtet und bewertet. </p>
+                                            </a>
+                </article>
+            </div>
+        </section>
+        </div>
+                        <div class="content-wrapper">
+                            <section class="modul__tile modul__tile--odd">
+                    <div class="modul__tile--arrow"></div>
+            <div class="modul__tile--img-tile">
+                <a href="/ihr-besuch/tipps/die-neuheiten-auf-dem-christkindlesmarkt-2025-1.14922426">
+                                                                                                                                                                                                                                        <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.14922585:1764602277/IMG_3547.JPG?f=4%3A3&h=450&m=FIT&w=600&$p$f$h$m$w=d4059ad, https://images.nordbayern.de/image/contentid/policy:1.14922585:1764602277/IMG_3547.JPG?f=4%3A3&h=900&m=FIT&w=1200&$p$f$h$m$w=d4059ad 2x" media="(min-width: 62em)">
+                    <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.14922585:1764602277/IMG_3547.JPG?f=4%3A3&h=450&m=FIT&w=600&$p$f$h$m$w=d4059ad" alt="CTZ N&uuml;rnberg" class="" title="CTZ N&uuml;rnberg" data-id="114922585">
+</picture>
+                                                                                        </a>
+            </div>
+            <div class="modul__tile--article">
+                <article class="modul__intro--content modul__intro--content--tile">
+                                        <a href="/ihr-besuch/tipps/die-neuheiten-auf-dem-christkindlesmarkt-2025-1.14922426">
+                        <h4 class="h4-intro"> Die Neuheiten auf dem Christkindlesmarkt 2025</h4>
+                                                                                                            <p>
+                                                        168 Holzbuden mit rot-weißen Stoffdächern, von den Marktkaufleuten liebevoll eingerichtet und dekoriert, stehen auf dem Hauptmarkt und dem Rathausplatz und geben dem Christkindlesmarkt den Beinamen „Städtlein aus Holz und Tuch“. 180 Händlerinnen und Händler präsentieren ein bewusst traditionell gehaltenes Warenangebot: Nürnberger Lebkuchen, Früchtebrot, Back- und Süßwaren, typische Weihnachtsartikel wie Rauschgoldengel, Krippen oder Christbaumschmuck sowie Kerzen, Spielzeug und Kunstgewerbe.</p>
+                                            </a>
+                </article>
+            </div>
+        </section>
+        </div>
+                        <div class="content-wrapper">
+                            <section class="modul__tile">
+                    <div class="modul__tile--arrow"></div>
+            <div class="modul__tile--img-tile">
+                <a href="/das-christkind/prolog-zur-eroffnung-des-nurnberger-christkindlesmarktes-2025-1.14919667">
+                                                                                                                                                                                            <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.14919668:1764359716/Eroeffnung%20CKM%202025.jpg?f=4%3A3&h=450&m=FIT&w=600&$p$f$h$m$w=67afbd1, https://images.nordbayern.de/image/contentid/policy:1.14919668:1764359716/Eroeffnung%20CKM%202025.jpg?f=4%3A3&h=900&m=FIT&w=1200&$p$f$h$m$w=67afbd1 2x" media="(min-width: 62em)">
+                    <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.14919668:1764359716/Eroeffnung%20CKM%202025.jpg?f=4%3A3&h=450&m=FIT&w=600&$p$f$h$m$w=67afbd1" alt="Christkind Nora Falk bei der Er&ouml;ffnung" class="" title="Christkind Nora Falk bei der Er&ouml;ffnung" data-id="114919668">
+</picture>
+                                                                                        </a>
+            </div>
+            <div class="modul__tile--article">
+                <article class="modul__intro--content modul__intro--content--tile">
+                                        <a href="/das-christkind/prolog-zur-eroffnung-des-nurnberger-christkindlesmarktes-2025-1.14919667">
+                        <h4 class="h4-intro">Prolog zur Eröffnung des Nürnberger Christkindlesmarktes 2025</h4>
+                                                                                                            <p>
+                                                        Das Nürnberger Christkind Nora Falk hat am 28. November 2025 feierlich mit dem Prolog den Christkindlesmarkt eröffnet. In unserem Video können Sie sich den Prolog nochmal ansehen. </p>
+                                            </a>
+                </article>
+            </div>
+        </section>
+        </div>
+                        <div class="content-wrapper content-wrapper--space-bottom">
+                            <section class="modul__tile modul__tile--odd">
+                    <div class="modul__tile--arrow"></div>
+            <div class="modul__tile--img-tile">
+                <a href="/impressionen-vom-nurnberger-christkindlesmarkt-1.12717427">
+                                                                                                                                                                                                                                        <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.12717649:1668425072/Titelbild_Imagevideo_%C2%A9FlorianTrykowski.png?f=4%3A3&h=450&m=FIT&w=600&$p$f$h$m$w=e2a393a, https://images.nordbayern.de/image/contentid/policy:1.12717649:1668425072/Titelbild_Imagevideo_%C2%A9FlorianTrykowski.png?f=4%3A3&h=900&m=FIT&w=1200&$p$f$h$m$w=e2a393a 2x" media="(min-width: 62em)">
+                    <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.12717649:1668425072/Titelbild_Imagevideo_%C2%A9FlorianTrykowski.png?f=4%3A3&h=450&m=FIT&w=600&$p$f$h$m$w=e2a393a" alt="N&uuml;rnberger Christkindlesmarkt &copy;Florian Trykowski" class="" title="N&uuml;rnberger Christkindlesmarkt &copy;Florian Trykowski" data-id="112717649">
+</picture>
+                                                                                        </a>
+            </div>
+            <div class="modul__tile--article">
+                <article class="modul__intro--content modul__intro--content--tile">
+                                        <a href="/impressionen-vom-nurnberger-christkindlesmarkt-1.12717427">
+                        <h4 class="h4-intro">Impressionen vom Nürnberger Christkindlesmarkt</h4>
+                                                                                                            <p>
+                                                        Kommen Sie mit unserem Video auf eine Reise zum Nürnberger Christkindlesmarkt.</p>
+                                            </a>
+                </article>
+            </div>
+        </section>
+        </div>
+        	  	          		          		          			          												<div class="content-wrapper">
+	  		<section class="modul__more-infoBB modul__more-infoBB--triple">
+	  				  				<div class="modul__more-infoBB_header">	  				
+	  					<h4>Entdecken Sie den Christkindlesmarkt</h4>
+          			</div>
+	  				  			<div class="modul__more-infoBB_content">
+              								<a class="modul__more-infoBB_item" href="/ihr-besuch/touren/tour-1-nurnberger-originale-auf-dem-christkindlesmarkt-1.6925225">
+		        			        		                                                    <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.14471362:1730803749/Erlebniswege_(c)kristofgoettling%20(1).png?f=2%3A1&h=299&m=FIT&w=590&$p$f$h$m$w=b7d9726, https://images.nordbayern.de/image/contentid/policy:1.14471362:1730803749/Erlebniswege_(c)kristofgoettling%20(1).png?f=2%3A1&h=598&m=FIT&w=1180&$p$f$h$m$w=b7d9726 2x" media="(min-width: 62em)">
+                    <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.14471362:1730803749/Erlebniswege_(c)kristofgoettling%20(1).png?f=2%3A1&h=299&m=FIT&w=590&$p$f$h$m$w=b7d9726" alt="Tour 1: Nürnberger Originale auf dem Christkindlesmarkt" class="" title="Tour 1: Nürnberger Originale auf dem Christkindlesmarkt" data-id="114471362">
+</picture>
+                        		        					        		<div class="modul__more-infoBB_item_txt">
+			        								        		<h3>Tour 1: Nürnberger Originale auf dem Christkindlesmarkt</h3>
+					        						        						        </div>
+				       	              		</a>
+              								<a class="modul__more-infoBB_item" href="/ihr-besuch/touren/tour-2-kreative-auf-dem-christkindlesmarkt-1.6925348">
+			        			        	                                                    <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.14471376:1732703691/Erlebniswege_(c)kristofgoettling%20(2).png?f=2%3A1&h=299&m=FIT&w=590&$p$f$h$m$w=3e61a24, https://images.nordbayern.de/image/contentid/policy:1.14471376:1732703691/Erlebniswege_(c)kristofgoettling%20(2).png?f=2%3A1&h=598&m=FIT&w=1180&$p$f$h$m$w=3e61a24 2x" media="(min-width: 62em)">
+                    <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.14471376:1732703691/Erlebniswege_(c)kristofgoettling%20(2).png?f=2%3A1&h=299&m=FIT&w=590&$p$f$h$m$w=3e61a24" alt="Tour 2: Kreative auf dem Christkindlesmarkt " class="" title="Tour 2: Kreative auf dem Christkindlesmarkt " data-id="114471376">
+</picture>
+                        			        					        	<div class="modul__more-infoBB_item_txt">
+			        		 						        		<h3>Tour 2: Kreative auf dem Christkindlesmarkt </h3>
+					        						        						        </div>
+			       					        </a>
+              								<a class="modul__more-infoBB_item" href="/ihr-besuch/touren/tour-3-die-region-auf-dem-christkindlesmarkt-1.6925753">
+			        			       		                                                    <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.14471380:1730804085/Erlebniswege_(c)kristofgoettling%20(3).png?f=2%3A1&h=299&m=FIT&w=590&$p$f$h$m$w=b2f136b, https://images.nordbayern.de/image/contentid/policy:1.14471380:1730804085/Erlebniswege_(c)kristofgoettling%20(3).png?f=2%3A1&h=598&m=FIT&w=1180&$p$f$h$m$w=b2f136b 2x" media="(min-width: 62em)">
+                    <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.14471380:1730804085/Erlebniswege_(c)kristofgoettling%20(3).png?f=2%3A1&h=299&m=FIT&w=590&$p$f$h$m$w=b2f136b" alt="Tour 3: Die Region auf dem Christkindlesmarkt " class="" title="Tour 3: Die Region auf dem Christkindlesmarkt " data-id="114471380">
+</picture>
+                        		         						        	<div class="modul__more-infoBB_item_txt">
+				        							        		<h3>Tour 3: Die Region auf dem Christkindlesmarkt </h3>
+					        				        								        </div>
+				        			        </a>
+              	</div>  
+			</section>
+		</div>
+  	    	  	          		          		          			          												<div class="content-wrapper">
+	  		<section class="modul__more-infoBB modul__more-infoBB--triple">
+	  				  			<div class="modul__more-infoBB_content">
+              								<a class="modul__more-infoBB_item" href="/der-markt/erlebniswege/tour-4-fur-einen-guten-zweck-auf-dem-christkindlesmarkt-1.13749011">
+		        			        		                                                    <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.14471496:1730807591/Erlebniswege_(c)timoreichhart%20(4).png?f=2%3A1&h=299&m=FIT&w=590&$p$f$h$m$w=a324cf9, https://images.nordbayern.de/image/contentid/policy:1.14471496:1730807591/Erlebniswege_(c)timoreichhart%20(4).png?f=2%3A1&h=598&m=FIT&w=1180&$p$f$h$m$w=a324cf9 2x" media="(min-width: 62em)">
+                    <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.14471496:1730807591/Erlebniswege_(c)timoreichhart%20(4).png?f=2%3A1&h=299&m=FIT&w=590&$p$f$h$m$w=a324cf9" alt="Tour 4: Für einen guten Zweck auf dem Christkindlesmarkt" class="" title="Tour 4: Für einen guten Zweck auf dem Christkindlesmarkt" data-id="114471496">
+</picture>
+                        		        					        		<div class="modul__more-infoBB_item_txt">
+			        								        		<h3>Tour 4: Für einen guten Zweck auf dem Christkindlesmarkt</h3>
+					        						        						        </div>
+				       	              		</a>
+              								<a class="modul__more-infoBB_item" href="/der-markt/erlebniswege/tour-5-lizenzprodukte-auf-dem-christkindlesmarkt-1.12715739">
+			        			        	                                                    <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.14471384:1762255072/Erlebnisweg.png?f=2%3A1&h=299&m=FIT&w=590&$p$f$h$m$w=cace716, https://images.nordbayern.de/image/contentid/policy:1.14471384:1762255072/Erlebnisweg.png?f=2%3A1&h=598&m=FIT&w=1180&$p$f$h$m$w=cace716 2x" media="(min-width: 62em)">
+                    <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.14471384:1762255072/Erlebnisweg.png?f=2%3A1&h=299&m=FIT&w=590&$p$f$h$m$w=cace716" alt="Tour 5: Lizenzprodukte auf dem Christkindlesmarkt" class="" title="Tour 5: Lizenzprodukte auf dem Christkindlesmarkt" data-id="114471384">
+</picture>
+                        			        					        	<div class="modul__more-infoBB_item_txt">
+			        		 						        		<h3>Tour 5: Lizenzprodukte auf dem Christkindlesmarkt</h3>
+					        						        						        </div>
+			       					        </a>
+              								<a class="modul__more-infoBB_item" href="/der-markt/erlebniswege/tour-6-veganes-auf-dem-christkindlesmarkt-1.14473590">
+			        			       		                                                    <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.14473629:1730975044/Erlebniswege_(c)ctz%20(6).png?f=2%3A1&h=299&m=FIT&w=590&$p$f$h$m$w=ad035aa, https://images.nordbayern.de/image/contentid/policy:1.14473629:1730975044/Erlebniswege_(c)ctz%20(6).png?f=2%3A1&h=598&m=FIT&w=1180&$p$f$h$m$w=ad035aa 2x" media="(min-width: 62em)">
+                    <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.14473629:1730975044/Erlebniswege_(c)ctz%20(6).png?f=2%3A1&h=299&m=FIT&w=590&$p$f$h$m$w=ad035aa" alt="Tour 6: Veganes auf dem Christkindlesmarkt" class="" title="Tour 6: Veganes auf dem Christkindlesmarkt" data-id="114473629">
+</picture>
+                        		         						        	<div class="modul__more-infoBB_item_txt">
+				        							        		<h3>Tour 6: Veganes auf dem Christkindlesmarkt</h3>
+					        				        								        </div>
+				        			        </a>
+              	</div>  
+			</section>
+		</div>
+  	    	  	    							<div class="content-wrapper">
+	<form class="modul__budensuche" method="POST" action="/der-markt/haendlersuche#search-results" id="budenSearchForm">
+		<input type="hidden" name="offset" value=""/>
+        <input type="hidden" name="hideModules" value="1"/>
+	  	<h4 class="h4-intro">Händler-Suche</h4>
+	  	<div class="modul__budensuche--header">
+	    	<div class="modul__budensuche--feld">
+	      		<label class="h3">Was:</label>
+	      		<input placeholder="Ihr Suchbegriff" value="" name="what" aria-label="Ihr Suchbegriff">
+	    	</div>
+							<div class="modul__budensuche--feld">
+					<label class="h3">Standort:</label>
+					<div class="select-wrapper">
+						<select name="standort" id="standort">
+							<option value="Alle">Alle</option>
+																								<option value="Hauptmarkt">Hauptmarkt</option>
+																																<option value="Kinderweihnacht">Kinderweihnacht</option>
+																																<option value="Markt der Partnerstädte">Markt der Partnerstädte</option>
+																																<option value="Original Regional">Original Regional</option>
+																																<option value="An der Fleischbrücke">An der Fleischbrücke</option>
+																					</select>
+					</div>
+				</div>
+					</div>
+	  	<h4 class="h4-intro">Kategorien</h4>
+	  	<div class="modul__budensuche--auswahl">
+	    	<div class="modul__budensuche--auswahl--punkte">
+	            		            <div>
+		                <input type="checkbox" id="prop_chk_1" name="prop_chk_1" value="prop_chk_1" >
+	                    <label for="prop_chk_1">
+	                        <span>Bio-Produkte im Sortiment</span>
+	                    </label>
+		            </div>
+	            		            <div>
+		                <input type="checkbox" id="prop_chk_2" name="prop_chk_2" value="prop_chk_2" >
+	                    <label for="prop_chk_2">
+	                        <span>Essen</span>
+	                    </label>
+		            </div>
+	            		            <div>
+		                <input type="checkbox" id="prop_chk_3" name="prop_chk_3" value="prop_chk_3" >
+	                    <label for="prop_chk_3">
+	                        <span>Vegetarisch / Vegan</span>
+	                    </label>
+		            </div>
+	            		            <div>
+		                <input type="checkbox" id="prop_chk_4" name="prop_chk_4" value="prop_chk_4" >
+	                    <label for="prop_chk_4">
+	                        <span>Getränke</span>
+	                    </label>
+		            </div>
+	            		            <div>
+		                <input type="checkbox" id="prop_chk_5" name="prop_chk_5" value="prop_chk_5" >
+	                    <label for="prop_chk_5">
+	                        <span>Glas / Kerzen / Keramik</span>
+	                    </label>
+		            </div>
+	            		            <div>
+		                <input type="checkbox" id="prop_chk_6" name="prop_chk_6" value="prop_chk_6" >
+	                    <label for="prop_chk_6">
+	                        <span>Kinder / Spielwaren</span>
+	                    </label>
+		            </div>
+	            		            <div>
+		                <input type="checkbox" id="prop_chk_7" name="prop_chk_7" value="prop_chk_7" >
+	                    <label for="prop_chk_7">
+	                        <span>Krippen</span>
+	                    </label>
+		            </div>
+	            		            <div>
+		                <input type="checkbox" id="prop_chk_8" name="prop_chk_8" value="prop_chk_8" >
+	                    <label for="prop_chk_8">
+	                        <span>Online-Shop</span>
+	                    </label>
+		            </div>
+	            		            <div>
+		                <input type="checkbox" id="prop_chk_9" name="prop_chk_9" value="prop_chk_9" >
+	                    <label for="prop_chk_9">
+	                        <span>Papeterie</span>
+	                    </label>
+		            </div>
+	            		            <div>
+		                <input type="checkbox" id="prop_chk_10" name="prop_chk_10" value="prop_chk_10" >
+	                    <label for="prop_chk_10">
+	                        <span>Schmuck / Textil / Kosmetik</span>
+	                    </label>
+		            </div>
+	            		            <div>
+		                <input type="checkbox" id="prop_chk_11" name="prop_chk_11" value="prop_chk_11" >
+	                    <label for="prop_chk_11">
+	                        <span>Weihnachtsdekoration</span>
+	                    </label>
+		            </div>
+	            		            <div>
+		                <input type="checkbox" id="prop_chk_12" name="prop_chk_12" value="prop_chk_12" >
+	                    <label for="prop_chk_12">
+	                        <span>Zwetschgenmännchen</span>
+	                    </label>
+		            </div>
+	                		</div>
+  		</div>
+	  	<div class="modul__budensuche--auswahl--suche">
+	    	<input class="button" type="submit" value="Suchen" id="search-button">
+	    					<div id="search-results"></div>
+			      	</div>
+	</form>
+</div>
+	<div class="content-wrapper">
+		<section class="modul__budeninfo">
+	  		<section class="modul__budeninfo--wrapper">
+	  					    		<article>
+		    			<a href="/fuer-kinder/kinderweihnacht/grauberger-frankischer-imbiss-1.2393247" aria-label="Grauberger - Fränkischer Imbiss">
+                                                                                              <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.3315309:1498419479/Kinderweihnacht_Schmankerleck.JPG?f=4%3A3&h=210&m=FIT&w=280&$p$f$h$m$w=5900f73, https://images.nordbayern.de/image/contentid/policy:1.3315309:1498419479/Kinderweihnacht_Schmankerleck.JPG?f=4%3A3&h=420&m=FIT&w=560&$p$f$h$m$w=5900f73 2x" media="(min-width: 62em)">
+                                <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.3315309:1498419479/Kinderweihnacht_Schmankerleck.JPG?f=4%3A3&h=210&m=FIT&w=280&$p$f$h$m$w=5900f73" alt="Grauberger - Fränkischer Imbiss" class="article__img" title="Grauberger - Fränkischer Imbiss" data-id="13315309">
+</picture>
+                                                                                                                        <aside class="number">Nr. 23</aside>
+                            		            	</a>
+		              	<div>
+		              		<a href="/fuer-kinder/kinderweihnacht/grauberger-frankischer-imbiss-1.2393247">
+		        				<h3>Grauberger - Fränkischer Imbiss</h3>
+		        						        					<p><b>Kategorie:</b><span> Essen</span></p>
+		        						        						        					<p><b>Standort:</b><span> Kinderweihnacht</span></p>
+		        						              		</a>
+		              	</div>
+		        	</article>
+	        			    		<article>
+		    			<a href="/der-markt/budenplan/fa-strobel-ohg-susswaren-1.2510302" aria-label="Fa. Ströbel oHG - Süßwaren">
+                                                                                              <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.3315339:1498419641/Stroebel_Suesswaren.JPG?f=4%3A3&h=210&m=FIT&w=280&$p$f$h$m$w=813482b, https://images.nordbayern.de/image/contentid/policy:1.3315339:1498419641/Stroebel_Suesswaren.JPG?f=4%3A3&h=420&m=FIT&w=560&$p$f$h$m$w=813482b 2x" media="(min-width: 62em)">
+                                <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.3315339:1498419641/Stroebel_Suesswaren.JPG?f=4%3A3&h=210&m=FIT&w=280&$p$f$h$m$w=813482b" alt="Fa. Ströbel oHG - Süßwaren" class="article__img" title="Fa. Ströbel oHG - Süßwaren" data-id="13315339">
+</picture>
+                                                                                                                        <aside class="number">Nr. 32</aside>
+                            		            	</a>
+		              	<div>
+		              		<a href="/der-markt/budenplan/fa-strobel-ohg-susswaren-1.2510302">
+		        				<h3>Fa. Ströbel oHG - Süßwaren</h3>
+		        						        					<p><b>Kategorie:</b><span> Bio, Essen</span></p>
+		        						        						        					<p><b>Standort:</b><span> Kinderweihnacht</span></p>
+		        						              		</a>
+		              	</div>
+		        	</article>
+	        			    		<article>
+		    			<a href="/der-markt/budenplan/hr-kurt-hintermayer-tiffany-arbeiten-1.2510305" aria-label="Hr. Kurt Hintermayer - Tiffany-Arbeiten ">
+                                                                                              <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.3315331:1498419594/DSC_2674.JPG?f=4%3A3&h=210&m=FIT&w=280&$p$f$h$m$w=6ce78ca, https://images.nordbayern.de/image/contentid/policy:1.3315331:1498419594/DSC_2674.JPG?f=4%3A3&h=420&m=FIT&w=560&$p$f$h$m$w=6ce78ca 2x" media="(min-width: 62em)">
+                                <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.3315331:1498419594/DSC_2674.JPG?f=4%3A3&h=210&m=FIT&w=280&$p$f$h$m$w=6ce78ca" alt="Hr. Kurt Hintermayer - Tiffany-Arbeiten " class="article__img" title="Hr. Kurt Hintermayer - Tiffany-Arbeiten " data-id="13315331">
+</picture>
+                                                                                                                        <aside class="number">Nr. 30</aside>
+                            		            	</a>
+		              	<div>
+		              		<a href="/der-markt/budenplan/hr-kurt-hintermayer-tiffany-arbeiten-1.2510305">
+		        				<h3>Hr. Kurt Hintermayer - Tiffany-Arbeiten </h3>
+		        						        					<p><b>Kategorie:</b><span> Glas / Kerzen / Keramik</span></p>
+		        						        						        					<p><b>Standort:</b><span> Kinderweihnacht</span></p>
+		        						              		</a>
+		              	</div>
+		        	</article>
+	        			    		<article>
+		    			<a href="/fuer-kinder/kinderweihnacht/fa-siljanovic-und-sohn-gebackener-fisch-1.2393244" aria-label="Fa. Siljanovic und Sohn - Gebackener Fisch">
+                                                                                              <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.3315308:1498419470/Kinderweihnacht_Backfisch.JPG?f=4%3A3&h=210&m=FIT&w=280&$p$f$h$m$w=eaedfd6, https://images.nordbayern.de/image/contentid/policy:1.3315308:1498419470/Kinderweihnacht_Backfisch.JPG?f=4%3A3&h=420&m=FIT&w=560&$p$f$h$m$w=eaedfd6 2x" media="(min-width: 62em)">
+                                <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.3315308:1498419470/Kinderweihnacht_Backfisch.JPG?f=4%3A3&h=210&m=FIT&w=280&$p$f$h$m$w=eaedfd6" alt="Fa. Siljanovic und Sohn - Gebackener Fisch" class="article__img" title="Fa. Siljanovic und Sohn - Gebackener Fisch" data-id="13315308">
+</picture>
+                                                                                                                        <aside class="number">Nr. 21</aside>
+                            		            	</a>
+		              	<div>
+		              		<a href="/fuer-kinder/kinderweihnacht/fa-siljanovic-und-sohn-gebackener-fisch-1.2393244">
+		        				<h3>Fa. Siljanovic und Sohn - Gebackener Fisch</h3>
+		        						        					<p><b>Kategorie:</b><span> Essen</span></p>
+		        						        						        					<p><b>Standort:</b><span> Kinderweihnacht</span></p>
+		        						              		</a>
+		              	</div>
+		        	</article>
+	        			    		<article>
+		    			<a href="/fuer-kinder/kinderweihnacht/fa-ramona-rohr-pedrotti-frankische-kartoffeln-1.2393228" aria-label="Fa. Ramona Rohr-Pedrotti - Fränkische Kartoffeln">
+                                                                                              <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.3315303:1498419433/Kinderweihnacht_Kartoffeln.JPG?f=4%3A3&h=210&m=FIT&w=280&$p$f$h$m$w=bfb2ef9, https://images.nordbayern.de/image/contentid/policy:1.3315303:1498419433/Kinderweihnacht_Kartoffeln.JPG?f=4%3A3&h=420&m=FIT&w=560&$p$f$h$m$w=bfb2ef9 2x" media="(min-width: 62em)">
+                                <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.3315303:1498419433/Kinderweihnacht_Kartoffeln.JPG?f=4%3A3&h=210&m=FIT&w=280&$p$f$h$m$w=bfb2ef9" alt="Fa. Ramona Rohr-Pedrotti - Fränkische Kartoffeln" class="article__img" title="Fa. Ramona Rohr-Pedrotti - Fränkische Kartoffeln" data-id="13315303">
+</picture>
+                                                                                                                        <aside class="number">Nr. 16</aside>
+                            		            	</a>
+		              	<div>
+		              		<a href="/fuer-kinder/kinderweihnacht/fa-ramona-rohr-pedrotti-frankische-kartoffeln-1.2393228">
+		        				<h3>Fa. Ramona Rohr-Pedrotti - Fränkische Kartoffeln</h3>
+		        						        					<p><b>Kategorie:</b><span> Essen</span></p>
+		        						        						        					<p><b>Standort:</b><span> Kinderweihnacht</span></p>
+		        						              		</a>
+		              	</div>
+		        	</article>
+	        			    		<article>
+		    			<a href="/fuer-kinder/kinderweihnacht/beatrice-dreyer-brezen-und-baguettes-1.2393223" aria-label=" Beatrice Dreyer - Brezen und Baguettes">
+                                                                                              <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.3315279:1498419283/Kinderweihnacht_Brezen.JPG?f=4%3A3&h=210&m=FIT&w=280&$p$f$h$m$w=9fee870, https://images.nordbayern.de/image/contentid/policy:1.3315279:1498419283/Kinderweihnacht_Brezen.JPG?f=4%3A3&h=420&m=FIT&w=560&$p$f$h$m$w=9fee870 2x" media="(min-width: 62em)">
+                                <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.3315279:1498419283/Kinderweihnacht_Brezen.JPG?f=4%3A3&h=210&m=FIT&w=280&$p$f$h$m$w=9fee870" alt=" Beatrice Dreyer - Brezen und Baguettes" class="article__img" title=" Beatrice Dreyer - Brezen und Baguettes" data-id="13315279">
+</picture>
+                                                                                                                        <aside class="number">Nr. 13</aside>
+                            		            	</a>
+		              	<div>
+		              		<a href="/fuer-kinder/kinderweihnacht/beatrice-dreyer-brezen-und-baguettes-1.2393223">
+		        				<h3> Beatrice Dreyer - Brezen und Baguettes</h3>
+		        						        					<p><b>Kategorie:</b><span> Essen</span></p>
+		        						        						        					<p><b>Standort:</b><span> Kinderweihnacht</span></p>
+		        						              		</a>
+		              	</div>
+		        	</article>
+	        			    		<article>
+		    			<a href="/fuer-kinder/kinderweihnacht/fa-sandra-distel-waffeln-und-dampfnudeln-1.2393227" aria-label="Fa. Sandra Distel - Waffeln und Dampfnudeln">
+                                                                                              <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.3315302:1498419421/Kinderweihnacht_Dampfnudeln.JPG?f=4%3A3&h=210&m=FIT&w=280&$p$f$h$m$w=76b141b, https://images.nordbayern.de/image/contentid/policy:1.3315302:1498419421/Kinderweihnacht_Dampfnudeln.JPG?f=4%3A3&h=420&m=FIT&w=560&$p$f$h$m$w=76b141b 2x" media="(min-width: 62em)">
+                                <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.3315302:1498419421/Kinderweihnacht_Dampfnudeln.JPG?f=4%3A3&h=210&m=FIT&w=280&$p$f$h$m$w=76b141b" alt="Fa. Sandra Distel - Waffeln und Dampfnudeln" class="article__img" title="Fa. Sandra Distel - Waffeln und Dampfnudeln" data-id="13315302">
+</picture>
+                                                                                                                        <aside class="number">Nr. 15</aside>
+                            		            	</a>
+		              	<div>
+		              		<a href="/fuer-kinder/kinderweihnacht/fa-sandra-distel-waffeln-und-dampfnudeln-1.2393227">
+		        				<h3>Fa. Sandra Distel - Waffeln und Dampfnudeln</h3>
+		        						        					<p><b>Kategorie:</b><span> Essen</span></p>
+		        						        						        					<p><b>Standort:</b><span> Kinderweihnacht</span></p>
+		        						              		</a>
+		              	</div>
+		        	</article>
+	        			    		<article>
+		    			<a href="/fuer-kinder/kinderweihnacht/fa-johannes-braun-jr-susswaren-1.2393216" aria-label="Fa. Johannes Braun jr. - Süßwaren">
+                                                                                              <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.3315268:1498419193/Kinderweihnacht_Suesse_Huette.JPG?f=4%3A3&h=210&m=FIT&w=280&$p$f$h$m$w=fe16bdd, https://images.nordbayern.de/image/contentid/policy:1.3315268:1498419193/Kinderweihnacht_Suesse_Huette.JPG?f=4%3A3&h=420&m=FIT&w=560&$p$f$h$m$w=fe16bdd 2x" media="(min-width: 62em)">
+                                <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.3315268:1498419193/Kinderweihnacht_Suesse_Huette.JPG?f=4%3A3&h=210&m=FIT&w=280&$p$f$h$m$w=fe16bdd" alt="Fa. Johannes Braun jr. - Süßwaren" class="article__img" title="Fa. Johannes Braun jr. - Süßwaren" data-id="13315268">
+</picture>
+                                                                                                                        <aside class="number">Nr. 9</aside>
+                            		            	</a>
+		              	<div>
+		              		<a href="/fuer-kinder/kinderweihnacht/fa-johannes-braun-jr-susswaren-1.2393216">
+		        				<h3>Fa. Johannes Braun jr. - Süßwaren</h3>
+		        						        					<p><b>Kategorie:</b><span> Essen</span></p>
+		        						        						        					<p><b>Standort:</b><span> Kinderweihnacht</span></p>
+		        						              		</a>
+		              	</div>
+		        	</article>
+	        			    		<article>
+		    			<a href="/fuer-kinder/kinderweihnacht/fa-siljanovic-und-sohn-marzipanspezialitaten-1.2393246" aria-label="Fa. Siljanovic und Sohn - Marzipanspezialitäten">
+                                                                                              <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.3315582:1498420800/DSC_2886.JPG?f=4%3A3&h=210&m=FIT&w=280&$p$f$h$m$w=39912c5, https://images.nordbayern.de/image/contentid/policy:1.3315582:1498420800/DSC_2886.JPG?f=4%3A3&h=420&m=FIT&w=560&$p$f$h$m$w=39912c5 2x" media="(min-width: 62em)">
+                                <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.3315582:1498420800/DSC_2886.JPG?f=4%3A3&h=210&m=FIT&w=280&$p$f$h$m$w=39912c5" alt="Fa. Siljanovic und Sohn - Marzipanspezialitäten" class="article__img" title="Fa. Siljanovic und Sohn - Marzipanspezialitäten" data-id="13315582">
+</picture>
+                                                                                                                        <aside class="number">Nr. 22</aside>
+                            		            	</a>
+		              	<div>
+		              		<a href="/fuer-kinder/kinderweihnacht/fa-siljanovic-und-sohn-marzipanspezialitaten-1.2393246">
+		        				<h3>Fa. Siljanovic und Sohn - Marzipanspezialitäten</h3>
+		        						        					<p><b>Kategorie:</b><span> Essen</span></p>
+		        						        						        					<p><b>Standort:</b><span> Kinderweihnacht</span></p>
+		        						              		</a>
+		              	</div>
+		        	</article>
+	        		      	</section>
+	      			      	<div class="modul__pagination">
+		            <ul>
+		            	<li class="grid_7">
+			                		        					        						                		        					                  		&nbsp;
+			                		                </li>
+		                <li class="grid_26pagerMitte">
+		                											                			                  				                  		<span class="selPage">1</span>
+			                  				                			                  			          							          						          						<a href="javascript:submitFormWithOffset('budenSearchForm','1');"><span>2</span></a>
+			                  				                			                  			          							          						          						<a href="javascript:submitFormWithOffset('budenSearchForm','2');"><span>3</span></a>
+			                  				                			                  			          							          						          						<a href="javascript:submitFormWithOffset('budenSearchForm','3');"><span>4</span></a>
+			                  				                							von <a href="javascript:submitFormWithOffset('budenSearchForm','22');"><span>23</span></a>
+		                </li>
+		                <li class="grid_7">
+			              												                			                  		<a href="javascript:submitFormWithOffset('budenSearchForm','1');" title="naechste Seite" class="right"><span><i class="icon-forward"></i></span></a>
+								<a href="javascript:submitFormWithOffset('budenSearchForm','22');" title="letzte Seite" class="right"><span><i class="icon-fast-forward"></i></span></a>
+			              			                </li>
+		            </ul>
+		      	</div>
+      			    </section>
+	</div>
+				</div>
+	      	<footer class="footer-content">
+    <ul class="ckm-logo">
+        <li>
+            <a href="/">
+                <picture>
+                    <img src="/img/ckm/logo-ckm-high.png" alt="Christkindlesmarkt Logo" title="Christkindlesmarkt Logo">
+                </picture>
+            </a>
+        </li>
+    </ul>
+    <ul>
+                                    <li>
+                    <a href="https://go.nuernberg.de/7Z46KWIi" target="_blank">
+                                                                                                            <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.13350107:1687856404/Hauptf%C3%B6rderer_Lebkuchen_Schmidt_Footer_TP.png?f=16%3A9&h=80&m=FIT&w=150&$p$f$h$m$w=b24367c, https://images.nordbayern.de/image/contentid/policy:1.13350107:1687856404/Hauptf%C3%B6rderer_Lebkuchen_Schmidt_Footer_TP.png?f=16%3A9&h=160&m=FIT&w=300&$p$f$h$m$w=b24367c 2x" media="(min-width: 62em)">
+                                <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.13350107:1687856404/Hauptf%C3%B6rderer_Lebkuchen_Schmidt_Footer_TP.png?f=16%3A9&h=80&m=FIT&w=150&$p$f$h$m$w=b24367c" alt="Lebkuchen Schmidt Logo" class="" title="Lebkuchen Schmidt Logo" data-id="113350107">
+</picture>
+                                            </a>
+                </li>
+                                                        <li>
+                    <a href="http://go.nuernberg.de/d464986b" target="_blank">
+                                                                                                            <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.5145795:1506118389/ckm_maerkte.gif?f=16%3A9&h=80&m=FIT&w=150&$p$f$h$m$w=1d4e854, https://images.nordbayern.de/image/contentid/policy:1.5145795:1506118389/ckm_maerkte.gif?f=16%3A9&h=160&m=FIT&w=300&$p$f$h$m$w=1d4e854 2x" media="(min-width: 62em)">
+                                <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.5145795:1506118389/ckm_maerkte.gif?f=16%3A9&h=80&m=FIT&w=150&$p$f$h$m$w=1d4e854" alt="CKM_Ad_Maerkte" class="" title="CKM_Ad_Maerkte" data-id="15145795">
+</picture>
+                                            </a>
+                </li>
+                                                        <li>
+                    <a href="http://go.nuernberg.de/1640c69d" target="_blank">
+                                                                                                            <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.6785845:1508767967/ctz_rgb.png?f=16%3A9&h=80&m=FIT&w=150&$p$f$h$m$w=829181f, https://images.nordbayern.de/image/contentid/policy:1.6785845:1508767967/ctz_rgb.png?f=16%3A9&h=160&m=FIT&w=300&$p$f$h$m$w=829181f 2x" media="(min-width: 62em)">
+                                <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.6785845:1508767967/ctz_rgb.png?f=16%3A9&h=80&m=FIT&w=150&$p$f$h$m$w=829181f" alt="CTZ" class="" title="CTZ" data-id="16785845">
+</picture>
+                                            </a>
+                </li>
+                                                        <li>
+                    <a href="http://go.nuernberg.de/74d07c3b" target="_blank">
+                                                                                                            <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.12522177:1663161853/BackgroundEraser_20220914_150647353%20(1).png?f=16%3A9&h=80&m=FIT&w=150&$p$f$h$m$w=65eb475, https://images.nordbayern.de/image/contentid/policy:1.12522177:1663161853/BackgroundEraser_20220914_150647353%20(1).png?f=16%3A9&h=160&m=FIT&w=300&$p$f$h$m$w=65eb475 2x" media="(min-width: 62em)">
+                                <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.12522177:1663161853/BackgroundEraser_20220914_150647353%20(1).png?f=16%3A9&h=80&m=FIT&w=150&$p$f$h$m$w=65eb475" alt="Gerstacker" class="" title="Gerstacker" data-id="112522177">
+</picture>
+                                            </a>
+                </li>
+                                                        <li>
+                    <a href="https://www.tripadvisor.de/Attraction_Review-g187310-d8820187-Reviews-Nuremberg_Christmas_Market-Nuremberg_Middle_Franconia_Franconia_Bavaria.html" target="_blank">
+                                                                                                            <picture>
+                <source srcset="https://images.nordbayern.de/image/contentid/policy:1.14348023:1721132499/Tripadvisor_hintergrund_transparent.png?f=16%3A9&h=80&m=FIT&w=150&$p$f$h$m$w=73b8b34, https://images.nordbayern.de/image/contentid/policy:1.14348023:1721132499/Tripadvisor_hintergrund_transparent.png?f=16%3A9&h=160&m=FIT&w=300&$p$f$h$m$w=73b8b34 2x" media="(min-width: 62em)">
+                                <img loading="lazy" src="https://images.nordbayern.de/image/contentid/policy:1.14348023:1721132499/Tripadvisor_hintergrund_transparent.png?f=16%3A9&h=80&m=FIT&w=150&$p$f$h$m$w=73b8b34" alt="Tripadvisor ckm" class="" title="Tripadvisor ckm" data-id="114348023">
+</picture>
+                                            </a>
+                </li>
+                        </ul>
+</footer>
+  		<script type="text/javascript" src="/js/multisite/fitvids/jquery.fitvids-20.2.0.js"></script>
+<script>jQuery("#page").fitVids();</script>  		  			<aside class="footer-bottom">
+    <div class="footer-bottom--box">
+        <ul>
+            <li>
+                <a href="/kontakt" aria-label="Kontakt">Kontakt</a>
+            </li>
+            <li>
+                <a href="/impressum" aria-label="Impressum">Impressum</a>
+            </li>
+            <li>
+                                                <a href="/datenschutz" aria-label="Datenschutz">Datenschutz</a>
+            </li>
+                        <li>
+                <a href="#" onclick="__cmp('showScreenAdvanced');return false;" aria-label="Cookies & Tracking">Cookies & Tracking</a>
+            </li>
+                        <li>
+                <a href="/faq" aria-label="FAQ">FAQ</a>
+            </li>
+            <li>
+                                                <a href="/barrierefreiheit" aria-label="Barrierefreiheit">Barrierefreiheit</a>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <a href="/vnp" target="_blank">
+                    <div class="modul__nordbayern modul__nordbayern--footer"><span>powered by</span><img src="/img/ckm/vnp-logo-w.png" alt="VNP Logo"></div>
+                </a>
+            </li>
+        </ul>
+    </div>
+</aside>
+  		  	</div>
+  	<script type="text/javascript">
+	jQuery(document).ready(function() {
+		jQuery('.chocolat-parent').Chocolat();
+	});
+</script></body>
+</html>	

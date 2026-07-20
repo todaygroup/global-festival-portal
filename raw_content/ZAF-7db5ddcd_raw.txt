@@ -1,0 +1,1135 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="icon" href="https://nationalartsfestival.co.za/wp-content/themes/naf_theme/assets/images/favicon.ico">
+   <link rel="apple-touch-icon" sizes="180x180" href="https://nationalartsfestival.co.za/wp-content/themes/naf_theme/assets/images/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://nationalartsfestival.co.za/wp-content/themes/naf_theme/assets/images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://nationalartsfestival.co.za/wp-content/themes/naf_theme/assets/images/favicon-16x16.png">
+    <link rel="manifest" href="https://nationalartsfestival.co.za/wp-content/themes/naf_theme/site.webmanifest">
+
+	<link rel="pingback" href="https://nationalartsfestival.co.za/xmlrpc.php">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+	const gtm4wp_use_sku_instead = 0;
+	const gtm4wp_currency = 'ZAR';
+	const gtm4wp_product_per_impression = 0;
+	const gtm4wp_clear_ecommerce = false;
+	const gtm4wp_datalayer_max_timeout = 2000;
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO plugin v27.4 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Home 2026 - National Arts Festival</title>
+	<link rel="canonical" href="https://nationalartsfestival.co.za/" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home 2026 - National Arts Festival" />
+	<meta property="og:url" content="https://nationalartsfestival.co.za/" />
+	<meta property="og:site_name" content="National Arts Festival" />
+	<meta property="article:publisher" content="https://www.facebook.com/nationalartsfestival/" />
+	<meta property="article:modified_time" content="2026-07-01T15:44:36+00:00" />
+	<meta property="og:image" content="https://s3.af-south-1.amazonaws.com/assets.nationalartsfestival.co.za/2025/02/NAF-logo-Hands-Only-W-500-x-500.png" />
+	<meta property="og:image:width" content="501" />
+	<meta property="og:image:height" content="500" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@artsfestival" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/nationalartsfestival.co.za\/","url":"https:\/\/nationalartsfestival.co.za\/","name":"Home 2026 - National Arts Festival","isPartOf":{"@id":"https:\/\/nationalartsfestival.co.za\/#website"},"about":{"@id":"https:\/\/nationalartsfestival.co.za\/#organization"},"datePublished":"2026-05-12T11:36:29+00:00","dateModified":"2026-07-01T15:44:36+00:00","breadcrumb":{"@id":"https:\/\/nationalartsfestival.co.za\/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https:\/\/nationalartsfestival.co.za\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/nationalartsfestival.co.za\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https:\/\/nationalartsfestival.co.za\/#website","url":"https:\/\/nationalartsfestival.co.za\/","name":"National Arts Festival","description":"Africa&#039;s biggest annual celebration of the arts","publisher":{"@id":"https:\/\/nationalartsfestival.co.za\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/nationalartsfestival.co.za\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-GB"},{"@type":"Organization","@id":"https:\/\/nationalartsfestival.co.za\/#organization","name":"National Arts Festival","url":"https:\/\/nationalartsfestival.co.za\/","logo":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https:\/\/nationalartsfestival.co.za\/#\/schema\/logo\/image\/","url":"https:\/\/s3.af-south-1.amazonaws.com\/assets.nationalartsfestival.co.za\/2025\/04\/NAF-Logo-2025-13.svg","contentUrl":"https:\/\/s3.af-south-1.amazonaws.com\/assets.nationalartsfestival.co.za\/2025\/04\/NAF-Logo-2025-13.svg","width":1,"height":1,"caption":"National Arts Festival"},"image":{"@id":"https:\/\/nationalartsfestival.co.za\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/nationalartsfestival\/","https:\/\/x.com\/artsfestival","https:\/\/www.instagram.com\/nationalartsfestival\/","https:\/\/www.youtube.com\/NationalArtsFest","https:\/\/en.wikipedia.org\/wiki\/National_Arts_Festival"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//www.formstack.com' />
+<link rel="alternate" type="application/rss+xml" title="National Arts Festival &raquo; Feed" href="https://nationalartsfestival.co.za/feed/" />
+<link rel="alternate" type="application/rss+xml" title="National Arts Festival &raquo; Comments Feed" href="https://nationalartsfestival.co.za/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://nationalartsfestival.co.za/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnationalartsfestival.co.za%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://nationalartsfestival.co.za/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnationalartsfestival.co.za%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<link rel='stylesheet' id='wc-blocks-style-css' href='https://nationalartsfestival.co.za/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.5.3' type='text/css' media='all' />
+
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='categories-images-styles-css' href='https://nationalartsfestival.co.za/wp-content/plugins/categories-images/assets/css/zci-styles.css?ver=3.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='formstack-css-css' href='//www.formstack.com/forms/css/2/wordpress-post.css?ver=a371e0b809590aeb606541ab4a034c55' type='text/css' media='all' />
+<link rel='stylesheet' id='share-this-share-buttons-sticky-css' href='https://nationalartsfestival.co.za/wp-content/plugins/sharethis-share-buttons/css/mu-style.css?ver=1776373440' type='text/css' media='all' />
+<link rel='stylesheet' id='video_popup_main_style-css' href='https://nationalartsfestival.co.za/wp-content/plugins/video-popup/assets/css/videoPopup.css?ver=2.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://nationalartsfestival.co.za/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=10.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://nationalartsfestival.co.za/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=10.5.3' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://nationalartsfestival.co.za/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=10.5.3' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+/*# sourceURL=woocommerce-inline-inline-css */
+</style>
+<link rel='stylesheet' id='audioigniter-css' href='https://nationalartsfestival.co.za/wp-content/plugins/audioigniter/player/build/style.css?ver=2.0.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp_tailwind_css-css' href='https://nationalartsfestival.co.za/wp-content/themes/naf_theme/dist/main.min.css?ver=1.0.17' type='text/css' media='' />
+<link rel='stylesheet' id='vckit-css-css' href='https://nationalartsfestival.co.za/wp-content/plugins/visual-composer-kit/assets/css/vc_addons_kit.css?ver=2.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css-css' href='https://nationalartsfestival.co.za/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=8.0.1' type='text/css' media='' />
+<link rel='stylesheet' id='js_composer_front-css' href='https://nationalartsfestival.co.za/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=8.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_custom_css-css' href='//nationalartsfestival.co.za/wp-content/uploads/js_composer/custom.css?ver=8.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='s3bubble-drm-frontend-styles-css' href='https://nationalartsfestival.co.za/wp-content/plugins/drm-protected-video-streaming/dist/s3drm.min.css?ver=4.1.9' type='text/css' media='all' />
+<script type="text/javascript" id="real3d-flipbook-global-js-extra">
+/* <![CDATA[ */
+var flipbookOptions_global = {"pages":[],"pdfUrl":"","printPdfUrl":"","tableOfContent":[],"id":"","bookId":"","date":"","lightboxThumbnailUrl":"","mode":"normal","viewMode":"webgl","pageTextureSize":"3000","pageTextureSizeSmall":"1500","pageTextureSizeMobile":"","pageTextureSizeMobileSmall":"1000","rangeChunkSize":"256","minPixelRatio":"1","pdfTextLayer":"true","zoomMin":"1","zoomStep":"2","zoomSize":"","zoomReset":"false","doubleClickZoom":"true","pageDrag":"true","singlePageMode":"false","pageFlipDuration":"1","sound":"true","startPage":"1","pageNumberOffset":"0","deeplinking":{"enabled":"false","prefix":""},"responsiveView":"true","responsiveViewTreshold":"768","responsiveViewRatio":"1","minimalView":"true","minimalViewBreakpoint":"600","cover":"true","backCover":"true","scaleCover":"false","pageCaptions":"false","height":"400","responsiveHeight":"true","containerRatio":"","thumbnailsOnStart":"false","contentOnStart":"false","searchOnStart":"","searchResultsThumbs":"false","tableOfContentCloseOnClick":"true","thumbsCloseOnClick":"true","autoplayOnStart":"false","autoplayInterval":"3000","autoplayLoop":"true","autoplayStartPage":"1","rightToLeft":"false","pageWidth":"","pageHeight":"","thumbSize":"130","logoImg":"","logoUrl":"","logoUrlTarget":"","logoCSS":"position:absolute;left:0;top:0;","menuSelector":"","zIndex":"auto","preloaderText":"","googleAnalyticsTrackingCode":"","pdfBrowserViewerIfIE":"false","modeMobile":"","viewModeMobile":"","aspectMobile":"","aspectRatioMobile":"0.71","singlePageModeIfMobile":"false","logoHideOnMobile":"false","mobile":{"thumbnailsOnStart":"false","contentOnStart":"false","pagesInMemory":"6","bitmapResizeHeight":"","bitmapResizeQuality":"","currentPage":{"enabled":"false"},"pdfUrl":"","minimalViewBreakpoint":"360"},"lightboxCssClass":"","lightboxLink":"","lightboxLinkNewWindow":"true","lightboxBackground":"rgb(81, 85, 88)","lightboxBackgroundPattern":"","lightboxBackgroundImage":"","lightboxContainerCSS":"display:inline-block;padding:10px;","lightboxThumbnailHeight":"300","lightboxThumbnailUrlCSS":"display:block;","lightboxThumbnailInfo":"false","lightboxThumbnailInfoText":"","lightboxThumbnailInfoCSS":"top: 0;  width: 100%; height: 100%; font-size: 16px; color: #000; background: rgba(255,255,255,.8); ","showTitle":"false","showDate":"false","hideThumbnail":"false","lightboxText":"","lightboxTextCSS":"display:block;","lightboxTextPosition":"top","lightBoxOpened":"false","lightBoxFullscreen":"false","lightboxStartPage":"","lightboxMarginV":"0","lightboxMarginH":"0","lights":"true","lightPositionX":"0","lightPositionY":"150","lightPositionZ":"1400","lightIntensity":"0.6","shadows":"true","shadowMapSize":"2048","shadowOpacity":"0.2","shadowDistance":"15","pageHardness":"2","coverHardness":"2","pageRoughness":"1","pageMetalness":"0","pageSegmentsW":"6","pageSegmentsH":"1","pagesInMemory":"20","bitmapResizeHeight":"","bitmapResizeQuality":"","pageMiddleShadowSize":"4","pageMiddleShadowColorL":"#7F7F7F","pageMiddleShadowColorR":"#AAAAAA","antialias":"false","pan":"0","tilt":"0","rotateCameraOnMouseDrag":"true","panMax":"20","panMin":"-20","tiltMax":"0","tiltMin":"0","currentPage":{"enabled":"true","title":"Current page","hAlign":"left","vAlign":"top"},"btnAutoplay":{"enabled":"true","title":"Auto flip"},"btnNext":{"enabled":"true","title":"Next Page"},"btnLast":{"enabled":"false","title":"Last Page"},"btnPrev":{"enabled":"true","title":"Previous Page"},"btnFirst":{"enabled":"false","title":"First Page"},"btnZoomIn":{"enabled":"true","title":"Zoom in"},"btnZoomOut":{"enabled":"true","title":"Zoom out"},"btnToc":{"enabled":"true","title":"Table of Contents"},"btnThumbs":{"enabled":"true","title":"Pages"},"btnShare":{"enabled":"true","title":"Share"},"btnNotes":{"enabled":"false","title":"Notes"},"btnDownloadPages":{"enabled":"false","url":"","title":"Download pages"},"btnDownloadPdf":{"enabled":"true","url":"","title":"Download PDF","forceDownload":"true","openInNewWindow":"true"},"btnSound":{"enabled":"true","title":"Sound"},"btnExpand":{"enabled":"true","title":"Toggle fullscreen"},"btnSingle":{"enabled":"true","title":"Toggle single page"},"btnSearch":{"enabled":"false","title":"Search"},"search":{"enabled":"false","title":"Search"},"btnBookmark":{"enabled":"false","title":"Bookmark"},"btnPrint":{"enabled":"true","title":"Print"},"btnTools":{"enabled":"true","title":"More"},"btnClose":{"enabled":"true","title":"Close"},"whatsapp":{"enabled":"true"},"twitter":{"enabled":"true"},"facebook":{"enabled":"true"},"pinterest":{"enabled":"true"},"email":{"enabled":"true"},"linkedin":{"enabled":"true"},"digg":{"enabled":"false"},"reddit":{"enabled":"false"},"shareUrl":"","shareTitle":"","shareImage":"","layout":"1","icons":"FontAwesome","skin":"light","useFontAwesome5":"true","sideNavigationButtons":"true","menuNavigationButtons":"false","backgroundColor":"rgb(81, 85, 88)","backgroundPattern":"","backgroundImage":"","backgroundTransparent":"false","menuBackground":"","menuShadow":"","menuMargin":"0","menuPadding":"0","menuOverBook":"false","menuFloating":"false","menuTransparent":"false","menu2Background":"","menu2Shadow":"","menu2Margin":"0","menu2Padding":"0","menu2OverBook":"true","menu2Floating":"false","menu2Transparent":"true","skinColor":"","skinBackground":"","hideMenu":"false","menuAlignHorizontal":"center","btnColor":"","btnColorHover":"","btnBackground":"none","btnRadius":"0","btnMargin":"0","btnSize":"18","btnPaddingV":"10","btnPaddingH":"10","btnShadow":"","btnTextShadow":"","btnBorder":"","arrowColor":"#fff","arrowColorHover":"#fff","arrowBackground":"rgba(0,0,0,0)","arrowBackgroundHover":"rgba(0, 0, 0, .15)","arrowRadius":"4","arrowMargin":"4","arrowSize":"40","arrowPadding":"10","arrowTextShadow":"0px 0px 1px rgba(0, 0, 0, 1)","arrowBorder":"","closeBtnColorHover":"#FFF","closeBtnBackground":"rgba(0,0,0,.4)","closeBtnRadius":"0","closeBtnMargin":"0","closeBtnSize":"20","closeBtnPadding":"5","closeBtnTextShadow":"","closeBtnBorder":"","floatingBtnColor":"","floatingBtnColorHover":"","floatingBtnBackground":"","floatingBtnBackgroundHover":"","floatingBtnRadius":"","floatingBtnMargin":"","floatingBtnSize":"","floatingBtnPadding":"","floatingBtnShadow":"","floatingBtnTextShadow":"","floatingBtnBorder":"","currentPageMarginV":"5","currentPageMarginH":"5","arrowsAlwaysEnabledForNavigation":"true","arrowsDisabledNotFullscreen":"true","touchSwipeEnabled":"true","fitToWidth":"false","rightClickEnabled":"true","linkColor":"rgba(0, 0, 0, 0)","linkColorHover":"rgba(255, 255, 0, 1)","linkOpacity":"0.4","linkTarget":"_blank","pdfAutoLinks":"false","disableRange":"false","strings":{"print":"Print","printLeftPage":"Print left page","printRightPage":"Print right page","printCurrentPage":"Print current page","printAllPages":"Print all pages","download":"Download","downloadLeftPage":"Download left page","downloadRightPage":"Download right page","downloadCurrentPage":"Download current page","downloadAllPages":"Download all pages","bookmarks":"Bookmarks","bookmarkLeftPage":"Bookmark left page","bookmarkRightPage":"Bookmark right page","bookmarkCurrentPage":"Bookmark current page","search":"Search","findInDocument":"Find in document","pagesFoundContaining":"pages found containing","noMatches":"No matches","matchesFound":"matches found","page":"Page","matches":"matches","thumbnails":"Thumbnails","tableOfContent":"Table of Contents","share":"Share","pressEscToClose":"Press ESC to close","password":"Password","addNote":"Add note","typeInYourNote":"Type in your note..."},"access":"free","backgroundMusic":"","cornerCurl":"false","pdfTools":{"pageHeight":1500,"thumbHeight":200,"quality":0.8,"textLayer":"true","autoConvert":"true"},"slug":"","convertPDFLinks":"true","convertPDFLinksWithClass":"","convertPDFLinksWithoutClass":"","overridePDFEmbedder":"true","overrideDflip":"true","overrideWonderPDFEmbed":"true","override3DFlipBook":"true","overridePDFjsViewer":"true","resumeReading":"false","previewPages":"","previewMode":"","aspectRatio":"2"};
+//# sourceURL=real3d-flipbook-global-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.20" async id="tp-tools-js"></script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.20" async id="revmin-js"></script>
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js?ver=2.3.8#property=6364f5fbbdc1a2001308043a&amp;product=-buttons&amp;source=sharethis-share-buttons-wordpress" id="share-this-share-buttons-mu-js"></script>
+<script type="text/javascript" id="video_popup_main_modal-js-extra">
+/* <![CDATA[ */
+var theVideoPopupGeneralOptions = {"wrap_close":"false","no_cookie":"false","debug":"0"};
+//# sourceURL=video_popup_main_modal-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/video-popup/assets/js/videoPopup.js?ver=2.0.4" id="video_popup_main_modal-js"></script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/wonderplugin-lightbox/engine/wonderpluginlightbox.js?ver=11.3" id="wonderplugin-lightbox-script-js"></script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.5.3" id="wc-jquery-blockui-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_view_cart":"View basket","cart_url":"https://nationalartsfestival.co.za/my-basket/","is_cart":"","cart_redirect_after_add":"yes"};
+//# sourceURL=wc-add-to-cart-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=10.5.3" id="wc-add-to-cart-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.5.3" id="wc-js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_password_show":"Show password","i18n_password_hide":"Hide password"};
+//# sourceURL=woocommerce-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.5.3" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=8.0.1" id="vc_woocommerce-add-to-cart-js-js"></script>
+<script></script><link rel="https://api.w.org/" href="https://nationalartsfestival.co.za/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://nationalartsfestival.co.za/wp-json/wp/v2/pages/119170" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nationalartsfestival.co.za/xmlrpc.php?rsd" />
+
+<link rel='shortlink' href='https://nationalartsfestival.co.za/' />
+<style type="text/css">.ai-wrap {
+				background-color: #6d6d6d;
+			}
+
+			.ai-wrap .ai-volume-bar {
+				border-right-color: #6d6d6d			}
+
+			.ai-wrap .ai-track-btn {
+				border-left-color: #6d6d6d			}
+						.ai-control-wrap .ai-audio-control,
+			.ai-control-wrap .ai-audio-control:hover,
+			.ai-control-wrap .ai-audio-control:focus,
+			.ai-control-wrap .ai-btn.ai-btn-active,
+			.ai-wrap .ai-volume-bar.ai-volume-bar-active::before {
+			  background-color: #193f73;
+			}
+						.ai-wrap .ai-track-progress {
+			  background-color: #ffffff;
+			}</style>
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to manual -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var dataLayer_content = {"visitorLoginState":"logged-out","pagePostType":"frontpage","pagePostType2":"single-page","pagePostAuthor":"Elsabe Bester"};
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false" data-pagespeed-no-defer>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WBJGXVZ');
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 6.6.20 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://s3.af-south-1.amazonaws.com/assets.nationalartsfestival.co.za/2025/02/NAF-logo-Hands-Only-W-500-x-500-100x100.png" sizes="32x32" />
+<link rel="icon" href="https://s3.af-south-1.amazonaws.com/assets.nationalartsfestival.co.za/2025/02/NAF-logo-Hands-Only-W-500-x-500-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://s3.af-south-1.amazonaws.com/assets.nationalartsfestival.co.za/2025/02/NAF-logo-Hands-Only-W-500-x-500-300x300.png" />
+<meta name="msapplication-TileImage" content="https://s3.af-south-1.amazonaws.com/assets.nationalartsfestival.co.za/2025/02/NAF-logo-Hands-Only-W-500-x-500-300x300.png" />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+<style id="sccss">.naf-button {
+	width: 100%;
+}
+@media only screen and (min-width: 1000px) {
+html body .vc_row-fluid.columns-8 > .span_12 {
+flex-wrap: nowrap;
+}
+
+html body .vc_row-fluid.columns-8 > .span_12 > .wpb_column{
+width: calc(100% / 8);
+}
+}
+.wpb_text_column.wpb_content_element.WHITETEXT {
+	color:#fff;
+}
+.vc_tta-color-grey.vc_tta-style-classic .vc_tta-tab.vc_active > a {
+  border-color: #1e3757!important;
+  background-color: #1e3757!important;
+  color: #fff!important;
+}
+.vc_tta-color-grey.vc_tta-style-classic.vc_tta-tabs .vc_tta-panels {
+  background-color: #1e3757 !important;
+  border: 1px solid #1e3757 !important;
+}
+.vc_icon_element.vc_icon_element-outer.vc_icon_element-align-center {
+  text-align: left;
+  display: inline;
+  margin-right: 5px;
+}
+.vc_images_carousel .vc_carousel-control .icon-next:before {
+    top: 3px!important;
+}
+.vc_images_carousel .vc_carousel-control .icon-prev:before {
+    top: 3px!important;
+}
+.vc_images_carousel .vc_carousel-control .icon-next, .vc_images_carousel .vc_carousel-control .icon-prev {
+    width: 50px!important;
+    height: 50px!important;
+    margin-top: -25px!important;
+    margin-left: -25px!important;
+    font-size: 25px!important;
+}
+.vc_images_carousel .vc_carousel-control {
+    opacity: 1!important;
+text-shadow: 0 1px 2px rgba(0,0,0,0); 
+    color: white;
+}
+.vc_images_carousel .vc_carousel-control .icon-next, .vc_images_carousel .vc_carousel-control .icon-prev {
+  font-size: 45px !important;
+}
+.vc_images_carousel .vc_carousel-control .icon-next, .vc_images_carousel .vc_carousel-control .icon-prev {
+background: #17407400;
+}
+@media only screen and (max-width: 600px) {
+	.hospitalityicontext {
+	font-size: 12px!important;
+	}	}
+	.vc_row.wpb_row.vc_inner.vc_row-fluid.hospitalityicons div.wpb_column.vc_column_container.vc_col-sm-2 div.vc_column-inner {
+	padding-left: 0px!important;
+padding-right: 0px;
+}
+.vc_icon_element {
+  margin-bottom: 15px;
+}
+.hospitality.article p {
+		margin-top: 0.2rem!important;
+	}
+.hospitality {
+	color: #fff!important;
+}	
+.hospitalityicontext {
+	font-size: 17px;
+		color: #fff!important;
+	font-family: Oswald,Bebas Neue,Open Sans Condensed,sans-serif;
+}
+.hospitality p {
+  margin-bottom: 0px !important;
+			margin-top: 0.2rem!important;
+}
+.hospitalityname {
+	text-transform: uppercase;
+font-size: 2.25rem;
+	color: #fff!important;
+	font-family: Oswald,Bebas Neue,Open Sans Condensed,sans-serif;
+}	
+.ai-wrap {
+  padding: 0;
+}
+.ai-wrap .ai-track-inline-play-btn:first-child {
+  margin-top: -4px;
+}
+.ai-wrap .ai-track {
+  background-color: #1a3f74;
+}
+.ai-wrap .ai-track:hover {
+  background-color: #e81e26;
+}
+
+.text-naf-red-500
+.main-content label {
+  font-size: 1rem!important;
+}
+#mc_embed_signup .mc-field-group {
+  padding-bottom: 2%!important;
+}
+#mc_embed_signup {
+  font: 16px Helvetica,Arial,sans-serif!important;
+}
+#mc_embed_signup .mc-field-group.input-group label {
+  margin-left: 15px;
+}
+#mc_embed_signup .button:hover {
+	background-color: #6d6d6d!important;
+} 
+#mc_embed_signup .button {
+  background-color: #174074!important;
+	padding: 1rem 4rem!important;
+	font-family: Oswald,Bebas Neue,Open Sans Condensed,sans-serif!important;
+	height: 60px!important;
+	border-radius: 0 !important;
+	font-size: 1.125rem!important;
+	line-height: 27px!important;
+} 
+
+button.wc-donation-f-submit-donation {
+  display: inline-block;
+  background-color: #6d6d6d;
+  padding: 1rem 4rem;
+  text-transform: uppercase;
+  font-family: Oswald,Bebas Neue,Open Sans Condensed,sans-serif;
+  color: #fff;
+  text-align: center;
+  font-size: 1.125rem;
+  -webkit-transition-property: all;
+  transition-property: all;
+  -webkit-transition-duration: .15s;
+  transition-duration: .15s;
+  -webkit-transition-timing-function: cubic-bezier(.4,0,.2,1);
+  transition-timing-function: cubic-bezier(.4,0,.2,1);
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+	margin-top: 20px;
+} 
+button.wc-donation-f-submit-donation:hover {
+	background-color: #6d6d6d!important;
+}
+.price-wrapper.before::before {
+  height: 50px;
+}
+@media only screen and (max-width: 600px) {
+	 .mobilehide {
+		 display: none;
+	 }
+	 .show h1 {
+    line-height: 3rem;
+}
+.section-title-small {
+    font-size: 2.875rem;
+	 }}
+.pillar {
+max-width: 900px;
+}
+.nothing {
+max-width: 900px;
+}
+.print {
+max-width: 650px;
+}
+.page-id-64517 .article h2 {
+	font-weight: 900!important;
+	font-family: Oswald,Bebas Neue,Open Sans Condensed,sans-serif!important;
+}
+.page-id-64517 .section-title {
+    font-size: 98px;
+		font-weight: 900!important;
+	line-height: 30px;
+}
+.page-id-64517 .article h3 {
+    font-size: 2rem;
+    font-family: Oswald,Bebas Neue,Open Sans Condensed,sans-serif !important;
+    font-weight: 900;
+    color: #193f73;
+	margin-bottom: 25px;
+}
+.page-id-64517 .article h4 {
+    font-size: 1.5rem;
+    font-family: Oswald,Bebas Neue,Open Sans Condensed,sans-serif !important;
+    font-weight: 400;
+    color: #193f73;
+}
+.page-id-42503 .hero-title {
+    font-family: Oswald,Bebas Neue,Open Sans Condensed,sans-serif !important;
+    font-weight: 900;
+}
+.page-id-42503 .section-title {
+    font-size: 2rem;
+    font-family: Oswald,Bebas Neue,Open Sans Condensed,sans-serif !important;
+    font-weight: 900;
+    color: #193f73;
+	margin-bottom: 25px;
+	line-height: 2rem;
+}
+.page-id-42503 .section-title-small {
+font-weight: 900;
+font-size: 60px;
+}
+.experiencecolorsquares{
+  transition: transform .5s ease;}
+.experiencecolorsquares:hover {
+   transform: scale(1.1); 
+}
+.experiencecolorsquares1:hover {
+    transform: scale(1.1); 
+}
+.dateheaders h3 {
+	    font-size: 2rem;
+    line-height: 2rem;
+}
+.blockheaders h2 {
+    font-size: 2.6rem;
+    line-height: 2.6rem;
+    padding-top: 13px;
+}
+.locationbullets {
+	font-size: 20px;
+color: #193f73;
+}
+.liveicon {
+	width: 60px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.onlineicon {
+	width: 60px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.article .locationbullets ul {
+	    line-height: 3.2rem;
+}
+.fas.fas.fa-map-marker-alt {
+	margin-right:15px;
+	    color: #c9102d;
+}
+.innerbulletrow {
+	margin-top: -38px;
+}
+@media only screen and (max-width: 600px) {
+.innerbulletrow {
+	margin-top: 0;
+}
+}
+.article .onlinebullets ul {
+    margin-bottom: 0rem!important;
+}
+.naf-button p {
+    margin-bottom: 10px !important;
+    margin-top: 10px!important;
+}
+.body {
+	color: 454545;
+}
+.page-content strong {
+    color: #454545;
+}
+.fas.fa-circle   {
+	font-size: 9px;
+margin-top: 7px;
+}
+.full-width {
+	width: 100%;
+}
+.marroonbutton {
+	background-color: #6D1533!important;
+}
+.inkybluebutton {
+	background-color: #0C2544!important;
+}
+.bluebutton {
+	background-color: #174074!important;
+}
+.page-id-64490  p {
+	margin-bottom: 0!important;
+}
+.page-id-64484  p {
+	margin-bottom: 0!important;
+}
+.page-id-60986  p {
+	margin-bottom: 0!important;
+}
+.post-56300 .grid-cols-2 {
+    grid-template-columns: auto;
+}
+.post-56300 .woocommerce-product-gallery__image  {
+    margin-bottom: 23px!important;
+}
+@media (min-width: 1024px){
+.nav-content .sub-menu {
+    margin-top: -8px;
+	width: 300px;
+    border: 2px solid #fff;
+	}}
+.vc_btn3.vc_btn3-style-custom {
+	    font-family: Helvetica Neue Condensed,Open Sans Condensed,sans-serif;
+    text-transform: uppercase;
+font-size: 18px!important
+}
+.page-id-44905 .py-24 {
+    padding-top: 0!important;
+}
+.page-id-44905 .py-12 {
+    padding-top: 0!important;
+}
+.page-id-44905 .px-4 .py-12 {
+padding-top:0;
+}
+.vc_btn3.vc_btn3-shape-rounded {
+    border-radius: 0;
+    font-family: Helvetica Neue Condensed,Open Sans Condensed,sans-serif;
+    text-transform: uppercase;
+    background-color: #d4001c !important;
+    padding-top: 10px !important;
+padding-bottom: 10px !important;
+padding-left: 16px;
+padding-right: 16px;
+}
+.vc_gitem_row .vc_gitem-col {
+    box-sizing: border-box;
+    padding: 10px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    background-color: white !important;
+    min-height: 150px;
+}
+.vckit-btn.button--size-s {
+    font-size: 12px;
+    line-height: 11px;
+}
+.vckit-btn {
+    min-width: 100px;
+}
+.vckit-btn.button--text-upper {
+    letter-spacing: 1px;
+}
+.readmoreletter {
+	font-family: Helvetica Neue Condensed,Open Sans Condensed,sans-serif;
+}
+p {
+	margin-bottom:18px!important;
+}
+.contacthero {
+    position: relative;
+    background: linear-gradient(172.34deg,#193f73,#10233e);
+    overflow-x: hidden;
+}
+.woocommerce ul.products li.product a img {
+	border: 1px solid #bdbdbd;
+}
+.woocommerce a.button {
+	background-color: #d4001c;
+	background-color: rgba(212,0,28,var(--bg-opacity));
+}
+
+.woocommerce-message::before {
+	color: rgba(212,0,28,var(--bg-opacity));
+}
+
+.woocommerce-message {
+	border-top-color: #193f73;
+}
+.amount {
+	text-align: left;
+}
+.woocommerce ul.products li.product .price {
+	color: #193f73;
+	font-weight: 700;
+}
+.woocommerce-Price-amount, .woocommerce div.product .stock {
+	color: #193f73;
+}
+
+.wpb_content_element,
+ul.wpb_thumbnails-fluid>li {
+ margin-bottom:0
+   ;
+}
+.page-id-40212 .fusion-footer {
+	display:none;
+	opacity: 0;
+}
+.page-id-40984 .page-title {
+	display: none;
+}
+.page-id-40212 .fusion-header-wrapper {
+	display:none;
+	opacity: 0;
+}
+.page-id-40168 .fusion-footer {
+	display:none;
+	opacity: 0;
+}
+.page-id-40168 .fusion-header-wrapper {
+	display:none;
+	opacity: 0;
+}
+.page-id-40208 .fusion-footer {
+	display:none;
+	opacity: 0;
+}
+.page-id-40208 .fusion-header-wrapper {
+	display:none;
+	opacity: 0;
+}
+.fusion-secondary-header {
+	text-transform: uppercase;
+	    font-family: "Oswald", sans-serif;
+    font-weight: 400;
+}
+.fusion-main-menu {
+	text-transform: uppercase;
+}
+.fusion-secondary-menu > ul > li > a:hover {
+    color: #fff;
+    background-color: #661221;
+}
+.fusion-secondary-menu > ul > li > a {
+	padding: 0 25px;
+}
+.fusion-footer-widget-area .widget-title {
+	color: #193f74;
+	font-weight: 700;
+}
+.fusion-footer-widget-area {
+    color: #8C8989;
+}
+.fusion-footer-widget-area a {
+    color: #193f74;
+}
+#main .post h2 a {
+	font-size: 18px;
+text-transform: uppercase;
+	line-height: 22px;
+}
+.fusion-image-wrapper .fusion-rollover .fusion-rollover-content .fusion-rollover-title {
+	text-transform: uppercase;
+}
+.page-id-32448.layout-wide-mode #main {
+	padding: 0!important;
+}
+.fusion-footer footer .fusion-row .fusion-columns {
+font-size: 13px;
+line-height: 22px;
+}
+.fusion-footer-widget-area ul {
+	font-size: 13px;
+line-height: 22px;
+}
+#wrapper #main .post h2 {
+	line-height: 22px !important;
+}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+  <!-- <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet"> -->
+  <!-- <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=PT+Sans:wght@400;700&family=Oswald:wght@300;400;500;700&display=swap" rel="stylesheet"> -->
+  <script>var naf_site_url = "https://nationalartsfestival.co.za"</script>
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://nationalartsfestival.co.za/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.20' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+/*# sourceURL=rs-plugin-settings-inline-css */
+</style>
+
+</head>
+
+<body class="home wp-singular page-template page-template-template-no-title page-template-template-no-title-php page page-id-119170 wp-theme-naf_theme theme-naf_theme woocommerce-no-js front-page min-h-screen font-body flex flex-col wpb-js-composer js-comp-ver-8.0.1 vc_responsive" itemscope itemtype="https://schema.org/WebPage">
+  
+<!-- GTM Container placement set to manual -->
+<!-- Google Tag Manager (noscript) -->
+				<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WBJGXVZ" height="0" width="0" style="display:none;visibility:hidden" aria-hidden="true"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->  <header id="header" class="naf-header fixed top-0 left-0 w-screen z-50 px-6 bg-white text-white lg:text-naf-red-500 font-display" role="banner">
+<!--     <div class="px-4 bg-naf-pink-500 text-right">
+      <div class="container  mx-auto px-4 md:py-2 text-white font-black">20 June - 30 June 2024</div>
+    </div> -->
+
+    <div class="container mx-auto flex items-center h-24  px-4 ">
+      
+<div class="whitespace-nowrap">
+<a class="block md:inline-block hover:text-blue-500 align-middle" href="/" aria-label="Back to home">
+  <img src="https://nationalartsfestival.co.za/wp-content/themes/naf_theme/assets/images/logo-2025.png" width="204" height="50" class="" alt="National Arts Festival" />
+</a>
+
+</div>
+<div id="nav" class="nav relative flex-grow flex items-center justify-end md:justify-center">
+  <nav class="nav-content absolute md:right-0 lg:top-0 lg:relative bg-white lg:bg-transparent px-10 lg:p-0 shadow-lg lg:shadow-none w-screen lg:w-auto"><ul id="menu-main-2022" class="menu lg:flex lg:gap-6 items-center py-6 lg:py-0"><li id="menu-item-74730" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74730"><a href="https://nationalartsfestival.co.za/about/about-us/">About</a></li>
+<li id="menu-item-87189" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87189"><a href="http://help.nationalartsfestival.co.za/">FAQs</a></li>
+<li id="menu-item-100021" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100021"><a href="https://tickets.nationalartsfestival.co.za/en/login">Log In</a></li>
+</ul></nav>
+  <span class="nav-content-toggle inline-block text-white bg-naf-yellow-500 rounded-xl p-2 ml-4 lg:hidden">
+    <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24"><path d="M24 6h-24v-4h24v4zm0 4h-24v4h24v-4zm0 8h-24v4h24v-4z"/></svg>
+  </span>
+</div>
+    </div>
+  </header>
+  <div class="nav block relative w-full bg-naf-blue-750 font-display">
+
+  </div>
+  </div>
+  	<main class="main-content flex-grow">
+  <section class="px-4">
+    <div class="container mx-auto relative">
+      <div class="mb-8">
+        <article class="post-119170 page type-page status-publish hentry" itemscope itemtype="https://schema.org/CreativeWork">
+	<div class="article">
+		<div class="wpb-content-wrapper"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+			<!-- START Home 2026 REVOLUTION SLIDER 6.6.20 --><p class="rs-p-wp-fix"></p>
+			<rs-module-wrap id="rev_slider_46_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
+				<rs-module id="rev_slider_46_1" style="" data-version="6.6.20">
+					<rs-slides style="overflow: hidden; position: absolute;">
+						<rs-slide style="position: absolute;" data-key="rs-160" data-title="Slide" data-in="o:0;" data-out="a:false;">
+							<img fetchpriority="high" decoding="async" src="//nationalartsfestival.co.za/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="Hero" width="1280" height="700" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//s3.af-south-1.amazonaws.com/assets.nationalartsfestival.co.za/2026/05/Hero.png" data-bg="p:center bottom;" data-no-retina>
+<!--
+							--><rs-group
+								id="slider-46-slide-160-layer-4" 
+								data-type="group"
+								data-rsp_ch="on"
+								data-xy="x:c;y:m;yo:-50px,-50px,-31px,-19px;"
+								data-text="w:normal;s:20,20,12,7;l:0,0,15,9;"
+								data-dim="w:100%;h:414px,414px,259px,159px;"
+								data-column="a:middle;"
+								data-frame_0="o:1;"
+								data-frame_999="o:0;st:w;sA:9000;"
+								style="z-index:6;"
+							><!--
+								--><rs-layer
+									id="slider-46-slide-160-layer-1" 
+									data-type="text"
+									data-color="#fdb614"
+									data-rsp_ch="on"
+									data-xy="x:c;y:m;yo:50px,50px,48px,29px;"
+									data-pos="a"
+									data-text="w:normal;s:96,96,60,37;l:96,96,60,37;ls:-4px,-4px,-2px,-1px;fw:800;a:center;"
+									data-frame_999="o:0;st:w;"
+									style="z-index:9;font-family:'Montserrat';"
+								>Create New Worlds 
+								</rs-layer><!--
+
+								--><rs-layer
+									id="slider-46-slide-160-layer-0" 
+									data-type="text"
+									data-rsp_ch="on"
+									data-xy="x:c;y:m;yo:-30px,-30px,-2px,-1px;"
+									data-pos="a"
+									data-text="w:normal;s:96,96,60,37;l:96,96,60,37;ls:-4px,-4px,-2px,-1px;fw:800;a:center;"
+									data-frame_999="o:0;st:w;"
+									style="z-index:8;font-family:'Montserrat';"
+								>Come Together 
+								</rs-layer><!--
+
+								--><rs-layer
+									id="slider-46-slide-160-layer-2" 
+									data-type="text"
+									data-rsp_ch="on"
+									data-xy="x:c;y:m;yo:-85px,-85px,-46px,-28px;"
+									data-pos="a"
+									data-text="w:normal;s:14;l:25,25,15,9;fw:700;a:center;"
+									data-frame_999="o:0;st:w;"
+									style="z-index:7;font-family:'Montserrat';text-transform:uppercase;"
+								>25 June – 5 July 2026 
+								</rs-layer><!--
+
+								--><rs-layer
+									id="slider-46-slide-160-layer-3" 
+									data-type="text"
+									data-rsp_ch="on"
+									data-xy="x:c;y:m;yo:120px,120px,113px,69px;"
+									data-pos="a"
+									data-text="w:normal;s:14;l:25,25,15,9;ls:1px,1px,0px,0px;fw:700;a:center;"
+									data-frame_999="o:0;st:w;"
+									style="z-index:6;font-family:'Montserrat';text-transform:uppercase;"
+								>Makhanda, Eastern Cape<br />
+ 
+								</rs-layer><!--
+							--></rs-group><!--
+
+							--><rs-group
+								id="slider-46-slide-160-layer-6" 
+								data-type="group"
+								data-rsp_ch="on"
+								data-xy="x:c;y:m;yo:140px,140px,155px,150px;"
+								data-pos="a"
+								data-text="w:normal;s:20,20,12,7;l:0,0,15,9;"
+								data-dim="w:444px,444px,412px,254px;h:58px,58px,58px,125px;"
+								data-frame_0="o:1;"
+								data-frame_999="o:0;st:w;sA:9000;"
+								style="z-index:7;"
+							><!--
+								--><a
+									id="slider-46-slide-160-layer-7" 
+									class="rs-layer rev-btn"
+									href="https://tickets.nationalartsfestival.co.za/" target="_self"
+									data-type="button"
+									data-color="#000000"
+									data-rsp_ch="on"
+									data-xy="x:l,l,l,c;"
+									data-pos="a"
+									data-text="w:normal;s:14,14,14,15;l:48;ls:1px,1px,0px,0px;fw:700;"
+									data-dim="minh:0px,0px,none,none;"
+									data-padding="r:30;l:30;"
+									data-border="bos:solid;boc:#fdb614;bow:1px,1px,1px,1px;bor:8px,8px,8px,8px;"
+									data-frame_999="o:0;st:w;"
+									data-frame_hover="c:#000;bgc:#fff;boc:#fff;bor:8px,8px,8px,8px;bos:solid;bow:1px,1px,1px,1px;sp:100;e:power1.inOut;bri:120%;"
+									style="z-index:7;background-color:#fdb614;font-family:'Open Sans';text-transform:uppercase;"
+								>BOOK TICKETS 
+								</a><!--
+
+								--><a
+									id="slider-46-slide-160-layer-5" 
+									class="rs-layer rev-btn"
+									href="book tickets- tickets.naf url Discover programme - https://nationalartsfestival.co.za/news/an-a-z-of-the-national-arts-festival/" target="_self"
+									data-type="button"
+									data-rsp_ch="on"
+									data-xy="x:r,r,r,c;yo:0,0,0,65px;"
+									data-pos="a"
+									data-text="w:normal;s:14;l:48;ls:1px,1px,0px,0px;fw:700;"
+									data-dim="minh:0px,0px,none,none;"
+									data-padding="r:30;l:30;"
+									data-border="bos:solid;boc:#ffffff;bow:1px,1px,1px,1px;bor:8px,8px,8px,8px;"
+									data-frame_999="o:0;st:w;"
+									data-frame_hover="c:#000;bgc:#fff;boc:#fff;bor:8px,8px,8px,8px;bos:solid;bow:1px,1px,1px,1px;sp:100;e:power1.inOut;bri:120%;"
+									style="z-index:6;font-family:'Open Sans';text-transform:uppercase;"
+								>DISCOVER PROGRAMME 
+								</a><!--
+							--></rs-group><!--
+-->						</rs-slide>
+					</rs-slides>
+				</rs-module>
+				<script>
+					setREVStartSize({c: 'rev_slider_46_1',rl:[1240,1240,778,480],el:[700,700,700,700],gw:[1240,1240,778,480],gh:[700,700,700,700],type:'hero',justify:'',layout:'fullwidth',mh:"0"});if (window.RS_MODULES!==undefined && window.RS_MODULES.modules!==undefined && window.RS_MODULES.modules["revslider461"]!==undefined) {window.RS_MODULES.modules["revslider461"].once = false;window.revapi46 = undefined;if (window.RS_MODULES.checkMinimal!==undefined) window.RS_MODULES.checkMinimal()}
+				</script>
+			</rs-module-wrap>
+			<!-- END REVOLUTION SLIDER -->
+<div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_column-gap-25"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<h6><span style="color: #9ca3af;">THE FESTIVAL</span></h6>
+
+		</div>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<h2>The National Arts Festival is South Africa’s most diverse arts festival; the country’s premier platform for artistic innovation and cultural collaboration.</h2>
+
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div style="display:flex;place-content:flex-start;text-align:flex-start;"><a href="https://nationalartsfestival.co.za/about/timeline/" class="naf-arrow-button block" style="width:auto;height:auto;display:flex;align-items:center;place-content:center;" target="_blank" >VIEW HISTORY</a></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img decoding="async" width="2560" height="1707" src="https://s3.af-south-1.amazonaws.com/assets.nationalartsfestival.co.za/2026/07/NAF2026-VillageGreenLife-VictoriaGirlsHighSchool-28062026-Send-MW001-scaled.jpg" class="vc_single_image-img attachment-full" alt="" title="NATIONAL ARTS FESTIVAL 2026!" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<h3>Plan Your Visit</h3>
+<p>Every year, a small Eastern Cape town becomes the beating heart of African arts. Discover what to expect, where to stay, and how to make the most of your time in Makhanda.</p>
+
+		</div>
+	</div>
+<div style="display:flex;place-content:flex-start;text-align:flex-start;"><a href="https://nationalartsfestival.co.za/about/experience-the-festival/" class="naf-arrow-button block" style="width:auto;height:auto;display:flex;align-items:center;place-content:center;" target="_blank" >LEARN MORE</a></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_left wpb_content_element">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img decoding="async" width="2560" height="1707" src="https://s3.af-south-1.amazonaws.com/assets.nationalartsfestival.co.za/2026/07/NAF2025-NAFPressBriefing-26062025-Send-MW007-scaled.jpg" class="vc_single_image-img attachment-full" alt="" title="Chairperson of the National Arts Festival" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element" >
+		<div class="wpb_wrapper">
+			<h3>Chairperson&#8217;s Welcome</h3>
+<p>A very warm welcome to the 52nd edition of the National Arts Festival. As Makhanda opens its arms to artists and audiences from around the globe, we are affirmed by the resilience of the arts.</p>
+
+		</div>
+	</div>
+<div style="display:flex;place-content:flex-start;text-align:flex-start;"><a href="https://s3.af-south-1.amazonaws.com/assets.nationalartsfestival.co.za/2026/07/Qvgr3Yvx-20260701_NAF_Festival-Guide_Chairpersons-Note-JPG.jpg" class="naf-arrow-button block" style="width:auto;height:auto;display:flex;align-items:center;place-content:center;" target="_blank" >READ MORE</a></div><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div>
+	<div  class="wpb_single_image wpb_content_element vc_align_center wpb_content_element">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<a href="http://nationalartsfestival.co.za/sbya/sbya-2026" target="_self" class="vc_single_image-wrapper   vc_box_border_grey"><img loading="lazy" decoding="async" width="1054" height="348" src="https://s3.af-south-1.amazonaws.com/assets.nationalartsfestival.co.za/2026/05/SBYA.png" class="vc_single_image-img attachment-full" alt="" title="SBYA" /></a>
+		</figure>
+	</div>
+<div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div></div></div></div></div>
+</div>	</div>
+</article>
+      </div>
+    </div>
+  </section>
+    
+<section class="text-center mb-8" role="banner">
+  <div class="pt-8 flex flex-wrap gap-10 content-center justify-center items-center mx-auto max-w-6xl">
+    <img data-src="https://nationalartsfestival.co.za/wp-content/themes/naf_theme/assets/images/footer-3.png" class="lozad mb-8" alt="Province of Eastern Cape Republic of South Africa" /><br/>
+    <img data-src="https://nationalartsfestival.co.za/wp-content/themes/naf_theme/assets/images/footer-4.png" class="lozad mb-8" alt="Standard Bank" /><br/>
+  </div>
+  <div class="flex flex-wrap gap-10 content-center justify-center items-center mx-auto max-w-6xl">
+    <img data-src="https://nationalartsfestival.co.za/wp-content/themes/naf_theme/assets/images/footer-6b.png" class="lozad mb-8" alt="Sarah Baartman District Municipality" /><br/>
+    <img data-src="https://nationalartsfestival.co.za/wp-content/themes/naf_theme/assets/images/footer-7.png" class="lozad mb-8" alt="Province of Eastern Cape Sport, Recreation, Arts and Culture" /><br/>
+    <img data-src="https://nationalartsfestival.co.za/wp-content/themes/naf_theme/assets/images/footer-8.png" class="lozad mb-8" alt="National Lotteries Commission" /><br/>
+  </div>
+  <div class="pt-8 flex flex-wrap gap-10 content-center justify-center items-center mx-auto max-w-6xl">
+    <a href="https://visiteasterncape.co.za/winter-campaign/" target="_blank"><img data-src="https://nationalartsfestival.co.za/wp-content/themes/naf_theme/assets/images/footer-sa.png" class="lozad mb-4" alt="Sponsors" /></a>
+  </div>
+</section>		</main>
+
+    <footer class="main-footer text-white bg-black relative" role="contentinfo"
+    style="background: black url('https://nationalartsfestival.co.za/wp-content/themes/naf_theme/assets/images/bg-footer.jpg') no-repeat center right; background-size: cover">
+    <div class="absolute w-full h-full" style="background: #000000;background: linear-gradient(0deg,rgba(0, 0, 0, 1) 50%, rgba(255, 255, 255, 0) 100%);
+">
+
+      <div class="text-center pt-20">
+        <img class="mx-auto " src="https://nationalartsfestival.co.za/wp-content/themes/naf_theme/assets/images/footer-icon.png" alt="National Arts Festival Hands" width="65" height="51">
+      </div>
+      <nav class="text-white pt-6 uppercase text-center tracking-widest"><ul id="menu-main-2023" class="menu md:flex md:gap-8 justify-center items-center py-6 lg:py-0 text-sm text-center tracking-widest no-underline"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74730"><a href="https://nationalartsfestival.co.za/about/about-us/">About</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87189"><a href="http://help.nationalartsfestival.co.za/">FAQs</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100021"><a href="https://tickets.nationalartsfestival.co.za/en/login">Log In</a></li>
+</ul></nav>      <section class=" container mx-auto md:flex md:flex-wrap ">
+                <div class=" md:w-1/2 pb-4 text-center md:text-right">
+          <h2 class="font-black text-2xl uppercase tracking-tight leading-none mb-4">Contact us</h2>
+          <p class="">Call centre: 0860 002 004<br/>
+          Email:&nbsp;<a href="mailto:info@nationalartsfestival.co.za" class="font-normal no-underline" target="_blank" >info@nationalartsfestival.co.za</a></p>
+                    <div class="naf-social-container text-center md:text-right">
+
+            <a class="naf-social bg-primary hover:bg-white text-black hover:text-black duration-150" href="https://instagram.com/nationalartsfestival" target="_blank" title="Instagram">
+              <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+            </a>
+            <a class="naf-social bg-primary hover:bg-white text-black hover:text-black duration-150" href="https://www.facebook.com/nationalartsfestival" target="_blank" title="Facebook">
+              <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>
+            </a>
+
+            <a class="naf-social bg-primary hover:bg-white text-black hover:text-black duration-150" href="https://www.youtube.com/user/NationalArtsFest" target="_blank" title="Youtube">
+              <svg class="fill-current" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg>
+            </a>
+            <a class="naf-social bg-primary hover:bg-white text-black hover:text-black duration-150" href="https://twitter.com/artsfestival" target="_blank" title="Twitter">
+             <svg class="fill-current" width="20" height="20" viewBox="0 0 23 22" xmlns="http://www.w3.org/2000/svg"><path d="M23 22L14.0055 9.17799L14.0209 9.19001L22.1307 0H19.4206L12.8141 7.48L7.56779 0H0.460197L8.85739 11.971L8.85638 11.97L0 22H2.71009L10.055 13.678L15.8924 22H23ZM6.49398 1.99999L19.1138 20H16.9662L4.33617 1.99999H6.49398Z" /></svg>
+
+            </a>
+          </div>
+        </div>
+        <div class="md:pl-12 md:w-1/2 lg:w-2/5 pb-4 ">
+          <div class="widget">
+            <h2 class="font-black text-center md:text-left text-2xl uppercase tracking-tight leading-none">Stay in the know.<br/>
+            Subscribe to our <br>Newsletter.</h2>
+            <p class="pt-6 text-center md:text-left" ><a href="https://nationalartsfestival.co.za/subscribe-to-our-newsletter/" class="naf-button primary" style="width:170px" >Subscribe</a></p>
+          </div>
+            
+        </div>
+      </section>
+      <section class="px-4 pt-16 pb-4 ">
+        <div class="container mx-auto text-center text-xs md:text-xs leading-5">
+            <a href="https://nationalartsfestival.co.za/terms-conditions/" class="text-naf-yellow-500 hover:text-white font-normal no-underline"> Terms &amp; Conditions</a> <span class=" text-naf-yellow-500">|</span> <a href="https://nationalartsfestival.co.za/privacy-policy/" class="text-naf-yellow-500 hover:text-white font-normal no-underline">Privacy Policy</a><br/>
+            Copyright 2026 &copy; National Arts Festival <span class="hidden md:inline">|</span> <span class="block md:inline">All Rights Reserved</span>
+            <!-- Site built and maintained by <a href="https://devlabs.co.za" target="_blank">DevLabs</a> -->
+        </div>
+      </section>
+      </div>
+  </div>
+    </footer>
+    
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = false;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/naf_theme/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+	<script>
+		$(document).ready(function(){
+			$(".html5lightbox").click(function(){
+				setTimeout(function(){
+					$("#html5-lightbox-box iframe").contents().find("#download, #print").remove();
+					$("#html5-lightbox-box iframe").contents().find("#viewer").append('<style type="text/css" media="print">* { display: none; }</style>');
+				},1000);
+			});
+		});
+	</script>
+	<div id="wonderpluginlightbox_options" data-skinsfoldername="skins/default/"  data-jsfolder="https://nationalartsfestival.co.za/wp-content/plugins/wonderplugin-lightbox/engine/" data-autoslide="false" data-showall="false" data-slideinterval="5000" data-showtimer="true" data-timerposition="bottom" data-timerheight="2" data-timercolor="#dc572e" data-timeropacity="1" data-navarrowspos="inside" data-closepos="outside" data-enteranimation="" data-exitanimation="" data-showplaybutton="false" data-alwaysshownavarrows="false" data-bordersize="8" data-showtitleprefix="false" data-responsive="true" data-fullscreenmode="false" data-fullscreentextoutside="true" data-closeonoverlay="true" data-videohidecontrols="false" data-mutevideo="false" data-nativehtml5controls="false" data-enableclick="false" data-enablespacekey="false" data-initvimeo="true" data-inityoutube="true" data-titlestyle="bottom" data-imagepercentage="75" data-enabletouchswipe="true" data-supportdynamiccontent="false" data-autoplay="true" data-html5player="true" data-overlaybgcolor="#000" data-overlayopacity="0.8" data-defaultvideovolume="1" data-bgcolor="#FFF" data-borderradius="0" data-thumbwidth="96" data-thumbheight="72" data-thumbtopmargin="12" data-thumbbottommargin="12" data-barheight="64" data-showtitle="true" data-titleprefix="%NUM / %TOTAL" data-titlebottomcss="color:#333; font-size:14px; font-family:Armata,sans-serif,Arial; overflow:hidden; text-align:left;" data-showdescription="true" data-descriptionbottomcss="color:#333; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;" data-titleinsidecss="color:#fff; font-size:16px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left;" data-descriptioninsidecss="color:#fff; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;" data-titleoutsidecss="color:#fff; font-size:18px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:center; margin: 8px;" data-descriptionoutsidecss="color:#fff; font-size:14px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:center; margin:8px; padding: 0px;" data-videobgcolor="#000" data-html5videoposter="" data-responsivebarheight="false" data-smallscreenheight="415" data-barheightonsmallheight="64" data-notkeepratioonsmallheight="false" data-showsocial="false" data-socialposition="position:absolute;top:100%;right:0;" data-socialpositionsmallscreen="position:absolute;top:100%;right:0;left:0;" data-socialdirection="horizontal" data-socialbuttonsize="32" data-socialbuttonfontsize="18" data-socialrotateeffect="true" data-showemail="false" data-showfacebook="true" data-showtwitter="true" data-showpinterest="true" data-showdownload="false" data-showcopylink="false" data-showlinkedin="false" data-showcopymedialink="false" data-bordertopmargin="48" data-shownavigation="true" data-navbgcolor="rgba(0,0,0,0.2)" data-shownavcontrol="true" data-hidenavdefault="false" data-hidenavigationonmobile="false" data-hidenavigationonipad="false" data-ga4account="" data-googleanalyticsaccount="" data-videoplaystyle="circled" data-videoiconbg="#333" data-videoiconcolor="#fff" data-videoicondisabledcolor="#aaa" data-videobarbuffercolor="#444" data-videobaractivecolor="#fcc500" data-videobarcolor="#666" data-videoplaysize="64" data-videoplayfontsize="32" data-videoplayradius="32" data-videoplayopacity="0.8" data-videoplaytimeout="1500" data-videocontroltimeout="3000" data-videohidetotaltimewidth="320" data-videohidecurrtimewidth="240" data-videohidecontrolbar="false" data-videohideplaybutton="false" style="display:none;"></div><div class="wonderplugin-engine"><a href="http://www.wonderplugin.com/wordpress-lightbox/" title="WordPress Lightbox">WordPress Lightbox</a></div><script>window.WonderLightboxOptions = {skinsfoldername:"skins/default/",jsfolder:"https://nationalartsfestival.co.za/wp-content/plugins/wonderplugin-lightbox/engine/"};</script><link href="https://fonts.googleapis.com/css?family=Montserrat:800%2C700%7CRoboto:400%7COpen+Sans:700&display=swap" rel="stylesheet" property="stylesheet" media="all" type="text/css" >
+
+	<script type='text/javascript'>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script>
+		if(typeof revslider_showDoubleJqueryError === "undefined") {function revslider_showDoubleJqueryError(sliderID) {console.log("You have some jquery.js library include that comes after the Slider Revolution files js inclusion.");console.log("To fix this, you can:");console.log("1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on");console.log("2. Find the double jQuery.js inclusion and remove it");return "Double Included jQuery Library";}}
+</script>
+<script type="text/javascript" id="real3d-flipbook-forntend-js-extra">
+/* <![CDATA[ */
+var r3d_frontend = {"rootFolder":"https://nationalartsfestival.co.za/wp-content/plugins/real3d-flipbook-lite/","version":"4.19.2"};
+//# sourceURL=real3d-flipbook-forntend-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/real3d-flipbook-lite/js/frontend.js?ver=4.19.2" id="real3d-flipbook-forntend-js"></script>
+<script type="text/javascript" id="s3bubble-drm-frontend-scripts-js-extra">
+/* <![CDATA[ */
+var s3bubble_drm_frontend_scripts = {"ajax":"https://nationalartsfestival.co.za/wp-admin/admin-ajax.php","nonce":"cd0d8dfee3","options":{"s3bubble_api_url":"https://s3bubbleapi.com","s3bubble_block_attempt":"on","s3bubble_woo_advert_product":"","s3bubble_player_themes":"clean","s3bubble_drm_logged":"on"},"logging_url":"https://nationalartsfestival.co.za/naflogin/?redirect_to=https%3A%2F%2Fnationalartsfestival.co.za%2F","logo":"https://nationalartsfestival.co.za/wp-content/plugins/drm-protected-video-streaming/dist/images/powered.png","language":{"no_code":"ERROR: Code is a required option","no_div":"ERROR: Please make sure your html div has a unique id element","old_plugin_title":"VERY IMPORTANT!","old_plugin_description":"You have another S3Bubble plugin installed please remove it, the DRM plugin will not work with this plugin. You should be using one plugin called (AWS Protected DRM Video Streaming).","force_login_title":"Login Required","force_login_description":"Please login to view this video.","blocked_title":"Blocked","blocked_description":"You have tried to remove the watermark! User blocked contact admin.","console_open_title":"Error","console_open_description":"This video will not play with devtools open user logged! Please close devtools to enjoy our content.","login_para":"If you already own this video please log in.","error":"Information","error_message":"This media is not ready yet.","error_message_live":"Live Stream Will Start In.","error_message_start":"Click To Start Stream","error_code":"Code","purchased":"Purchased","login":"Login","drm_error":"You're browser does not have the features required to play this media","audio":"Audio","subtitles":"Subtitles/CC","quality":"Quality","speed":"Speed","loading":"Loading...","back":"Back","captions_off":"Captions Off","default_audio":"Default Audio","settings":"Settings"},"player_lang":{"locale":"en","Play":"Play","Pause":"Pause","Replay":"Replay","Fullscreen":"Fullscreen","Non-Fullscreen":"Exit Fullscreen","Mute":"Mute","Unmute":"Unmute","Playback Rate":"Playback Rate","Subtitles":"Subtitles","subtitles off":"subtitles off","Captions":"Captions","captions off":"captions off","Chapters":"Chapters","Descriptions":"Descriptions","descriptions off":"descriptions off","Audio Track":"Audio Track","Volume Level":"Volume Level","You aborted the media playback":"You aborted the media playback","A network error caused the media download to fail part-way.":"A network error caused the media download to fail part-way.","The media could not be loaded, either because the server or network failed or because the format is not supported.":"The media could not be loaded, either because the server or network failed or because the format is not supported.","The media playback was aborted due to a corruption problem or because the media used features your browser did not support.":"The media playback was aborted due to a corruption problem or because the media used features your browser did not support.","No compatible source was found for this media.":"No compatible source was found for this media.","The media is encrypted and we do not have the keys to decrypt it.":"The media is encrypted and we do not have the keys to decrypt it.","Play Video":"Play Video","captions settings":"captions settings","subtitles settings":"subtitles settings","descriptions settings":"descriptions settings","Text":"Text","White":"White","Black":"Black","Red":"Red","Green":"Green","Blue":"Blue","Yellow":"Yellow","Magenta":"Magenta","Cyan":"Cyan","Background":"Background","Window":"Window","Transparent":"Transparent","Semi-Transparent":"Semi-Transparent","Opaque":"Opaque","Font Size":"Font Size","Text Edge Style":"Text Edge Style","None":"None","Raised":"Raised","Depressed":"Depressed","Uniform":"Uniform","Dropshadow":"Dropshadow","Font Family":"Font Family","Proportional Sans-Serif":"Proportional Sans-Serif","Monospace Sans-Serif":"Monospace Sans-Serif","Proportional Serif":"Proportional Serif","Monospace Serif":"Monospace Serif","Casual":"Casual","Script":"Script","Small Caps":"Small Caps","Reset":"Reset","restore all settings to the default values":"restore all settings to the default values","Done":"Done","Caption Settings Dialog":"Caption Settings Dialog","Beginning of dialog window. Escape will cancel and close the window.":"Beginning of dialog window. Escape will cancel and close the window.","End of dialog window.":"End of dialog window.","Picture-in-Picture":"Picture in Picture","Open Chromecast menu":"Chromecast"}};
+//# sourceURL=s3bubble-drm-frontend-scripts-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/drm-protected-video-streaming/dist/s3drm.min.js?ver=4.1.9" id="s3bubble-drm-frontend-scripts-js"></script>
+<script type="text/javascript" id="audioigniter-js-extra">
+/* <![CDATA[ */
+var aiStrings = {"play_title":"Play %s","pause_title":"Pause %s","previous":"Previous track","next":"Next track","toggle_list_repeat":"Toggle track listing repeat","toggle_track_repeat":"Toggle track repeat","toggle_list_visible":"Toggle track listing visibility","buy_track":"Buy this track","download_track":"Download this track","volume_up":"Volume Up","volume_down":"Volume Down","open_track_lyrics":"Open track lyrics","set_playback_rate":"Set playback rate","skip_forward":"Skip forward","skip_backward":"Skip backward","shuffle":"Shuffle"};
+var aiStats = {"enabled":"","apiUrl":"https://nationalartsfestival.co.za/wp-json/audioigniter/v1"};
+var ai_pro_front_scripts = {"multi_sound_disabled":"1","typography_disabled":""};
+//# sourceURL=audioigniter-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/audioigniter/player/build/app.js?ver=2.0.2" id="audioigniter-js"></script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-ecommerce-generic.js?ver=1.22.3" id="gtm4wp-ecommerce-generic-js"></script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/duracelltomi-google-tag-manager/dist/js/gtm4wp-woocommerce.js?ver=1.22.3" id="gtm4wp-woocommerce-js"></script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/themes/naf_theme/dist/main.min.js?ver=1.0.17" id="wp_tailwind_js-js"></script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/js_composer/assets/lib/vc/vc_waypoints/vc-waypoints.min.js?ver=8.0.1" id="vc_waypoints-js"></script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/visual-composer-kit/assets/js/lib.js?ver=2.0.7" id="vckit-libjs-js"></script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/visual-composer-kit/assets/js/shortcode.js?ver=2.0.7" id="vckit-js-js"></script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=10.5.3" id="sourcebuster-js-js"></script>
+<script type="text/javascript" id="wc-order-attribution-js-extra">
+/* <![CDATA[ */
+var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"base64":false,"ajaxurl":"https://nationalartsfestival.co.za/wp-admin/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+//# sourceURL=wc-order-attribution-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=10.5.3" id="wc-order-attribution-js"></script>
+<script type="text/javascript" src="https://nationalartsfestival.co.za/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=8.0.1" id="wpb_composer_front_js-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://nationalartsfestival.co.za/wp-includes/js/wp-emoji-release.min.js?ver=a371e0b809590aeb606541ab4a034c55"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://nationalartsfestival.co.za/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+<script></script><script id="rs-initialisation-scripts">
+		var	tpj = jQuery;
+
+		var	revapi46;
+
+		if(window.RS_MODULES === undefined) window.RS_MODULES = {};
+		if(RS_MODULES.modules === undefined) RS_MODULES.modules = {};
+		RS_MODULES.modules["revslider461"] = {once: RS_MODULES.modules["revslider461"]!==undefined ? RS_MODULES.modules["revslider461"].once : undefined, init:function() {
+			window.revapi46 = window.revapi46===undefined || window.revapi46===null || window.revapi46.length===0  ? document.getElementById("rev_slider_46_1") : window.revapi46;
+			if(window.revapi46 === null || window.revapi46 === undefined || window.revapi46.length==0) { window.revapi46initTry = window.revapi46initTry ===undefined ? 0 : window.revapi46initTry+1; if (window.revapi46initTry<20) requestAnimationFrame(function() {RS_MODULES.modules["revslider461"].init()}); return;}
+			window.revapi46 = jQuery(window.revapi46);
+			if(window.revapi46.revolution==undefined){ revslider_showDoubleJqueryError("rev_slider_46_1"); return;}
+			revapi46.revolutionInit({
+					revapi:"revapi46",
+					sliderType:"hero",
+					DPR:"dpr",
+					sliderLayout:"fullwidth",
+					visibilityLevels:"1240,1240,778,480",
+					gridwidth:"1240,1240,778,480",
+					gridheight:"700,700,700,700",
+					lazyType:"smart",
+					perspective:600,
+					perspectiveType:"global",
+					editorheight:"700,768,700,700",
+					responsiveLevels:"1240,1240,778,480",
+					progressBar:{disableProgressBar:true},
+					navigation: {
+						onHoverStop:false
+					},
+					viewPort: {
+						global:true,
+						globalDist:"-200px",
+						enable:false
+					},
+					fallbacks: {
+						allowHTML5AutoPlayOnAndroid:true
+					},
+			});
+			
+		}} // End of RevInitScript
+
+		if (window.RS_MODULES.checkMinimal!==undefined) { window.RS_MODULES.checkMinimal();};
+	</script>
+<script type="text/javascript">var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || {widgetcode: "5a33941ca951b65c6fed90ad1ab5048863488a4330da9df3bf11fd11ef428354ece8c19892a70d750a43fc98f32bf757", values:{},ready:function(){}};var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;s.src="https://salesiq.zoho.com/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);"<div id='zsiqwidget'></div>"</script>
+	</body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/?utm_source=w3tc&utm_medium=footer_comment&utm_campaign=free_plugin
+
+
+Served from: nationalartsfestival.co.za @ 2026-07-16 01:59:29 by W3 Total Cache
+-->

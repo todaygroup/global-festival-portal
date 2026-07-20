@@ -1,40 +1,38 @@
 {
   "identity": {
-    "festival_id": "DE-aaef48a3",
-    "name_en": "Q204803",
-    "name_local": "Q204803",
-    "country": "Germany",
-    "city": "Unknown",
-    "category": "Festival"
+    "name_local": "Zinkh\u00fctte Velau",
+    "name_en": "Unknown Festival",
+    "category": "Festival",
+    "coordinates": {
+      "latitude": 50.7894,
+      "longitude": 6.22485
+    },
+    "address": null
   },
-  "schedule": {
-    "start_date": "Unknown",
-    "end_date": "Unknown",
-    "frequency": "Annual",
-    "season": "Unknown"
+  "temporal": {
+    "start_date": null,
+    "end_date": null,
+    "frequency": null,
+    "detailed_schedule": null
+  },
+  "experience": {
+    "deep_description": null,
+    "highlights": [],
+    "local_tips": [],
+    "points_of_interest": []
   },
   "logistics": {
-    "location": {
-      "address": "See official website",
-      "coordinates": {
-        "lat": 50.7894,
-        "lon": 6.22485
-      }
-    },
-    "access": "Public transportation"
+    "official_url": null,
+    "ticket_info": null,
+    "transport": null,
+    "accommodation_tips": null
   },
   "multimedia": {
-    "official_url": "N/A",
-    "images": [],
-    "videos": []
-  },
-  "resources": {
-    "tickets": "Check official website",
-    "guide_url": "N/A"
+    "official_images": [],
+    "official_videos": []
   },
   "verification": {
-    "source": "Wikidata",
-    "last_updated": "2026-07-14",
-    "status": "verified"
+    "source_url": null,
+    "update_date": "2026-07-16"
   }
 }

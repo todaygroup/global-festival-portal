@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	**************************************************
+	Beratung/Realisation durch www.taywa.ch (2019)
+	Kontakt:  https://www.taywa.ch / info@taywa.ch  / tel. +41 (0)43 205 29 40
+	Gestaltung: 
+	**************************************************
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2026 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+<title>Bachfest 2026 - bachfest.ch</title>
+<meta name="generator" content="TYPO3 CMS" />
+<meta name="twitter:card" content="summary" />
+
+
+<link rel="stylesheet" type="text/css" href="//cdn.plyr.io/3.6.12/plyr.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.bachfest.ch/typo3temp/assets/compressed/merged-3253db21b04098575581f947024b3071-a8c501ce8c91820ea39cb5cffe67dadc.css?1697786263" media="all">
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" type="text/javascript"></script>
+<script src="//cdn.plyr.io/3.6.12/plyr.js" type="text/javascript"></script>
+<script src="https://www.bachfest.ch/typo3temp/assets/compressed/merged-4275bf5a3a2509e13cbf832e204f77f3.js?1589202570" type="text/javascript"></script>
+
+
+<script type="opt-in" data-type="text/javascript" data-name="google-tagmanager-service-4"></script><script type="opt-in" data-type="text/javascript" data-name="google-tagmanager-service-3"></script><script type="opt-in" data-type="text/javascript" data-name="google-tagmanager-service-2"></script><script type="opt-in" data-type="text/javascript" data-name="google-tagmanager-1">
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-NMXGDP4');
+    </script>
+	
+			<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+			<meta http-equiv="x-ua-compatible" content="ie=edge"><link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
+<link rel="shortcut icon" href="/favicon/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+<meta name="apple-mobile-web-app-title" content="Bachfest" />
+<link rel="manifest" href="/favicon/site.webmanifest" />		<script  type="text/javascript">
+			var tyw = {};
+
+			// IE assign polyfill
+			if (typeof Object.assign != 'function') {
+			  // Must be writable: true, enumerable: false, configurable: true
+			  Object.defineProperty(Object, "assign", {
+			    value: function assign(target, varArgs) { // .length of function is 2
+			      'use strict';
+			      if (target == null) { // TypeError if undefined or null
+			        throw new TypeError('Cannot convert undefined or null to object');
+			      }
+
+			      var to = Object(target);
+
+			      for (var index = 1; index < arguments.length; index++) {
+			        var nextSource = arguments[index];
+
+			        if (nextSource != null) { // Skip over if undefined or null
+			          for (var nextKey in nextSource) {
+			            // Avoid bugs when hasOwnProperty is shadowed
+			            if (Object.prototype.hasOwnProperty.call(nextSource, nextKey)) {
+			              to[nextKey] = nextSource[nextKey];
+			            }
+			          }
+			        }
+			      }
+			      return to;
+			    },
+			    writable: true,
+			    configurable: true
+			  });
+			}
+
+			tyw.lightGalSettings = {
+				selector: 'a',
+				hideBarsDelay: 99999,
+				download: false,
+				getCaptionFromTitleOrAlt: false,
+				// subHtmlSelectorRelative: true,
+				youtubePlayerParams: {rel: 0,  showinfo: 0, color: 'white'}
+			};
+			tyw.copyObj = function(src){
+				return Object.assign({}, src);
+			}
+			tyw.cats = [];
+			tyw.Category = function(id, tit){
+				this.id = id;
+				this.tit =tit;
+			};
+		</script>
+<link rel="alternate" hreflang="de" href="/programm"/>
+<link rel="alternate" hreflang="en-US" href="/en/programme"/>
+<link rel="alternate" hreflang="x-default" href="/programm"/>
+
+<link rel="canonical" href="/programm"/>
+</head>
+<body id="pid10" class="be- rpid10 level1 no-subs layout0">
+
+
+<div id="page">
+	
+		<div id="head" class="pagehead row">
+			<div class="rowmax">
+				<div class="logo">
+					<a href="/"><img src="/fileadmin/Resources/Public/img/Bachfest-Logo.svg" alt="Bachfest" width="370" height="231"/></a>
+				</div>
+				
+					<nav class="langnav">
+						<ul class="nav"><li class="act"><span> DE </span></li><li><span> <a href="/en/programme">EN</a> </span></li></ul>
+					</nav>
+				
+			</div>
+			<nav class="mainnav">
+				<ul class="nav"><li class="act pid10 item1"><a href="/programm" class="act">Programm</a></li><li class="pid11 item2"><a href="/informationen/das-internationale-bachfest-schaffhausen">Informationen</a><ul class="nav"><li class="pid110 item3"><a href="/informationen/das-internationale-bachfest-schaffhausen">Die Internationalen Bachfeste Schaffhausen</a></li><li class="pid117 item4"><a href="/informationen/vorverkauf">Vorverkauf</a></li><li class="pid86 item5"><a href="/newsletter">Newsletter</a></li><li class="pid30 item6"><a href="/gutscheine">Geschenkgutscheine</a></li><li class="pid25 item7"><a href="/bachgesellschaft-schaffhausen">Internationale Bachgesellschaft</a></li><li class="pid112 item8"><a href="/sponsoren-1">Sponsoren & Partner</a></li><li class="pid26 item9"><a href="/sponsoren">Mitgliederbereich</a></li></ul></li><li class="pid13 item10"><a href="/medien">Medien</a></li><li class="pid12 item11"><a href="/kontakt">Kontakt</a></li><li class="pid14 item12"><a href="/archiv/2026">Archiv</a><ul class="nav"><li class="pid119 item13"><a href="/archiv/2026">2026</a></li><li class="pid109 item14"><a href="/archiv/2024">2024</a></li><li class="pid104 item15"><a href="/archiv/2022">2022</a></li><li class="pid41 item16"><a href="/archiv/2021-2020">2021 (2020)</a></li><li class="pid32 item17"><a href="/archiv/2018">2018</a></li><li class="pid40 item18"><a href="/archiv/2016">2016</a></li><li class="pid67 item19"><a href="/archiv/2014">2014</a></li><li class="pid68 item20"><a href="/archiv/2012">2012</a></li><li class="pid72 item21"><a href="/archiv/1946-2009">1946–2009</a></li></ul></li></ul>
+			</nav>
+			<div class="rowmax navtogglewrap">
+				<div class="navtoggle"><div class="wrap"><div class="bar n1"></div><div class="bar n2"></div><div class="bar n3"></div></div></div>
+			</div>
+		</div>
+	
+	<div id="stickyhead" class="pagehead row">
+		<div class="rowmax">
+			<div class="logo">
+				<a href="/"><img src="/fileadmin/Resources/Public/img/bachfest_logo_kreis.svg" alt="Bachfest" width="64" height="64"/></a>
+			</div>
+			
+				<nav class="langnav">
+					<ul class="nav"><li class="act"><span> DE </span></li><li><span> <a href="/en/programme">EN</a> </span></li></ul>
+				</nav>
+			
+		</div>
+
+		<nav class="mainnav">
+			<ul class="nav"><li class="act pid10 item1"><a href="/programm" class="act">Programm</a></li><li class="pid11 item2"><a href="/informationen/das-internationale-bachfest-schaffhausen">Informationen</a><ul class="nav"><li class="pid110 item3"><a href="/informationen/das-internationale-bachfest-schaffhausen">Die Internationalen Bachfeste Schaffhausen</a></li><li class="pid117 item4"><a href="/informationen/vorverkauf">Vorverkauf</a></li><li class="pid86 item5"><a href="/newsletter">Newsletter</a></li><li class="pid30 item6"><a href="/gutscheine">Geschenkgutscheine</a></li><li class="pid25 item7"><a href="/bachgesellschaft-schaffhausen">Internationale Bachgesellschaft</a></li><li class="pid112 item8"><a href="/sponsoren-1">Sponsoren & Partner</a></li><li class="pid26 item9"><a href="/sponsoren">Mitgliederbereich</a></li></ul></li><li class="pid13 item10"><a href="/medien">Medien</a></li><li class="pid12 item11"><a href="/kontakt">Kontakt</a></li><li class="pid14 item12"><a href="/archiv/2026">Archiv</a><ul class="nav"><li class="pid119 item13"><a href="/archiv/2026">2026</a></li><li class="pid109 item14"><a href="/archiv/2024">2024</a></li><li class="pid104 item15"><a href="/archiv/2022">2022</a></li><li class="pid41 item16"><a href="/archiv/2021-2020">2021 (2020)</a></li><li class="pid32 item17"><a href="/archiv/2018">2018</a></li><li class="pid40 item18"><a href="/archiv/2016">2016</a></li><li class="pid67 item19"><a href="/archiv/2014">2014</a></li><li class="pid68 item20"><a href="/archiv/2012">2012</a></li><li class="pid72 item21"><a href="/archiv/1946-2009">1946–2009</a></li></ul></li></ul>
+		</nav>
+
+		<div class="rowmax navtogglewrap">
+			<div class="navtoggle"><div class="wrap"><div class="bar n1"></div><div class="bar n2"></div><div class="bar n3"></div></div></div>
+		</div>
+
+	</div>
+
+
+
+	<div id="main" class="row">
+		
+		<div class="rowmax">
+			
+	<div id="pagetitle" class="frame frame-type-header"><header><h1>Bachfest 2026</h1></header></div>
+	
+	
+
+	<!--TYPO3SEARCH_begin-->
+
+	
+
+	<article>
+		<div id="cont" class="contbox">
+<div id="c257" class="frame frame-bluebox frame-type-html frame-layout-0 frame-layout-default"><iframe width="100%" height="490" src="https://www.youtube.com/embed/wWOU3iIYSWU?si=F5_W4JlmJUXEatIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+
+<div id="c215" class="frame frame-default frame-type-textmedia frame-layout-0 frame-layout-default"><header><h2 class="">
+				Das war das Bachfest 2026
+			</h2></header><div class="ce-textpic ce-center ce-below"><div class="ce-bodytext"><p>Mit der Aufführung von Johann Sebastian Bachs Messe h-Moll in der Stadtkirche St. Johann ging am Sonntagabend das<strong><a href="https://www.bachfest.ch/archiv/2026" target="_blank"><strong> 31. Internationale Bachfest Schaffhausen</strong></a></strong> zu Ende. Das Freiburger Barockensemble und Vox Luminis musizierten unter der Leitung von Lionel Meunier zum Abschluss des fünftägigen Festivals.<br><br> Unter dem Motto «Bach zeitlos» feierte das Internationale Bachfest Schaffhausen vom 13. bis 17. Mai 2026 sein 80-jähriges Bestehen. Rund 8'000 Besucherinnen und Besucher nahmen an den 30 Veranstaltungen in Schaffhausen und der Region teil; sechs der zwölf Festkonzerte waren ausverkauft.&nbsp;Das Festivalprogramm umfasste zwölf Festkonzerte, fünf Kantatengottesdienste, einen Musiktag in Stein am Rhein, ein Offenes Singen, Kinder- und Schulvorstellungen sowie Führungen, Kinovorstellungen und weitere Begleitveranstaltungen. Besondere Akzente setzten neue Formate an aussergewöhnlichen Spielorten. Dazu gehörten die Johannespassion mit Akrobatik im Gaswerkareal sowie die Goldberg-Trilogie des Cembalisten Jean Rondeau. Beim Offenen Singen in der Stadtkirche St. Johann wurden gemeinsam Bach-Choräle gesungen, und beim erstmals durchgeführten «Euro-Baroque Song Contest» im Stadttheater Schaffhausen kürte das Publikum die Contraltistin Monika Jagerovà zur Siegerin des Abends. Kostenlose Angebote wie der Musiktag in Stein am Rhein, der Jubiläumsfilm im VBSH-Tourbus sowie Programme für Kinder und Familien machten das Festival erneut für ein breites Publikum zugänglich.<br><br> Die Stadt Schaffhausen und die Internationale Bachgesellschaft Schaffhausen danken allen beteiligten Künstlerinnen und Künstlern, den zahlreichen Mitarbeitenden sowie den Sponsoren und Partnern für ihre Unterstützung. Ein besonderer Dank gilt dem Publikum für die grosse Resonanz und die zahlreichen positiven Rückmeldungen.<br> &nbsp;</p><h3>NACHHÖREN AUF RADIO SRF 2 KULTUR</h3><p>Das Konzert «Bach Four Pianos» des Gershwin Piano Quartets wurde von SRF 2 Kultur aufgezeichnet und wird am Sonntag, 9. August 2026, 16 Uhr, auf Radio SRF2 Kultur&nbsp;ausgestrahlt. Anschliessend ist das Konzert in der App «Play SRF» verfügbar.</p><h3>DAS 32. INTERNATIONALE BACHFEST: 24.–28. MAI 2028</h3><p>Das nächste Internationale Bachfest Schaffhausen findet am Auffahrtswochenende vom 24. bis 28. Mai 2028 statt.<br> &nbsp;</p><h3 class="text-center"><a href="/archiv/2026" class="butt_blue">BILDERGALERIE</a></h3><p>&nbsp;</p></div></div></div>
+
+
+<div id="c154" class="frame frame-default frame-type-html frame-layout-0 frame-layout-default"><a href="/newsletter" class="butt_blue" style="padding: 20px 40px 20px 20px; display: flex; justify-content: center; align-items: center; width: max-content; margin: 0 auto;"><div class="icn" style="width: 64px; height:64px; border-radius: 32px; margin-right: 20px;"><svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><g><use xlink:href="/fileadmin/Resources/Public/img/sprite.svg#mail"></use></g></svg></div><div style="">
+   Abonnieren Sie unseren Newsletter
+  </div></a></div>
+
+
+<div id="c20" class="frame frame-default frame-type-html frame-layout-0 frame-layout-default"><a href="https://www.instagram.com/bachfest_schaffhausen/" class="butt_blue" target="_blank" style="padding: 20px 40px 20px 20px; display: flex; justify-content: center; align-items: center; width: max-content; margin: 0 auto;"><div class="icn" style="width: 64px; height:64px; border-radius: 32px; margin-right: 20px;"><svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><g><use xlink:href="/fileadmin/Resources/Public/img/sprite.svg#insta"></use></g></svg></div><div style="">
+   Folgen Sie uns auf Instagram:<br>@bachfest_schaffhausen
+  </div></a></div>
+
+</div>
+	</article>
+	
+
+	<!--TYPO3SEARCH_end-->
+
+		</div>
+	</div>
+
+
+
+
+	<div id="footer" class="row">
+		<footer class="rowmax">
+			
+<div id="c2" class="frame frame-default frame-type-text frame-layout-0 frame-layout-default"><p><strong>Veranstalter</strong><br><a href="http://www.stadt-schaffhausen.ch" target="_blank">Stadt Schaffhausen</a>, in Zusammenarbeit mit der<br><a href="http://www.int-bachgesellschaft.ch/" target="_blank">Internationalen Bachgesellschaft Schaffhausen</a></p><p class="pid22 item2">Copyright © 2025 bachfest.ch<br><a href="/impressum">Impressum</a>&nbsp; <a href="/datenschutz">Datenschutz</a></p></div>
+
+
+<div id="c252" class="frame frame-default frame-type-text frame-layout-0 frame-layout-default"><p><strong>Kontakt</strong><br> Internationale Bachfeste Schaffhausen<br> c/o Kultur &amp; Theater<br> Herrenacker 23, 8200 Schaffhausen<br> Tel. +41 52 632 52 86<br><a href="javascript:linkTo_UnCryptMailto(%27pdlowr-edfkihvwCvwvk1fk%27);">bachfest<span class="spamprotection">&nbsp;</span>@<span class="spamprotection">&nbsp;</span>stsh.ch</a></p></div>
+
+
+<div id="c169" class="frame frame-default frame-type-text frame-layout-0 frame-layout-default"><p><strong>Tickets</strong><br> Stadttheater Schaffhausen<br> Herrenacker 23, 8200 Schaffhausen<br> Tel. +41 52 625 05 55<br> (Mo–Fr 16–18, Sa 10–12)<br><a href="javascript:linkTo_UnCryptMailto(%27pdlowr-edfkihvwwlfnhwvCvwvk1fk%27);">bachfesttickets<span class="spamprotection">&nbsp;</span>@<span class="spamprotection">&nbsp;</span>stsh.ch</a></p></div>
+
+<nav id="footernav"></nav>
+
+			<div id="social">
+				<a class="icn" href="/newsletter"><svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><g><use xlink:href="/fileadmin/Resources/Public/img/sprite.svg#mail"/></g></svg></a>
+				<a href="https://www.facebook.com/bachfestschaffhausen/" target="_blank" class="icn"><svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><g><use xlink:href="/fileadmin/Resources/Public/img/sprite.svg#fb"/></g></svg></a>
+				<a href="https://www.youtube.com/channel/UCCWlXQba3gWOzCNEWnz9F3w" target="_blank" class="icn"><svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><g><use xlink:href="/fileadmin/Resources/Public/img/sprite.svg#youtube"/></g></svg></a>
+				<a href="https://www.instagram.com/bachfest_schaffhausen/" target="_blank" class="icn"><svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><g><use xlink:href="/fileadmin/Resources/Public/img/sprite.svg#insta"/></g></svg></a>
+			</div>
+		</footer>
+	</div>
+
+
+</div>
+<div class="tx-we-cookie-consent">
+    
+		
+	
+</div>
+
+<script src="https://www.bachfest.ch/typo3temp/assets/compressed/merged-5ef8814d0f83ad53b5a87df3a6eb0a53.js?1761562281" type="text/javascript"></script>
+
+<script type="text/javascript" src="/typo3conf/ext/we_cookie_consent/Resources/Public/JavaScript/Controller/ConsentController.js"></script><script type="text/javascript">var klaroConfig = {"acceptAll":true,"additionalClass":"","cookieDomain":"www.bachfest.ch","cookieExpiresAfterDays":"365","default":false,"elementID":"klaro","groupByPurpose":true,"hideDeclineAll":false,"hideLearnMore":false,"htmlTexts":true,"lang":"en","mustConsent":false,"poweredBy":"www.bachfest.ch","privacyPolicy":"\/datenschutz","storageMethod":"cookie","storageName":"klaro","stylePrefix":"klaro we_cookie_consent","testing":false,"consentMode":false,"translations":{"en":{"consentModal":{"title":"Datenschutzeinstellungen","description":"Sie k\u00f6nnen nachfolgend Ihre Datenschutzeinstellungen festlegen."},"privacyPolicy":{"text":"Detaillierte Informationen und wie Sie Ihre Einwilligung jederzeit widerrufen k\u00f6nnen, finden Sie in unserer {privacyPolicy}.","name":"Datenschutzerkl\u00e4rung"},"consentNotice":{"description":"Ihre Privatsph\u00e4re ist uns wichtig. Indem Sie Cookies erlauben, helfen Sie uns dabei, unsere Reichweite genauer zu messen und unsere Online-Aktivit\u00e4ten effizienter zu gestalten. Weitere Informationen finden Sie in der \u003Ca href=\"\/datenschutz\"\u003EDatenschutzerkl\u00e4rung\u003C\/a\u003E.","changeDescription":"Seit Ihrem letzten Besuch gab es \u00c4nderungen an den Datenschutzeinstellungen. Bitte aktualisieren Sie Ihre Einstellungen.","learnMore":"Anpassen"},"contextualConsent":{"acceptOnce":"Ja","acceptAlways":"Immer","description":"M\u00f6chten Sie von {title} bereitgestellte externe Inhalte laden?"},"service":{"disableAll":{"title":"Alle akzeptieren","description":"Sie haben jederzeit das Recht Ihre Einwilligungen einzeln oder in G\u00e4nze zu widerrufen. Werden Einwilligungen zur Datenverarbeitung widerrufen, sind die bis zum Widerruf rechtm\u00e4\u00dfig erhobenen Daten vom Anbieter weiterhin verarbeitbar."},"optOut":{"title":"(Opt-Out)","description":"Diese Anwendung wird standardm\u00e4\u00dfig geladen (aber Sie k\u00f6nnen sie deaktivieren)"},"required":{"title":"(immer notwendig)","description":"Diese Anwendung wird immer ben\u00f6tigt"},"purpose":"Zweck","purposes":"Zwecke"},"purposes":{"unknown":"Nicht zugeordnet","erforderlich":{"title":"Erforderlich","description":""},"marketing":{"title":"Marketing","description":""},"leistung":{"title":"Leistung","description":""}},"ok":"Alle zulassen","save":"Einstellungen speichern","acceptAll":"Alle akzeptieren","acceptSelected":"Einstellungen speichern","decline":"Ablehnen","close":"Schlie\u00dfen","poweredBy":"Bereitgestellt von websedit"}},"services":[],"purposeOrder":["erforderlich","leistung","marketing","unknown"]}</script><script type="text/javascript">
+    klaroConfig.services.push({
+		name: 'youtube',
+		title: 'Youtube Einbettung',
+        description: 'Zur Einbettung von Videos verwenden wir YouTube und durch das Abspielen werden Daten an Google übertragen. Dies geschieht aber erst, wenn Sie den Play Button anklicken.',
+        default: false,
+        defaultIfNoConsent: true,
+        required: false,
+        optOut: false,
+        translations: {'en':{'title':'Youtube Einbettung'}}, 
+        purposes: ['erforderlich'],
+        cookies: [],
+        callback: ConsentApp.consentChanged,
+        ownCallback:'',
+        gtm:{trigger:'',variable:''}
+    });
+</script><script type="text/javascript">
+    klaroConfig.services.push({
+		name: 'google-tagmanager-service-4',
+		title: 'Facebook Pixel',
+        description: 'Social Media Cookies und Inhalte ermöglichen Ihnen die Interaktion mit unseren Social Media-Kanälen. Dies kann dazu führen, dass die angebunden Social Media Dienste Ihr Nutzungsverhalten auf dieser Webseite aufzeichnen. Um die Anmeldung über Ihr Social Media Konto nutzen zu können, muss diese Funktion aktiviert sein.',
+        default: false,
+        defaultIfNoConsent: true,
+        required: false,
+        optOut: false,
+        translations: {'en':{'title':'Facebook Pixel'}}, 
+        purposes: ['marketing'],
+        cookies: [],
+        callback: ConsentApp.consentChanged,
+        ownCallback:'',
+        gtm:{trigger:'facebook-trigger',variable:'facebook-var'}
+    });
+</script><script type="text/javascript">
+    klaroConfig.services.push({
+		name: 'google-tagmanager-service-3',
+		title: 'Google Ads-Conversion',
+        description: 'Google Ads-Conversion ist ein Marketing-Cookie, welches über unsere Website von unseren Werbepartnern gesetzt werden kann. Es kann von Google verwendet werden, um ein Profil Ihrer Interessen zu erstellen und Ihnen relevante Anzeigen auf anderen Websites zu zeigen. Sie speichern nicht direkt personenbezogene Daten, basieren jedoch auf einer einzigartigen Identifizierung Ihres Browsers und Internet-Geräts. Wenn Sie diese Cookies nicht zulassen, werden Sie weniger gezielte Werbung erleben.',
+        default: false,
+        defaultIfNoConsent: true,
+        required: false,
+        optOut: false,
+        translations: {'en':{'title':'Google Ads-Conversion'}}, 
+        purposes: ['marketing'],
+        cookies: [],
+        callback: ConsentApp.consentChanged,
+        ownCallback:'',
+        gtm:{trigger:'ads-conversion.trigger',variable:'ads-conversion-var'}
+    });
+</script><script type="text/javascript">
+    klaroConfig.services.push({
+		name: 'google-tagmanager-service-2',
+		title: 'Google Analytics',
+        description: 'Cookies von Google Analytics helfen uns die Webseite zu optimieren, indem wir Informationen über Ihre Nutzung sammeln.',
+        default: false,
+        defaultIfNoConsent: true,
+        required: false,
+        optOut: false,
+        translations: {'en':{'title':'Google Analytics'}}, 
+        purposes: ['leistung'],
+        cookies: [],
+        callback: ConsentApp.consentChanged,
+        ownCallback:'',
+        gtm:{trigger:'analytics-trigger',variable:'analytics-var'}
+    });
+</script><script type="text/javascript">
+    klaroConfig.services.push({
+		name: 'google-tagmanager-1',
+		title: 'Google Tag Manager',
+        description: 'Mit dem Tag-Management-System «Google Tag Manager» werden HTML-Tags und Scripts auf dieser Website verwaltet.',
+        default: true,
+        defaultIfNoConsent: true,
+        required: true,
+        optOut: false,
+        translations: {'en':{'title':'Google Tag Manager'}}, 
+        purposes: ['erforderlich'],
+        cookies: [],
+        callback: ConsentApp.consentChanged,
+        ownCallback:'',
+        gtm:{trigger:'',variable:''}
+    });
+</script><script type="text/javascript" src="/typo3conf/ext/we_cookie_consent/Resources/Public/Library/klaro/klaro.js"></script>
+</body>
+</html>

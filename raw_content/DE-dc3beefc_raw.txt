@@ -1,0 +1,3246 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr" prefix="og: https://ogp.me/ns#" class="h-100">
+  <head>
+    <meta charset="utf-8">
+<script data-type="text/javascript" type="text/plain" data-name="matomo">var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://stats.it-castrop-rauxel.de/" : "https://stats.it-castrop-rauxel.de/");_paq.push(["setSiteId", "3"]);_paq.push(["setTrackerUrl", u+"matomo.php"]);_paq.push(["setDoNotTrack", 1]);if (!window.matomo_search_results_active) {_paq.push(["trackPageView"]);}_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"matomo.js";s.parentNode.insertBefore(g,s);})();</script>
+<link rel="shortlink" href="http://www.castrop-rauxel.de/">
+<link rel="canonical" href="http://www.castrop-rauxel.de/">
+<meta name="Generator" content="Drupal 11 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="/themes/custom/castrop_rauxel/img/favicon-castrop-rauxel.ico" type="image/vnd.microsoft.icon">
+
+    <title>Startseite | Castrop-Rauxel</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_e8o2NCBlEOd_KGT9ygS0mZtPq5RWpTX6qXG-poFS2O8.css?delta=0&amp;language=de&amp;theme=castrop_rauxel&amp;include=eJx1j8EKwzAMQ38oa077nuC0Whrm1MFOtnZfv9IdVga7CPSEBIpoDRqwVjFM4ZZ5t-YTFiixiyLNmlK9-kiGs08skfhibeO8pHNSYEYJ5kbaidSg1Ffwb2MUhV9EC3F-wd2ZVPyhrpJS2rdm85P2Sjx8ydCX2iNnmzE5A-k4B6o5UG8ySqmMBv-HO9usoXy-PDKe5g8dikyd8QbYGWoO">
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_NuzlbokdUXL-miwCHiGNnyaDB4aVx-ytggn2nNoqx2I.css?delta=1&amp;language=de&amp;theme=castrop_rauxel&amp;include=eJx1j8EKwzAMQ38oa077nuC0Whrm1MFOtnZfv9IdVga7CPSEBIpoDRqwVjFM4ZZ5t-YTFiixiyLNmlK9-kiGs08skfhibeO8pHNSYEYJ5kbaidSg1Ffwb2MUhV9EC3F-wd2ZVPyhrpJS2rdm85P2Sjx8ydCX2iNnmzE5A-k4B6o5UG8ySqmMBv-HO9usoXy-PDKe5g8dikyd8QbYGWoO">
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_7cH7_JAtNF6SVyFU0ACF3aEa3EAcX_EShKWDENINPY8.css?delta=2&amp;language=de&amp;theme=castrop_rauxel&amp;include=eJx1j8EKwzAMQ38oa077nuC0Whrm1MFOtnZfv9IdVga7CPSEBIpoDRqwVjFM4ZZ5t-YTFiixiyLNmlK9-kiGs08skfhibeO8pHNSYEYJ5kbaidSg1Ffwb2MUhV9EC3F-wd2ZVPyhrpJS2rdm85P2Sjx8ydCX2iNnmzE5A-k4B6o5UG8ySqmMBv-HO9usoXy-PDKe5g8dikyd8QbYGWoO">
+
+    <script src="/libraries/klaro/dist/klaro-no-translations-no-css.js?thy29u" defer id="klaro-js"></script>
+
+  </head>
+  <body class="page-route-entity-node-canonical path-frontpage page-node-type-startseite   d-flex flex-column h-100">
+        <aside>
+    <div class="visually-hidden-focusable skip-link p-3 container">
+      <a href="#main-content" class="p-2">
+        Direkt zum Inhalt
+      </a>
+    </div>
+    </aside>
+    
+      <div class="dialog-off-canvas-main-canvas d-flex flex-column h-100" data-off-canvas-main-canvas>
+    
+<header>
+<div class="page-header-wrapper d-flex container">
+      <div class="view-topleisten-news-wrapper">
+      <div class="views-element-container"><div class="view view-topleisten-news view-id-topleisten_news view-display-id-block_1 js-view-dom-id-9955ee2efb961956c0581c9ed0d3f00d8532262819364a3bdcc9171bab9f7766">
+  
+    
+      <div class="view-header">
+      <div class="warnings-close"></div>
+    </div>
+      
+      <div class="view-content">
+      <div class="warnings">
+<div class="warning-row-wrapper warnings-wrapper">
+  <div class="warning-row"><div class="warnings"><div><div class="warnings-wrapper" data-tnid="11549">
+<div class="topleiste-news-beitrag col slide-item">
+    <a href="https://www.castrop-rauxel.de/freibad" class="field-group-link topleisten-news-link">
+<div class="warning">
+    
+            <div class="field field--name-field-top-news-icon field--type-entity-reference field--label-hidden field__item">
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="Wellen" src="/sites/default/files/2024-10/wellen_hoch.svg">
+</div>
+      
+
+</div>
+      
+            <div class="clearfix text-formatted field field--name-field-top-news-text field--type-text-long field--label-hidden field__item"><p>Hier geht's zum Freibad</p></div>
+      
+  </div></a>
+  </div>
+
+</div></div></div></div>
+  <div class="warning-row"><div class="warnings"><div><div class="warnings-wrapper" data-tnid="355">
+<div class="topleiste-news-beitrag col slide-item">
+    <a href="/karriere/stellenangebote" class="field-group-link topleisten-news-link">
+<div class="warning">
+    
+            <div class="field field--name-field-top-news-icon field--type-entity-reference field--label-hidden field__item">
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="Symbolbild vom Ratssaal in Castrop-Rauxel." src="/sites/default/files/2024-01/icon_ansprechpartner_stadtverwaltung.svg">
+</div>
+      
+
+</div>
+      
+            <div class="clearfix text-formatted field field--name-field-top-news-text field--type-text-long field--label-hidden field__item"><p>Jobs bei der Stadt</p></div>
+      
+  </div></a>
+  </div>
+
+</div></div></div></div>
+  <div class="warning-row"><div class="warnings"><div><div class="warnings-wrapper" data-tnid="354">
+<div class="topleiste-news-beitrag col slide-item">
+    <a href="/terminbuchung/buergerbuero" class="field-group-link topleisten-news-link">
+<div class="warning">
+    
+            <div class="field field--name-field-top-news-icon field--type-entity-reference field--label-hidden field__item">
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="&Ouml;ffnungszeiten" src="/sites/default/files/2023-03/icon_kachel-icon_oeffnungszeiten.svg">
+</div>
+      
+
+</div>
+      
+            <div class="clearfix text-formatted field field--name-field-top-news-text field--type-text-long field--label-hidden field__item"><p>Terminbuchung B&uuml;rgerb&uuml;ro</p></div>
+      
+  </div></a>
+  </div>
+
+</div></div></div></div>
+</div>
+</div>
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+    
+</div>
+<div class="hero d-flex container no-js-tag" style="background-image:url('/sites/default/files/2024-01/Rathaus%20%26%20Hallen%20014_0.jpg  ');">
+  <div class="hero-content">
+
+          <nav class="navbar navbar-hero-button-wrapper navbar-expand--xxl   ">
+        <div class="container d-flex">
+            <div class="region region-nav-branding">
+    <div class="hero-logo navbar-brand noselect">
+  <a href="http://www.castrop-rauxel.de/">
+    <img src="/themes/custom/castrop_rauxel/img/logo-castrop-rauxel.svg" alt="Home" class="img-fluid">
+
+  </a>
+</div>
+  </div>
+
+
+          <div class="hero-button-menu button-menu noselect" tabindex="0">
+            Men&uuml;
+          </div> 
+          
+      <div class="menu main-menu-top" role="navigation" aria-label="Navigation">
+  <div class="menu-content"><div class="menu-content-inner">
+
+      <div class="menu-content-top">
+        <div class="menu-quick">
+          <!-- menu-quick-left start -->
+          <div class="menu-quick-left">
+            <!-- button-icon start -->
+            <a href="/seiten-in-einfacher-sprache">
+              <div class="button-icon simple-language">Einfache Sprache</div>
+            </a>
+            <!-- button-icon end -->
+            <!-- button-icon start -->
+            <a href="/gebaerdensprache">
+              <div class="button-icon sign-language">Videos f&uuml;r Geb&auml;rdensprache</div>
+            </a>
+            <!-- button-icon end -->
+            <!-- button-icon start -->
+            <a href="#" id="eyeAble_customToolOpenerID" class="eyeable">
+              <div class="button-icon cr_bf_assistenz">Barrierefeiheits-Assistenz-System</div>
+            </a>
+            <!-- button-icon end -->
+            <!--<easy-speech></easy-speech>-->
+          </div>
+          <!-- menu-quick-left end -->
+          <!-- menu-quick-right start -->
+          <div class="menu-quick-right">
+            <!-- button-icon start -->
+            <a href="/suche">
+              <div id="button-search" class="button-icon search">Suche</div>
+            </a>
+            <!-- button-icon end -->
+            <!-- button-icon start -->
+            <div id="button-close" class="button-icon close" tabindex="0">Schlie&szlig;en</div>
+            <!-- button-icon end -->
+          </div>
+          <!-- menu-quick-right end -->
+          <!-- menu-find start -->
+          <div class="menu-find">
+            <div class="input-wrapper">
+              <input type="text" id="menu-search" name="menu-search" placeholder="Suchbegriff eingeben" autocomplete="on">
+            </div>
+          </div>
+          <!-- menu-find end -->
+        </div>
+
+                <div class="mmenu-wrapper">
+                                                                        <ul data-block="nav_main" class="navbar-nav flex-wrap menu-select nav-level-0">
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="nav-link button-menu-rounded-corners dropdown-toggle-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Service">Service</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-1">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/service/buergerservice-z" class="dropdown-item-off" data-drupal-link-system-path="node/1827">B&uuml;rgerservice A-Z</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="https://serviceportal.castrop-rauxel.de" target="_blank" title="Link &ouml;ffnet in neuem Fenster" class="dropdown-item-off">Serviceportal</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/service/buergerbuero" class="dropdown-item-off" data-drupal-link-system-path="node/1668">B&uuml;rgerb&uuml;ro</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/service/ideen-und-maengelmelder" class="dropdown-item-off" data-drupal-link-system-path="node/462">Ideen- und M&auml;ngelmelder</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/service/notdienste" class="dropdown-item-off" data-drupal-link-system-path="node/463">Notdienste</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/service/presse" class="dropdown-item-off" data-drupal-link-system-path="node/464">Presse</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="nav-link button-menu-rounded-corners dropdown-toggle-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Meine Stadt">Meine Stadt</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-1">
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Stadtinformation">Stadtinformation</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-2">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/stadtinformation/stadtinformation" class="dropdown-item-off" data-drupal-link-system-path="node/466">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Wissenswertes">Wissenswertes</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-3">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/wissenswertes/wissenswertes" class="dropdown-item-off" data-drupal-link-system-path="node/467">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/stadtgeschichte" class="dropdown-item-off" data-drupal-link-system-path="node/1638">Stadtgeschichte</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/wissenswertes/statistik" class="dropdown-item-off" data-drupal-link-system-path="node/1707">Statistik</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/wissenswertes/wappen-und-stadtname" class="dropdown-item-off" data-drupal-link-system-path="node/469">Wappen und Stadtname</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/wissenswertes/ehrenbuerger" class="dropdown-item-off" data-drupal-link-system-path="node/470">Ehrenb&uuml;rger</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/stadtinformation/castrop-rauxel-und-europa" class="dropdown-item-off" data-drupal-link-system-path="node/471">Castrop-Rauxel und Europa</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Tourismus">Tourismus</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-3">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/tourismus/tourismus" class="dropdown-item-off" data-drupal-link-system-path="node/472">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/tourismus/veranstaltungen" class="dropdown-item-off" data-drupal-link-system-path="node/1577">Veranstaltungen</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/tourismus/stadtportraet" class="dropdown-item-off" data-drupal-link-system-path="node/480">Stadtportr&auml;t</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/tourismus/sehenswertes" class="dropdown-item-off" data-drupal-link-system-path="node/475">Sehenswertes</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="https://www.geoportal.gkd-re.de/castrop-rauxel/casgeoportal/" class="dropdown-item-off">Geoportal</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/panorama-kamera-0" class="dropdown-item-off" data-drupal-link-system-path="node/1842">Panorama-Kamera</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Stadtentwicklung">Stadtentwicklung</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-2">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/stadtentwicklung" class="dropdown-item-off" data-drupal-link-system-path="node/59">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Entwicklung der Stadtteile">Entwicklung der Stadtteile</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-3">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/entwicklung-der-stadtteile/entwicklung-der-stadtteile" class="dropdown-item-off" data-drupal-link-system-path="node/1642">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/merklinde" class="dropdown-item-off" data-drupal-link-system-path="node/506">ISEK Merklinde</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/entwicklung-der-stadtteile/isek-stadtmittelpunkt" class="dropdown-item-off" data-drupal-link-system-path="node/543">ISEK Stadtmittelpunkt</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/entwicklung-der-stadtteile/spiel-und-sportpark-castroper-holz-am-hallenbad" class="dropdown-item-off" data-drupal-link-system-path="node/544">Spiel-, Sport- und Bewegungspark am Hallenbad</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/entwicklung-der-stadtteile/emscherland" class="dropdown-item-off" data-drupal-link-system-path="node/545">Emscherland</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/entwicklung-der-stadtteile/zukunftsfaehige-innenstaedte-und-ortstzentren" class="dropdown-item-off" data-drupal-link-system-path="node/1822">Zukunftsf&auml;hige Innenst&auml;dte und Ortstzentren</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Mobilit&auml;t">Mobilit&auml;t</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-3">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/mobilitaet/mobilitaet" class="dropdown-item-off" data-drupal-link-system-path="node/481">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/mobilitaet/nahmobilitaetskonzept" class="dropdown-item-off" data-drupal-link-system-path="node/482">Nahmobilit&auml;tskonzept</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/mobilitaet/mitarbeit-beim-nahverkehrsplan" class="dropdown-item-off" data-drupal-link-system-path="node/483">Mitarbeit beim Nahverkehrsplan</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/einzelhandelsentwicklung/einzelhandelsentwicklung" class="dropdown-item-off" data-drupal-link-system-path="node/485">Einzelhandelsentwicklung</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/stadtentwicklung/abgeschlossene-foerderungen" title="Abgeschlossene F&ouml;rderungen" class="dropdown-item-off" data-drupal-link-system-path="node/549">Abgeschlossene F&ouml;rderungen</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Kultur und Freizeit">Kultur und Freizeit</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-2">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/kultur-und-freizeit/kultur-und-freizeit" class="dropdown-item-off" data-drupal-link-system-path="node/523">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Veranstaltungen">Veranstaltungen</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-3">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/tourismus/veranstaltungen" class="dropdown-item-off" data-drupal-link-system-path="node/1577">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/veranstaltungskalender" class="dropdown-item-off" data-drupal-link-system-path="node/64">Veranstaltungskalender</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/kirmes" class="dropdown-item-off" data-drupal-link-system-path="node/514">Kirmes</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/veranstaltungen/wochenmaerkte" class="dropdown-item-off" data-drupal-link-system-path="node/515">Wochenm&auml;rkte</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/mittelaltermarkt" class="dropdown-item-off" data-drupal-link-system-path="node/1580">Mittelaltermarkt</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="https://www.guterstart.nrw.de/castrop-rauxel.suche" class="dropdown-item-off">Kompass</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/veranstaltungen/casterix" class="dropdown-item-off" data-drupal-link-system-path="node/520">Casterix</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/veranstaltungen/frauen" class="dropdown-item-off" data-drupal-link-system-path="node/1750">Frauen*!</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/kultur-und-freizeit/vhs-castrop-rauxel" class="dropdown-item-off" data-drupal-link-system-path="node/1895">Weiterbildung</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/kultur-und-freizeit/stadtbibliothek" class="dropdown-item-off" data-drupal-link-system-path="node/34">Stadtbibliothek</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/kultur-und-freizeit/stadtarchiv" class="dropdown-item-off" data-drupal-link-system-path="node/540">Stadtarchiv</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/buergerhaus" class="dropdown-item-off" data-drupal-link-system-path="node/530">B&uuml;rgerhaus und Kulturb&uuml;ro</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Sport und B&auml;der">Sport und B&auml;der</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-3">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/sport-und-baeder/sport-und-baeder" class="dropdown-item-off" data-drupal-link-system-path="node/531">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/sport-und-baeder/sportanlagen" class="dropdown-item-off" data-drupal-link-system-path="node/63">Sportanlagen</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/hallenbad" class="dropdown-item-off" data-drupal-link-system-path="node/459">Hallenbad</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/freibad" class="dropdown-item-off" data-drupal-link-system-path="node/511">Parkbad Nord</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/sportvereine" class="dropdown-item-off" data-drupal-link-system-path="node/533">Sportvereine</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Naherholung">Naherholung</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-3">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/naherholung/naherholung" class="dropdown-item-off" data-drupal-link-system-path="node/534">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/naherholung/radfahren" class="dropdown-item-off" data-drupal-link-system-path="node/535">Radfahren</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/naherholung/wandern" class="dropdown-item-off" data-drupal-link-system-path="node/536">Wandern</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/naherholung/europastadt-im-gruenen" class="dropdown-item-off" data-drupal-link-system-path="node/537">Europastadt im Gr&uuml;nen</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/kultur-und-freizeit/jugendzentren" class="dropdown-item-off" data-drupal-link-system-path="node/539">Jugendzentren</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Bauen und Wohnen">Bauen und Wohnen</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-2">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/bauen-und-wohnen/bauen-und-wohnen" class="dropdown-item-off" data-drupal-link-system-path="node/490">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Privates Bauen">Privates Bauen</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-3">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/privates-bauen/privates-bauen" class="dropdown-item-off" data-drupal-link-system-path="node/496">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/privates-bauen/bauantraege" class="dropdown-item-off" data-drupal-link-system-path="node/1720">Bauantr&auml;ge</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/privates-bauen/verfahrensfreies-bauen" class="dropdown-item-off" data-drupal-link-system-path="node/1723">Verfahrensfreies Bauen</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/privates-bauen/bauberatung-fuer-private-bauvorhaben" class="dropdown-item-off" data-drupal-link-system-path="node/495">Bauberatung</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/dienstleistung/baulasten" class="dropdown-item-off" data-drupal-link-system-path="node/1789">Baulasten</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/dienstleistung/hausaktenarchiv" class="dropdown-item-off" data-drupal-link-system-path="node/1836">Hausaktenarchiv</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Wohnen">Wohnen</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-3">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/wohnen/wohnen" class="dropdown-item-off" data-drupal-link-system-path="node/1765">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/dienstleistung/wohngeld" class="dropdown-item-off" data-drupal-link-system-path="node/1839">Wohngeld</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/wohnen/mietspiegel" class="dropdown-item-off" data-drupal-link-system-path="node/499">Mietspiegel</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/wohnen/wohnungsaufsicht" class="dropdown-item-off" data-drupal-link-system-path="node/1721">Wohnungsaufsicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="https://www.kreis-re.de/inhalte/buergerservice/bauen_und_grundstueck/wohnraumfoerderung/index.asp?seite=angebot&amp;id=17513" class="dropdown-item-off">Wohnungsbauf&ouml;rderung</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Stadtplanung">Stadtplanung</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-3">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/stadtplanung/stadtplanung" class="dropdown-item-off" data-drupal-link-system-path="node/491">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/stadtplanung/flaechennutzungsplan" class="dropdown-item-off" data-drupal-link-system-path="node/492">Fl&auml;chennutzungsplan</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/dienstleistung/bebauungsplan" class="dropdown-item-off" data-drupal-link-system-path="node/1797">Bebauungsplan</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="https://beteiligung.nrw.de/portal/Castrop-Rauxel/startseite" class="dropdown-item-off">Bauvorhaben mit B&uuml;rger*innenbeteiligung</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Grundst&uuml;cke">Grundst&uuml;cke</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-3">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/grundstuecke/grundstuecke" class="dropdown-item-off" data-drupal-link-system-path="node/498">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/grundstuecke/vorkaufsrechte" class="dropdown-item-off" data-drupal-link-system-path="node/503">Vorkaufsrechte</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="https://www.boris.nrw.de" class="dropdown-item-off">Bodenrichtwert</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/grundstuecke/vermittlung-grundstuecken" class="dropdown-item-off" data-drupal-link-system-path="node/504">Vermittlung st&auml;dtischer Grundst&uuml;cke</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/bauen-und-wohnen/denkmalschutz" class="dropdown-item-off" data-drupal-link-system-path="node/497">Denkmalschutz</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/bauen-und-wohnen/strassenverzeichnis" class="dropdown-item-off" data-drupal-link-system-path="node/2109">Stra&szlig;enverzeichnis</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Klima und Natur">Klima und Natur</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-2">
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Klima">Klima</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-3">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/klima/klima" class="dropdown-item-off" data-drupal-link-system-path="node/1906">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/klima/klimaanpassung" class="dropdown-item-off" data-drupal-link-system-path="node/1776">Klimaanpassung</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/klima/klimaschutz" class="dropdown-item-off" data-drupal-link-system-path="node/1772">Klimaschutz</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/klima/klimabeirat" class="dropdown-item-off" data-drupal-link-system-path="node/1643">Klimabeirat</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/klima/klimapakt" class="dropdown-item-off" data-drupal-link-system-path="node/557">Klimapakt</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Europastadt im Gr&uuml;nen">Europastadt im Gr&uuml;nen</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-3">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/naherholung/europastadt-im-gruenen" class="dropdown-item-off" data-drupal-link-system-path="node/537">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/europastadt-im-gruenen/parks-und-gruenanlagen" class="dropdown-item-off" data-drupal-link-system-path="node/558">Parks und Gr&uuml;nanlagen</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/friedhoefe" class="dropdown-item-off" data-drupal-link-system-path="node/560">Friedh&ouml;fe</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/europastadt-im-gruenen/kleingaerten" class="dropdown-item-off" data-drupal-link-system-path="node/561">Kleing&auml;rten</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/klima-und-natur/fairtrade" class="dropdown-item-off" data-drupal-link-system-path="node/2162">Fairtrade</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/klima-und-natur/hitzeschutz" class="dropdown-item-off" data-drupal-link-system-path="node/2140">Hitzeschutz</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Wirtschaft">Wirtschaft</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-2">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/wirtschaft" class="dropdown-item-off" data-drupal-link-system-path="node/563">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/wirtschaft/service-fuer-unternehmen-und-investoren" class="dropdown-item-off" data-drupal-link-system-path="node/1807">Service f&uuml;r Unternehmen</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/digitalisierung/smarte-und-innovative-wirtschaft" class="dropdown-item-off" data-drupal-link-system-path="node/513">Smarte und innovative Wirtschaft</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/wirtschaft/nachhaltige-wirtschaft" class="dropdown-item-off" data-drupal-link-system-path="node/1811">Nachhaltige Wirtschaft</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/wirtschaft/arbeitswelt-castrop-rauxel" class="dropdown-item-off" data-drupal-link-system-path="node/1813">Arbeitswelt Castrop-Rauxel</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/wirtschaft/wirtschaftsstrukturdaten" class="dropdown-item-off" data-drupal-link-system-path="node/569">Wirtschaftsstrukturdaten</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Digitalisierung">Digitalisierung</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-2">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/digitalisierung" class="dropdown-item-off" data-drupal-link-system-path="node/479">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/digitalisierung/cas-app" class="dropdown-item-off" data-drupal-link-system-path="node/524">CAS-App</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/digitalisierung/digitale-und-buergerorientierte-verwaltung" class="dropdown-item-off" data-drupal-link-system-path="node/512">Digitale und b&uuml;rgerorientierte Verwaltung</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/digitalisierung/digitale-bildung-und-lebensqualitaet" class="dropdown-item-off" data-drupal-link-system-path="node/621">Digitale Bildung und Lebensqualit&auml;t</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/digitalisierung/smarte-und-innovative-wirtschaft" class="dropdown-item-off" data-drupal-link-system-path="node/513">Smarte und innovative Wirtschaft</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/digitalisierung/smarte-und-nachhaltige-mobilitaet" class="dropdown-item-off" data-drupal-link-system-path="node/622">Smarte und nachhaltige Mobilit&auml;t</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/digitalisierung/smartes-energie-und-umweltmanagement" class="dropdown-item-off" data-drupal-link-system-path="node/623">Smartes Energie- und Umweltmanagement</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/digitalisierung/zukunftsfaehige-und-digitale-infrastruktur" class="dropdown-item-off" data-drupal-link-system-path="node/624">Zukunftsf&auml;hige digitale Infrastruktur</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Sicherheit und Ordnung">Sicherheit und Ordnung</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-2">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/sicherheit-und-ordnung/sicherheit-und-ordnung" class="dropdown-item-off" data-drupal-link-system-path="node/576">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/feuerwehr" class="dropdown-item-off" data-drupal-link-system-path="node/578">Feuerwehr</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/sicherheit-und-ordnung/kommunaler-ordnungsdienst" class="dropdown-item-off" data-drupal-link-system-path="node/577">Kommunaler Ordnungsdienst</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/sicherheit-und-ordnung/kampfmittel" class="dropdown-item-off" data-drupal-link-system-path="node/2137">Kampfmittel</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="nav-link button-menu-rounded-corners dropdown-toggle-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern B&uuml;rger*innen">B&uuml;rger*innen</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-1">
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Familie">Familie</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-2">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/familie/familie" class="dropdown-item-off" data-drupal-link-system-path="node/581">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/dienstleistung/geburt" class="dropdown-item-off" data-drupal-link-system-path="node/1834">Geburt</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/dienstleistung/heirat" class="dropdown-item-off" data-drupal-link-system-path="node/1870">Heirat</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/familie/adoptionsvermittlung" class="dropdown-item-off" data-drupal-link-system-path="node/584">Adoptionsvermittlung</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/familie/pflegekinderdienst" class="dropdown-item-off" data-drupal-link-system-path="node/585">Pflegekinderdienst</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/familie/finanzielle-unterstuetzung" class="dropdown-item-off" data-drupal-link-system-path="node/586">Finanzielle Unterst&uuml;tzung</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/familie/fruehe-hilfen" class="dropdown-item-off" data-drupal-link-system-path="node/587">Fr&uuml;he Hilfen</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/familie/hilfen-zur-erziehung" class="dropdown-item-off" data-drupal-link-system-path="node/588">Hilfen zur Erziehung</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Kinder und Jugend">Kinder und Jugend</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-2">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/kinder-und-jugend/einschulung-und-grundschulanmeldung" class="dropdown-item-off" data-drupal-link-system-path="node/2112">Einschulung und Grundschulanmeldung</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/kinder-und-jugend/kinder-und-jugend" class="dropdown-item-off" data-drupal-link-system-path="node/589">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/kinder-und-jugend/kinderbetreuung" class="dropdown-item-off" data-drupal-link-system-path="node/1756">Kinderbetreuung</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/kinder-und-jugend/kita-navigator" class="dropdown-item-off" data-drupal-link-system-path="node/1639">Kita-Navigator</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/kinder-und-jugend/schulen" class="dropdown-item-off" data-drupal-link-system-path="node/590">Schulen</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Spielfl&auml;chen">Spielfl&auml;chen</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-3">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/spielflaechen/spielflaechen" class="dropdown-item-off" data-drupal-link-system-path="node/538">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/spielflaechen/spiel-und-bolzplaetze" class="dropdown-item-off" data-drupal-link-system-path="node/1681">Spiel- und Bolzpl&auml;tze</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/entwicklung-der-stadtteile/spiel-und-sportpark-castroper-holz-am-hallenbad" class="dropdown-item-off" data-drupal-link-system-path="node/544">Spiel-, Sport- und Bewegungspark am Hallenbad</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/kommunikationstafeln" class="dropdown-item-off" data-drupal-link-system-path="node/2163">Kommunikationstafeln</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/kultur-und-freizeit/jugendzentren" class="dropdown-item-off" data-drupal-link-system-path="node/539">Jugendzentren</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/kinder-und-jugend/kinder-und-jugendfoerderplan" class="dropdown-item-off" data-drupal-link-system-path="node/592">Kinder- und Jugendf&ouml;rderplan</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/kinder-und-jugend/jugendhilfe-im-strafverfahren" class="dropdown-item-off" data-drupal-link-system-path="node/593">Jugendhilfe im Strafverfahren</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/kinder-und-jugend/jugendhilfeplanung" class="dropdown-item-off" data-drupal-link-system-path="node/2087">Jugendhilfeplanung</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/kinder-und-jugend/aufsuchende-und-offene-jugendarbeit" class="dropdown-item-off" data-drupal-link-system-path="node/594">Streetwork</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Senior*innen">Senior*innen</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-2">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/seniorinnen/seniorinnen" class="dropdown-item-off" data-drupal-link-system-path="node/595">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/seniorinnen/rente" class="dropdown-item-off" data-drupal-link-system-path="node/596">Rente</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/bip" class="dropdown-item-off" data-drupal-link-system-path="node/597">Beratungs- und Infocenter Pflege (BIP)</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Soziales">Soziales</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-2">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/soziales" class="dropdown-item-off" data-drupal-link-system-path="node/575">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/soziales/beratung-und-hilfe" class="dropdown-item-off" data-drupal-link-system-path="node/1650">Beratung und Hilfe</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/soziales/sozialplanung" class="dropdown-item-off" data-drupal-link-system-path="node/1652">Sozialplanung</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/soziales/soziale-leistungen-castrop-rauxel" class="dropdown-item-off" data-drupal-link-system-path="node/1641">Soziale Leistungen in Castrop-Rauxel</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/buergerinnen/migration-und-integration" class="dropdown-item-off" data-drupal-link-system-path="node/599">Migration und Integration</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/buergerinnen/gleichstellung-und-diversitaet" class="dropdown-item-off" data-drupal-link-system-path="node/600">Gleichstellung und Diversit&auml;t</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/buergerinnen/buergerinnenbeteiligung" class="dropdown-item-off" data-drupal-link-system-path="node/579">B&uuml;rgerbeteiligung</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/buergerinnen/ehrenamt" class="dropdown-item-off" data-drupal-link-system-path="node/580">Ehrenamt</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/buergerinnen/schiedspersonen-und-schoeffinnen" class="dropdown-item-off" data-drupal-link-system-path="node/601">Schiedspersonen und Sch&ouml;ff*innen</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="nav-link button-menu-rounded-corners dropdown-toggle-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Rathaus">Rathaus</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-1">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/rathaus/oeffnungszeiten" class="dropdown-item-off" data-drupal-link-system-path="node/1748">&Ouml;ffnungszeiten</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Politik">Politik</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-2">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/politik/politik" class="dropdown-item-off" data-drupal-link-system-path="node/608">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/buergermeister" class="dropdown-item-off" data-drupal-link-system-path="node/37">Der B&uuml;rgermeister</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/politik/rat-der-stadt" class="dropdown-item-off" data-drupal-link-system-path="node/609">Rat der Stadt</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/politik/ausschuesse-und-beiraete" class="dropdown-item-off" data-drupal-link-system-path="node/610">Aussch&uuml;sse und Beir&auml;te</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/politik/kijupa" class="dropdown-item-off" data-drupal-link-system-path="node/611">KiJuPa</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/politik/wahlen-und-abstimmungen" class="dropdown-item-off" data-drupal-link-system-path="node/612">Wahlen</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="https://castroprauxel.gremien.info/" class="dropdown-item-off">Rats- und B&uuml;rgerinformationssystem</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/ratstv" class="dropdown-item-off" data-drupal-link-system-path="node/1717">RatsTV</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/stadtfamilie/gliederung-und-organigramm" class="dropdown-item-off" data-drupal-link-system-path="node/1665">Gliederung und Organigramm</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Karriere">Karriere</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-2">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/karriere/karriere" class="dropdown-item-off" data-drupal-link-system-path="node/606">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/karriere/stellenangebote" class="dropdown-item-off" data-drupal-link-system-path="node/1760">Stellenangebote</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <a href="/karriere/ausbildung-und-studium" class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Ausbildung und Studium" data-drupal-link-system-path="node/1761">Ausbildung und Studium</a>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-3">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/ausbildung-und-studium/duales-studium-verwaltungsinformatik-bachelor-arts" class="dropdown-item-off" data-drupal-link-system-path="node/2141">Duales Studium "Verwaltungsinformatik" (Bachelor)</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/karriere/initiativbewerbungen" class="dropdown-item-off" data-drupal-link-system-path="node/1763">Initiativbewerbungen</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/karriere/praktikum" class="dropdown-item-off" data-drupal-link-system-path="node/1762">Praktikum</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/bufdi" target="_self" class="dropdown-item-off" data-drupal-link-system-path="node/2089">Bundesfreiwilligendienst</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/karriere/freiwilliges-oekologisches-jahr" class="dropdown-item-off" data-drupal-link-system-path="node/2105">Freiwilliges &Ouml;kologisches Jahr</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/rathaus/finanzen-und-haushalt" class="dropdown-item-off" data-drupal-link-system-path="node/607">Finanzen und Haushalt</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/amtsblatt" class="dropdown-item-off" data-drupal-link-system-path="node/54">Amtsblatt</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/rathaus/satzungen" class="dropdown-item-off" data-drupal-link-system-path="node/1715">Satzungen</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/bekanntmachungen" class="dropdown-item-off" data-drupal-link-system-path="node/41">Bekanntmachungen</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/netiquette" class="dropdown-item-off" data-drupal-link-system-path="node/2133">Netiquette f&uuml;r Social Media</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/rathaus/anreise-rathaus" class="dropdown-item-off" data-drupal-link-system-path="node/613">Anreise Rathaus</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="nav-link button-menu-rounded-corners dropdown-toggle-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Stadtfamilie">Stadtfamilie</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-1">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/stadtfamilie/stadtfamilie" class="dropdown-item-off" data-drupal-link-system-path="node/604">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Wirtschaft &amp; Marketing">Wirtschaft &amp; Marketing</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-2">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/wirtschaft_marketing" class="dropdown-item-off" data-drupal-link-system-path="node/1570">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Wirtschaft">Wirtschaft</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-3">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/wirtschaft" class="dropdown-item-off" data-drupal-link-system-path="node/563">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/wirtschaft/service-fuer-unternehmen-und-investoren" class="dropdown-item-off" data-drupal-link-system-path="node/1807">Service f&uuml;r Unternehmen</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/digitalisierung/smarte-und-innovative-wirtschaft" class="dropdown-item-off" data-drupal-link-system-path="node/513">Smarte und innovative Wirtschaft</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/wirtschaft/nachhaltige-wirtschaft" class="dropdown-item-off" data-drupal-link-system-path="node/1811">Nachhaltige Wirtschaft</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/wirtschaft/arbeitswelt-castrop-rauxel" class="dropdown-item-off" data-drupal-link-system-path="node/1813">Arbeitswelt Castrop-Rauxel</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/wirtschaftslounge" class="dropdown-item-off" data-drupal-link-system-path="node/2004">Wirtschaftslounge</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/wirtschaft/wirtschaftsstrukturdaten" class="dropdown-item-off" data-drupal-link-system-path="node/569">Wirtschaftsstrukturdaten</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select dropdown">
+                              <span class="dropdown-item-off" role="button" data-bs-toggle="dropdown" aria-expanded="false" title="Men&uuml; erweitern Marketing">Marketing</span>
+                                                                    <ul data-block="nav_main" class="dropdown-menu-off menu-select nav-level-3">
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/stadtmarketing" class="dropdown-item-off" data-drupal-link-system-path="node/1569">&Uuml;bersicht</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/marketing/eventmarketing-services" class="dropdown-item-off" data-drupal-link-system-path="node/1584">Eventmarketing &amp; Services</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/veranstaltungskalender" class="dropdown-item-off" data-drupal-link-system-path="node/64">Veranstaltungskalender</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/kirmes" class="dropdown-item-off" data-drupal-link-system-path="node/514">Kirmes</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/pferderennen" class="dropdown-item-off" data-drupal-link-system-path="node/1579">Castroper Pferderennen</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/beachfestival" class="dropdown-item-off" data-drupal-link-system-path="node/1757">Street Food &amp; Beach Festival</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/mittelaltermarkt" class="dropdown-item-off" data-drupal-link-system-path="node/1580">Mittelaltermarkt</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/weihnachtsdorf" class="dropdown-item-off" data-drupal-link-system-path="node/1581">Weihnachtsdorf</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/marketing/partnerinnen-gesucht" class="dropdown-item-off" data-drupal-link-system-path="node/1583">Partner*innen gesucht</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="https://www.euv-stadtbetrieb.de/" class="dropdown-item-off">EUV Stadtbetrieb</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="https://www.swcas.de/" class="dropdown-item-off">Stadtwerke Castrop-Rauxel</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="https://eventforum-castrop.de/" class="dropdown-item-off">Event Forum</a>
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="/stadtfamilie/ecas-gmbh" class="dropdown-item-off" data-drupal-link-system-path="node/1624">ECAS GmbH</a>
+                          </li>
+          
+                              </ul>
+                      
+                          </li>
+          
+                                                                                              <li class="nav-item button-menu-select">
+                              <a href="https://www.castrop-rauxel.de/buero-fuer-integration-und-demokratie" class="nav-link button-menu-rounded-corners">B&uuml;ro f&uuml;r Integration und Demokratie</a>
+                          </li>
+          
+                              </ul>
+                      
+
+          
+                  </div>
+      </div>
+
+
+      <nav class="menu-content-bottom" aria-label="Schnellzugriff">
+        <ul class="row">
+          <!-- button-menu-icon start -->
+          <li class="col-6">
+            <a href="/terminvergabe">
+              <span class="button-menu-icon">
+                <img src="/themes/custom/castrop_rauxel/img/icons/icon_kachel-icon_termin_buchen.svg" draggable="false" alt="">
+                <span class="button-menu-icon-text">
+                  Terminvergabe
+                </span>
+              </span>
+            </a>
+          </li>
+          <!-- button-menu-icon end -->
+          <!-- button-menu-icon start -->
+          <li class="col-6">
+            <a href="/kontakt">
+              <span class="button-menu-icon">
+                <img src="/themes/custom/castrop_rauxel/img/icons/icon_kontakt_menu.svg" draggable="false" alt="">
+                <span class="button-menu-icon-text">
+                  Kontakt
+                </span>
+              </span>
+            </a>
+          </li>
+          <!-- button-menu-icon end -->
+          <!-- button-menu-icon start -->
+          <li class="col-6">
+            <a href="/digitalisierung/cas-app">
+              <span class="button-menu-icon">
+                <img src="/themes/custom/castrop_rauxel/img/icons/icon_kachel-icon_cas_app.svg" draggable="false" alt="">
+                <span class="button-menu-icon-text">
+                  CAS-App
+                </span>
+              </span>
+            </a>
+          </li>
+          <!-- button-menu-icon end -->
+          <!-- button-menu-icon start -->
+          <li class="col-6">
+            <a target="_blank" rel="noopener noreferrer" href="https://www.geoportal.gkd-re.de/castrop-rauxel/casgeoportal/?lang=de&amp;basemap=5c18971d078fdn4akf&amp;blop=1&amp;x=383062.5&amp;y=5714335&amp;zl=10&amp;hl=0&amp;layers=basiskarten.verwaltungsgrenzen.stadtgrenze0yhla" title="&Ouml;ffnet in neuem Tab">
+              <span class="button-menu-icon">
+                <img src="/themes/custom/castrop_rauxel/img/icons/icon_stadtplan_menu.svg" draggable="false" alt="">
+                <span class="button-menu-icon-text">
+                  Geoportal<span class="visually-hidden"> (&ouml;ffnet in neuem Tab)</span>
+                </span>
+              </span>
+            </a>
+          </li>
+          <!-- button-menu-icon end -->
+        </ul>
+      </nav>
+
+    </div>
+  </div>
+
+</div>
+
+
+
+
+                      <div class="hero-content-wrapper">
+              
+                               <div class="region region-nav-additional">
+    <div class="search-block-form">
+<h2>Hey Castrop-Rauxel, wo finde ich Infos zu:</h2>
+   <form data-block="nav_additional" action="/suche" method="get" id="views-exposed-form-suchansicht-page-1" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <fieldset data-drupal-selector="edit-type" id="edit-type--wrapper" class="fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper">
+      <legend>
+    <span class="fieldset-legend">Filter</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-type" class="form-radios"><div class="form-radios form--inline">
+                  
+<div class="form-check js-form-item form-item js-form-type-radio form-type-radio js-form-item-type form-item-type">
+          
+  <input data-drupal-selector="edit-type-all" type="radio" id="edit-type-all" name="type" value="All" checked class="form-radio form-check-input">
+
+
+        <label class="form-check-label option" for="edit-type-all">- Alle -</label>
+      </div>
+
+                    
+<div class="form-check js-form-item form-item js-form-type-radio form-type-radio js-form-item-type form-item-type">
+          
+  <input data-drupal-selector="edit-type-dienstleistungen" type="radio" id="edit-type-dienstleistungen" name="type" value="dienstleistungen" class="form-radio form-check-input">
+
+
+        <label class="form-check-label option" for="edit-type-dienstleistungen">Dienstleistung</label>
+      </div>
+
+                    
+<div class="form-check js-form-item form-item js-form-type-radio form-type-radio js-form-item-type form-item-type">
+          
+  <input data-drupal-selector="edit-type-meldung-news" type="radio" id="edit-type-meldung-news" name="type" value="meldung_news" class="form-radio form-check-input">
+
+
+        <label class="form-check-label option" for="edit-type-meldung-news">Meldung/News</label>
+      </div>
+
+                    
+<div class="form-check js-form-item form-item js-form-type-radio form-type-radio js-form-item-type form-item-type">
+          
+  <input data-drupal-selector="edit-type-page" type="radio" id="edit-type-page" name="type" value="page" class="form-radio form-check-input">
+
+
+        <label class="form-check-label option" for="edit-type-page">Einfache Seite</label>
+      </div>
+
+      </div>
+</div>
+
+          </div>
+</fieldset>
+
+<div class="js-form-item form-item js-form-type-search-api-autocomplete form-type-search-api-autocomplete js-form-item-keys form-item-keys">
+      <label for="edit-keys">Suche</label>
+          
+  <input placeholder="Suchbegriff eingeben" data-drupal-selector="edit-keys" data-search-api-autocomplete-search="suchansicht" class="form-autocomplete form-text form-control" data-autocomplete-path="/search_api_autocomplete/suchansicht?display=page_1&amp;&amp;filter=keys" type="text" id="edit-keys" name="keys" value="" size="30" maxlength="128">
+
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions">
+    <input data-bef-auto-submit-click="" data-drupal-selector="edit-submit-suchansicht" type="submit" id="edit-submit-suchansicht" value="Suchen" class="button js-form-submit form-submit btn btn-secondary">
+
+</div>
+
+</div>
+
+</form>
+
+</div>
+  </div>
+
+              
+                                                <div>
+                
+                  <div class="region region-nav-headline">
+    <div id="block-startseiteh1uberschrift" class="block block-block-content block-block-content2956d592-f032-4c24-b166-6c674caab5fe">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h1><strong>Castrop-Rauxel</strong>
+Europastadt im Gr&uuml;nen</h1></div>
+      
+  </div>
+
+  </div>
+
+
+                                  </div>
+              
+            </div>            
+        </div>       </nav>
+     
+  </div> </div>
+</header>
+
+<main>
+  <a id="main-content" tabindex="-1"></a>
+  
+  
+  
+
+  <div class="container main-content-container content-container">
+    <div class="row g-0">
+            <div class="order-1 order-lg-2 col-12">
+          <div class="region region-content">
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-castrop-rauxel-content" class="block block-system block-system-main-block">
+  
+    
+      
+      <div class="field field--name-field-inhalt-startseite field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">
+<div class="content-wrapper left60 right60">
+    
+<div class="hero-overlay">
+    
+<div class="hero-overlay-content">
+    
+<div class="hero-overlay-content-left">
+        
+      <h2 class="hero-overlay-headline headline">H&auml;ufig gesucht</h2>
+      
+  
+
+
+  </div>
+<div class="hero-overlay-content-right">
+          <div class="row">
+        
+      <div class="col-xxl-6 col-xl-6 col-lg-12 col-md-6 col-12"><a href="/personalausweis" class="field-group-link link">
+<div class="button-head-text-arrows">
+        
+      <div class="sub-headline head">B&uuml;rgerservice A-Z</div>
+      
+  
+
+    
+      <div class="copy"><p>Personalausweis</p>
+</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      <div class="col-xxl-6 col-xl-6 col-lg-12 col-md-6 col-12"><a href="/service/buergerbuero" class="field-group-link link">
+<div class="button-head-text-arrows">
+        
+      <div class="sub-headline head">Rathaus</div>
+      
+  
+
+    
+      <div class="copy"><p>B&uuml;rgerb&uuml;ro</p>
+</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      <div class="col-xxl-6 col-xl-6 col-lg-12 col-md-6 col-12"><a href="https://serviceportal.castrop-rauxel.de/services/7" class="field-group-link link">
+<div class="button-head-text-arrows">
+        
+      <div class="sub-headline head">Serviceportal</div>
+      
+  
+
+    
+      <div class="copy"><p>Urkunden online anfordern</p>
+</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      <div class="col-xxl-6 col-xl-6 col-lg-12 col-md-6 col-12"><a href="/auslaenderbehoerde" class="field-group-link link">
+<div class="button-head-text-arrows">
+        
+      <div class="sub-headline head">Rathaus</div>
+      
+  
+
+    
+      <div class="copy"><p>Ausl&auml;nderbeh&ouml;rde</p>
+</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      
+  
+    </div>
+
+
+  </div>
+  </div>
+  </div>
+  </div>
+
+</div>
+              <div class="field__item">
+  <div class="views-element-container"><div class="view latest-news left60 content-wrapper view-aktuelle-news view-id-aktuelle_news view-display-id-block_1 js-view-dom-id-b944b28799e65dafb32fa2fa873244f942d4b064b192c78f2fe730f17caf04fa"><div class="latest-news-content">
+  
+    
+          <div class="attachment attachment-before latest-news-top">
+      <div class="views-element-container"><div class="view view-aktuelle-news view-id-aktuelle_news view-display-id-attachment_1 js-view-dom-id-27b75c64dbe9e1c96057d1d84fe634f5a59d509690b33107281d1624eba192f9">
+  
+    
+      <div class="view-header">
+      <div class="top">
+<div class="latest-news-headline headline">Aktuelle Meldungen</div>
+</div>
+    </div>
+      
+      <div class="view-content bottom">
+            
+      <div class="img-copyright">    <div class="field__label visually-hidden">Image</div>
+
+      <picture>
+                  <source srcset="/sites/default/files/styles/vorschaubild_grossansicht_1150px/public/2024-01/Ratssaal%2015.07.2010%20%2816%29.JPG?h=266a769a&amp;itok=9fTcdmMq 1x" media="(min-width: 1400px)" type="image/jpeg" width="1150" height="662"></source>
+              <source srcset="/sites/default/files/styles/vorschaubild_grossansicht_1150px/public/2024-01/Ratssaal%2015.07.2010%20%2816%29.JPG?h=266a769a&amp;itok=9fTcdmMq 1x" media="(max-width: 1399.98px)" type="image/jpeg" width="1150" height="662"></source>
+              <source srcset="/sites/default/files/styles/vorschau_bild_grossansicht_748px/public/2024-01/Ratssaal%2015.07.2010%20%2816%29.JPG?h=266a769a&amp;itok=z7CgfLPz 1x" media="(max-width: 767.98px)" type="image/jpeg" width="748" height="431"></source>
+              <source srcset="/sites/default/files/styles/vorschau_bild_grossansicht_528px/public/2024-01/Ratssaal%2015.07.2010%20%2816%29.JPG?h=266a769a&amp;itok=Wojl5ru_ 1x" media="(max-width: 575.98px)" type="image/jpeg" width="528" height="304"></source>
+                  <img loading="eager" width="748" height="431" src="/sites/default/files/styles/vorschau_bild_grossansicht_748px/public/2024-01/Ratssaal%2015.07.2010%20%2816%29.JPG?h=266a769a&amp;itok=z7CgfLPz" alt="Ansicht auf Sitze im Ratssaal" title="Ratssaal" class="img-fluid">
+
+  </picture>
+
+
+
+<div class="copyright-info">
+          <div class="copyright-info-inner">
+            <div class="field__label">Urheberrecht</div>
+  
+            Stadt Castrop-Rauxel
+      
+  
+    </div>
+
+
+  </div>
+
+</div>
+      
+  
+
+
+<div class="button-wrapper">
+    <a href="/ratssitzung" class="field-group-link button-wrapper-link" hreflang="de">
+<div class="button-head-subhead-text-arrows">
+        
+      <div class="sub-headline">Politik</div>
+      
+  
+
+
+  <div class="sub-head">
+  Live-&Uuml;bertragung der Ratssitzung
+</div>
+
+    
+      <div class="copy">Der Rat der Stadt Castrop-Rauxel tagt am Donnerstag, 16. Juli, ab 17.00 Uhr. Die Sitzung wird live &uuml;bertragen.</div>
+      
+  
+
+
+  </div></a>
+  </div>
+
+
+    </div>
+  
+          </div></div>
+
+    </div>
+  
+      <div class="view-content latest-news-center">
+         <div class="slick-slider views-row">
+<div class="distributor-teaser-card-wrapper">
+    
+<div class="news-preview distributor-teaser-card">
+    
+<div class="content-wrapper">
+          <div class="image-wrapper">
+        
+            
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/672px_vorschau/public/2025-07/Nachtschwimmen%20ParkbadNord%2021.07.2018_Rechte%20J%C3%B6rg%20K%C3%A4hler%20%289%29.jpg?h=b135bedb&amp;itok=NqhWgaHA 1x" media="(min-width: 992px)" type="image/jpeg" width="4091" height="2557"></source>
+              <source srcset="/sites/default/files/styles/992px_vorschau_quer/public/2025-07/Nachtschwimmen%20ParkbadNord%2021.07.2018_Rechte%20J%C3%B6rg%20K%C3%A4hler%20%289%29.jpg?h=b135bedb&amp;itok=C8j3jL7F 1x" media="(max-width: 991.98px)" type="image/jpeg" width="992" height="620"></source>
+              <source srcset="/sites/default/files/styles/672px_vorschau/public/2025-07/Nachtschwimmen%20ParkbadNord%2021.07.2018_Rechte%20J%C3%B6rg%20K%C3%A4hler%20%289%29.jpg?h=b135bedb&amp;itok=NqhWgaHA 1x" media="(max-width: 575.98px)" type="image/jpeg" width="4091" height="2557"></source>
+                  <img loading="eager" width="4091" height="2557" src="/sites/default/files/styles/672px_vorschau/public/2025-07/Nachtschwimmen%20ParkbadNord%2021.07.2018_Rechte%20J%C3%B6rg%20K%C3%A4hler%20%289%29.jpg?h=b135bedb&amp;itok=NqhWgaHA" alt="Nachtschwimmen 2018" class="img-fluid">
+
+  </picture>
+
+</div>
+          </div>
+
+<div class="copyright-info">
+          <div class="copyright-info-inner">
+            <div class="field__label">Urheberrecht</div>
+  
+            Stadt Castrop-Rauxel J&ouml;rg K&auml;hler
+      
+  
+    </div>
+
+
+  </div>
+
+
+      
+  
+    </div>
+
+<a href="/nachtschwimmen" class="field-group-link field_group_link" hreflang="de">
+<div class="card-wrapper">
+    
+<div class="text-wrapper">
+        
+      <div class="sub-headline head">Kultur und Freizeit</div>
+      
+  
+
+    
+      <div class="copy"><div>
+  Nachtschwimmen im Parkbad Nord
+</div>
+</div>
+      
+  
+
+    
+      <div class="text">Das 8. Nachtschwimmen im Parkbad Nord findet am Samstag, 1. August, von 20.00 bis 23.45 Uhr statt. </div>
+      
+  
+
+
+  </div>
+  </div></a>
+  </div>
+  </div>
+  </div>
+
+</div>
+   <div class="slick-slider views-row">
+<div class="distributor-teaser-card-wrapper">
+    
+<div class="news-preview distributor-teaser-card">
+    
+<div class="content-wrapper">
+          <div class="image-wrapper">
+        
+            
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/672px_vorschau/public/2026-05/Plakat_Casterix_2026_Querformat.jpg?h=02f33679&amp;itok=H6FmJyeQ 1x" media="(min-width: 992px)" type="image/jpeg" width="4958" height="3098"></source>
+              <source srcset="/sites/default/files/styles/992px_vorschau_quer/public/2026-05/Plakat_Casterix_2026_Querformat.jpg?h=02f33679&amp;itok=W2qLXPRp 1x" media="(max-width: 991.98px)" type="image/jpeg" width="992" height="620"></source>
+              <source srcset="/sites/default/files/styles/672px_vorschau/public/2026-05/Plakat_Casterix_2026_Querformat.jpg?h=02f33679&amp;itok=H6FmJyeQ 1x" media="(max-width: 575.98px)" type="image/jpeg" width="4958" height="3098"></source>
+                  <img loading="eager" width="4958" height="3098" src="/sites/default/files/styles/672px_vorschau/public/2026-05/Plakat_Casterix_2026_Querformat.jpg?h=02f33679&amp;itok=H6FmJyeQ" alt="Ausschnitt aus Casterix-Plakat Blumen und Tukan" class="img-fluid">
+
+  </picture>
+
+</div>
+          </div>
+
+<div class="copyright-info">
+          <div class="copyright-info-inner">
+            <div class="field__label">Urheberrecht</div>
+  
+            Stadt Castrop-Rauxel
+      
+  
+    </div>
+
+
+  </div>
+
+
+      
+  
+    </div>
+
+<a href="/casterix-ferienprogramm" class="field-group-link field_group_link" hreflang="de">
+<div class="card-wrapper">
+    
+<div class="text-wrapper">
+        
+      <div class="sub-headline head">Familie</div>
+      
+  
+
+    
+      <div class="copy"><div>
+  Sommerferien mit Casterix
+</div>
+</div>
+      
+  
+
+    
+      <div class="text">Raus aus dem Schulalltag und rein ins Ferienabenteuer. Das Casterix-Programm f&uuml;r die Sommerferien ist da!</div>
+      
+  
+
+
+  </div>
+  </div></a>
+  </div>
+  </div>
+  </div>
+
+</div>
+   <div class="slick-slider views-row">
+<div class="distributor-teaser-card-wrapper">
+    
+<div class="news-preview distributor-teaser-card">
+    
+<div class="content-wrapper">
+          <div class="image-wrapper">
+        
+            
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/672px_vorschau/public/2026-07/Delegationsreise_nach_Zonguldak_2606_Empfang.jpeg?h=a8f94b4d&amp;itok=Nvq4u01h 1x" media="(min-width: 992px)" type="image/jpeg" width="1598" height="999"></source>
+              <source srcset="/sites/default/files/styles/992px_vorschau_quer/public/2026-07/Delegationsreise_nach_Zonguldak_2606_Empfang.jpeg?h=a8f94b4d&amp;itok=tFhjgujy 1x" media="(max-width: 991.98px)" type="image/jpeg" width="992" height="620"></source>
+              <source srcset="/sites/default/files/styles/672px_vorschau/public/2026-07/Delegationsreise_nach_Zonguldak_2606_Empfang.jpeg?h=a8f94b4d&amp;itok=Nvq4u01h 1x" media="(max-width: 575.98px)" type="image/jpeg" width="1598" height="999"></source>
+                  <img loading="eager" width="1598" height="999" src="/sites/default/files/styles/672px_vorschau/public/2026-07/Delegationsreise_nach_Zonguldak_2606_Empfang.jpeg?h=a8f94b4d&amp;itok=Nvq4u01h" alt="Vertreter*innen der St&auml;dte Castrop-Rauxel und Zonguldak im B&uuml;rgermeisterb&uuml;ro in Zonguldak." class="img-fluid">
+
+  </picture>
+
+</div>
+          </div>
+
+<div class="copyright-info">
+          <div class="copyright-info-inner">
+            <div class="field__label">Urheberrecht</div>
+  
+            Stadt Castrop-Rauxel
+      
+  
+    </div>
+
+
+  </div>
+
+
+      
+  
+    </div>
+
+<a href="/zonguldak" class="field-group-link field_group_link" hreflang="de">
+<div class="card-wrapper">
+    
+<div class="text-wrapper">
+        
+      <div class="sub-headline head">St&auml;dtepartnerschaften</div>
+      
+  
+
+    
+      <div class="copy"><div>
+  Delegation besucht Partnerstadt Zonguldak
+</div>
+</div>
+      
+  
+
+    
+      <div class="text">St&auml;dte tauschten sich &uuml;ber Knowhow und Kooperationsprojekte aus.</div>
+      
+  
+
+
+  </div>
+  </div></a>
+  </div>
+  </div>
+  </div>
+
+</div>
+   <div class="slick-slider views-row">
+<div class="distributor-teaser-card-wrapper">
+    
+<div class="news-preview distributor-teaser-card">
+    
+<div class="content-wrapper">
+          <div class="image-wrapper">
+        
+            
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/672px_vorschau/public/2026-01/100%20Jahre%20Konzept%20Leseplatz.jpg?h=4a37be3b&amp;itok=j0ezaryE 1x" media="(min-width: 992px)" type="image/jpeg" width="1800" height="1125"></source>
+              <source srcset="/sites/default/files/styles/992px_vorschau_quer/public/2026-01/100%20Jahre%20Konzept%20Leseplatz.jpg?h=4a37be3b&amp;itok=rc2SstAq 1x" media="(max-width: 991.98px)" type="image/jpeg" width="992" height="620"></source>
+              <source srcset="/sites/default/files/styles/672px_vorschau/public/2026-01/100%20Jahre%20Konzept%20Leseplatz.jpg?h=4a37be3b&amp;itok=j0ezaryE 1x" media="(max-width: 575.98px)" type="image/jpeg" width="1800" height="1125"></source>
+                  <img loading="eager" width="1800" height="1125" src="/sites/default/files/styles/672px_vorschau/public/2026-01/100%20Jahre%20Konzept%20Leseplatz.jpg?h=4a37be3b&amp;itok=j0ezaryE" alt="Konzept 100 Jahre Castrop-Rauxel am Leseplatz im Rathaus" class="img-fluid">
+
+  </picture>
+
+</div>
+          </div>
+
+<div class="copyright-info">
+          <div class="copyright-info-inner">
+            <div class="field__label">Urheberrecht</div>
+  
+            Stadt Castrop-Rauxel
+      
+  
+    </div>
+
+
+  </div>
+
+
+      
+  
+    </div>
+
+<a href="/news/rathaus/stadtjubilaeum-100-jahre-castrop-rauxel" class="field-group-link field_group_link" hreflang="de">
+<div class="card-wrapper">
+    
+<div class="text-wrapper">
+        
+      <div class="sub-headline head">Rathaus</div>
+      
+  
+
+    
+      <div class="copy"><div>
+  Stadtjubil&auml;um: 100 Jahre Castrop-Rauxel
+</div>
+</div>
+      
+  
+
+    
+      <div class="text">2026 feiert Castrop-Rauxel sein 100. Stadtjubil&auml;um. Das Motto: Eine Stadt, viele Teile</div>
+      
+  
+
+
+  </div>
+  </div></a>
+  </div>
+  </div>
+  </div>
+
+</div>
+   <div class="slick-slider views-row">
+<div class="distributor-teaser-card-wrapper">
+    
+<div class="news-preview distributor-teaser-card">
+    
+<div class="content-wrapper">
+          <div class="image-wrapper">
+        
+            
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/672px_vorschau/public/2024-05/Wilhelmschule%20NEU.jpg?h=4aab05e5&amp;itok=bvWyaczZ 1x" media="(min-width: 992px)" type="image/jpeg" width="2016" height="1260"></source>
+              <source srcset="/sites/default/files/styles/992px_vorschau_quer/public/2024-05/Wilhelmschule%20NEU.jpg?h=4aab05e5&amp;itok=owAy96B5 1x" media="(max-width: 991.98px)" type="image/jpeg" width="992" height="620"></source>
+              <source srcset="/sites/default/files/styles/672px_vorschau/public/2024-05/Wilhelmschule%20NEU.jpg?h=4aab05e5&amp;itok=bvWyaczZ 1x" media="(max-width: 575.98px)" type="image/jpeg" width="2016" height="1260"></source>
+                  <img loading="eager" width="2016" height="1260" src="/sites/default/files/styles/672px_vorschau/public/2024-05/Wilhelmschule%20NEU.jpg?h=4aab05e5&amp;itok=bvWyaczZ" alt="Au&szlig;enansicht einer Schule" title="Wilhelmschule Castrop-Rauxel" class="img-fluid">
+
+  </picture>
+
+</div>
+          </div>
+
+<div class="copyright-info">
+          <div class="copyright-info-inner">
+            <div class="field__label">Urheberrecht</div>
+  
+            Stadt Castrop-Rauxel
+      
+  
+    </div>
+
+
+  </div>
+
+
+      
+  
+    </div>
+
+<a href="/news/familie/tage-der-offenen-tuer-grundschulen-2026" class="field-group-link field_group_link" hreflang="de">
+<div class="card-wrapper">
+    
+<div class="text-wrapper">
+        
+      <div class="sub-headline head">Familie</div>
+      
+  
+
+    
+      <div class="copy"><div>
+  Tage der offenen T&uuml;r an Grundschulen 2026
+</div>
+</div>
+      
+  
+
+    
+      <div class="text">Grundschulen in Castrop-Rauxel laden auch 2026 zu Tagen der offenen T&uuml;r ein.</div>
+      
+  
+
+
+  </div>
+  </div></a>
+  </div>
+  </div>
+  </div>
+
+</div>
+   <div class="slick-slider views-row">
+<div class="distributor-teaser-card-wrapper">
+    
+<div class="news-preview distributor-teaser-card">
+    
+<div class="content-wrapper">
+          <div class="image-wrapper">
+        
+            
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/672px_vorschau/public/2026-07/Castroper%20Holz%20Er%C3%B6ffnung%20Archiv%202024.jpeg?h=51b286cf&amp;itok=TPbITQ6i 1x" media="(min-width: 992px)" type="image/jpeg" width="4032" height="2520"></source>
+              <source srcset="/sites/default/files/styles/992px_vorschau_quer/public/2026-07/Castroper%20Holz%20Er%C3%B6ffnung%20Archiv%202024.jpeg?h=51b286cf&amp;itok=MYtf6Z4N 1x" media="(max-width: 991.98px)" type="image/jpeg" width="992" height="620"></source>
+              <source srcset="/sites/default/files/styles/672px_vorschau/public/2026-07/Castroper%20Holz%20Er%C3%B6ffnung%20Archiv%202024.jpeg?h=51b286cf&amp;itok=TPbITQ6i 1x" media="(max-width: 575.98px)" type="image/jpeg" width="4032" height="2520"></source>
+                  <img loading="eager" width="4032" height="2520" src="/sites/default/files/styles/672px_vorschau/public/2026-07/Castroper%20Holz%20Er%C3%B6ffnung%20Archiv%202024.jpeg?h=51b286cf&amp;itok=TPbITQ6i" alt="Menschen auf Spiel- und Sportpark" title='Der Spiel- und Sportpark "Castroper Holz" bei der Er&ouml;ffnung im August 2024' class="img-fluid">
+
+  </picture>
+
+</div>
+          </div>
+
+<div class="copyright-info">
+          <div class="copyright-info-inner">
+            <div class="field__label">Urheberrecht</div>
+  
+            Stadt Castrop-Rauxel
+      
+  
+    </div>
+
+
+  </div>
+
+
+      
+  
+    </div>
+
+<a href="/sportfest" class="field-group-link field_group_link" hreflang="de">
+<div class="card-wrapper">
+    
+<div class="text-wrapper">
+        
+      <div class="sub-headline head">Stadtjubil&auml;um</div>
+      
+  
+
+    
+      <div class="copy"><div>
+  Gro&szlig;es Sportfest und Inklusive Wanderung
+</div>
+</div>
+      
+  
+
+    
+      <div class="text">Am Spiel- und Sportpark &bdquo;Castroper Holz" am Hallenbad wird am Samstag, 11. Juli, ein gro&szlig;es Sportfest gefeiert</div>
+      
+  
+
+
+  </div>
+  </div></a>
+  </div>
+  </div>
+  </div>
+
+</div>
+   <div class="slick-slider views-row">
+<div class="distributor-teaser-card-wrapper">
+    
+<div class="news-preview distributor-teaser-card">
+    
+<div class="content-wrapper">
+          <div class="image-wrapper">
+        
+            
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/672px_vorschau/public/2025-07/Habinghorster%20Schlagernacht%202025_4.jpg?h=3a6e7a71&amp;itok=WjdsBBBg 1x" media="(min-width: 992px)" type="image/jpeg" width="2996" height="1872"></source>
+              <source srcset="/sites/default/files/styles/992px_vorschau_quer/public/2025-07/Habinghorster%20Schlagernacht%202025_4.jpg?h=3a6e7a71&amp;itok=YhR3Rqo9 1x" media="(max-width: 991.98px)" type="image/jpeg" width="992" height="620"></source>
+              <source srcset="/sites/default/files/styles/672px_vorschau/public/2025-07/Habinghorster%20Schlagernacht%202025_4.jpg?h=3a6e7a71&amp;itok=WjdsBBBg 1x" media="(max-width: 575.98px)" type="image/jpeg" width="2996" height="1872"></source>
+                  <img loading="eager" width="2996" height="1872" src="/sites/default/files/styles/672px_vorschau/public/2025-07/Habinghorster%20Schlagernacht%202025_4.jpg?h=3a6e7a71&amp;itok=WjdsBBBg" alt="Habinghorster Schlagernacht Luftbild" class="img-fluid">
+
+  </picture>
+
+</div>
+          </div>
+
+<div class="copyright-info">
+          <div class="copyright-info-inner">
+            <div class="field__label">Urheberrecht</div>
+  
+            Stadt Castrop-Rauxel
+      
+  
+    </div>
+
+
+  </div>
+
+
+      
+  
+    </div>
+
+<a href="/habinghorster-schlagernacht" class="field-group-link field_group_link" hreflang="de">
+<div class="card-wrapper">
+    
+<div class="text-wrapper">
+        
+      <div class="sub-headline head">Kultur und Freizeit</div>
+      
+  
+
+    
+      <div class="copy"><div>
+  Habinghorster Schlagernacht 2026
+</div>
+</div>
+      
+  
+
+    
+      <div class="text">Nostalgie und aktuelle Hits: Habinghorster Schlagernacht als &bdquo;Isi-Treff&ldquo; Reunion am Samstag, 4. Juli.</div>
+      
+  
+
+
+  </div>
+  </div></a>
+  </div>
+  </div>
+  </div>
+
+</div>
+   <div class="slick-slider views-row">
+<div class="distributor-teaser-card-wrapper">
+    
+<div class="news-preview distributor-teaser-card">
+    
+<div class="content-wrapper">
+          <div class="image-wrapper">
+        
+            
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/672px_vorschau/public/2026-06/Freibadfest%20Sponsoren%20und%20Organisation%20%282%29.jpg?h=9d436e45&amp;itok=e-e97tNx 1x" media="(min-width: 992px)" type="image/jpeg" width="3628" height="2268"></source>
+              <source srcset="/sites/default/files/styles/992px_vorschau_quer/public/2026-06/Freibadfest%20Sponsoren%20und%20Organisation%20%282%29.jpg?h=9d436e45&amp;itok=lcj0AS0i 1x" media="(max-width: 991.98px)" type="image/jpeg" width="992" height="620"></source>
+              <source srcset="/sites/default/files/styles/672px_vorschau/public/2026-06/Freibadfest%20Sponsoren%20und%20Organisation%20%282%29.jpg?h=9d436e45&amp;itok=e-e97tNx 1x" media="(max-width: 575.98px)" type="image/jpeg" width="3628" height="2268"></source>
+                  <img loading="eager" width="3628" height="2268" src="/sites/default/files/styles/672px_vorschau/public/2026-06/Freibadfest%20Sponsoren%20und%20Organisation%20%282%29.jpg?h=9d436e45&amp;itok=e-e97tNx" alt="Sponsoren und Organisatoren des Castrop-Rauxeler Freibadfestes 2026" class="img-fluid">
+
+  </picture>
+
+</div>
+          </div>
+
+<div class="copyright-info">
+          <div class="copyright-info-inner">
+            <div class="field__label">Urheberrecht</div>
+  
+            Stadt Castrop-Rauxel
+      
+  
+    </div>
+
+
+  </div>
+
+
+      
+  
+    </div>
+
+<a href="/freibadfest" class="field-group-link field_group_link" hreflang="de">
+<div class="card-wrapper">
+    
+<div class="text-wrapper">
+        
+      <div class="sub-headline head">Kultur und Freizeit</div>
+      
+  
+
+    
+      <div class="copy"><div>
+  Freibadfest im Parkbad Nord
+</div>
+</div>
+      
+  
+
+    
+      <div class="text">Das gro&szlig;e Freibadfest am Sonntag, 5. Juli, lockt wieder mit jeder Menge Spiel und Spa&szlig;.</div>
+      
+  
+
+
+  </div>
+  </div></a>
+  </div>
+  </div>
+  </div>
+
+</div>
+   <div class="slick-slider views-row">
+<div class="distributor-teaser-card-wrapper">
+    
+<div class="news-preview distributor-teaser-card">
+    
+<div class="content-wrapper">
+          <div class="image-wrapper">
+        
+            
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/672px_vorschau/public/2026-06/Kommunen%20am%20Limit%20%2811%29.png?h=221bc688&amp;itok=_Rc2nbjA 1x" media="(min-width: 992px)" type="image/png" width="1152" height="720"></source>
+              <source srcset="/sites/default/files/styles/992px_vorschau_quer/public/2026-06/Kommunen%20am%20Limit%20%2811%29.png?h=221bc688&amp;itok=r9VIo8nd 1x" media="(max-width: 991.98px)" type="image/png" width="992" height="620"></source>
+              <source srcset="/sites/default/files/styles/672px_vorschau/public/2026-06/Kommunen%20am%20Limit%20%2811%29.png?h=221bc688&amp;itok=_Rc2nbjA 1x" media="(max-width: 575.98px)" type="image/png" width="1152" height="720"></source>
+                  <img loading="eager" width="1152" height="720" src="/sites/default/files/styles/672px_vorschau/public/2026-06/Kommunen%20am%20Limit%20%2811%29.png?h=221bc688&amp;itok=_Rc2nbjA" alt="Luftbild von Menschen mit gelben Plakaten und Feuerwehrfahrzeug im Hintergrund." title='Castrop-Rauxel beteiligt sich an der Aktion "Kommunen am Limit"' class="img-fluid">
+
+  </picture>
+
+</div>
+          </div>
+
+<div class="copyright-info">
+          <div class="copyright-info-inner">
+            <div class="field__label">Urheberrecht</div>
+  
+            Stadt Castrop-Rauxel
+      
+  
+    </div>
+
+
+  </div>
+
+
+      
+  
+    </div>
+
+<a href="/kommunen-am-limit" class="field-group-link field_group_link" hreflang="de">
+<div class="card-wrapper">
+    
+<div class="text-wrapper">
+        
+      <div class="sub-headline head">Politik</div>
+      
+  
+
+    
+      <div class="copy"><div>
+  Kommunen am Limit
+</div>
+</div>
+      
+  
+
+    
+      <div class="text">Mit anderen Kommunen machte auch Castrop-Rauxel auf die dramatische kommunale Finanzsituation aufmerksam.</div>
+      
+  
+
+
+  </div>
+  </div></a>
+  </div>
+  </div>
+  </div>
+
+</div>
+
+    </div>
+  
+            <div class="view-footer latest-news-bottom">
+      <div class="latest-news-center-slider-controls-wrapper"><div class="slick-slider-controls"></div></div><div class="latest-news-bottom">
+<a href="/news"><div class="button-rounded-corners noselect">Alle Meldungen anzeigen</div></a>
+</div>
+    </div>
+    </div>
+</div></div>
+
+
+
+</div>
+              <div class="field__item">
+<div class="content-wrapper left60 right60">
+    
+<div class="urban-portals icon_kacheln_3_spalten">
+    
+<div class="urban-portals-left">
+        
+      <h2 class="urban-portals-headline headline">St&auml;dtische Portale</h2>
+      
+  
+
+
+  </div>
+<div class="urban-portals-right">
+          <div class="row">
+        
+      <div class="col-xxl-4 col-6"><a href="https://serviceportal.castrop-rauxel.de/" class="field-group-link external-link-kachel" target="_blank">
+<div class="button-card-icon">
+    
+  
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="Serviceportal" src="/sites/default/files/2023-03/icon_kachel-icon_service_portal.svg">
+</div>
+      
+
+
+      <div class="button-card-text">
+        
+            Serviceportal
+      
+  
+    </div>
+
+
+  </div></a>
+
+</div>
+      <div class="col-xxl-4 col-6"><a href="/kinder-und-jugend/kita-navigator" class="field-group-link">
+<div class="button-card-icon">
+    
+  
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="Kita-Navigator" src="/sites/default/files/2023-03/icon_kachel-icon_kita-navigator.svg">
+</div>
+      
+
+
+      <div class="button-card-text">
+        
+            Kita-Navigator
+      
+  
+    </div>
+
+
+  </div></a>
+
+</div>
+      <div class="col-xxl-4 col-6"><a href="https://castroprauxel.gremien.info/" class="field-group-link external-link-kachel" target="_blank">
+<div class="button-card-icon">
+    
+  
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="Politik-Online" src="/sites/default/files/2023-03/icon_kachel-icon_politik_online.svg">
+</div>
+      
+
+
+      <div class="button-card-text">
+        
+            Politik online
+      
+  
+    </div>
+
+
+  </div></a>
+
+</div>
+      <div class="col-xxl-4 col-6"><a href="https://beteiligung.nrw.de/portal/Castrop-Rauxel/startseite" class="field-group-link external-link-kachel" target="_blank">
+<div class="button-card-icon">
+    
+  
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="Drei stehende stilisierte M&auml;nnchen." src="/sites/default/files/2024-01/icon_buergerbeteiligung.svg">
+</div>
+      
+
+
+      <div class="button-card-text">
+        
+            B&uuml;rgerbeteiligung
+      
+  
+    </div>
+
+
+  </div></a>
+
+</div>
+      <div class="col-xxl-4 col-6"><a href="/terminvergabe" class="field-group-link">
+<div class="button-card-icon">
+    
+  
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="Symbolbild Kalender mit Uhr." src="/sites/default/files/2024-01/icon_terminbuchung.svg">
+</div>
+      
+
+
+      <div class="button-card-text">
+        
+            Terminbuchung
+      
+  
+    </div>
+
+
+  </div></a>
+
+</div>
+      <div class="col-xxl-4 col-6"><a href="https://www.geoportal.gkd-re.de/castrop-rauxel/casgeoportal/?lang=de&amp;basemap=5c18971d078fdn4akf&amp;blop=1&amp;x=383062.5&amp;y=5714335&amp;zl=10&amp;hl=0&amp;layers=basiskarten.verwaltungsgrenzen.stadtgrenze0yhla" class="field-group-link external-link-kachel" target="_blank">
+<div class="button-card-icon">
+    
+  
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="Symbolbild f&uuml;r das Geoportal." src="/sites/default/files/2024-01/icon_geoportal.svg">
+</div>
+      
+
+
+      <div class="button-card-text">
+        
+            Geoportal
+      
+  
+    </div>
+
+
+  </div></a>
+
+</div>
+      <div class="col-xxl-4 col-6"><a href="/service/ideen-und-maengelmelder" class="field-group-link">
+<div class="button-card-icon">
+    
+  
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="Symbolbild mit Kamera." src="/sites/default/files/2024-01/icon_maengelmelder.svg">
+</div>
+      
+
+
+      <div class="button-card-text">
+        
+            M&auml;ngelmelder
+      
+  
+    </div>
+
+
+  </div></a>
+
+</div>
+      <div class="col-xxl-4 col-6"><a href="https://www.guterstart.nrw.de/castrop-rauxel.suche" class="field-group-link external-link-kachel" target="_blank">
+<div class="button-card-icon">
+    
+  
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="Symbolbild eines Kompass" src="/sites/default/files/2024-01/icon_kompass.svg">
+</div>
+      
+
+
+      <div class="button-card-text">
+        
+            Kompass
+      
+  
+    </div>
+
+
+  </div></a>
+
+</div>
+      <div class="col-xxl-4 col-6"><a href="/veranstaltungskalender" class="field-group-link">
+<div class="button-card-icon">
+    
+  
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="Symbolbild mit Kalenderblatt." src="/sites/default/files/2024-01/icon_veranstaltungen.svg">
+</div>
+      
+
+
+      <div class="button-card-text">
+        
+            Veranstaltungen
+      
+  
+    </div>
+
+
+  </div></a>
+
+</div>
+      
+  
+    </div>
+
+
+  </div>
+  </div>
+  </div>
+
+</div>
+              <div class="field__item">
+<div class="further-topics">
+    
+<div class="further-topics-top">
+        
+      <h2 class="further-topics-headline headline">Weitere Themen</h2>
+      
+  
+
+
+  </div>
+<div class="further-topics-center">
+        
+      <div class="slide-item">
+<div class="further-topics-card">
+    
+<div class="content-wrapper">
+    
+<div class="image-wrapper">
+    
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/430px_vorschau_hoch/public/2024-02/Abschuluss_Azubis_2023%20%2813%29.jpg?h=c2adcb61&amp;itok=sq_l9dBv 1x" media="(min-width: 576px)" type="image/jpeg" width="430" height="573"></source>
+              <source srcset="/sites/default/files/styles/535px_vorschau_hoch/public/2024-02/Abschuluss_Azubis_2023%20%2813%29.jpg?h=c2adcb61&amp;itok=5QlTq3Rt 1x" media="(max-width: 575.98px)" type="image/jpeg" width="3024" height="4032"></source>
+                  <img loading="eager" width="3024" height="4032" src="/sites/default/files/styles/535px_vorschau_hoch/public/2024-02/Abschuluss_Azubis_2023%20%2813%29.jpg?h=c2adcb61&amp;itok=5QlTq3Rt" alt="Menschen gehen mit Blumenstr&auml;u&szlig;en vor dem Castroper Rathaus auf Kamera zu." class="img-fluid">
+
+  </picture>
+
+</div>
+          </div>
+
+<div class="copyright-info">
+          <div class="copyright-info-inner">
+            <div class="field__label">Urheberrecht</div>
+  
+            Stadt Castrop-Rauxel
+      
+  
+    </div>
+
+
+  </div>
+
+
+
+  </div><a href="/karriere/karriere" class="field-group-link further-topics-card-link">
+<div class="card-wrapper">
+    
+<div class="text-wrapper">
+        
+      <div class="sub-headline head">Rathaus</div>
+      
+  
+
+    
+      <div class="copy">Karriere</div>
+      
+  
+
+
+<div class="icon-wrapper">
+    
+<div class="icon">
+    
+  </div>
+  </div>
+  </div>
+  </div></a>
+  </div>
+  </div>
+
+</div>
+      <div class="slide-item">
+<div class="further-topics-card">
+    
+<div class="content-wrapper">
+    
+<div class="image-wrapper">
+    
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/430px_vorschau_hoch/public/2024-02/Windrad_0.jpg?h=035a2a4d&amp;itok=4TYikg-- 1x" media="(min-width: 576px)" type="image/jpeg" width="430" height="573"></source>
+              <source srcset="/sites/default/files/styles/535px_vorschau_hoch/public/2024-02/Windrad_0.jpg?h=035a2a4d&amp;itok=qkUTeWC8 1x" media="(max-width: 575.98px)" type="image/jpeg" width="2269" height="3024"></source>
+                  <img loading="eager" width="2269" height="3024" src="/sites/default/files/styles/535px_vorschau_hoch/public/2024-02/Windrad_0.jpg?h=035a2a4d&amp;itok=qkUTeWC8" alt="Windrad im Hintergrund mit gr&uuml;nen Pflanzen und B&auml;umen im Vordergrund" class="img-fluid">
+
+  </picture>
+
+</div>
+          </div>
+
+<div class="copyright-info">
+          <div class="copyright-info-inner">
+            <div class="field__label">Urheberrecht</div>
+  
+            Stadt Castrop-Rauxel
+      
+  
+    </div>
+
+
+  </div>
+
+
+
+  </div><a href="/klima/klimabeirat" class="field-group-link further-topics-card-link">
+<div class="card-wrapper">
+    
+<div class="text-wrapper">
+        
+      <div class="sub-headline head">Klimaanpassung</div>
+      
+  
+
+    
+      <div class="copy">Klimabeirat</div>
+      
+  
+
+
+<div class="icon-wrapper">
+    
+<div class="icon">
+    
+  </div>
+  </div>
+  </div>
+  </div></a>
+  </div>
+  </div>
+
+</div>
+      <div class="slide-item">
+<div class="further-topics-card">
+    
+<div class="content-wrapper">
+    
+<div class="image-wrapper">
+    
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/430px_vorschau_hoch/public/2024-01/Castrop-Rauxel%20Geburt%20Pexels%20Rene%20Asmussen.jpg?h=8d47984a&amp;itok=GavJZ_qB 1x" media="(min-width: 576px)" type="image/jpeg" width="430" height="573"></source>
+              <source srcset="/sites/default/files/styles/535px_vorschau_hoch/public/2024-01/Castrop-Rauxel%20Geburt%20Pexels%20Rene%20Asmussen.jpg?h=8d47984a&amp;itok=Ga3UkV_Q 1x" media="(max-width: 575.98px)" type="image/jpeg" width="2405" height="3205"></source>
+                  <img loading="eager" width="2405" height="3205" src="/sites/default/files/styles/535px_vorschau_hoch/public/2024-01/Castrop-Rauxel%20Geburt%20Pexels%20Rene%20Asmussen.jpg?h=8d47984a&amp;itok=Ga3UkV_Q" alt="Babyf&uuml;&szlig;e in H&auml;nden eines erwachsenen Menschen" title="Geburt in Castrop-Rauxel" class="img-fluid">
+
+  </picture>
+
+</div>
+          </div>
+
+<div class="copyright-info">
+          <div class="copyright-info-inner">
+            <div class="field__label">Urheberrecht</div>
+  
+            Pexels / Rene Asmussen
+      
+  
+    </div>
+
+
+  </div>
+
+
+
+  </div><a href="/dienstleistung/geburt" class="field-group-link further-topics-card-link">
+<div class="card-wrapper">
+    
+<div class="text-wrapper">
+        
+      <div class="sub-headline head">Familie</div>
+      
+  
+
+    
+      <div class="copy">Geburt</div>
+      
+  
+
+
+<div class="icon-wrapper">
+    
+<div class="icon">
+    
+  </div>
+  </div>
+  </div>
+  </div></a>
+  </div>
+  </div>
+
+</div>
+      <div class="slide-item">
+<div class="further-topics-card">
+    
+<div class="content-wrapper">
+    
+<div class="image-wrapper">
+    
+  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/430px_vorschau_hoch/public/2023-10/Spielplatz-Hallenbad_Header.jpg?h=035a2a4d&amp;itok=nsinXYpn 1x" media="(min-width: 576px)" type="image/jpeg" width="430" height="573"></source>
+              <source srcset="/sites/default/files/styles/535px_vorschau_hoch/public/2023-10/Spielplatz-Hallenbad_Header.jpg?h=035a2a4d&amp;itok=B4gAA8uB 1x" media="(max-width: 575.98px)" type="image/jpeg" width="2269" height="3024"></source>
+                  <img loading="eager" width="2269" height="3024" src="/sites/default/files/styles/535px_vorschau_hoch/public/2023-10/Spielplatz-Hallenbad_Header.jpg?h=035a2a4d&amp;itok=B4gAA8uB" alt="Blick auf den Spielplatz und die Wiese am Hallenbad." title="Spielplatz am Hallenbad" class="img-fluid">
+
+  </picture>
+
+</div>
+          </div>
+
+<div class="copyright-info">
+          <div class="copyright-info-inner">
+            <div class="field__label">Urheberrecht</div>
+  
+            Stadt Castrop-Rauxel
+      
+  
+    </div>
+
+
+  </div>
+
+
+
+  </div><a href="/entwicklung-der-stadtteile/spiel-und-sportpark-castroper-holz-am-hallenbad" class="field-group-link further-topics-card-link">
+<div class="card-wrapper">
+    
+<div class="text-wrapper">
+        
+      <div class="sub-headline head">Entwicklung der Stadtteile</div>
+      
+  
+
+    
+      <div class="copy">Spiel-, Sport- und Bewegungspark am Hallenbad</div>
+      
+  
+
+
+<div class="icon-wrapper">
+    
+<div class="icon">
+    
+  </div>
+  </div>
+  </div>
+  </div></a>
+  </div>
+  </div>
+
+</div>
+      
+  
+
+
+  </div>
+<div class="further-topics-bottom">
+    
+<div class="slick-slider-controls">
+    
+  </div>
+  </div>
+  </div>
+
+</div>
+              <div class="field__item">
+<div class="content-wrapper left60 right60">
+    
+<div class="quickly-clicked">
+    
+<div class="row">
+    
+<div class="col">
+        
+      <h2 class="quickly-clicked-headline headline">Schnell geklickt</h2>
+      
+  
+
+
+  </div>
+  </div>      <div class="row">
+        
+      <div class="col-xxl-3 col-6"><a href="/service/buergerservice-z" class="field-group-link">
+<div class="button-card-icon">
+    
+  
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="Symbolbild zwei Menschen sitzen sich gegen&uuml;ber." src="/sites/default/files/2024-01/icon_dienstleistungen.svg">
+</div>
+      
+
+
+      <div class="button-card-text">
+        
+            B&uuml;rgerservice A-Z
+      
+  
+    </div>
+
+
+  </div></a>
+
+</div>
+      <div class="col-xxl-3 col-6"><a href="/newsletter" class="field-group-link">
+<div class="button-card-icon">
+    
+  
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="" src="/sites/default/files/2024-01/icon_newsletter.svg">
+</div>
+      
+
+
+      <div class="button-card-text">
+        
+            Newsletter-Anmeldung
+      
+  
+    </div>
+
+
+  </div></a>
+
+</div>
+      <div class="col-xxl-3 col-6"><a href="/politik/politik" class="field-group-link">
+<div class="button-card-icon">
+    
+  
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="Symbolbild vom Ratssaal in Castrop-Rauxel." src="/sites/default/files/2024-01/icon_ansprechpartner_stadtverwaltung.svg">
+</div>
+      
+
+
+      <div class="button-card-text">
+        
+            Politik
+      
+  
+    </div>
+
+
+  </div></a>
+
+</div>
+      <div class="col-xxl-3 col-6"><a href="/service/presse" class="field-group-link">
+<div class="button-card-icon">
+    
+  
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="Aufgeklappte Zeitung." src="/sites/default/files/2024-01/icon_pressemittelungen.svg">
+</div>
+      
+
+
+      <div class="button-card-text">
+        
+            Presse
+      
+  
+    </div>
+
+
+  </div></a>
+
+</div>
+      <div class="col-xxl-3 col-6"><a href="/dienstleistung/fundbuero" class="field-group-link">
+<div class="button-card-icon">
+    
+  
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="Schl&uuml;ssel und Handy" src="/sites/default/files/2024-01/icon_fundbuero.svg">
+</div>
+      
+
+
+      <div class="button-card-text">
+        
+            Fundb&uuml;ro
+      
+  
+    </div>
+
+
+  </div></a>
+
+</div>
+      <div class="col-xxl-3 col-6"><a href="/amtsblatt" class="field-group-link">
+<div class="button-card-icon">
+    
+  
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="Symbolbild beschriebenes Papier." src="/sites/default/files/2024-01/icon_amtsblatt.svg">
+</div>
+      
+
+
+      <div class="button-card-text">
+        
+            Amtsblatt
+      
+  
+    </div>
+
+
+  </div></a>
+
+</div>
+      <div class="col-xxl-3 col-6"><a href="/rathaus/finanzen-und-haushalt" class="field-group-link">
+<div class="button-card-icon">
+    
+  
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="Schweinchenspardose und Eurom&uuml;nze dar&uuml;ber." src="/sites/default/files/2024-01/icon_finanzen.svg">
+</div>
+      
+
+
+      <div class="button-card-text">
+        
+            Finanzen und Haushalt
+      
+  
+    </div>
+
+
+  </div></a>
+
+</div>
+      <div class="col-xxl-3 col-6"><a href="/buergermeister" class="field-group-link">
+<div class="button-card-icon">
+    
+  
+            <div class="field field--name-field-media-svg field--type-svg-image-field field--label-hidden field__item">  <img width="64" height="64" alt="Eine stehende und eine am Tisch sitzende Personen. Dazwischen ein Uhr an der Wand." src="/sites/default/files/2024-01/icon_buergermeistersprechstunde.svg">
+</div>
+      
+
+
+      <div class="button-card-text">
+        
+            B&uuml;rgermeister
+      
+  
+    </div>
+
+
+  </div></a>
+
+</div>
+      
+  
+    </div>
+
+
+  </div>
+  </div>
+
+</div>
+              <div class="field__item">
+<div class="content-wrapper left60">
+    
+<div class="municipal-family">
+    
+<div class="municipal-family-content">
+    
+<div class="municipal-family-top">
+          <div class="top">
+        
+      <h2 class="municipal-family-headline headline"> Kommunale Familie</h2>
+      
+  
+    </div>
+
+
+<div class="bottom">
+    
+            <div class="field field--name-field-institutionen-bild field--type-entity-reference field--label-hidden field__item">    <div class="field__label visually-hidden">Image</div>
+
+      <picture>
+                  <source srcset="/sites/default/files/styles/vorschaubild_grossansicht_1150px/public/2024-03/Rathaus%20%26%20Hallen%20014.jpg?h=fcf0a4cc&amp;itok=lrbjkgf0 1x" media="(min-width: 1400px)" type="image/jpeg" width="1150" height="662"></source>
+              <source srcset="/sites/default/files/styles/vorschaubild_grossansicht_1150px/public/2024-03/Rathaus%20%26%20Hallen%20014.jpg?h=fcf0a4cc&amp;itok=lrbjkgf0 1x" media="(max-width: 1399.98px)" type="image/jpeg" width="1150" height="662"></source>
+              <source srcset="/sites/default/files/styles/vorschau_bild_grossansicht_748px/public/2024-03/Rathaus%20%26%20Hallen%20014.jpg?h=fcf0a4cc&amp;itok=8k9nim1e 1x" media="(max-width: 767.98px)" type="image/jpeg" width="748" height="431"></source>
+              <source srcset="/sites/default/files/styles/vorschau_bild_grossansicht_528px/public/2024-03/Rathaus%20%26%20Hallen%20014.jpg?h=fcf0a4cc&amp;itok=LM8skQJU 1x" media="(max-width: 575.98px)" type="image/jpeg" width="528" height="304"></source>
+                  <img loading="eager" width="748" height="431" src="/sites/default/files/styles/vorschau_bild_grossansicht_748px/public/2024-03/Rathaus%20%26%20Hallen%20014.jpg?h=fcf0a4cc&amp;itok=8k9nim1e" alt="Luftaufnahme vom Castrop-Rauxeler Rathaus." class="img-fluid">
+
+  </picture>
+
+
+
+<div class="copyright-info">
+          <div class="copyright-info-inner">
+            <div class="field__label">Urheberrecht</div>
+  
+            Stadt Castrop-Rauxel_Ludger Staudinger
+      
+  
+    </div>
+
+
+  </div>
+
+</div>
+      
+<div class="content-flip-wrapper">
+    
+<div class="content-flip">
+    
+<div class="content-flip-top">
+    
+            <div class="field field--name-dynamic-token-fieldparagraph-content-flip-button-switch field--type-ds field--label-hidden field__item"><div class="button-switch" data-area="municipal-flip">
+ <label class="button">
+<input type="checkbox">
+<span class="slider"></span>
+<div class="label left">Einrichtungen</div>
+<div class="label right">Beteiligungen</div>
+</label>
+</div></div>
+      
+  </div>
+<div class="content-flip-bottom">
+    
+<div class="municipal-flip">
+          <div class="municipal-flip-0">
+        
+            <div class="row">
+            <div class="col-lg-6 col-12"><a href="/gliederung-und-organigramm/bereich-buergerservice-und-standesamt" class="field-group-link">
+<div class="button-municipal-family arrows">
+        
+      <div class="copy">Standesamt</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      <div class="col-lg-6 col-12"><a href="/buergerhaus" class="field-group-link">
+<div class="button-municipal-family arrows">
+        
+      <div class="copy">B&uuml;rgerhaus</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      <div class="col-lg-6 col-12"><a href="/kultur-und-freizeit/stadtbibliothek" class="field-group-link">
+<div class="button-municipal-family arrows">
+        
+      <div class="copy">Stadtbibliothek</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      <div class="col-lg-6 col-12"><a href="/kultur-und-freizeit/jugendzentren" class="field-group-link">
+<div class="button-municipal-family arrows">
+        
+      <div class="copy">Jugendzentren</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      <div class="col-lg-6 col-12"><a href="/hallenbad" class="field-group-link">
+<div class="button-municipal-family arrows">
+        
+      <div class="copy">Hallenbad</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      <div class="col-lg-6 col-12"><a href="https://www.jobcenter-kreis-recklinghausen.de/Inhalte/Ueber_uns/Jobcenter_vor_Ort/BS_Castrop-Rauxel/index.asp" class="field-group-link">
+<div class="button-municipal-family arrows">
+        
+      <div class="copy">Jobcenter</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      <div class="col-lg-6 col-12"><a href="https://www.vhs-castrop-rauxel.de/" class="field-group-link">
+<div class="button-municipal-family arrows">
+        
+      <div class="copy">VHS</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      <div class="col-lg-6 col-12"><a href="/familien-und-bildungsbuero" class="field-group-link">
+<div class="button-municipal-family arrows">
+        
+      <div class="copy">Familien- und Bildungsb&uuml;ro</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      <div class="col-lg-6 col-12"><a href="/infostelle-soziales-jobcenter" class="field-group-link">
+<div class="button-municipal-family arrows">
+        
+      <div class="copy">Infostelle Soziales</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      <div class="col-lg-6 col-12"><a href="/bip" class="field-group-link">
+<div class="button-municipal-family arrows">
+        
+      <div class="copy">Beratungs- und Infocenter Pflege</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      <div class="col-lg-6 col-12"><a href="/beratung-und-hilfe/fach-und-beratungsstelle-fuer-menschen-behinderung-im-arbeitsleben" class="field-group-link">
+<div class="button-municipal-family arrows">
+        
+      <div class="copy">Fach- und Beratungsstelle Menschen mit Behinderung</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      
+      </div>
+  
+    </div>
+
+      <div class="municipal-flip-1">
+        
+            <div class="row">
+            <div class="col-lg-6 col-12"><a href="https://www.euv-stadtbetrieb.de/" class="field-group-link">
+<div class="button-municipal-family arrows">
+        
+      <div class="copy">EUV Stadtbetrieb</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      <div class="col-lg-6 col-12"><a href="/wirtschaft_marketing" class="field-group-link">
+<div class="button-municipal-family arrows">
+        
+      <div class="copy">Wirtschaft &amp; Marketing Castrop-Rauxel</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      <div class="col-lg-6 col-12"><a href="https://www.swcas.de/" class="field-group-link">
+<div class="button-municipal-family arrows">
+        
+      <div class="copy">Stadtwerke Castrop-Rauxel</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      <div class="col-lg-6 col-12"><a href="https://eventforum-castrop.de/" class="field-group-link">
+<div class="button-municipal-family arrows">
+        
+      <div class="copy">Event Forum</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      <div class="col-lg-6 col-12"><a href="/stadtfamilie/ecas-gmbh" class="field-group-link">
+<div class="button-municipal-family arrows">
+        
+      <div class="copy">ECAS</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      <div class="col-lg-6 col-12"><a href="/stadtfamilie/gliederung-und-organigramm" class="field-group-link">
+<div class="button-municipal-family arrows">
+        
+      <div class="copy">Stadtverwaltung</div>
+      
+  
+
+
+  </div></a>
+
+</div>
+      
+      </div>
+  
+    </div>
+
+
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+
+</div>
+          </div>
+  
+
+
+  </div>
+
+  </div>
+
+      </div>
+          </div>
+  </div>
+
+</main>
+
+  <footer class="footer-outer-wrapper     ">
+    <div class="footer-container">
+      <div class="footer-wrapper footer">
+        <div class="footer-left">
+            <div class="region region-footer-impress">
+    <div id="block-footerimpressum" class="footer-left-top block block-block-content block-block-contenteca41967-ac35-4522-854d-9bfb85610419">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><strong>Stadt Castrop-Rauxel</strong>
+<br>
+Europaplatz 1
+<br>
+44575 Castrop-Rauxel
+<br>
+Telefon 02305-106-0</div>
+      
+  </div>
+<div id="block-footerimpressumkontakt" class="footer-left-bottom block block-block-content block-block-contentcdb77071-ef86-4f04-b2a4-78e2641ec7a3">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><a href="/Kontaktformular" target="_blank" title="&Ouml;ffnet in neuem Fenster">
+
+Stadtverwaltung<br>kontaktieren
+
+</a></div>
+      
+  </div>
+
+  </div>
+
+        </div>
+        <div class="footer-right">
+          <div class="footer-right-social">
+              <div class="region region-footer-social">
+    <div id="block-footersociallinks" class="block block-block-content block-block-content30608e9e-855d-4672-91ae-30dad410475a">
+  
+      <div class="block-title ">Besuchen Sie uns auf:</div>
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"> <a href="https://www.facebook.com/StadtCastropRauxel" title="Facebook &ouml;ffnet in neuem Fenster" target="_blank">
+<div class="button-social facebook"></div>
+</a>
+<a href="https://www.instagram.com/stadtcastroprauxel/" title="Instagram &ouml;ffnet in neuem Fenster" target="_blank">
+<div class="button-social instagram"></div>
+</a>
+<a href="https://www.linkedin.com/company/stadt-castrop-rauxel/" title="LinkedIn &ouml;ffnet in neuem Fenster" target="_blank">
+<div class="button-social linkedin"></div>
+</a>
+<a href="https://www.youtube.com/c/StadtCastropRauxelOffiziell" title="Youtube &ouml;ffnet in neuem Fenster" target="_blank">
+<div class="button-social youtube"></div>
+</a>
+<a href="https://vimeo.com/user118448882" title="Vimeo &ouml;ffnet in neuem Fenster" target="_blank">
+<div class="button-social vimeo"></div>
+</a></div>
+      
+  </div>
+
+  </div>
+
+          </div>
+          <div class="footer-right-links">
+              <div class="region region-footer">
+    <nav role="navigation" aria-labelledby="block-castrop-rauxel-footer-menu" id="block-castrop-rauxel-footer" class="block block-menu navigation menu--footer">
+            
+  <div class="visually-hidden" id="block-castrop-rauxel-footer-menu">Footer</div>
+  
+
+        
+              <ul data-block="footer" class="nav navbar-nav">
+                    <li class="nav-item">
+        <a href="/impressum" class="nav-link" data-drupal-link-system-path="node/1">Impressum</a>
+              </li>
+                <li class="nav-item">
+        <a href="/datenschutz" class="nav-link" data-drupal-link-system-path="node/2">Datenschutz</a>
+              </li>
+                <li class="nav-item">
+        <a href="/barrierefreiheit" class="nav-link" data-drupal-link-system-path="node/3">Barrierefreiheit</a>
+              </li>
+                <li class="nav-item">
+        <a href="/sitemap" class="nav-link" data-drupal-link-system-path="sitemap">Sitemap</a>
+              </li>
+                <li class="nav-item">
+        <a href="/kontakt" class="nav-link" data-drupal-link-system-path="node/1837">Kontakt</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-footercopyright" class="block block-block-content block-block-content498a85d7-c37a-4fb6-b185-b8cf37d9f74b">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>&copy; 2024 Stadt Castrop-Rauxel</p></div>
+      
+  </div>
+
+  </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <div class="menu-bg"></div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/10","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"de"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"matomo":{"disableCookies":false,"trackColorbox":false,"trackMailto":true},"ajaxPageState":{"libraries":"eJx1UNFOwzAM_KG0eeJ7Iqc90oBTR7YDG1-_sklsQ_By9t35LNkZ7tCEUxfDml4rH9QiDZdkI7fqIf89UrBDiUMWcXOl_hIzGZ74Tzu92cTkMH_0C0smnszPXPfy6DSYUYGFhQ5FelIaJ_DvxCKKuIs24vqF8M6kEq8YGrk0ibcSOimVY_NmcdXRiee7Mo-9j8zVNqzBQLpsiXpN3z9YpHWGI_6jBzubo90u_6j4tHjFuck6GBe6IIoE","theme":"castrop_rauxel","theme_token":null},"ajaxTrustedUrl":{"\/suche":true},"klaro":{"config":{"elementId":"klaro","storageMethod":"cookie","cookieName":"klaro","cookieExpiresAfterDays":365,"cookieDomain":"","groupByPurpose":true,"acceptAll":true,"hideDeclineAll":false,"hideLearnMore":false,"learnMoreAsButton":false,"additionalClass":" hide-consent-dialog-title klaro-theme-castrop_rauxel","disablePoweredBy":false,"htmlTexts":false,"autoFocus":true,"privacyPolicy":"\/datenschutz","lang":"de","services":[{"name":"cms","default":true,"title":"Technisch und funktional ","description":"Vom Redaktionssystem technisch ben\u00f6tigte Cookies","purposes":["cms"],"callbackCode":"","onInit":"","onAccept":"","onDecline":"","cookies":[["has_js","",""],["^[SESS|SSESS]","",""],["^proxyVisitor","",""]],"required":true,"optOut":false,"onlyOnce":false,"contextualConsentOnly":false,"contextualConsentText":"","wrapperIdentifier":[],"translations":{"de":{"title":"Technisch und funktional "}}},{"name":"webseite","default":false,"title":"Webseite","description":"Speichert funktional die Einstellungen der Warnmeldungen","purposes":["komfortfunktionen_optional"],"callbackCode":"","onInit":"","onAccept":"","onDecline":"","cookies":[["castrop-warnings","",""]],"required":false,"optOut":false,"onlyOnce":false,"contextualConsentOnly":false,"contextualConsentText":"","wrapperIdentifier":[],"translations":{"de":{"title":"Webseite"}}},{"name":"klaro","default":true,"title":"Klaro!","description":"Cookie-Tool speichert funktional die gew\u00e4hlten Einstellungen","purposes":["cms"],"callbackCode":"","onInit":"","onAccept":"","onDecline":"","cookies":[["klaro","",""]],"required":true,"optOut":false,"onlyOnce":false,"contextualConsentOnly":false,"contextualConsentText":"","wrapperIdentifier":[],"translations":{"de":{"title":"Klaro!"}}},{"name":"eye_able","default":true,"title":"eye-able","description":"Barrierefreiheitsassistent speichert funktional die gew\u00e4hlte Einstellungen","purposes":["cms"],"callbackCode":"","onInit":"","onAccept":"","onDecline":"","cookies":[],"required":true,"optOut":false,"onlyOnce":false,"contextualConsentOnly":false,"contextualConsentText":"","wrapperIdentifier":[],"translations":{"de":{"title":"eye-able"}}},{"name":"matomo","default":false,"title":"Matomo","description":"Speichert (anonymisiert) Besucherzugriffe auf der Webseite zu statistischen Auswertung und Optimierung","purposes":["analytics"],"callbackCode":"","onInit":"","onAccept":"","onDecline":"","cookies":[["^_pk_.*$","",""],["piwik_ignore","",""]],"required":false,"optOut":false,"onlyOnce":false,"contextualConsentOnly":false,"contextualConsentText":"","wrapperIdentifier":[],"translations":{"de":{"title":"Matomo"}}},{"name":"vimeo","default":false,"title":"Vimeo","description":"Ben\u00f6tigt f\u00fcr die Darstellung von Videos \u00fcber den Anbieter","purposes":["external_content"],"callbackCode":"","onInit":"","onAccept":"","onDecline":"","cookies":[],"required":false,"optOut":false,"onlyOnce":false,"contextualConsentOnly":false,"contextualConsentText":"","wrapperIdentifier":[],"translations":{"de":{"title":"Vimeo"}}},{"name":"veranstaltungskalender","default":false,"title":"Veranstaltungskalender","description":"Speichert technisch erforderliche Sitzungscookies","purposes":["cms"],"callbackCode":"","onInit":"","onAccept":"","onDecline":"","cookies":[],"required":true,"optOut":false,"onlyOnce":false,"contextualConsentOnly":false,"contextualConsentText":"","wrapperIdentifier":[],"translations":{"de":{"title":"Veranstaltungskalender"}}},{"name":"youtube","default":false,"title":"YouTube","description":"Erlaubt das Laden von eingebetteten YouTube-Videos. Dabei werden Daten an Google in die USA \u00fcbertragen.","purposes":["external_content"],"callbackCode":"","onInit":"","onAccept":"","onDecline":"","cookies":[],"required":false,"optOut":false,"onlyOnce":false,"contextualConsentOnly":false,"contextualConsentText":"","wrapperIdentifier":[],"translations":{"de":{"title":"YouTube"}}}],"translations":{"de":{"consentModal":{"title":"Verwendung personenbezogener Daten und Cookies","description":"Bitte \u00e4ndern Sie die hier die Speichereinstellungen nach Ihren W\u00fcnschen.","privacyPolicy":{"name":"Datenschutzerkl\u00e4rung","text":"Um mehr \u00fcber Datenschutz bei der Stadt Castrop-Rauxel zu erfahren, lesen Sie auch unsere {privacyPolicy}.\r\n"}},"consentNotice":{"title":"Verwendung personenbezogener Daten und Cookies","changeDescription":"Seit Ihrem letzten Besuch haben sich \u00c4nderungen ergeben. Bitte aktualisieren Sie Ihre Einwilligung.","description":"Auf unserer Webseite verwenden wir neben technisch und funktional notwendigen Cookies (u.\u00e4.) auch solche, deren Zweck die Analyse von Websitezugriffen und die Personalisierung der Nutzererfahrung ist. Weitere Informationen sind in unserer {privacyPolicy} zu finden.  \r\n","learnMore":"Anpassen","privacyPolicy":{"name":"Datenschutzerkl\u00e4rung"}},"ok":"OK","save":"Speichern","decline":"Alle ablehnen","close":"Schlie\u00dfen","acceptAll":"Allen zustimmen","acceptSelected":"Auswahl speichern","service":{"disableAll":{"title":"Alle Apps umschalten","description":"Mit diesem Schalter k\u00f6nnen Sie alle Apps aktivieren\/deaktivieren."},"optOut":{"title":"(opt-out)","description":"Diese App wird standardm\u00e4\u00dfig geladen (Sie k\u00f6nnen sich jedoch abmelden)"},"required":{"title":"(erforderlich)","description":"Dieser Einstellung ist immer erforderlich"},"purposes":"  Zwecke","purpose":"  Zweck"},"contextualConsent":{"acceptAlways":"Immer","acceptOnce":"Ja","description":"M\u00f6chten Sie externe Inhalte laden, die von {title} bereitgestellt werden?"},"poweredBy":"","purposeItem":{"service":"Dienst","services":"Dienste"},"privacyPolicy":{"name":"Datenschutzerkl\u00e4rung","text":"Um mehr \u00fcber Datenschutz bei der Stadt Castrop-Rauxel zu erfahren, lesen Sie auch unsere {privacyPolicy}.\r\n"},"purposes":{"advertising":{"title":"Werbung","description":""},"komfortfunktionen_optional":{"title":"Komfortfunktionen (optional)","description":""},"analytics":{"title":"Statistik","description":""},"cms":{"title":"Technisch und funktional ","description":""},"livechat":{"title":"Livechat","description":""},"security":{"title":"Security","description":""},"styling":{"title":"Styling","description":""},"external_content":{"title":"Externe Dienste","description":""}}}},"purposeOrder":["advertising","komfortfunktionen_optional","analytics","cms","livechat","security","styling","external_content"],"showNoticeTitle":true,"styling":{"theme":[""]}},"dialog_mode":"notice","show_toggle_button":true,"toggle_button_icon":null,"show_close_button":false,"exclude_urls":[],"disable_urls":["\\\/media\\\/oembed"]},"field_group":{"html_element":{"mode":"default","context":"view","settings":{"classes":"warning","show_empty_fields":false,"id":"","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast"}},"link":{"mode":"default","context":"view","settings":{"classes":"topleisten-news-link","show_empty_fields":false,"id":"","target":"field_top_news_link","custom_uri":"","target_attribute":"default"}}},"better_exposed_filters":{"autosubmit_exclude_textfield":false},"search_api_autocomplete":{"suchansicht":{"auto_submit":true,"min_length":3}},"user":{"uid":0,"permissionsHash":"27e0a59d2a5231950333251c3b514f724e422b48e1af260cd92e88b199fd76bb"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=4.0.0"></script>
+<script src="/sites/default/files/js/js_Po2TaAtomui1XIJVIN_FHhlnC9JR4Mh1kN7JpVccguo.js?scope=footer&amp;delta=1&amp;language=de&amp;theme=castrop_rauxel&amp;include=eJx1jjsOAjEMRC_kyBXniZxgQsBZR7YjLbdngYIGmvk8TTGFI9gy71Odz_nS5aiOtEKzrzJ6QPk9abyxkUBRDQ-jecJvTDdPQsEeUOlAOrPR2lmwiRaS5PGQvjW4C5niW2FQ6FD8GDiT1Wum2fPrTdUxhYPxD38CqpdQEA"></script>
+<script src="/libraries/eyeable/www.castrop-rauxel.de.js?thy29u" async></script>
+<script src="/libraries/eyeable/public/js/eyeAble.js?thy29u" async></script>
+<script src="https://translate-cdn.eye-able.com/eye-able-translate.js" async></script>
+<script src="/sites/default/files/js/js_D4BPPhbd7FUORSeUrja6LiF43aqrmH0JwDJaic1ARWA.js?scope=footer&amp;delta=5&amp;language=de&amp;theme=castrop_rauxel&amp;include=eJx1jjsOAjEMRC_kyBXniZxgQsBZR7YjLbdngYIGmvk8TTGFI9gy71Odz_nS5aiOtEKzrzJ6QPk9abyxkUBRDQ-jecJvTDdPQsEeUOlAOrPR2lmwiRaS5PGQvjW4C5niW2FQ6FD8GDiT1Wum2fPrTdUxhYPxD38CqpdQEA"></script>
+<script src="/modules/contrib/klaro/js/klaro_placeholder.js" data-type="text/javascript" type="text/plain" data-name="matomo" data-src="/modules/contrib/matomo/js/matomo.js?thy29u"></script>
+<script src="/sites/default/files/js/js_RL-CMW_iaLOF16gDvIEn4D-NvjrVaSiAd3keYENO-hs.js?scope=footer&amp;delta=7&amp;language=de&amp;theme=castrop_rauxel&amp;include=eJx1jjsOAjEMRC_kyBXniZxgQsBZR7YjLbdngYIGmvk8TTGFI9gy71Odz_nS5aiOtEKzrzJ6QPk9abyxkUBRDQ-jecJvTDdPQsEeUOlAOrPR2lmwiRaS5PGQvjW4C5niW2FQ6FD8GDiT1Wum2fPrTdUxhYPxD38CqpdQEA"></script>
+
+  </drupal-big-pipe-scripts-bottom-marker></drupal-big-pipe-scripts-bottom-marker></body>
+</html>

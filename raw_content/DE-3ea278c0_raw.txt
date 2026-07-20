@@ -1,0 +1,1406 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<!-- cookieconsent START -->
+<script>
+window.dataLayer = window.dataLayer || [];
+dataLayer.push({ event: "OneTrustOnPage", OneTrustOnPage: true });
+</script>
+<!-- OneTrust Cookie-Einwilligungshinweis -->
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="e51745ba-2e33-4667-a38e-1e0e9af0c099" async></script>
+<!-- OneTrust-Cookie-Einwilligungshinweis -->
+<script type="text/javascript">
+window.OneTrust = window.OneTrust || {};
+window.OneTrust.initialized = false;
+window.OneTrust.activeGroups = [];
+function OptanonWrapper() {
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({ event: 'OptanonUpdate' });
+const activeGroups = window.OnetrustActiveGroups.split(",").filter(function (element) { return element; });
+window.OneTrust.activeGroups.length > activeGroups.length ? location.reload() : window.OneTrust.activeGroups = activeGroups;
+if(!window.OneTrust.initialized) {
+const eventOneTrustInitialized = new CustomEvent('OneTrust.initialized');
+window.dispatchEvent(eventOneTrustInitialized);
+window.OneTrust.initialized = true;
+}
+const eventOneTrustExecuted = new CustomEvent('OneTrust.executed');
+window.dispatchEvent(eventOneTrustExecuted);
+}
+</script>
+<!-- cookieconsent ENDE -->
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Erste Kunstmesse der Welt | ART COLOGNE</title>
+<meta name="description" content="Als erste Kunstmesse der Welt ist die ART COLOGNE für Galerien und Institutionen der wichtigste Branchentreffpunkt in Deutschland.">
+<meta name="keywords" content="ART COLOGNE, Kunstmesse, moderne Kunst, zeitgenössische Kunst, Köln, Galerien, Künstler, Sammler, Kunstliebhaber, Gemälde, Skulpturen, Fotografien, Installationen, digitale Kunst, internationale Kunstmesse, Kunstmarkt, Sonderausstellungen, Vernissagen, hochwertige Kunstwerke" />
+<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1,minimum-scale=1.0, maximum-scale=1.0" />
+<meta name="facebook-domain-verification" content="0syjcascg1x6uafkjbw7nu0kne3b6c" />
+<meta property="og:title" content="Erste Kunstmesse der Welt"/>
+<meta property="og:description" content="Als erste Kunstmesse der Welt ist die ART COLOGNE für Galerien und Institutionen der wichtigste Branchentreffpunkt in Deutschland."/>
+<meta property="og:url" content="https://www.artcologne.de"/>
+<meta property="og:image" content="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/art/art_cologne_1200x630.jpg"/>
+<link rel="alternate" href="https://www.artcologne.com/" hreflang="x-default" />
+<link rel="alternate" hreflang="de" href="https://www.artcologne.de/" />
+<link rel="alternate" hreflang="en" href="https://www.artcologne.com/" />
+<link rel="apple-touch-icon" sizes="57x57" href="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/art/favicon_art_32x32_favicon_57.jpg">
+<link rel="apple-touch-icon" sizes="60x60" href="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/art/favicon_art_32x32_favicon_60.jpg">
+<link rel="apple-touch-icon" sizes="72x72" href="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/art/favicon_art_32x32_favicon_72.jpg">
+<link rel="apple-touch-icon" sizes="76x76" href="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/art/favicon_art_32x32_favicon_76.jpg">
+<link rel="apple-touch-icon" sizes="114x114" href="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/art/favicon_art_32x32_favicon_114.jpg">
+<link rel="apple-touch-icon" sizes="120x120" href="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/art/favicon_art_32x32_favicon_120.jpg">
+<link rel="apple-touch-icon" sizes="152x152" href="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/art/favicon_art_32x32_favicon_152.jpg">
+<link rel="apple-touch-icon" sizes="180x180" href="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/art/favicon_art_32x32_favicon_180.jpg">
+<link rel="icon" type="image/png" sizes="192x192" href="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/art/favicon_art_32x32_favicon_192.jpg">
+<link rel="icon" type="image/png" sizes="32x32" href="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/art/favicon_art_32x32_favicon_32.jpg">
+<link rel="icon" type="image/png" sizes="96x96" href="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/art/favicon_art_32x32_favicon_96.jpg">
+<link rel="icon" type="image/png" sizes="16x16" href="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/art/favicon_art_32x32_favicon_16.jpg">
+<link rel="stylesheet" href="https://media.koelnmesse.io/artcologne/assets/css/styles.css">
+<link rel="stylesheet" href="https://media.koelnmesse.io/artcologne/assets/third-party/shariff/shariff_complete_2.css">
+<link rel="stylesheet" href="https://media.koelnmesse.io/artcologne/assets/third-party/searchapp/sccassets/styles/ssc_default.css">
+<link rel="stylesheet" href="https://media.koelnmesse.io/artcologne/assets/third-party/searchapp/search-app-styles.css">
+<link rel="stylesheet" href="/global/asdb.php?favlist=2" type="text/css" />
+<script src="https://media.koelnmesse.io/artcologne/assets/js/main.min.js.js"></script>
+<script src="https://media.koelnmesse.io/artcologne/assets/third-party/datepicker/datepicker-de.js"></script>
+<script>
+$.datepicker.setDefaults($.datepicker.regional["de"]);
+</script>
+<script src="https://media.koelnmesse.io/artcologne/assets/third-party/shariff/shariff_min.js"></script>
+<script src="https://media.koelnmesse.io/artcologne/assets/third-party/searchapp/js_2/sscbasic.js"></script>
+<script src="/global/asdb.php?favlist=1"></script>
+<script type="text/javascript" lang="javascript" src="https://cdns.eu1.gigya.com/js/gigya.js?apikey=4_82hw7I4vvijCMqYu6Tygog"></script>
+<script type="text/javascript">
+sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1;
+function SmartAdServer(sas_pageid,sas_formatid,sas_target) {
+if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};
+document.write('<scr'+'ipt src="https://www3.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
+}
+</script>
+<link rel="canonical" href="https://www.artcologne.de">
+<script src="https://media.koelnmesse.io/artcologne/assets/third-party/searchapp/js_2/search-app-chunk.js" defer></script>
+<script src="https://media.koelnmesse.io/artcologne/assets/third-party/searchapp/js_2/search-app-main.js" defer></script>
+<script defer data-domain="www.artcologne.de" src="https://plausible.io/js/script.js"></script>
+<!-- GTM DataLayer.push -->
+<script type="text/javascript">
+window.dataLayer = window.dataLayer || [];
+dataLayer.push({
+'event' : 'Page Meta',
+'websiteType' : 'Messe',
+'exhibitionNumber' : '0570',
+'language' : 'DE',
+'trafficType' : 'extern'
+});
+</script>
+<script type="text/javascript">
+(function($) {
+$(document).ready(function() {
+window.dataLayer = window.dataLayer || [];
+$('.metanavItem.mainlink:not(#cdcLoginButton):not(.mobileMenuToggle):not([href="javascript:void(0);"])').on('click', function(e) {
+dataLayer.push({
+event: "gaEvent",
+eventCategory: "Meta-Navigation",
+eventAction: $(this).attr('title'),
+eventLabel: $(this).attr('href')
+});
+window.dataLayer.push({
+event: 'NewGaEvent',
+event_name: 'meta_navigation',
+meta_navigation:{
+clicked_element: $(this).attr('title'),
+link_url: $(this).attr('href')
+}
+});
+});
+$('.metanavItem.mainlink:not(#cdcLoginButton):not(.mobileMenuToggle)[href="javascript:void(0);"]').on('click', function(e) {
+dataLayer.push({
+event: "gaEvent",
+eventCategory: "Meta-Navigation",
+eventAction: $(this).attr('title'),
+eventLabel: ""
+});
+window.dataLayer.push({
+event: 'NewGaEvent',
+event_name: 'meta_navigation',
+meta_navigation:{
+clicked_element: $(this).attr('title'),
+link_url: ""
+}
+});
+});
+$('#cdcLoginButton').on('click', function(e) {
+dataLayer.push({
+event: "gaEvent",
+eventCategory: "Meta-Navigation",
+eventAction: $(this).attr('title'),
+eventLabel: ""
+});
+window.dataLayer.push({
+event: 'NewGaEvent',
+event_name: 'meta_navigation',
+meta_navigation:{
+clicked_element: $(this).attr('title'),
+link_url: ""
+}
+});
+});
+$('.navbar .langselect_altlang').on('click', function(e) {
+dataLayer.push({
+event: "gaEvent",
+eventCategory: "Meta-Navigation",
+eventAction: "Language switched to "+$(this).attr('hreflang'),
+eventLabel: $(this).attr('href')
+});
+window.dataLayer.push({
+event: 'NewGaEvent',
+event_name: 'meta_navigation',
+meta_navigation:{
+clicked_element: "Language switched to "+$(this).attr('hreflang'),
+link_url: $(this).attr('href')
+}
+});
+});
+$('.stage a').on('click', function(e) {
+window.dataLayer.push({
+event: 'NewGaEvent',
+event_name: 'stage_button_click',
+stage_button_click : {
+clicked_element: $(this).text(),
+link_url: $(this).attr('href')
+}
+});
+window.dataLayer.push({
+event: "gaEvent",
+eventCategory: "Stage Button Click",
+eventAction: $(this).text(),
+eventLabel: $(this).attr('href')
+});
+});
+$('.teaser-holder a:not(:has(a))').on('click', function(e) {
+window.dataLayer.push({
+event: 'NewGaEvent',
+event_name: 'teaser_click',
+teaser_click : {
+clicked_element: $(this).text(),
+link_url: $(this).attr('href')
+}
+});
+window.dataLayer.push({
+event: "gaEvent",
+eventCategory: "Teaser Click",
+eventAction: $(this).text(),
+eventLabel: $(this).attr('href')
+});
+});
+$('#footer-newsletter-form button').on('click', function(e) {
+window.dataLayer.push({
+event: 'NewGaEvent',
+event_name: 'newsletter_auswählen_button_geklickt'
+});
+});
+$('#newsletter-popup-form form').submit(function (e) {
+window.dataLayer.push({
+event: 'NewGaEvent',
+event_name: 'newsletter_single_opt_in'
+});
+});
+$('.anchor-link-module-wrapper .anchor-link-module-link a').on('click', function(e) {
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+event: "gaEvent",
+eventCategory: "Anker-Navigation",
+eventAction: $(this).text(),
+eventLabel: $(this).attr('href')
+});
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+event: 'NewGaEvent',
+event_name: 'anker_navigation',
+anker_navigation:{
+clicked_element: $(this).text(),
+link_url: $(this).attr('href')
+}
+});
+});
+$('.Tracking_Grid_Teaser').on('click', function(e) {
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+event: "gaEvent",
+eventCategory: "Teaser Click",
+eventAction: $(this).text(),
+eventLabel: $(this).attr('href')
+});
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+event: 'NewGaEvent',
+event_name: 'teaser_click',
+teaser_click : {
+clicked_element: $(this).text(),
+link_url: $(this).attr('href')
+}
+});
+});
+$('.paragraph a, .feature-box a, .ctadivider a').on('click', function(e) {
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+event: "gaEvent",
+eventCategory: "Teaser Click",
+eventAction: $(this).text(),
+eventLabel: $(this).attr('href')
+});
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({
+event: 'NewGaEvent',
+event_name: 'teaser_click',
+teaser_click : {
+clicked_element: $(this).text(),
+link_url: $(this).attr('href')
+}
+});
+});
+});
+})(jQuery);
+</script>
+<!-- Google Tag Manager -->
+<script type="text/plain" class="optanon-category-C0003"> (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MRV9BM4');</script>
+<!-- End Google Tag Manager -->
+<script>
+window.globalConfig = {
+brand: {
+identifier: '0570',
+instance: 2026
+},
+services: {
+cds: {
+api: {
+client: {
+identifier: "",
+secret: ""
+},
+uri: ""
+}
+}
+}
+};
+</script>
+<script>
+favlist.init("0570", "", "1", '?route=merkliste/v2');
+</script>
+</head>
+<body id="top" class="pate-home " >
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe class="optanon-category-C0003" data-src="https://www.googletagmanager.com/ns.html?id=GTM-MRV9BM4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- HEADER_BEGIN -->
+<header>
+<div class="grid-wrapper lightback ">
+<p class="header-banner">
+<span class="item">
+<span class="label">Köln</span>
+<span class="date">05.&ndash;08.11.2026</span>
+</span>
+<span class="item">
+<span class=" " >#artcologne</span>
+</span>
+</p>
+<style>
+.search-bar .search-bar__form .search-bar__submit {
+background-color: #333;
+}
+</style>
+<style>
+.search-bar .search-bar__results .search-bar__suggestions .search-bar__suggestion a {
+color: #000000 !important;
+}
+</style>
+<span class="langselect langselect_header-banner desktophidden">
+<span title="Language" class="ico lang mainlink langselect_metanav ">
+<span class="langselect_currentlang">
+DE
+<img class="langselect_dropdownicon light" alt="Icon Pfeil" src="https://media.koelnmesse.io/artcologne/assets/icons/icon_chevron_down_light_h7.svg" />
+<img class="langselect_dropdownicon dark" alt="Icon Pfeil" src="https://media.koelnmesse.io/artcologne/assets/icons/icon_chevron_down_h7.svg" />
+</span>
+</span>
+<span class="langselect_box hide">
+<div class="langselect_selector dark-lang ">
+<span class="ico lang langselect_box-current">
+<span class="langselect_currentlang">
+DE
+<!-- Generator: Adobe Illustrator 24.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0) -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 12 7" style="enable-background:new 0 0 12 7;" xml:space="preserve">
+<style type="text/css">
+.st0{fill:#FFFFFF;}
+</style>
+<title>Element 13300</title>
+<g id="Ebene_2_1_">
+<g id="motive">
+<path class="st0" d="M6,7C5.7,7,5.5,6.9,5.3,6.7l-5-5c-0.4-0.4-0.4-1,0-1.4s1-0.4,1.4,0L6,4.6l4.3-4.3c0.4-0.4,1-0.4,1.4,0
+s0.4,1,0,1.4l-5,5C6.5,6.9,6.3,7,6,7z"/>
+</g>
+</g>
+</svg>
+</span>
+</span>
+<a class="langselect_altlang" href="https://www.artcologne.com" hreflang="en">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15 12" style="enable-background:new 0 0 15 12;" xml:space="preserve">
+<style type="text/css">
+.st0 {
+fill: #FFFFFF;
+}
+</style>
+<title>Element 12300</title>
+<g id="Ebene_2_1_">
+<g id="motive_1_">
+<path class="st0" d="M1,7h10.6l-3.3,3.3c-0.4,0.4-0.4,1,0,1.4c0.4,0.4,1,0.4,1.4,0l5-5c0.4-0.4,0.4-1,0-1.4l-5-5
+c-0.4-0.4-1-0.4-1.4,0.1C8,0.7,8,1.3,8.3,1.7L11.6,5H1C0.4,5,0,5.4,0,6S0.4,7,1,7z" />
+</g>
+</g>
+</svg>
+EN
+</a>
+</div>
+</span>
+</span>
+<div class="gw-inner">
+<div class="logo" >
+<a class="cube" href="https://www.artcologne.de" title="ART COLOGNE">
+<div class="imgholder">
+<img class="logo-white" src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/art/art_cologne_4c.jpg" alt="ART COLOGNE" title="ART COLOGNE" width=220>
+<img class="logo-dark" src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/art/art_cologne_4c.jpg" alt="ART COLOGNE" title="ART COLOGNE" width=220>
+</div>
+</a>
+</div>
+<div class="navbar">
+<div id="metaNavSearchApp" data-translations='{
+"search_page_redirect_link": "https://www.artcologne.de/suche/?q=",
+"solr_rest_service_core": "artcologne_de",
+"solr_rest_service_suggestion_endpoint": "https://www.artcologne.de/solr/csrproxy/autocomplete",
+"search_input_placeholder": "Suche"
+}'></div>
+<style>
+.search-bar .search-bar__form .search-bar__submit {
+background-color: #333;
+}
+</style>
+<style>
+.search-bar .search-bar__results .search-bar__suggestions .search-bar__suggestion a {
+color: #000000 !important;
+}
+</style>
+<span class="langselect show_desktop_only">
+<span title="Language" class="ico lang mainlink langselect_metanav ">
+<span class="langselect_currentlang">
+DE
+<img class="langselect_dropdownicon light" alt="Icon Pfeil" src="https://media.koelnmesse.io/artcologne/assets/icons/icon_chevron_down_light_h7.svg" />
+<img class="langselect_dropdownicon dark" alt="Icon Pfeil" src="https://media.koelnmesse.io/artcologne/assets/icons/icon_chevron_down_h7.svg" />
+</span>
+</span>
+<span class="langselect_box hide">
+<div class="langselect_selector dark-lang ">
+<span class="ico lang langselect_box-current">
+<span class="langselect_currentlang">
+DE
+<!-- Generator: Adobe Illustrator 24.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0) -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 12 7" style="enable-background:new 0 0 12 7;" xml:space="preserve">
+<style type="text/css">
+.st0{fill:#FFFFFF;}
+</style>
+<title>Element 13300</title>
+<g id="Ebene_2_1_">
+<g id="motive">
+<path class="st0" d="M6,7C5.7,7,5.5,6.9,5.3,6.7l-5-5c-0.4-0.4-0.4-1,0-1.4s1-0.4,1.4,0L6,4.6l4.3-4.3c0.4-0.4,1-0.4,1.4,0
+s0.4,1,0,1.4l-5,5C6.5,6.9,6.3,7,6,7z"/>
+</g>
+</g>
+</svg>
+</span>
+</span>
+<a class="langselect_altlang" href="https://www.artcologne.com" hreflang="en">
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 15 12" style="enable-background:new 0 0 15 12;" xml:space="preserve">
+<style type="text/css">
+.st0 {
+fill: #FFFFFF;
+}
+</style>
+<title>Element 12300</title>
+<g id="Ebene_2_1_">
+<g id="motive_1_">
+<path class="st0" d="M1,7h10.6l-3.3,3.3c-0.4,0.4-0.4,1,0,1.4c0.4,0.4,1,0.4,1.4,0l5-5c0.4-0.4,0.4-1,0-1.4l-5-5
+c-0.4-0.4-1-0.4-1.4,0.1C8,0.7,8,1.3,8.3,1.7L11.6,5H1C0.4,5,0,5.4,0,6S0.4,7,1,7z" />
+</g>
+</g>
+</svg>
+EN
+</a>
+</div>
+</span>
+</span>
+<a href="javascript:void(0)" title="MobileMenu" class="metanavItem mobileMenuToggle hideDesktopMeta showMobileMeta mainlink">
+<i class="ico mobileMenu"></i>
+<span>Menü</span>
+</a>
+<a tabindex="0" href="javascript:void(0);"id="cdcLoginButton" onclick="openIcxMenu()" data-target="subnav-login2"
+title="Aussteller Log in" class="metanavItem showMobileMeta mainlink" >
+<i class="ico loginCDC"></i>
+<span>Log in</span>
+</a>
+<a tabindex="0" href="https://www.artcologne.de/kontakt/"
+title="Kontakt" class="metanavItem mainlink" >
+<i class="ico contact"></i>
+<span>Kontakt</span>
+</a>
+</div>
+<style>
+a:focus {outline-style: solid; outline-color: #ffffff}
+</style>
+<script>
+$(document).ready(function(){
+$("a").mousedown(function() {
+this.blur();
+this.hideFocus = true;
+this.style.outline = 'none';
+});
+})
+</script>
+<nav>
+<div class="holder">
+<div class="nav-holder">
+<div class="nav">
+<ul class="mainmenu">
+<li class="desktophidden calchexback corporateback light">Übersicht</li>
+<li class="nosub">
+<a href="https://www.artcologne.de/die-messe/rueckblick/rueckblick-2025/" data-target="sub-galerien-2025" title="Galerien 2025" class="level-1" tabindex="1"> Galerien 2025 </a>
+<li class="hassub">
+<a tabindex="3" href="javascript:void(0)" title="Besucher" class="level-1 " data-target="sub-besucher">Besucher</a></li>
+<li class="nosub">
+<a href="https://www.artcologne.de/journal/" data-target="sub-journal" title="Journal" class="level-1" tabindex="16"> Journal </a>
+<li class="hassub">
+<a tabindex="18" href="javascript:void(0)" title="Die Messen" class="level-1 " data-target="sub-die-messen">Die Messen</a></li>
+<li class="nosub">
+<a href="https://www.artcologne.de/die-messe/art-cologne/partner-der-art-cologne/" data-target="sub-partner" title="Partner" class="level-1" tabindex="36"> Partner </a>
+<li class="hassub">
+<a tabindex="38" href="javascript:void(0)" title="Presse" class="level-1 " data-target="sub-presse">Presse</a></li>
+</ul>
+<div class="desktophidden mobilmeta">
+<a href="#" title="Aussteller Log in" class="ico loginCDC primarylink" style="display: none;">
+Log in
+</a>
+<a href="https://www.artcologne.de/kontakt/" title="Kontakt" class="ico contact primarylink" style="">
+Kontakt
+</a>
+<div id="metaNavSearchAppMobile" data-translations='{
+"search_page_redirect_link": "https://www.artcologne.de/suche/?q=",
+"solr_rest_service_core": "artcologne_de",
+"solr_rest_service_suggestion_endpoint": "https://www.artcologne.de/solr/csrproxy/autocomplete",
+"search_input_placeholder": "Suche"
+}'></div>
+</div>
+</div>
+<div class="subnav subnav_sec lightback login" id="subnav-login2">
+<div class="subnav-wrapper" id="subnav-wrapper">
+</div>
+<div class="close"></div>
+</div>
+<div class="subnav" id="sub-besucher">
+<div class="subnav-wrapper">
+<ul>
+<li class="goback desktophidden calchexback corporateback first"><span>Übersicht</span></li>
+<!-- Übersichtsseite das Linktext in mobile nicht klickbar -->
+<li class="level-2 desktophidden">
+<a href="fuer-besucher/" title="Übersicht Besucher" tabindex="4">Übersicht Besucher</a>
+</li>
+<li class="level-2 hassub">
+<a href="https://www.artcologne.de/fuer-besucher/events/" title="Events" > Events </a>
+<div class="subnav-container">
+<ul>
+<li class="goback desktophidden calchexback corporateback first"><span>Übersicht</span></li>
+<!-- Übersichtsseite das Linktext in mobile nicht klickbar -->
+<li class="level-2 desktophidden">
+<a href="https://www.artcologne.de/fuer-besucher/events/" title="Übersicht Events" tabindex="5">Übersicht Events</a>
+</li>
+<li><a tabindex="6" href="https://www.artcologne.de/fuer-besucher/events/preisverleihungen/" title="Preisverleihungen" >Preisverleihungen</a></li><li><a tabindex="7" href="https://www.artcologne.de/fuer-besucher/events/arttours/" title="ARTtours" >ARTtours</a></li><li><a tabindex="8" href="https://www.artcologne.de/fuer-besucher/events/sonderschauen/" title="Sonderschauen" >Sonderschauen</a></li>
+</ul>
+</div>
+</li>
+<li class="level-2 hassub">
+<a href="https://www.artcologne.de/fuer-besucher/termine-oeffnungszeiten/" title="Termine und Öffnungszeiten" > Termine und Öffnungszeiten </a>
+<div class="subnav-container">
+<ul>
+<li class="goback desktophidden calchexback corporateback first"><span>Übersicht</span></li>
+<!-- Übersichtsseite das Linktext in mobile nicht klickbar -->
+<li class="level-2 desktophidden">
+<a href="https://www.artcologne.de/fuer-besucher/termine-oeffnungszeiten/" title="Übersicht Termine & Öffnungszeiten" tabindex="9">Übersicht Termine & Öffnungszeiten</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="level-2 hassub">
+<a href="https://www.artcologne.de/fuer-besucher/anreise-aufenthalt/" title="Anreise und Aufenthalt" > Anreise und Aufenthalt </a>
+<div class="subnav-container">
+<ul>
+<li class="goback desktophidden calchexback corporateback first"><span>Übersicht</span></li>
+<!-- Übersichtsseite das Linktext in mobile nicht klickbar -->
+<li class="level-2 desktophidden">
+<a href="https://www.artcologne.de/fuer-besucher/anreise-aufenthalt/" title="Übersicht Anreise & Aufenthalt" tabindex="10">Übersicht Anreise & Aufenthalt</a>
+</li>
+<li><a tabindex="11" href="https://www.artcologne.de/fuer-besucher/anreise-aufenthalt/anreise/" title="Anreise" >Anreise</a></li><li><a tabindex="12" href="https://www.artcologne.de/fuer-besucher/anreise-aufenthalt/visa-support/" title="VISA Support" >VISA Support</a></li><li><a tabindex="13" href="https://www.artcologne.de/fuer-besucher/anreise-aufenthalt/uebernachtung/" title="Übernachtung" >Übernachtung</a></li><li><a tabindex="14" href="https://www.artcologne.de/fuer-besucher/anreise-aufenthalt/restaurant-service/" title="Restaurant-Service" >Restaurant-Service</a></li><li><a tabindex="15" href="https://www.artcologne.de/fuer-besucher/anreise-aufenthalt/messestadt-koeln/" title="Messestadt Köln" >Messestadt Köln</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="close" style="position: absolute;"></div>
+</div>
+<div class="subnav" id="sub-die-messen">
+<div class="subnav-wrapper">
+<ul>
+<li class="goback desktophidden calchexback corporateback first"><span>Übersicht</span></li>
+<!-- Übersichtsseite das Linktext in mobile nicht klickbar -->
+<li class="level-2 desktophidden">
+<a href="die-messe/" title="Übersicht Die Messen" tabindex="19">Übersicht Die Messen</a>
+</li>
+<li class="level-2 hassub">
+<a href="https://www.artcologne.de/die-messe/" title="ART COLOGNE" > ART COLOGNE </a>
+<div class="subnav-container">
+<ul>
+<li class="goback desktophidden calchexback corporateback first"><span>Übersicht</span></li>
+<!-- Übersichtsseite das Linktext in mobile nicht klickbar -->
+<li class="level-2 desktophidden">
+<a href="https://www.artcologne.de/die-messe/" title="Übersicht ART COLOGNE" tabindex="20">Übersicht ART COLOGNE</a>
+</li>
+<li><a tabindex="21" href="https://www.artcologne.de/die-messe/art-cologne/foerderprogramm-new-positions/" title="Förderprogramm NEW POSITIONS" >Förderprogramm NEW POSITIONS</a></li><li><a tabindex="22" href="https://www.artcologne.de/die-messe/art-cologne/partner-der-art-cologne/" title="Partner der ART COLOGNE" >Partner der ART COLOGNE</a></li><li><a tabindex="23" href="https://www.artcologne.de/die-messe/art-cologne/geschichte-der-art-cologne/" title="Geschichte der ART COLOGNE" >Geschichte der ART COLOGNE</a></li><li><a tabindex="24" href="https://www.artcologne.de/die-messe/art-cologne/sponsoring/" title="Sponsoring" >Sponsoring</a></li>
+</ul>
+</div>
+</li>
+<li class="level-2 hassub">
+<a href="https://www.artcologne.de/fuer-aussteller/" title="Für Aussteller" > Für Aussteller </a>
+<div class="subnav-container">
+<ul>
+<li class="goback desktophidden calchexback corporateback first"><span>Übersicht</span></li>
+<!-- Übersichtsseite das Linktext in mobile nicht klickbar -->
+<li class="level-2 desktophidden">
+<a href="https://www.artcologne.de/fuer-aussteller/" title="Übersicht Für Aussteller" tabindex="25">Übersicht Für Aussteller</a>
+</li>
+<li><a tabindex="26" href="https://www.artcologne.de/fuer-aussteller/online-bewerbung/" title="Bewerbung ART COLOGNE" >Bewerbung ART COLOGNE</a></li><li><a tabindex="27" href="https://www.artcologne.de/fuer-aussteller/beirat/" title="Beirat" >Beirat</a></li><li><a tabindex="28" href="https://www.artcologne.de/fuer-aussteller/visa-support/" title="VISA Support" >VISA Support</a></li>
+</ul>
+</div>
+</li>
+<li class="level-2 hassub">
+<a href="https://www.artcologne.de/die-messe/rueckblick/" title="Rückblick" > Rückblick </a>
+<div class="subnav-container">
+<ul>
+<li class="goback desktophidden calchexback corporateback first"><span>Übersicht</span></li>
+<!-- Übersichtsseite das Linktext in mobile nicht klickbar -->
+<li class="level-2 desktophidden">
+<a href="https://www.artcologne.de/die-messe/rueckblick/" title="Übersicht Rückblick" tabindex="29">Übersicht Rückblick</a>
+</li>
+<li><a tabindex="30" href="https://www.artcologne.de/die-messe/rueckblick/rueckblick-2021/" title="Rückblick 2021" >Rückblick 2021</a></li><li><a tabindex="31" href="https://www.artcologne.de/die-messe/rueckblick/rueckblick-2022/" title="Rückblick 2022" >Rückblick 2022</a></li><li><a tabindex="32" href="https://www.artcologne.de/die-messe/rueckblick/rueckblick-2023/" title="Rückblick 2023" >Rückblick 2023</a></li><li><a tabindex="33" href="https://www.artcologne.de/die-messe/rueckblick/rueckblick-2024/" title="Rückblick 2024" >Rückblick 2024</a></li><li><a tabindex="34" href="https://www.artcologne.de/die-messe/rueckblick/rueckblick-2025/" title="Rückblick 2025" >Rückblick 2025</a></li>
+</ul>
+</div>
+</li>
+<li class="level-2 hassub">
+<a href="https://www.artcologne.com/palma" title="ART COLOGNE PALMA MALLORCA" > ART COLOGNE PALMA MALLORCA </a>
+<div class="subnav-container">
+<ul>
+<li class="goback desktophidden calchexback corporateback first"><span>Übersicht</span></li>
+<!-- Übersichtsseite das Linktext in mobile nicht klickbar -->
+<li class="level-2 desktophidden">
+<a href="https://www.artcologne.com/palma" title="Übersicht Palma" tabindex="35">Übersicht Palma</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="close" style="position: absolute;"></div>
+</div>
+<div class="subnav" id="sub-galerien-2025">
+<div class="subnav-wrapper">
+<ul>
+<li class="goback desktophidden calchexback corporateback first"><span>Übersicht</span></li>
+<!-- Übersichtsseite das Linktext in mobile nicht klickbar -->
+<li class="level-2 desktophidden">
+<a href="die-messe/rueckblick/rueckblick-2025/" title="Übersicht Galerien 2025" tabindex="2">Übersicht Galerien 2025</a>
+</li>
+</ul>
+</div>
+<div class="close" style="position: absolute;"></div>
+</div>
+<div class="subnav" id="sub-journal">
+<div class="subnav-wrapper">
+<ul>
+<li class="goback desktophidden calchexback corporateback first"><span>Übersicht</span></li>
+<!-- Übersichtsseite das Linktext in mobile nicht klickbar -->
+<li class="level-2 desktophidden">
+<a href="journal/" title="Übersicht Journal" tabindex="17">Übersicht Journal</a>
+</li>
+</ul>
+</div>
+<div class="close" style="position: absolute;"></div>
+</div>
+<div class="subnav" id="sub-partner">
+<div class="subnav-wrapper">
+<ul>
+<li class="goback desktophidden calchexback corporateback first"><span>Übersicht</span></li>
+<!-- Übersichtsseite das Linktext in mobile nicht klickbar -->
+<li class="level-2 desktophidden">
+<a href="die-messe/art-cologne/partner-der-art-cologne/" title="Übersicht Partner" tabindex="37">Übersicht Partner</a>
+</li>
+</ul>
+</div>
+<div class="close" style="position: absolute;"></div>
+</div>
+<div class="subnav" id="sub-presse">
+<div class="subnav-wrapper">
+<ul>
+<li class="goback desktophidden calchexback corporateback first"><span>Übersicht</span></li>
+<!-- Übersichtsseite das Linktext in mobile nicht klickbar -->
+<li class="level-2 desktophidden">
+<a href="presse/" title="Übersicht Presse" tabindex="39">Übersicht Presse</a>
+</li>
+<li class="level-2 hassub">
+<a href="https://www.artcologne.de/presse/presseinformationen-der-art-cologne/" title="Presseinformationen" > Presseinformationen </a>
+<div class="subnav-container">
+<ul>
+<li class="goback desktophidden calchexback corporateback first"><span>Übersicht</span></li>
+<!-- Übersichtsseite das Linktext in mobile nicht klickbar -->
+<li class="level-2 desktophidden">
+<a href="https://www.artcologne.de/presse/presseinformationen-der-art-cologne/" title="Übersicht Presseinformationen der ART COLOGNE" tabindex="40">Übersicht Presseinformationen der ART COLOGNE</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="level-2 hassub">
+<a href="https://www.artcologne.de/presse/teilnahme-fuer-medienvertreter/" title="Teilnahme für Medienvertreter" > Teilnahme für Medienvertreter </a>
+<div class="subnav-container">
+<ul>
+<li class="goback desktophidden calchexback corporateback first"><span>Übersicht</span></li>
+<!-- Übersichtsseite das Linktext in mobile nicht klickbar -->
+<li class="level-2 desktophidden">
+<a href="https://www.artcologne.de/presse/teilnahme-fuer-medienvertreter/" title="Übersicht Teilnahme für Medienvertreter" tabindex="41">Übersicht Teilnahme für Medienvertreter</a>
+</li>
+<li><a tabindex="42" href="https://www.artcologne.de/presse/teilnahme-fuer-medienvertreter/akkreditierung-fuer-journalisten/" title="Akkreditierung für Journalisten" >Akkreditierung für Journalisten</a></li><li><a tabindex="43" href="https://www.artcologne.de/presse/teilnahme-fuer-medienvertreter/digitale-pressemappen/" title="Digitale Pressemappen" >Digitale Pressemappen</a></li>
+</ul>
+</div>
+</li>
+<li class="level-2 hassub">
+<a href="https://www.artcologne.de/presse/presseservices-vor-ort/" title="Presseservices vor Ort" > Presseservices vor Ort </a>
+<div class="subnav-container">
+<ul>
+<li class="goback desktophidden calchexback corporateback first"><span>Übersicht</span></li>
+<!-- Übersichtsseite das Linktext in mobile nicht klickbar -->
+<li class="level-2 desktophidden">
+<a href="https://www.artcologne.de/presse/presseservices-vor-ort/" title="Übersicht Presseservices vor Ort" tabindex="44">Übersicht Presseservices vor Ort</a>
+</li>
+<li><a tabindex="45" href="https://www.artcologne.de/presse/presseservices-vor-ort/presse-centrum/" title="Presse-Centrum" >Presse-Centrum</a></li><li><a tabindex="46" href="https://www.artcologne.de/presse/presseservices-vor-ort/pressetermine/" title="Pressetermine" >Pressetermine</a></li>
+</ul>
+</div>
+</li>
+<li class="level-2 hassub">
+<a href="https://www.artcologne.de/presse/bilddatenbank/" title="Bilddatenbank" > Bilddatenbank </a>
+<div class="subnav-container">
+<ul>
+<li class="goback desktophidden calchexback corporateback first"><span>Übersicht</span></li>
+<!-- Übersichtsseite das Linktext in mobile nicht klickbar -->
+<li class="level-2 desktophidden">
+<a href="https://www.artcologne.de/presse/bilddatenbank/" title="Übersicht Bildmaterial ART COLOGNE" tabindex="47">Übersicht Bildmaterial ART COLOGNE</a>
+</li>
+</ul>
+</div>
+</li>
+<li class="level-2 hassub">
+<a href="https://www.artcologne.de/presse/presseverteiler/" title="Presseverteiler" > Presseverteiler </a>
+<div class="subnav-container">
+<ul>
+<li class="goback desktophidden calchexback corporateback first"><span>Übersicht</span></li>
+<!-- Übersichtsseite das Linktext in mobile nicht klickbar -->
+<li class="level-2 desktophidden">
+<a href="https://www.artcologne.de/presse/presseverteiler/" title="Übersicht " tabindex="48">Übersicht </a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+<div class="close" style="position: absolute;"></div>
+</div>
+<!-- Subnav Suche -->
+<div class="subnav scc-scope" id="subnav-search">
+<div class="subnav-wrapper" style="padding-right: 15px; padding-left: 15px;">
+<div class="goback desktophidden calchexback corporateback first"><span>Übersicht</span></div>
+<div class="flex mobilefull">
+<div class="search-inner" >
+<form action="https://www.artcologne.de/suche/">
+<input type="text" name="q" id="search" class="textfield ico ico_search" placeholder="Suche" autocomplete="off" data-solr-core-name="artcologne_de" data-lang="de" style="margin-bottom: 25px;">
+<button type="submit" class="btn primary medium full calchexback">Search</button>
+<div class="scc-search-controls__suggestions-container">
+<div class="scc-search-controls__suggestions scc-search-controls__suggestions--hidden">
+<ul class="scc-search-controls__suggestion-list"></ul>
+<script id="scc-suggestion-template" type="text/template">
+<li class="scc-search-controls__suggestion" tabindex="0">{{ suggestion }}</li>
+</script>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="close"></div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+</header>
+<div class="shadow"></div>
+<div id="global-shadow" class="fullScreenShadow"></div>
+<div id="global-modal" class="modal"
+data-modal-config-id=""
+data-modal-content-id=""
+data-content-position=""
+data-content-width=""
+data-content-height=""
+data-content-animation=""
+data-content-frequency=""
+data-content-trigger=""
+data-content-trigger-value=""
+>
+<div class="close"></div>
+<div class="modal-content" id="global-modal-content"></div>
+<div id="global-modal-specification"
+data-test-page="false"
+data-modal-config-id=""
+data-modal-content-id=""
+data-content-url=""
+data-content-name=
+data-content-position=
+data-content-position-label=
+data-content-width=
+data-content-height=
+data-content-animation=
+data-content-frequency=
+data-content-frequency-label=
+data-content-trigger=
+data-content-trigger-label=
+data-content-trigger-value=
+></div>
+<div id="modal-specification"
+data-modal-config-id=""
+data-modal-content-id=""
+data-content-position=""
+data-content-animation=""
+data-content-frequency=""
+data-content-trigger=""
+data-content-trigger-value=""
+></div>
+</div>
+<div
+id="portal-init"
+data-lang="de"
+data-apiKey="1Wiko1kmhDpWFiwpAMx9o0okEQBhTo0jhlIOeJANH0vfx6HeMYXFEJZQV0pJ"
+data-brandCode="0570"
+data-year="2026"
+data-menuItemSelector="#cdcLoginButton"
+data-menuItemTextSelector="#cdcLoginButton span"
+data-menuPositionRefSelector="#cdcLoginButton i"
+data-loggedText="Benutzerkonto"
+data-notLoggedText="Log-in"
+data-shouldHandleMenuItemText="true"
+>
+</div>
+<!-- HEADER_END -->
+<div class="main" >
+<!-- CONTENT_AREA_BEGIN -->
+<!--SolrIndex:on-->
+<section>
+<style>
+#animated-overlay {
+background-color: rgba(0,0,0,0);
+}
+#animated-headline,
+#animated-sub {
+animation: slideIn 1.75s forwards;
+}
+#animated-button {
+animation: slideIn 1.75s forwards;
+animation-delay: 0.25s;
+}
+#animated-button li:first-child {
+margin-right: 0;
+}
+#animated-button li:nth-child(2) {
+margin-left: 20px;
+}
+@media (max-width: 1023px) {
+#animated-overlay #animated-headline {
+text-align: center;
+}
+#animated-overlay #animated-sub {
+text-align: center;
+}
+#animated-overlay #animated-button {
+text-align: center;
+}
+}
+</style>
+<div class="grid-wrapper" id="animated-overlay">
+<div class="gw-inner animated">
+<h1 class="hl_1 white-color center" id="animated-headline" style=" color: #FFFFFF ">ART COLOGNE</h1>
+<h4 class="hl_4 center" style="color: #FFFFFF " id="animated-sub">05.-08.11.2026</h4>
+<!--a href="#" class="btn primary large emphasize" id="animated-button2"> Beitreten </a-->
+<ul class="buttons center" id="animated-button">
+</ul>
+</div>
+</div>
+<div class="m101_animated_stage stage keyvisual under video " style="position: relative;">
+<div class="grid-wrapper">
+<div class="bg_container bg_video">
+<video autoplay muted loop data-src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/videos/video-website-3840x2160.mp4" data-srcmobile="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/videos/video-website-608x820.mp4" data-srclarge="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/videos/video-website-3840x2160.mp4" playsinline="playsinline">
+<source src="" type="video/mp4"/>
+<source src="" type="video/ogg"/>
+</video>
+</div>
+</div>
+</div>
+</section>
+<style>
+.teaser-holder .light { color: #FFFFFF !important }
+.teaser-holder .centered { text-align: center !important }
+</style>
+<section class="">
+<div class="teaser-holder" style="padding-top:0px">
+<div class="grid-wrapper" style="padding-top:40px" >
+<div class="gw-inner">
+<div class="teaser-row" >
+<div class="teaser col2 corptop t01" >
+<div class="t-inner lightback">
+<a href="https://www.artcologne.de/fuer-besucher/museen/" title="Mussen in Köln und Umgebung" class="noline" > <picture>
+<source media="(min-width: 1025px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/museen/rautenstrauch-joest-%C2%A9dominikschmitz_066739_be_ds_web-(002)_1200x675_t01_1025.jpg 816w"/>
+<source media="(min-width: 720px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/museen/rautenstrauch-joest-%C2%A9dominikschmitz_066739_be_ds_web-(002)_1200x675_t01_720_1024.jpg 576w"/>
+<source media="(max-width: 719px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/museen/rautenstrauch-joest-%C2%A9dominikschmitz_066739_be_ds_web-(002)_1200x675_t01_719.jpg 800w"/>
+<img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/museen/rautenstrauch-joest-%C2%A9dominikschmitz_066739_be_ds_web-(002)_1200x675_t01_719.jpg" alt="Rautenstrauch Joest Museum, Foto: Dominik Schmitz" title="Rautenstrauch Joest Museum, Foto: Dominik Schmitz" loading="lazy" />
+</picture> </a>
+<div class="copy">
+<h3 class="hl_3"><p>Museen in Köln und Umgebung</p></h3>
+<p>Köln und das Rheinland gehören zu den kulturell bedeutendsten Regionen Europas. Die außergewöhnliche Dichte an renommierten Kunst- und Kulturinstitutionen spiegelt eindrucksvoll die historische sowie zeitgenössische Relevanz der Region wider. Hier finden Sie eine kuratierte Auswahl an Museen, Sammlungen und Ausstellungshäusern mit internationaler Strahlkraft, deren Programme regelmäßig wichtige Impulse im internationalen Ausstellungsgeschehen setzen.</p>
+</div>
+</div><!-- //t-inner lightback-->
+</div><!-- //teaser-->
+<div class="teaser col2 corptop t01" >
+<div class="t-inner lightback">
+<a href="https://www.artcologne.de/fuer-besucher/events/arttours/" title="ARTtours x ZADIK" class="noline" > <picture>
+<source media="(min-width: 1025px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/events/arttoursxzadik_header_quer_1200x675_t01_1025.jpg 816w"/>
+<source media="(min-width: 720px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/events/arttoursxzadik_header_quer_1200x675_t01_720_1024.jpg 576w"/>
+<source media="(max-width: 719px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/events/arttoursxzadik_header_quer_1200x675_t01_719.jpg 800w"/>
+<img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/events/arttoursxzadik_header_quer_1200x675_t01_719.jpg" alt="ARTtours x ZADIK" title="ARTtours x ZADIK" loading="lazy" />
+</picture> </a>
+<div class="copy">
+<h3 class="hl_3"><p>ARTtours x ZADIK</p></h3>
+<p>Begeben Sie sich mit uns auf eine inspirierende Reise durch die Welt des Kunstmarkts. Erfahrene Kunstvermittler:innen unter der Koordination des ZADIK | Zentralarchiv für deutsche und internationale Kunstmarktforschung führen Sie über die Messe und stehen für Ihre Fragen zur Verfügung.</p>
+</div>
+</div><!-- //t-inner lightback-->
+</div><!-- //teaser-->
+</div>
+</div>
+</div>
+</div>
+</section>
+<style>
+.teaser-holder .light { color: #FFFFFF !important }
+.teaser-holder .centered { text-align: center !important }
+</style>
+<section class="">
+<div class="teaser-holder" style="padding-top:0px">
+<div class="grid-wrapper" style="padding-top:40px" >
+<div class="gw-inner">
+<div class="copy">
+<h2 class="hl_3 " style="margin-bottom: 28px;"><p><b>JOURNAL</b></p></h2>
+<p>
+<a href="https://www.artcologne.de/journal/" class="btn small darkback calchexback light null " > Alle Artikel </a> </p>
+</div>
+<div class="teaser-row" style="margin-top: 30px;">
+<div class="teaser col1 corptop t01" >
+<div class="t-inner lightback">
+<a href="https://www.artcologne.com/journal/articles/galleries-of-art-cologne-palma-mallorca.php" title="ART COLOGNE PALMA MALLORCA" class="noline" > <picture>
+<source media="(min-width: 1025px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/palma/journal/4/1000000548_1200x675_t01_1025.png 816w"/>
+<source media="(min-width: 720px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/palma/journal/4/1000000548_1200x675_t01_720_1024.png 576w"/>
+<source media="(max-width: 719px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/palma/journal/4/1000000548_1200x675_t01_719.png 800w"/>
+<img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/palma/journal/4/1000000548_1200x675_t01_719.png" alt="ART COLOGNE PALMA MALLORCA" title="ART COLOGNE PALMA MALLORCA" loading="lazy" />
+</picture> </a>
+<div class="copy">
+<h3 class="hl_3"><p>ART COLOGNE PALMA MALLORCA – von aufstrebenden Talenten bis hin zu etablierten Künstlern</p></h3>
+<p>Eine Übersicht der zeitgenössischen Kunstgalerien, die an der ART COLOGNE PALMA MALLORCA teilnehmen.</p><p></p><p><i>Artikel in Englisch</i></p>
+</div>
+</div><!-- //t-inner lightback-->
+</div><!-- //teaser-->
+<div class="teaser col1 corptop t01" >
+<div class="t-inner lightback">
+<a href="https://www.artcologne.com/journal/articles/mallorca-island-of-collectors.php" title="Island of collectors" class="noline" > <picture>
+<source media="(min-width: 1025px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/palma/journal/3/img_7158_1200x675_t01_1025.png 816w"/>
+<source media="(min-width: 720px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/palma/journal/3/img_7158_1200x675_t01_720_1024.png 576w"/>
+<source media="(max-width: 719px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/palma/journal/3/img_7158_1200x675_t01_719.png 800w"/>
+<img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/palma/journal/3/img_7158_1200x675_t01_719.png" alt="Mallorca, Insel der Sammler" title="Mallorca, Insel der Sammler" loading="lazy" />
+</picture> </a>
+<div class="copy">
+<h3 class="hl_3"><p>Mallorca, Insel der Sammler</p></h3>
+<p>Mallorca beherbergt nicht nur eine Vielzahl faszinierender Museen und Galerien – viele Sammler haben die Insel auch zu ihrem Zuhause gemacht.</p><p></p><p><i>Artikel in Englisch</i></p>
+</div>
+</div><!-- //t-inner lightback-->
+</div><!-- //teaser-->
+<div class="teaser col1 corptop t01" >
+<div class="t-inner lightback">
+<a href="https://www.artcologne.com/journal/articles/palma-city-of-galleries.php" title="Galerien" class="noline" > <picture>
+<source media="(min-width: 1025px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/palma/journal/2/img_6414_1200x675_t01_1025.png 816w"/>
+<source media="(min-width: 720px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/palma/journal/2/img_6414_1200x675_t01_720_1024.png 576w"/>
+<source media="(max-width: 719px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/palma/journal/2/img_6414_1200x675_t01_719.png 800w"/>
+<img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/palma/journal/2/img_6414_1200x675_t01_719.png" alt="Palma, Stadt der Galerien" title="Palma, Stadt der Galerien" loading="lazy" />
+</picture> </a>
+<div class="copy">
+<h3 class="hl_3"><p>Palma, Stadt der Galerien</p></h3>
+<p>Eine Tour durch Palmas vielfältige Kunstszene – von aufstrebenden Projekträumen bis zu etablierten Institutionen.</p><p></p><p><i>Artikel in Englisch</i></p>
+</div>
+</div><!-- //t-inner lightback-->
+</div><!-- //teaser-->
+<div class="teaser col1 corptop t01" >
+<div class="t-inner lightback">
+<a href="https://www.artcologne.com/journal/articles/art-on-mallorca-and-exhibitions-in-palma.php" title="Exhibitions" class="noline" > <picture>
+<source media="(min-width: 1025px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/palma/journal/juangavilan-miro-mallorca-06-2025-s-145_1200x675_t01_1025.png 816w"/>
+<source media="(min-width: 720px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/palma/journal/juangavilan-miro-mallorca-06-2025-s-145_1200x675_t01_720_1024.png 576w"/>
+<source media="(max-width: 719px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/palma/journal/juangavilan-miro-mallorca-06-2025-s-145_1200x675_t01_719.png 800w"/>
+<img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/palma/journal/juangavilan-miro-mallorca-06-2025-s-145_1200x675_t01_719.png" alt="Kunst auf Mallorca " title="Kunst auf Mallorca " loading="lazy" />
+</picture> </a>
+<div class="copy">
+<h3 class="hl_3"><p>Kunst auf Mallorca – Erkundung der ausgestellten Werke in privaten Stiftungen und im öffentlichen Raum</p></h3>
+<p>Ein Überblick über Palmas Ausstellungsräume – Es Baluard, Casal Solleric, Fundación Miró und Fundación Juan March.</p><p></p><p><i>Artikel in Englisch</i></p>
+</div>
+</div><!-- //t-inner lightback-->
+</div><!-- //teaser-->
+<div class="teaser col1 corptop t01" >
+<div class="t-inner lightback">
+<div class="embed-container">
+<iframe class="optanon-category-C0002" data-src="https://www.youtube-nocookie.com/embed/p6NYEDyBifA?"
+frameborder="0"
+allowfullscreen></iframe>
+</div>
+<div class="copy">
+<h3 class="hl_3"><p>Cologne in the 1990s and Now - Live Panel at ART COLOGNE 2025</p></h3>
+<p>What made Cologne one of Europe’s most magnetic art cities — and what remains of that energy today?<br>Recorded live at ART COLOGNE 2025, this panel brings together leading voices who shaped and chronicled that era and continue to define the field today: Isabelle Graw, Diedrich Diederichsen, Andrea Fraser, Christian Nagel, and Monika Sprüth, moderated by Hannes Loichinger.</p>
+</div>
+</div><!-- //t-inner lightback-->
+</div><!-- //teaser-->
+<div class="teaser col1 corptop t01" >
+<div class="t-inner lightback">
+<a href="https://artcologne.de/journal/beitraege/von-koeln-nach-mexiko.php" title="Von Köln nach Mexiko" class="noline" > <picture>
+<source media="(min-width: 1025px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/magazin/2025/12/ck_sammlung-1_1200x675_t01_1025.jpg 816w"/>
+<source media="(min-width: 720px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/magazin/2025/12/ck_sammlung-1_1200x675_t01_720_1024.jpg 576w"/>
+<source media="(max-width: 719px)"srcset="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/magazin/2025/12/ck_sammlung-1_1200x675_t01_719.jpg 800w"/>
+<img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/magazin/2025/12/ck_sammlung-1_1200x675_t01_719.jpg" alt="Das Kölner Sammlerpaar Corina und Max Krawinkel vor einem Werk von Andre Butzer. Foto: privat" title="Das Kölner Sammlerpaar Corina und Max Krawinkel vor einem Werk von Andre Butzer. Foto: privat" loading="lazy" />
+</picture> </a>
+<div class="copy">
+<h3 class="hl_3"><p>Von Köln nach Mexiko</p></h3>
+<p>Corina Krawinkel trat in Köln lange als Sammlerin und Museumsförderin in Erscheinung. Jetzt hat sie eine neue Rolle gefunden.</p>
+</div>
+</div><!-- //t-inner lightback-->
+</div><!-- //teaser-->
+</div>
+</div>
+</div>
+</div>
+</section>
+<section >
+<div class="ctadivider bg-align-center align-center image white-color" data-desktop="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/teaser/rot_blur_m01_m05_desktop.png" data-tablet="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/teaser/rot_blur_m01_m05_640.png" data-mobile="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/teaser/rot_blur_m01_m05_640.png" >
+<div class="grid-wrapper">
+<div class="gw-inner">
+<div class="ctadivider-content">
+<h2 class="hl_2" style=""><p>ART COLOGNE Podcast</p></h2>
+<p>FAIR ENOUGH ist ein Podcast der ART COLOGNE in Zusammenarbeit mit TEXTE ZUR KUNST.</p><p></p><p>
+<a href="https://www.artcologne.de/journal/podcast.php" class="btn large darkback calchexback light null " > Zu den Ausgaben </a></p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<script>
+(function() {
+$(document).ready(function() {
+function set_responsive_background_image(rootObject) {
+var img_url_desktop = rootObject.data('desktop'),
+img_url_tablet = rootObject.data('tablet'),
+img_url_mobile = rootObject.data('mobile');
+if($(window).width() > 1024) {
+rootObject.css({'background-image':'url('+img_url_desktop+')'});
+} else if($(window).width() <= 1024 && $(window).width() > 640) {
+rootObject.css({'background-image':'url('+img_url_tablet+')'});
+} else {
+rootObject.css({'background-image':'url('+img_url_mobile+')'});
+}
+}
+$('.ctadivider').each(function() {
+set_responsive_background_image($(this));
+});
+$(window).resize(function() {
+$('.ctadivider').each(function() {
+set_responsive_background_image($(this));
+});
+});
+});
+})(jQuery);
+</script>
+<style>
+.ctadivider {
+width: 100%;
+position: relative;
+padding: 40px 30px;
+}
+.ctadivider.image {
+background-size: cover;
+}
+section > .ctadivider {
+padding-left: 0;
+padding-right: 0;
+}
+.ctadivider p {
+margin-bottom: 15px;
+}
+.ctadivider.align-center * {
+text-align: center !important;
+}
+.ctadivider.bg-align-top {
+background-position: top;
+}
+.ctadivider.bg-align-center {
+background-position: center;
+}
+.ctadivider.bg-align-bottom {
+background-position: bottom;
+}
+.ctadivider.bg-align-top-right {
+background-position: top right;
+}
+.ctadivider.bg-align-top-left {
+background-position: top left;
+}
+.ctadivider.bg-align-right {
+background-position: center right;
+}
+.ctadivider.bg-align-left {
+background-position: center left;
+}
+.ctadivider.bg-align-bottom-right {
+background-position: bottom right;
+}
+.ctadivider.bg-align-bottom-left {
+background-position: bottom left;
+}
+.ctadivider.dark-color *:not(a),
+.ctadivider.dark-color .dark {
+color: #333 !important;
+}
+.ctadivider.corporate-color *:not(a) {
+color: #ffffff !important;
+}
+.cmodul .ctadivider p {
+padding-bottom: 0;
+}
+.ctadivider ul>li {
+padding-left: 12px;
+padding-bottom: 5px;
+position: relative;
+overflow: hidden;
+}
+.ctadivider ul>li:before {
+content: "";
+display: block;
+width: 4px;
+height: 4px;
+background: #333;
+-webkit-border-radius: 50%;
+-moz-border-radius: 50%;
+border-radius: 50%;
+position: absolute;
+left: 0;
+top: 9px;
+}
+</style><section>
+<div class="intro fullwidth-text lightback grid-wrapper" >
+<div class="gw-inner clfix">
+<h3 class="hl_3 full-width" > ART COLOGNE — Die führende Kunstmesse für moderne und zeitgenössische Kunst </h3>
+<div class="inner full-width">
+<p>Die ART COLOGNE ist die weltweit älteste und eine der bedeutendsten Messen für moderne und zeitgenössische Kunst. Jährlich treffen sich in Köln renommierte Galerien, Künstler, Sammler und Kunstliebhaber, um hochkarätige Gemälde, Skulpturen, Fotografien, Installationen und digitale Kunstwerke zu entdecken. Als internationale Kunstmesse setzt die ART COLOGNE Maßstäbe im Kunstmarkt und bietet eine einzigartige Plattform für den Austausch zwischen Kunstschaffenden und Investoren. Besuchen Sie die ART COLOGNE und erleben Sie hochwertige Kunstwerke, spannende Sonderausstellungen und exklusive Vernissagen in einer inspirierenden Atmosphäre.</p>
+<div class="inline"> </div>
+</div>
+</div>
+</div>
+</section>
+<div class="exhibitor lightback grid-wrapper" >
+<div class="gw-inner">
+<div style="position: absolute; right: 0; top: -21px; display: none">ANZEIGE</div>
+<div class="slides_exhibitor clfix">
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/art_kunstmagazin.jpg" alt="art " title="art" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/art-lifesytle_dt_500x200.jpg" alt="art&amp;lifestyle von HDI" title="art&amp;lifestyle von HDI" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/artnet_new-logo_orange_500x200.jpg" alt="artnet" title="artnet" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/bkm_2017_500x200.jpg" alt="Beauftragte der Bundesregierung für Kultur und Medien" title="Beauftragte der Bundesregierung für Kultur und Medien" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/bvdg.jpg" alt="Bundesverband Deutscher Galerien und Kunsthaendler e.V. (BVDG)" title="Bundesverband Deutscher Galerien und Kunsthaendler e.V. (BVDG)" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/vip-club-2025/logo_designpostko%E2%95%A0%C3%AAln_black_rgb.jpg" alt="Design Post Köln" title="Design Post Köln" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/excelsior_hotel_ernst_500x200_en.jpg" alt="Excelsior Hotel Ernst Cologne" title="Excelsior Hotel Ernst Cologne" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/gaffel_koelsch_szene_logo_500x200.jpg" alt="Gaffel Kölsch" title="Gaffel Kölsch" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/80-jahre_grey_gold_500x200.jpg" alt="Kienbaum" title="Kienbaum" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/kpmg_logo_500x200.jpg" alt="KPMG AG Wirtschaftsprüfungsgesellschaft" title="KPMG AG Wirtschaftsprüfungsgesellschaft" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/khm_500x200.jpg" alt="Kunsthochschule für Medien Köln" title="Kunsthochschule für Medien Köln" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/monopol.jpg" alt="monopol - Magazin für Kunst und Leben" title="monopol - Magazin für Kunst und Leben" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/lbbw_logo_500x200px.jpg" alt="LBBW" title="LBBW" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/roederer_500x200.jpg" alt="Roederer" title="Roederer" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/schlumberger_500x200.jpg" alt="Schlumberger" title="Schlumberger" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/2307_skdn_black_unterzeile_schwarz_cmyk.jpg" alt="Sparkasse Düren" title="Sparkasse Düren" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/uniplan.jpg" alt="uniplan" title="uniplan" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/vernissagetv_500x200.jpg" alt="VERNISSAGE TV" title="VERNISSAGE TV" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/weltkunst_500x200.jpg" alt="WELTKUNST" title="WELTKUNST" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+<div class="item">
+<div class="inline"> <div class="inner"> <a href="javascript:void(0)"> <div style="padding: 1px 4px; font-size: 0.8rem; background-color: rgba(230, 230, 230, 0.7); z-index: 100; position: absolute; right: 10px; top: 10px; display: none"> ANZEIGE </div> <picture> <img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/logos_10/zadik_logo_1200x675.jpg" alt="ZADIK" title="ZADIK" loading="lazy" /> </picture> </a> </div> </div>
+</div>
+</div>
+<div class="slide_footer clfix">
+<div class="controlholder">
+<div class="controlinner">
+<div class="pagingInfo"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<section >
+<div class="save-the-date corporateback calchexback grid-wrapper">
+<div class="gw-inner center">
+<h2 class="hl_2 " > Save the date! </h2>
+<p >Die 59. ART COLOGNE findet vom 05.-08.11.2026 statt.</p>
+<a href="https://media.koelnmesse.io/artcologne/ics/art-cologne.ics" title="Termin im Kalender speichern" class="btn secondary large">Termin im Kalender speichern</a>
+</div>
+</div>
+</section>
+<!--SolrIndex:off-->
+<!-- CONTENT_AREA_END -->
+</div>
+<!-- FOOTER_BEGIN -->
+<footer id="footer2021" >
+<div class="grid-wrapper darkback">
+<div class="footer2021-socials">
+<a href="https://www.facebook.com/artcolognefair/" target="_blank" rel="nofollow noopener noreferrer" title="facebook" class="calchexback corporateback">
+<img class="footer2021-social-icon footer2021-social-icon-light"
+src="https://media.koelnmesse.io/artcologne/assets/icons/ico_fb.png"
+width="15"
+height="30"
+alt="Link zu facebook"
+title="facebook">
+<img class="footer2021-social-icon footer2021-social-icon-dark"
+src="https://media.koelnmesse.io/artcologne/assets/icons/ico_fb_dark.png"
+width="10"
+height="21"
+alt="Link zu facebook"
+title="facebook">
+</a>
+<a href="https://www.instagram.com/artcolognefair/" target="_blank" rel="nofollow noopener noreferrer" title="Instagram" class="calchexback corporateback">
+<img class="footer2021-social-icon footer2021-social-icon-light"
+src="https://media.koelnmesse.io/artcologne/assets/icons/ico_instgr.png"
+width="30"
+height="30"
+alt="Link zu Instagram"
+title="Instagram">
+<img class="footer2021-social-icon footer2021-social-icon-dark"
+src="https://media.koelnmesse.io/artcologne/assets/icons/ico_instgr_dark.png"
+width="21"
+height="21"
+alt="Link zu Instagram"
+title="Instagram">
+</a>
+<a href="https://www.youtube.com/@artcologne7079/videos" target="_blank" rel="nofollow noopener noreferrer" title="YouTube" class="calchexback corporateback">
+<img class="footer2021-social-icon footer2021-social-icon-light"
+src="https://media.koelnmesse.io/artcologne/assets/icons/ico_youtube.png"
+width="30"
+height="30"
+alt="Link zu YouTube"
+title="YouTube">
+<img class="footer2021-social-icon footer2021-social-icon-dark"
+src="https://media.koelnmesse.io/artcologne/assets/icons/ico_youtube_dark.png"
+width="30"
+height="30"
+alt="Link zu YouTube"
+title="YouTube">
+</a>
+</div>
+<div class="gw-inner">
+<div class="footer2021-newsletter" >
+<div class="nlform">
+<div class="hl_3">Newsletter abonnieren:</div>
+<form id="" action="javascript:void(0)" method="">
+<div style="width: 100%;">
+Wir freuen uns sehr Sie in Zukunft auf dem Laufenden zu halten. Die folgende Eingabemaske ist durch Google reCAPTCHA geschützt. Es gelten ergänzend die Datenschutzbestimmungen und Nutzungsbedingungen von Google.
+</div>
+<div style="display: none;"></div>
+<div>
+<script>
+function clickdataLayer() {
+dataLayer.push({'event': 'gaEvent', 'eventCategory': 'Registrierung', 'eventAction': 'Newsletter', 'eventLabel': 'Newsletter auswählen Button geklickt'});
+dataLayer.push({'event': 'NewGaEvent', 'event_name': 'newsletter_auswählen_button_geklickt'});
+}
+</script>
+<button class="btn primary lightback medium" onClick="gigya.accounts.showScreenSet({screenSet:'NewsletterSubscription-LiteRegistration', lang:'de'});clickdataLayer();"><span>Auswählen</span></button>
+</div>
+</form>
+</div>
+</div>
+<div class="footer2021-info inner">
+<div class="col-left">
+<div class="meta light">
+<div class="inner">
+<div class="footer2021-links">
+<a href="https://www.artcologne.de/sicherheitsmassnahmen/" title="Sicherheitsmaßnahmen" class="noline">Sicherheitsmaßnahmen</a>
+<a href="https://www.artcologne.de/erklaerung-zur-barrierefreiheit/" title="Barrierefreiheit" class="noline">Barrierefreiheit</a>
+</div>
+</div>
+</div>
+</div>
+<div class="col-right">
+<div class="organiser clfix">
+<strong></strong>
+<a class="logo-wrapper" href="" title="Koelnmesse GmbH">
+<img src="https://media.koelnmesse.io/artcologne/redaktionell/global/img/logos/logo_koelnmesse_footer_m05_button_img.png"
+alt="Koelnmesse GmbH"
+title="Koelnmesse GmbH"
+width="519"
+height="153"
+style="height:auto;"
+loading="lazy">
+</a>
+<a class="logo-wrapper" href="https://www.freundederartcologne.de/" title="Freunde der ART COLOGNE" target="_blank">
+<img src="https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/art/logo_freunde_der_art_205x80_m05_button_img.png"
+alt="Freunde der ART COLOGNE"
+title="Freunde der ART COLOGNE"
+width="205"
+height="95"
+style="height:auto;"
+loading="lazy">
+</a>
+</div>
+</div>
+</div>
+<div class="footer2021-end">
+<div class="footer2021-end-left">
+<a href="https://www.koelnmesse.de/aktuelle-termine/alle-messen/" target="_blank" title="link primary" class="primarylink noline"><span>Weitere Messen und Veranstaltungen</span></a>
+</div>
+<div class="footer2021-end-right">
+<a href="https://www.artcologne.de/impressum/" title="Impressum" class="noline">Impressum</a>
+<a href="https://www.artcologne.de/datenschutz/" title="Sicherheit und Datenschutz" class="noline">Sicherheit und Datenschutz</a>
+<a href="https://www.artcologne.de/sitemap.php" title="Sitemap" class="noline">Sitemap</a>
+<a href="https://www.artcologne.de/cookie-richtlinie/" title="Cookie-Richtlinie" class="noline">Cookie-Richtlinie</a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+<script>
+document.getElementById('portal-init').setAttribute('data-referrerUrl', window.location.href);
+let onGigyaServiceReady = function() {
+checkSsoSession();
+}
+</script>
+<script type="text/javascript" lang="javascript" src="https://portal.koelnmesse.io/portal.js"></script>
+<div class="totop corporateback"
+role="button"
+aria-label="Zum Seitenanfang"
+style="background-image: url(https://media.koelnmesse.io/artcologne/assets/icons/icon-arrow-up.png);"
+data-bgimage-dark="https://media.koelnmesse.io/artcologne/assets/icons/icon-arrow-up-dark.png">
+</div>
+<!-- FOOTER_END -->
+<!-- SCHEMA.ORG JSON LD SECTION START -->
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "WebPage",
+"name": "Erste Kunstmesse der Welt",
+"description" : "Als erste Kunstmesse der Welt ist die ART COLOGNE für Galerien und Institutionen der wichtigste Branchentreffpunkt in Deutschland.",
+"lastReviewed" : "03.07.2026",
+"publisher": {
+"@type": "Corporation",
+"name": "Koelnmesse GmbH"
+}
+}
+</script>
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "Event",
+"name": "ART COLOGNE",
+"eventStatus": "https://schema.org/EventScheduled",
+"startDate": "2026-11-05",
+"endDate": "2026-11-08",
+"url": "https://www.artcologne.de",
+"eventAttendanceMode": "MixedEventAttendanceMode",
+"location": {
+"@type": "Place",
+"name": "Koelnmesse GmbH",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "Messeplatz 1",
+"addressLocality": "Köln",
+"postalCode": "506790",
+"addressRegion": "NRW",
+"addressCountry": "Deutschland"
+}
+},
+"image": [
+"https://media.koelnmesse.io/artcologne/redaktionell/art-cologne/img/art/art_cologne_4c.jpg"
+],
+"organizer" : {
+"@type": "Corporation",
+"name": "Koelnmesse GmbH",
+"address": {
+"@type": "PostalAddress"
+}
+}
+}
+</script>
+<!-- SCHEMA.ORG JSON LD SECTION END -->
+</body>
+</html>

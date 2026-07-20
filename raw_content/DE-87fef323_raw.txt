@@ -1,0 +1,1443 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="de"><head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=4.0, user-scalable=1" name="viewport">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<link rel="apple-touch-icon" href="../../0_Technik/Bilder/apple-touch-icon.png">
+<META NAME="application-name" CONTENT="recklinghausen.de"><!--header Skript von Template "320_Allgemein"
+--><style type="text/css">
+
+.vse_navigation_list_item_rathaus_politik:first-child,
+.vse_navigation_list_item_leben_wohnen:first-child,
+.vse_navigation_list_item_klima_mobilitaet:first-child,
+.vse_navigation_list_item_familie_bildung:first-child,
+.vse_navigation_list_item_wirtschaft_handel:first-child,
+.vse_navigation_list_item_ruhrfestspiele_kultur:first-child,
+.vse_navigation_list_item_freizeit_tourismus:first-child
+ {
+/*
+        background-image: url(../../images/main_menu_first_item_bg_9329.png);
+*/
+        background-image: url(../../0_Technik/Bilder/main_menu_first_item_bg.png);
+}
+
+@media screen and (max-width: 1279px) {
+   .vse_navigation_list_item_rathaus_politik:first-child,
+   .vse_navigation_list_item_leben_wohnen:first-child,
+   .vse_navigation_list_item_klima_mobilitaet:first-child,
+   .vse_navigation_list_item_familie_bildung:first-child,
+   .vse_navigation_list_item_wirtschaft_handel:first-child,
+   .vse_navigation_list_item_ruhrfestspiele_kultur:first-child,
+   .vse_navigation_list_item_freizeit_tourismus:first-child {
+        background-image: none;
+   }
+}
+
+.vse_navigation_list_item_rathaus_politik,
+.vse_navigation_list_item_leben_wohnen,
+.vse_navigation_list_item_klima_mobilitaet,
+.vse_navigation_list_item_familie_bildung,
+.vse_navigation_list_item_wirtschaft_handel,
+.vse_navigation_list_item_ruhrfestspiele_kultur,
+.vse_navigation_list_item_freizeit_tourismus
+ {
+        display: inline-block;
+        float: left;
+        padding: 4px 16px 4px 16px;
+/*
+        background-image: url(image_not_found);
+*/
+        background-image: url(../../0_Technik/Bilder/main_menu_item_bg.png);
+}
+
+
+
+@media screen and (max-width: 1279px) {
+   .vse_navigation_list_item_rathaus_politik,
+   .vse_navigation_list_item_leben_wohnen,
+   .vse_navigation_list_item_klima_mobilitaet,
+   .vse_navigation_list_item_familie_bildung,
+   .vse_navigation_list_item_wirtschaft_handel,
+   .vse_navigation_list_item_ruhrfestspiele_kultur,
+   .vse_navigation_list_item_freizeit_tourismus {
+        background-image: none;
+}
+
+
+     .vse_navigation_list_item_rathaus_politik,
+     .vse_navigation_list_item_leben_wohnen,
+     .vse_navigation_list_item_klima_mobilitaet,
+     .vse_navigation_list_item_familie_bildung,
+     .vse_navigation_list_item_wirtschaft_handel,
+     .vse_navigation_list_item_ruhrfestspiele_kultur,
+     .vse_navigation_list_item_freizeit_tourismus {
+         padding: 0px;
+         /*width: 16.6%;*/
+	 width: 14.2%;
+     }
+}
+
+@media screen and (max-width: 880px) {
+     .vse_navigation_list_item_rathaus_politik,
+     .vse_navigation_list_item_leben_wohnen,
+     .vse_navigation_list_item_klima_mobilitaet,
+     .vse_navigation_list_item_familie_bildung,
+     .vse_navigation_list_item_wirtschaft_handel,
+     .vse_navigation_list_item_ruhrfestspiele_kultur,
+     .vse_navigation_list_item_freizeit_tourismus {
+         width: 100%;
+     }
+}
+
+
+/*Gleich rc a class main_menu link, visited, active*/
+.vse_navigation_link_rathaus_politik:link, 
+.vse_navigation_link_leben_wohnen:link,
+.vse_navigation_link_klima_mobilitaet:link,
+.vse_navigation_link_familie_bildung:link,
+.vse_navigation_link_wirtschaft_handel:link,
+.vse_navigation_link_ruhrfestspiele_kultur:link,
+.vse_navigation_link_freizeit_tourismus:link,
+.vse_navigation_link_rathaus_politik:visited, 
+.vse_navigation_link_leben_wohnen:visited,
+.vse_navigation_link_klima_mobilitaet:visited,
+.vse_navigation_link_familie_bildung:visited,
+.vse_navigation_link_wirtschaft_handel:visited,
+.vse_navigation_link_ruhrfestspiele_kultur:visited,
+.vse_navigation_link_freizeit_tourismus:visited,
+.vse_navigation_link_rathaus_politik:active, 
+.vse_navigation_link_leben_wohnen:active,
+.vse_navigation_link_klima_mobilitaet:active,
+.vse_navigation_link_familie_bildung:active,
+.vse_navigation_link_wirtschaft_handel:active,
+.vse_navigation_link_ruhrfestspiele_kultur:active,
+.vse_navigation_link_freizeit_tourismus:active
+{
+        color: #000000;
+        text-decoration: none;
+}
+
+</style>
+
+
+<!--header Skript von Template "320_WichtigeMeldung"
+--><!--header Skript von Template "320_Zusatzspalte_Startbereich"
+--><!--header Skript von Template "devHinweis"
+--><!--header Skript von Template "320_Fusszeile 2.0"
+--><!--header Skript von Template "320_Header"
+-->
+ 
+<script id="Cookiebot" src="https://consent.cookiebot.eu/uc.js" data-cbid="d862afb5-1476-42a5-bd43-baf3ba2513b9" data-blockingmode="auto" ></script>
+ 
+
+<meta http-equiv="X-UA-Compatible" content="IE=10; IE=9; IE=8; IE=7; IE=edge" />
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=4.0, user-scalable=1" name="viewport" />
+<!-- Musterseite_Recklinghausen.css -->
+<link rel="stylesheet" href="../../0_Technik/CSS/Musterseite_Recklinghausen_CSS.css" type="text/css">
+<!-- Musterseite_Recklinghausen_ie.css -->
+<!--[if IE]--><!--<link rel="stylesheet" href="../../0_Technik/CSS/Musterseite_Recklinghausen_ie.css" type="text/css">--><!--[endif]-->
+<!-- Musterseite_Recklinghausen_print.css -->
+<link rel="stylesheet" href="../../0_Technik/CSS/Musterseite_Recklinghausen_print.css" type="text/css" media="print">
+
+
+<!-- Inhalte -->
+<link rel="stylesheet" href="../../0_Technik/CSS/styles_rwd.css" type="text/css">
+
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://www.recklinghausen.de/gkd_apps/font-awesome/css/font-awesome.min.css" type="text/css">
+<link rel="stylesheet" href="https://www.recklinghausen.de/gkd_apps/font-awesome/css/all.css" type="text/css">
+<!--
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+-->
+
+<!-- Schriftgroessen -->
+<link rel="alternate stylesheet" href="../../0_Technik/CSS/size_big.css" type="text/css" title="big" media="screen, projection">
+<link rel="alternate stylesheet" href="../../0_Technik/CSS/size_bigger.css" type="text/css" title="bigger" media="screen, projection">
+<link rel="alternate stylesheet" href="../../0_Technik/CSS/size_normal.css" type="text/css" title="normal" media="screen, projection">
+
+<!-- Monochrom -->
+<link  rel="alternate stylesheet" href="../../0_Technik/CSS/monocrom.css" type="text/css"  title="monocrom" media="screen, protection">
+
+<link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico">
+
+<!-- Favicon für Apple iPHONE/iPAD -->
+<link rel="apple-touch-icon" href="../../favicon.ico" />
+
+<meta name="application-name" content="Recklinghausen.de"/>
+<meta name="msapplication-TileColor" content="#ffffff"/>                   
+<meta name="msapplication-TileImage" content="../../favicon.ico"/>           
+
+<!-- Einbinden JS-Dateien -->
+<!-- Kalender--><script src="../../0_Technik/Scripte/kalender.js" async="async"></script>
+
+ 
+  <script type="text/javascript" src="https://www.recklinghausen.de/gkd_apps/jscripts/monocrom/switch.js"></script>
+  <script src="https://www.recklinghausen.de/gkd_apps/jscripts/jquery/jquery_current.js" type="text/javascript"></script>
+<script src="https://www.recklinghausen.de/gkd_apps/jscripts/jquery-elevatezoom.js" type="text/javascript"></script>
+
+
+  <!-- eQueries -->
+  <script src="https://www.recklinghausen.de/gkd_apps/jscripts/EQCSS.min.js" type="text/javascript"></script>
+
+
+  <script src="https://www.recklinghausen.de/gkd_apps/jscripts/lightbox2/current/js/lightbox.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="https://www.recklinghausen.de/gkd_apps/jscripts/lightbox2/current/css/lightbox.css" type="text/css" media="screen, projection">
+
+
+
+
+<!-- Reihenfolge: erst cookies, dann styleswitcher -->
+
+
+<link rel="alternate" type="application/atom+xml" title="Aktuelle News aus Recklinghausen" href="http://eservice2.gkd-re.de/selfdbinter320/feed320.rss?db=513&form=list&searchfieldBeginndatum.max=heute&searchfieldAblaufdatum.min=heute&fieldSichtbarkeit=aktuell&feedname=Aktuelle News aus Recklinghausen" />
+
+<link rel="alternate" type="application/atom+xml" title="Rathaus und Politik in Recklinghausen" href="https://eservice2.gkd-re.de/selfdbinter320/feed320.rss?db=513&form=list&searchfieldBeginndatum.max=heute&searchfieldAblaufdatum.min=heute&fieldBereich=Rathaus%20und%20Politik&fieldSichtbarkeit=aktuell&feedname=Rathaus und Politik in Recklinghausen" />
+
+<link rel="alternate" type="application/atom+xml" title="Leben und Wohnen in Recklinghausen" href="https://eservice2.gkd-re.de/selfdbinter320/feed320.rss?db=513&form=list&searchfieldBeginndatum.max=heute&searchfieldAblaufdatum.min=heute&fieldBereich=Leben%20und%20Wohnen&fieldSichtbarkeit=aktuell&feedname=Leben und Wohnen in Recklinghausen" />
+
+<link rel="alternate" type="application/atom+xml" title="Familie und Bildung in Recklinghausen" href="https://eservice2.gkd-re.de/selfdbinter320/feed320.rss?db=513&form=list&searchfieldBeginndatum.max=heute&searchfieldAblaufdatum.min=heute&fieldBereich=Familie%20und%20Bildung&fieldSichtbarkeit=aktuell&feedname=Familie und Bildung in Recklinghausen" />
+
+<link rel="alternate" type="application/atom+xml" title="Wirtschaft und Handel in Recklinghausen" href="https://eservice2.gkd-re.de/selfdbinter320/feed320.rss?db=513&form=list&searchfieldBeginndatum.max=heute&searchfieldAblaufdatum.min=heute&fieldBereich=Wirtschaft%20und%20Handel&fieldSichtbarkeit=aktuell&feedname=Wirtschaft und Handel in Recklinghausen" />
+
+<link rel="alternate" type="application/atom+xml" title="Ruhrfestspiele und Kultur in Recklinghausen" href="https://eservice2.gkd-re.de/selfdbinter320/feed320.rss?db=513&form=list&searchfieldBeginndatum.max=heute&searchfieldAblaufdatum.min=heute&fieldBereich=Ruhrfestspiele%20und%20Kultur&fieldSichtbarkeit=aktuell&feedname=Ruhrfestspiele und Kultur in Recklinghausen" />
+
+<link rel="alternate" type="application/atom+xml" title="Freizeit und Tourismus in Recklinghausen" href="https://eservice2.gkd-re.de/selfdbinter320/feed320.rss?db=513&form=list&searchfieldBeginndatum.max=heute&searchfieldAblaufdatum.min=heute&fieldBereich=Freizeit%20und%20Tourismus&fieldSichtbarkeit=aktuell&feedname=Freizeit und Tourismus in Recklinghausen" />
+<!--header Skript von Template "Box_Lebenslage"
+--><!--header Skript von Template "320_Box_Kalenderblatt"
+--><!--header Skript von Template "320_Box_Willkommen_in_deiner_Stadt"
+--><!--header Skript von Template "320_Zusatzspalte_Uebergreifend"
+--><!--header Skript von Template "320_Box_Oft_gesucht"
+-->
+
+<link rel="stylesheet" type="text/css" href="https://www.recklinghausen.de/gkd_apps/jscripts/slickslider/current/slick.css" />
+<link rel="stylesheet" type="text/css" href="https://www.recklinghausen.de/gkd_apps/jscripts/slickslider/current/slick-theme.css" />
+<script src="https://www.recklinghausen.de/gkd_apps/jscripts/slickslider/current/slick.min.js"></script><TITLE>Startseite | Stadt Recklinghausen</TITLE>
+</head>
+<body class="body" onload=" if(typeof neuesFenster === 'function'){neuesFenster();}"><!--nxid=1-->             <div id="container">
+<div id="header">
+<div id="id24921" class="pansiteelement header_logo"><a title="Link zur Startseite" href="/"><img src="../../images/re_logo_top_3532.png" border="0" alt="Logo_Ruhrfestspiele_Recklinghausen" /></a></div>
+<div id="id24950" class="pansiteelement"><div id="header_menu">
+<ul>
+<li><a class="header_menu" href="./index.asp" target="_self">STARTSEITE</a></li>
+<li><a class="header_menu" href="_Kontakt_Startseite/index.asp" target="_self">KONTAKT</a></li>
+<li><a class="header_menu" href="_Stadtplan/index.asp" target="_self">STADTPLAN</a></li>
+<li><a class="header_menu" href="_Presse_und_Oeffentlichkeitsarbeit/index.asp" target="_self">PRESSE</a></li>
+<li><a class="header_menu" href="Rathaus_Politik/Arbeiten_in_der_Stadtverwaltung/index.asp" target="_self">KARRIERE</a></li>
+<li><a class="header_menu" href="_Uebersicht/index.asp" target="_self">&Uuml;BERSICHT</a></li>
+<li><a href="https://www.facebook.com/Stadt-Recklinghausen-2199054967019302/?eid=ARDJsG4CTOAcUcrazGVjThYVb5CXsRnC2jSfl3EnISQ6cFqVzyBeyccHDGL7mLQBJGw5lGLVJXZEcB5-" title="Link &ouml;ffnet neues Fenster" alt="Facebook" target="_blank"><i class="fab fa-facebook-square"></i></a></li>
+<li><a href="https://www.instagram.com/stadt_recklinghausen/" title="Link &ouml;ffnet neues Fenster" alt="Instagram" target="_blank"><i class="fab fa-instagram"></i></a></li>
+<li><a href="https://twitter.com/StadtRE" title="Link &ouml;ffnet neues Fenster" alt="Twitter" target="_blank"><i class="fab fa-x-twitter"></i></a></li>
+<li><a href="https://www.youtube.com/channel/UCpbLan_n03NTxf3IGBmDinA?view_as=subscriber" title="Link &ouml;ffnet neues Fenster" alt="YouTube" target="_blank"><i class="fab fa-youtube"></i></a></li>
+</ul>
+</div>
+
+<!--<div id="header_right">-->
+<div id="search">
+
+<form action="_Suche/suchergebnis.asp" class="form-open" method="get" name="search" accept-charset="UTF-8" enctype="application/x-www-form-urlencoded">
+<label for="search-field" class="div_hideme">Suchbegriff</label>
+<input id="search-field" type="text" class="search" name="q" title="Suchen" value="" />
+<!--<input class="hidden-search" type="hidden" name="s" value="" />-->
+<input class="suchen" id="Suchen" type="submit" value="Suchen" title="Suchen">
+</form>
+</div>
+
+<div id="barriere_menu">
+S/W - ANSICHT:&nbsp;<a title="Monochrom" href="javascript:setStyle('monocrom')"><img alt="Monochrom" src="../../images/bw_button_3525.png" /></a>
+&nbsp;<a title="Farbansicht" href="javascript:setStyle('normal')"><img alt="Farbansicht" src="../../images/farbe_button_3526.png" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+SCHRIFTGR&Ouml;&szlig;E: &nbsp;
+
+
+<a title="Schriftgr&ouml;&szlig;e Gro&szlig;" href="javascript:setStyle('big')"><img alt="Schriftgr&ouml;&szlig;e Gro&szlig;" src="../../images/fontsizechange_button_plus_3527.png" /></a>&nbsp;
+<a title="Schriftgr&ouml;&szlig;e Normal" href="javascript:setStyle('normal')"><img alt="Schriftgr&ouml;&szlig;e Normal" src="../../images/fontsizechange_button_normal_3528.png" /></a>&nbsp;
+<a title="Schriftgr&ouml;&szlig;e Sehr gro&szlig;" href="javascript:setStyle('bigger')"><img alt="Schriftgr&ouml;&szlig;e Sehr gro&szlig;" src="../../images/fontsizechange_button_gross_3529.png" /></a>
+&nbsp;&nbsp;
+<a href="_RSS_Newsfeeds/index.asp" title="RSS News-Feeds" target="_self"><img src="../../images/rss_logo_3530.jpg" alt="RSS Newsfeeds" /></a>
+&nbsp;
+<a href="javascript:window.print()"><img src="../../images/printer_3531.png" alt="Seite drucken" ></a>
+&nbsp;<!--</div>-->
+</div></div>
+<div id="id28612" class="pansiteelement">
+		
+       </div>
+<div id="id64596" class="pansiteelement">
+			<div class="slider-container">
+				
+			<div class="slide">
+				<div class="slide-content">
+					<div class="slider-text">
+						<div class="slider-header">Public Viewing zur WM 2026</div>
+						<div>Recklinghausen wird auch zur Fu&szlig;ball-Weltmeisterschaft 2026 wieder zur gro&szlig;en B&uuml;hne f&uuml;r alle Fu&szlig;ballfans. Nach dem bew&auml;hrten Konzept der vergangenen Turniere laden die Arena Recklinghausen GmbH und die Stadt Recklinghausen erneut zum Public Viewing auf den Rathausplatz ein, der sich in diesem Sommer wieder in die beliebte „KIA-Arena“ verwandelt. <a href="https://www.recklinghausen.de/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=31826" target="Link &ouml;ffnet neues Fenster">Alle Infos hier</a><br ></div>
+					</div>
+			                <img class="slider-img" src="../../images/Banner_Public_Viewing2_29750.jpg" alt="Bildbeschreibung eingeben">
+				</div>
+			</div>
+       
+			<div class="slide">
+				<div class="slide-content">
+					<div class="slider-text">
+						<div class="slider-header">Familienb&uuml;ro in der Altstadt</div>
+						<div>Seit &uuml;ber einem Jahr befindet sich das Familienb&uuml;ro im Herzen der Altstadt. Es ist die erste Anlaufstelle f&uuml;r viele Angelegenheiten rund um die Familie.&nbsp;<br ><br ><div><br ><div><a href="Familie_Bildung/Familienbuero/index.asp" target="_self">Mehr Informationen zum Angebot und &Ouml;ffnungszeiten finden sie hier.</a></div></div></div>
+					</div>
+			                <img class="slider-img" src="../../images/Header_Slite_Familienburo_27458.jpg" alt="Beratungssituation im Familienb&uuml;ro">
+				</div>
+			</div>
+       
+			<div class="slide">
+				<div class="slide-content">
+					<div class="slider-text">
+						<div class="slider-header">RE digital</div>
+						<div>Antr&auml;ge schnell, einfach und digital stellen – das ist m&ouml;glich im Serviceportal der Stadt Recklinghausen. Ob Hundeanmeldung oder Meldebescheinigung, dies und vieles mehr kann bequem von zu Hause aus erledigen werden.<br ><br >&nbsp;<a href="http://serviceportal.recklinghausen.de/servicesabisz" target="_self" title="Link &ouml;ffnet neue Seite">Zu den digitalen Serviceleistungen</a><br ></div>
+					</div>
+			                <img class="slider-img" src="../../images/Serviceportal_29134.jpg" alt="Laptop von oben">
+				</div>
+			</div>
+       
+			<div class="slide">
+				<div class="slide-content">
+					<div class="slider-text">
+						<div class="slider-header">Stadt Recklinghausen und Feuerwehr jetzt auch bei WhatsApp</div>
+						<div>Wissen, was los ist: Die Stadtverwaltung sowie die Feuerwehr informieren B&uuml;rger*innen auch auf neuen WhatsApp-Kan&auml;len.
+<br ><div><br ></div><div><a href="http://www.recklinghausen.de/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=30616" target="_self">Mehr Infos gibt es hier.</a></div></div>
+					</div>
+			                <img class="slider-img" src="../../images/Header_WhatsApp_28960.jpg" alt="Whatsapp Titelbild">
+				</div>
+			</div>
+       
+			</div>
+       </div>
+<div id="id64595" class="pansiteelement"><script>
+$(document).ready(function () {
+$('.slider-container').slick({
+arrows: true,
+dots: true,
+autoplay: true,
+autoplaySpeed: 5000,
+pauseOnDotsHover: true,
+mobileFirst: true,
+speed: 300,
+adaptiveHeight: true
+});
+});
+</script></div>
+<div id="id11848" class="pansiteelement main_menu">
+           <DIV class="vse_navigation_frame_div">    
+               <UL class="vse_navigation_list">
+                   
+			<LI class="vse_navigation_list_item_rathaus_politik"><A class="vse_navigation_link_rathaus_politik" href="Rathaus_Politik/index.asp" target="_self">RATHAUS & POLITIK</A></LI>
+	
+			<LI class="vse_navigation_list_item_leben_wohnen"><A class="vse_navigation_link_leben_wohnen" href="Leben_Wohnen/index.asp" target="_self">LEBEN & WOHNEN</A></LI>
+	
+			<LI class="vse_navigation_list_item_klima_mobilitaet"><A class="vse_navigation_link_klima_mobilitaet" href="Klima_Mobilitaet/index.asp" target="_self">KLIMA & MOBILIT&Auml;T</A></LI>
+	
+			<LI class="vse_navigation_list_item_familie_bildung"><A class="vse_navigation_link_familie_bildung" href="Familie_Bildung/index.asp" target="_self">FAMILIE & BILDUNG</A></LI>
+	
+			<LI class="vse_navigation_list_item_wirtschaft_handel"><A class="vse_navigation_link_wirtschaft_handel" href="Wirtschaft_Einkaufen/index.asp" target="_self">WIRTSCHAFT & EINKAUFEN</A></LI>
+	
+			<LI class="vse_navigation_list_item_ruhrfestspiele_kultur"><A class="vse_navigation_link_ruhrfestspiele_kultur" href="Ruhrfestspiele_Kultur/index.asp" target="_self">RUHRFESTSPIELE & KULTUR</A></LI>
+	
+			<LI class="vse_navigation_list_item_freizeit_tourismus"><A class="vse_navigation_link_freizeit_tourismus" href="https://www.recklinghausen.de/Inhalte/Startseite/Freizeit_Tourismus/index.asp" target="_self">FREIZEIT & TOURISMUS</A></LI>
+	
+               </UL>
+           </DIV> 
+       </div>
+<div id="id64574" class="pansiteelement"><div id="smmenu"></div>
+<script type="text/javascript">
+$.ajaxSetup({
+  contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
+  beforeSend: function(jqXHR) {
+    jqXHR.overrideMimeType('application/x-www-form-urlencoded; charset=UTF-8');
+  }
+});
+
+$( "#smmenu" ).load( "../../0_Technik/Scripte/sitemap_inc.asp", function( response, status, xhr ) {
+if ( status == "error" ) {
+var msg= "Sorry but there was an error: ";
+$( "#error" ).html( msg+ xhr.status + " " + xhr.statusText );
+}
+});
+</script></div>
+</div>
+<div id="content_container">
+<div id="sidebarLeft">
+<div id="id11898" class="pansiteelement">
+                   <div class="box_left_title">B&uuml;rgermeister Tschersich hei&szlig;t Sie willkommen</div> 
+                   <div class="box_left_content"><p><img alt="Tschersich_fuer Grussworte" src="../../images/Tschersich_fuer_Grussworte_29378.jpg" ><br ></p><p>Hier geht es zum <a href="Rathaus_Politik/Buergermeister/Willkommen/index.asp" target="_self">Willkommensgru&szlig;</a>.&nbsp;</p></div>
+<div class="nofloat  "></div>
+       </div>
+<div id="id30613" class="pansiteelement">
+                   <div class="box_left_title">Breitbandausbau, A43-Ausbau und Blitzer</div> 
+                   <div class="box_left_content"><p><img alt="Vorsicht" src="../../images/Vorsicht_5463.jpg" ><br ><br >Informationen zum Breitbandausbau in Recklinghausen finden Sie <a href="Wirtschaft_Einkaufen/Breitband_in_Recklinghausen.asp" target="_self">hier</a>.<br ></p><p>Informationen zum Ausbau der A 43 finden Sie <a href="Klima_Mobilitaet/Mobilitaet/Strasse_und_Verkehr/A_43-Ausbau/index.asp" target="_self">hier</a>.<br ><br >Aktuelle Geschwindigkeitsmessungen <a href="./_details.asp?form=detail&amp;db=513&amp;id=26100" target="_self">Zur &Uuml;bersicht</a></p></div>
+<div class="nofloat  "></div>
+       </div>
+<div id="id29696" class="pansiteelement">		
+			<div class="box_left_title">Oft gesucht</div>
+			<div class="box_left_content">
+			<ul>
+			
+			<li>
+			<a href="https://recklinghausen.buergerportal.digital/calendar" target="_self">Abfallkalender</a>
+			</li>
+
+			
+			<li>
+			<a href="/redirect/bso.asp?dienstleistung=2227" target="_self">Anmeldung</a>
+			</li>
+
+			
+			<li>
+			<a href="Leben_Wohnen/Auslaender_und_Integrationsarbeit/index.asp" target="_self">Ausl&auml;nder und Integrationsarbeit</a>
+			</li>
+
+			
+			<li>
+			<a href="Rathaus_Politik/Ausschreibungen/index.asp" target="_self">Ausschreibungen</a>
+			</li>
+
+			
+			<li>
+			<a href="Leben_Wohnen/Bauen/Bauantraege_online/index.asp" target="_self">Bauantr&auml;ge online</a>
+			</li>
+
+			
+			<li>
+			<a href="Klima_Mobilitaet/Mobilitaet/Strasse_und_Verkehr/Baustellen/index.asp" target="_self">Baustellen</a>
+			</li>
+
+			
+			<li>
+			<a href="Rathaus_Politik/Buergerservice/Buergerbuero/index.asp" target="_self">B&uuml;rgerb&uuml;ro</a>
+			</li>
+
+			
+			<li>
+			<a href="/redirect/bso.asp?seite=formulare" target="_self">Formulare</a>
+			</li>
+
+			
+			<li>
+			<a href="/redirect/bso.asp?dienstleistung=2544" target="_self">Fundsachen</a>
+			</li>
+
+			
+			<li>
+			<a href="https://www.jobcenter-kreis-recklinghausen.de/Inhalte/Ueber_uns/Jobcenter_vor_Ort/BS_Recklinghausen/index.asp" target="_self">Jobcenter Recklinghausen</a>
+			</li>
+
+			
+			<li>
+			<a href="Familie_Bildung/Jugendamt_von_A_bis_Z__Hilfe_fuer_Kinder__Jugendliche_und_Familien/index.asp" target="_self">Jugendamt</a>
+			</li>
+
+			
+			<li>
+			<a href="Leben_Wohnen/Sicherheit_und_Sauberkeit/Kommunale_Servicebetriebe/index.asp" target="_self">Kommunale Servicebetriebe</a>
+			</li>
+
+			
+			<li>
+			<a href="http://www.kreis-re.de/" target="_self">Kreis Recklinghausen</a>
+			</li>
+
+			
+			<li>
+			<a href="Leben_Wohnen/Gesundheit_und_Notdienste/index.asp" target="_self">Notdienste</a>
+			</li>
+
+			
+			<li>
+			<a href="Leben_Wohnen/Sicherheit_und_Sauberkeit/Ordnungsamt/index.asp" target="_self">Ordnungsamt</a>
+			</li>
+
+			
+			<li>
+			<a href="/redirect/bso.asp?dienstleistung=2664" target="_self">Personalausweis</a>
+			</li>
+
+			
+			<li>
+			<a href="https://stadt-recklinghausen.gremien.info/" target="_self">Rat und Aussch&uuml;sse</a>
+			</li>
+
+			
+			<li>
+			<a href="/redirect/bso.asp?dienstleistung=2691" target="_self">Reisepass</a>
+			</li>
+
+			
+			<li>
+			<a href="Familie_Bildung/Stadtbibliothek/index.asp" target="_self">Stadtbibliothek</a>
+			</li>
+
+			
+			<li>
+			<a href="/redirect/bso.asp?dienstleistung=2578" target="_self">Ummeldung</a>
+			</li>
+
+			
+			<li>
+			<a href="Wirtschaft_Einkaufen/Einkaufen_in_Recklinghausen/Verkaufsoffene_Sonntage/index.asp" target="_self">Verkaufsoffene Sonntage</a>
+			</li>
+
+			
+			</ul>
+			</div>
+                 
+<div class="nofloat  "></div>
+
+
+       </div>
+</div><!--nxid=1--><!--contentid=1-->
+<div id="mainContent">
+<DIV class="sprache"><!--PageLanguages : 1-->
+</DIV>
+<div id="id18033" class="pansiteelement"><div class="noindex"><div class="platzhalter">Platzhalter f&uuml;r SelfDB Inhalt Prio1</div></div>
+
+<!-- getContent -->
+<div class="db513">
+   <h1 class="selfdb_verzeichnisname">Aktuelles Recklinghausen</h1>
+   <div class="selfdb_hintmessage"></div>
+   <div class="selfdb_report">
+      <!--##startblock1##-->
+      <div class="selfdb_erstereintrag">
+         <div class="alternierend1">
+            <div class="selfdb_reportentry">
+               <div class="selfdb_reportrow">
+                  <div class="selfdb_fieldBild">
+                     <div class="selfdb_columnname">Bild</div>
+                     <div class="selfdb_columnvalue">
+                        <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-32164fieldBild.jpg" alt="Symbolbild Radtrasse"><br>
+                     </div>
+                  </div>
+               </div>
+               <div class="news_teaser">
+               <div class="selfdb_reportrow">
+                  <div class="selfdb_fieldTitel">
+                     <div class="selfdb_columnname">Titel</div>
+                     <div class="selfdb_columnvalue">Bau der „Radtrasse RE“ startet am 20. Juli</div>
+                  </div>
+               </div>
+               <div class="selfdb_reportrow">
+                  <div class="selfdb_fieldEinleitung">
+                     <div class="selfdb_columnname">Einleitung</div>
+                     <div class="selfdb_columnvalue">Gute Nachrichten für alle Radfahrer*innen: Am Montag, 20. Juli, beginnen die Arbeiten an der sogenannten „Radtrasse RE“. Der erste Bauabschnitt erstreckt sich von der Herner Straße 70 (Höhe Schlachthofbrücke/General Blumenthal) bis zur Kreuzung Herner Straße/Blitzkuhlenstraße.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=32164">Mehr</a>
+                     </div>
+                  </div>
+               </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="alternierend2">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-32159fieldBild.jpg" alt="Symbolbild Feuerwehr "><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">Regeln zum Schutz vor Wald- und Flächenbränden</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">Sommerliche Temperaturen und anhaltende Trockenheit erhöhen die Gefahr von Wald- und Flächenbränden.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=32159">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <!--##endblock1##-->
+      <!--##startblock1##-->
+      <div class="alternierend1">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-32152fieldBild.jpg" alt=""><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">Weihnachtscircus auf dem Rathausplatz bringt neuen Glanz in die Altstadt</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">Recklinghausen bekommt ein neues Highlight in der Adventszeit: Erstmals gastiert 17. Dezember 2026 bis zum 03. Januar 2027 der Recklinghäuser Weihnachtscircus auf dem Rathausplatz und verbindet festliche Weihnachtsatmosphäre mit internationaler Spitzenartistik.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=32152">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <div class="alternierend2">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-32158fieldBild.jpg" alt="S&uuml;dbad"><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">Freibadpersonal weiterhin verstärkt – Hallenbad Süd bleibt noch bis 19. Juli geschlossen</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">Die Temperaturen bleiben vorerst hoch. Daher ist weiterhin mit einem hohen Besucheraufkommen in der Mollbeck sowie im Naturfreibad Suderwich zu rechnen.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=32158">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <!--##endblock1##-->
+      <!--##startblock1##-->
+      <div class="alternierend1">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-32146fieldBild.jpg" alt="Symbolbild zum Balkonwettbewerb IGA 2027: Eine Frau pflegt Blumen auf einem Balkon, eine Katze schaut ihr dabei zu."><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">Der Ruhrpott zeigt Farbe – Balkonwettbewerb zur IGA 2027 startet</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">Bei der Internationale Gartenausstellung 2027 (IGA 2027) im Ruhrgebiet wird es nicht nur große, aufwändig gestaltete Landschaftsgärten zu entdecken geben, sondern auch private Garten-Oasen.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=32146">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <div class="alternierend2">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-32144fieldBild.jpg" alt="Die Band Magnetic Room spielt im Willy-Brandt-Park."><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">Sommer im Park mit der Band Magnetic Room</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">Im Rahmen des „Kultursommers Recklinghausen 2026” findet im Kulturquartier das erste Open-Air-Konzert der Reihe „Sommer im Park” im Willy-Brandt-Park statt.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=32144">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <!--##endblock1##-->
+      <!--##startblock1##-->
+      <div class="alternierend1">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-32143fieldBild.jpg" alt="Die Musikschule Recklinghausen im Willy-Brandt-Park."><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">Kreative Sommerferien in der Musikschule: Workshops verbinden Musik, Kunst und Instrumentenbau</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">Die Musikschule der Stadt Recklinghausen erweitert ihr Angebot erstmals mit zwei spartenübergreifenden Workshops in den Sommerferien.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=32143">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <div class="alternierend2">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-32136fieldBild.jpg" alt="Hallenbad Herner Stra&szlig;e"><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">Hallenbad an der Herner Straße für Revisionsarbeiten geschlossen</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">Ab dem kommenden Samstag, 11. Juli, stehen wieder die alljährlichen Reparatur-, Wartungs- und Grundreinigungsarbeiten im Hallenbad an der Herner Straße an. Deshalb bleibt das Hallenbad bis einschließlich Sonntag, 30. August, geschlossen.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=32136">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <!--##endblock1##-->
+      <!--##startblock1##-->
+      <div class="alternierend1">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-32125fieldBild.jpg" alt="Das neue Programm der VHS ist online."><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">Das Programm des VHS-Herbstsemesters ist online</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">Die Recklinghäuser Volkshochschule (VHS) startet mit einem ebenso vielfältigen wie zeitgemäßen Bildungsangebot für alle Generationen in das Herbst-/Wintersemester.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=32125">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <div class="alternierend2">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-32114fieldBild.jpg" alt="Trinkbrunnen L&ouml;hrhof"><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">So wappnet sich Recklinghausen gegen Hitzewellen</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">Die Hitzewelle der vergangenen Tage hat viele Menschen in der Stadt sehr belastet.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=32114">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <!--##endblock1##-->
+      <!--##startblock1##-->
+      <div class="alternierend1">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-32108fieldBild.jpg" alt="Symbolfoto Grillen "><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">Tipps zum sicheren Grillen</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">Gerade bei den aktuell hochsommerlichen Temperaturen und mit Blick auf das kommende Wochenende, wird an vielen Stellen im Stadtgebiet der Grill entzündet. Die Feuerwehr Recklinghausen und die Stadtverwaltung geben deshalb Tipps zum sicheren Grillen.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=32108">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <div class="alternierend2">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-31988fieldBild.jpg" alt="Symbolbild Feuerwehr"><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">Feuerwehr Recklinghausen gibt Hitzetipps</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">Sonne und Hitze – das bleibt vorerst die Wettervorhersage für die kommenden Tage. Viele leiden unter der enormen Hitze und den Temperaturschwankungen.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=31988">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <!--##endblock1##-->
+      <!--##startblock1##-->
+      <div class="alternierend1">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-32106fieldBild.jpg" alt="Das Font&auml;nenfeld auf dem Altstadtmarkt ist defekt"><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">Fontänenfeld auf dem Altstadtmarkt defekt</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">Die Stadtverwaltung teilt mit, dass das Fontänenfeld am Altstadtmarkt wegen eines Defekts der Steuerungstechnik nicht in Betrieb genommen werden kann.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=32106">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <div class="alternierend2">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-32078fieldBild.jpg" alt="Das Ruhrfestspielhaus an der Otto-Burrmeister-Allee 1. Foto: Stadt RE"><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">Ruhrfestspielhaus: Arbeiten an der Obermaschinerie dauern länger als erwartet</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">Seit Juni 2025 wird die Obermaschinerie im Ruhrfestspielhaus umfassend saniert. Im Verlauf der Arbeiten haben sich zusätzliche, nicht vorhersehbare Anforderungen ergeben, die zu einer Verlängerung der Bauzeit führen.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=32078">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <!--##endblock1##-->
+      <!--##startblock1##-->
+      <div class="alternierend1">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-32017fieldBild.jpg" alt="Symbol-Bild-Olympia-Aus"><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">Staatskanzlei verkündet Olympia-Aus für RE: Bürgermeister Tschersich bedauert die Entscheidung</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">In einer offiziellen Pressemitteilung hat die für die Olympia-Bewerbung der Region KölnRheinRuhr zuständige Staatskanzlei des Landes Nordrhein-Westfalen heute, 5. Juni 2026, erklärt, dass die Stadt Recklinghausen zukünftig nicht mehr Teil der Bewerbung sein wird.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=32017">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <div class="alternierend2">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-31914fieldBild.jpg" alt="B&uuml;rgermeister Axel Tschersich (3.v.r.) stellte zusammen mit der Ersten Beigeordneten Silke Ehrbar-Wulfen (3.v.l.) und den Veranstaltern Lars Tottmann (r.) und Marius Ebel (l.) von der Arena Recklinghausen GmbH sowie Tom Nassal (2.v.r./Agentur crosscreative) und Georg Gabriel (2.v.l.), dem Leiter des Stadtmarketings, erste Details zum Lichtspektakel &bdquo;RE leuchtet&ldquo; vor. Foto: Stadt RE"><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">„RE leuchtet 2026“ lockt mit dem Motto „Träume unterm Sternenhimmel“</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">„Recklinghausen leuchtet“ ist seit Jahren der Publikumsmagnet im Veranstaltungskalender der Stadt. Bis die diesjährige Rathausshow erstmals auf die Fassade des Rathauses projiziert wird, sind es zwar noch ein paar Wochen, doch die Eventmacher von der Arena Recklinghausen GmbH haben längst mit den Vorbereitungen begonnen.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=31914">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <!--##endblock1##-->
+   </div>
+   <br>
+   <br>
+   <a href="/Inhalte/Startseite/_details.asp?db=513&amp;form=search&amp;id=" class="selfdb_neuesuchereport">
+				Neue Suche
+			</a>
+   <br>
+</div>
+</div>
+<div id="id28311" class="pansiteelement">
+<div class="element_startseite">
+  <div class="bild_startseite"><img class="bild_startseite" alt="Stromkabel" src="../../images/Stromkabel-klein_25494.jpg" /></div>
+  <div class="news_teaser"><div class="selfdb_fieldTitel"><div class="selfdb_columnvalue">Stadt ohne Strom</div></div><div class="text_startseite">Stromausf&auml;lle und Cyber-Attacken sind wichtige Themen, die erneut an Bedeutung und Bedrohungslage gewonnen haben. <a href="Leben_Wohnen/Sicherheit_und_Sauberkeit/Katastrophenschutz/_Stadt_ohne_Strom.asp" target="_self">Informationen, wie die Stadt Recklinghausen und die B&uuml;rger*innen sich f&uuml;r den Ernstfall vorbereiten k&ouml;nnen, gibt es hier.</a><br ></div></div>
+</div>
+<div class="nofloat  "></div>
+
+		</div>
+<div id="id28311" class="pansiteelement">
+<div class="element_startseite">
+  <div class="bild_startseite"><img class="bild_startseite" alt="Karte der Parkpl&auml;tze in Recklinghausen" src="../../images/freiparken_5465.jpg" /></div>
+  <div class="news_teaser"><div class="selfdb_fieldTitel"><div class="selfdb_columnvalue">So parken Sie in Recklinghausen</div></div><div class="text_startseite"><p>In Recklinghausen gibt es zahlreiche kosteng&uuml;nstige Parkm&ouml;glichkeiten. Ab 18 Uhr ist das Parken auf allen st&auml;dtischen Parkpl&auml;tzen geb&uuml;hrenfrei, auf den drei Gro&szlig;parkpl&auml;tzen bereits ab 16 Uhr. Alle Parkpl&auml;tze im Stadtzentrum finden Sie in unserer praktischen <span title="Link &ouml;ffnet ein PDF-Dokument"><a href="Freizeit_Tourismus/Dokumente/Parken_Flyer.pdf" target="_blank">Park-Brosch&uuml;re</a></span>.&nbsp;Bitte beachten Sie, dass die Lavreso-Park App ab Ende Juni 2026 eingestellt wird.<br ></p></div></div>
+</div>
+<div class="nofloat  "></div>
+
+		</div>
+<div id="id28311" class="pansiteelement">
+<div class="element_startseite">
+  <div class="bild_startseite"><img class="bild_startseite" alt="Stadtwerke Recklinghausen" src="../../images/Strommasten1_21970.png" /></div>
+  <div class="news_teaser"><div class="selfdb_fieldTitel"><div class="selfdb_columnvalue">&Ouml;kostrom und Erdgas: Stadtwerke Recklinghausen</div></div><div class="text_startseite">Ob &Ouml;kostrom oder Erdgas - beides gibt es bei den Stadtwerken Recklinghausen. Die Stadtwerke Recklinghausen Holding GmbH beteiligt sich neben der&nbsp;Versorgung von&nbsp;Strom und Gas auch in den Bereichen Wasser- und Fernw&auml;rmeversorgung sowie an der Stra&szlig;enbeleuchtung.&nbsp;<a href="https://www.stadtwerke-re-holding.de/" target="Link &ouml;ffnet neues Fenster">Weitere Informationen zu den&nbsp;angebotenen Leistungen sowie Kontaktdaten gibt es hier.</a><br > </div></div>
+</div>
+<div class="nofloat  "></div>
+
+		</div>
+<div id="id28311" class="pansiteelement">
+<div class="element_startseite">
+  <div class="bild_startseite"><img class="bild_startseite" alt="Rathaus in Ukrainefarben angeleuchtet" src="../../images/Ukraine-Infos-Flagge_24435.png" /></div>
+  <div class="news_teaser"><div class="selfdb_fieldTitel"><div class="selfdb_columnvalue">Ukraine: Recklinghausen hilft - FAQ</div></div><div class="text_startseite">Ukrainer*innen, die Fragen rund zur Einreise haben, und alle Recklingh&auml;user*innen, die helfen wollen, finden hier Antworten.&nbsp;<a href="Leben_Wohnen/Auslaender_und_Integrationsarbeit/_Ukraine/_Informationen_auf_Ukrainisch.asp" target="_self">Поширені запитання українською</a>&nbsp;|&nbsp;<a href="Leben_Wohnen/Auslaender_und_Integrationsarbeit/_Ukraine/_index.asp" target="_self">Informationen f&uuml;r Recklingh&auml;user*innen</a><div><br ></div></div></div>
+</div>
+<div class="nofloat  "></div>
+
+		</div>
+<div id="id18034" class="pansiteelement"><div class="noindex"><div class="platzhalter">Platzhalter f&uuml;r SelfDB Inhalt Prio2</div></div>
+
+<!-- getContent -->
+<div class="db513">
+   <h1 class="selfdb_verzeichnisname">Aktuelles Recklinghausen</h1>
+   <div class="selfdb_hintmessage"></div>
+   <div class="selfdb_report">
+      <!--##startblock1##-->
+      <div class="selfdb_erstereintrag">
+         <div class="alternierend1">
+            <div class="selfdb_reportentry">
+               <div class="selfdb_reportrow">
+                  <div class="selfdb_fieldBild">
+                     <div class="selfdb_columnname">Bild</div>
+                     <div class="selfdb_columnvalue">
+                        <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-32115fieldBild.jpg" alt="Titelbild Kultur Kommt"><br>
+                     </div>
+                  </div>
+               </div>
+               <div class="news_teaser">
+               <div class="selfdb_reportrow">
+                  <div class="selfdb_fieldTitel">
+                     <div class="selfdb_columnname">Titel</div>
+                     <div class="selfdb_columnvalue">Neues Programm für die Theater- und Konzertsaison KULTUR KOMMT 2026/2027 ist erschienen</div>
+                  </div>
+               </div>
+               <div class="selfdb_reportrow">
+                  <div class="selfdb_fieldEinleitung">
+                     <div class="selfdb_columnname">Einleitung</div>
+                     <div class="selfdb_columnvalue">Mehr als 140 Veranstaltungen umfasst das Kulturprogramm der Stadt Recklinghausen für den Zeitraum August 2026 bis Juli 2027.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=32115">Mehr</a>
+                     </div>
+                  </div>
+               </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="alternierend2">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-32071fieldBild.jpg" alt="Emscherland"><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">IGA 2027: Recklinghausen beteiligt sich an Picknick-Weltrekord-Versuch</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">In ziemlich genau einem Jahr findet im Ruhrgebiet die Internationale Gartenausstellung (IGA) 2027 statt.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=32071">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <!--##endblock1##-->
+      <!--##startblock1##-->
+      <div class="alternierend1">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-32061fieldBild.jpg" alt="Baustellenschild Herner Stra&szlig;e. Foto: Stadt RE"><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">Herner Straße/Blitzkuhlenstraße: Bauarbeiten sorgen für Einbahnstraßen-Regelung</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">Ende September 2025 startete eine von der Stadt Recklinghausen beauftragte Fachfirma mit dem Umbau der Herner Straße inklusive des Verkehrsknotens Herner Straße / Blitzkuhlenstraße / Hohenhorster Weg.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=32061">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <div class="alternierend2">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-32047fieldBild.jpg" alt="B&uuml;rgermeister Axel Tschersich (2.v.r.) pr&auml;sentiert gemeinsam mit (v.l.) Pia Kowatsch (Fachbereich Kinder, Jugend und Familie), Romaf Muhamad (Kinder- und Jugendparlament), Fachbereichsleiterin Carmen Greine, Dezernent Dr. Sebastian Sanders und Alan Hasan (Kinder- und Jugendparlament) das Plakat zum Ferientreff. Foto: Stadt RE"><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">Sommerferien: Angebote und Anmeldungen gibt es online gebündelt auf der „Feripro“-Plattform</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">Die Sommerferien rücken näher – und damit jede Menge Zeit für Abenteuer, Spaß und neue Erlebnisse für Kinder und Jugendliche aus Recklinghausen. Wer noch auf der Suche nach spannenden Ferienangeboten ist, wird auch in diesem Jahr wieder fündig:
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=32047">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <!--##endblock1##-->
+      <!--##startblock1##-->
+      <div class="alternierend1">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-32032fieldBild.jpg" alt="Das Titelbild des Statistischen Jahresberichts 2025. Foto: Stadt RE"><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">Statistischer Jahresbericht 2025 ist erschienen</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">Schon gewusst, dass in Recklinghausen in 2025 insgesamt 25.639 Menschen in Sportvereinen aktiv waren – damit 523 mehr als 2024 und allein 370 im Bereich der 7- bis 14-Jährigen? Oder, dass es 106 Theatervorstellungen im Stadtgebiet gab? Oder, dass es in Suderwich auf Basis der Zahlen des Kraftfahrt-Bundesamts mit 187 die meisten elektrisch betriebenen Fahrzeuge im Stadtgebiet gibt? Diese und viele weitere spannende Zahlen rund um RE vereint der Statistische Jahresbericht 2025 der Stadt.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=32032">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <div class="alternierend2">
+         <div class="selfdb_reportentry">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldBild">
+                  <div class="selfdb_columnname">Bild</div>
+                  <div class="selfdb_columnvalue">
+                     <img src="https://selfdb.gkd-re.de/selfdbinter320/DokumentServlet?dokumentenname=513-31607fieldBild.jpg" alt="Das Rathaus der Stadt Recklinghausen. Foto: Stadt RE/Marcel Blank"><br>
+                  </div>
+               </div>
+            </div>
+            <div class="news_teaser">
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldTitel">
+                  <div class="selfdb_columnname">Titel</div>
+                  <div class="selfdb_columnvalue">Verwaltung informiert über Notfall-Infopunkte und Eigenvorsorge</div>
+               </div>
+            </div>
+            <div class="selfdb_reportrow">
+               <div class="selfdb_fieldEinleitung">
+                  <div class="selfdb_columnname">Einleitung</div>
+                  <div class="selfdb_columnvalue">Länger andauernde Stromausfälle, der Ausfall von Telekommunikationsnetzen oder hybride Bedrohungen wie Cyber-Angriffe stellen auch für Kommunen im Ruhrgebiet sehr seltene, aber mögliche Szenarien dar.
+							&nbsp;<a href="/Inhalte/Startseite/_details.asp?form=detail&amp;db=513&amp;id=31607">Mehr</a>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
+      <!--##endblock1##-->
+   </div>
+   <br>
+   <br>
+   <a href="/Inhalte/Startseite/_details.asp?db=513&amp;form=search&amp;id=" class="selfdb_neuesuchereport">
+				Neue Suche
+			</a>
+   <br>
+</div>
+</div>
+<div id="id18033" class="pansiteelement"><div class="noindex"><div class="platzhalter">Platzhalter f&uuml;r SelfDB Inhalt Prio3</div></div>
+
+<!-- getContent -->
+<div class="db513">
+   <h1 class="selfdb_verzeichnisname">Aktuelles Recklinghausen</h1>
+   <div class="selfdb_hintmessage"></div>
+   <br>
+   <div class="selfdb_hintmessage"></div>
+   <br>
+   <a href="/Inhalte/Startseite/_details.asp?db=513&amp;form=search&amp;id=" class="selfdb_neuesuchereport">
+				Neue Suche
+			</a>
+   <br>
+</div>
+</div>
+<div id="id57050" class="pansiteelement"><div id="seitenanfang"></div></div>
+</div><!--contentid=1--><!--nxid=1-->
+<div id="sidebarRight">
+<div id="id31286" class="pansiteelement">
+                   <div class="box_right_title">Ihr Kontakt zur Stadtverwaltung</div> 
+                   <div class="box_right_content"><p><img alt="Rathaus quer" src="../../images/Rathaus_quer2_3519.jpg" ></p>
+<ul>
+<li>Online-Terminvergabe
+<ul>
+<li><a href="https://termin-online-buchen.de/live/booking?cfid=000360000685" target="_blank">Ausl&auml;nderangelegenheiten</a></li><a href="https://termin-online-buchen.de/live/booking?cfid=000360001417" target="Link &ouml;ffnet neues Fenster"><li>Beurkundung Vaterschaft, Sorge und Unterhalt</li></a><li><a title="Link &ouml;ffnet neues Fenster" href="https://termin-online-buchen.de/live/booking?cfid=000360000440" target="_blank">Gewerbeangelegenheiten</a></li><li><a href="https://termin-online-buchen.de/live/booking?cfid=000360001047" target="_self" lang="DE">Urkundenservice</a><br ></li>
+</ul></li>
+<li><a href="https://serviceportal.recklinghausen.de/servicesabisz" target="Link" title="Link &ouml;ffnet neue Seite">Online-Service&nbsp;(Serviceportal)</a></li>
+<li><a href="https://formulare-extern.de:443/metaform/Form-Solutions/sid/assistant/65706d8f93bdcb7a3a7b7dee" target="Link &ouml;ffnet neues Fenster">Kontaktformular</a></li>
+<li><a href="Rathaus_Politik/Rathaus_und_Verwaltung/Oeffnungszeiten/index.asp" target="_self">&Ouml;ffnungszeiten</a></li><li><a href="http://www.recklinghausen.de/inhalte/startseite/rathaus_politik/buergerservice/buergerservice/_bso.asp?seite=angebot&amp;id=19538" target="_self">E-Rechnung FAQ</a></li>
+<li><a href="http://www.recklinghausen.de/buergerservice" target="_self">B&uuml;rgerservice von A-Z</a></li>
+<li><a href="Rathaus_Politik/Buergerservice/Ausweisstatus/index.asp" target="_self">Ausweisstatus</a></li><li><a href="Klima_Mobilitaet/Mobilitaet/Strasse_und_Verkehr/Strassenbeleuchtung/index.asp" target="_self">Defekte Stra&szlig;enbeleuchtung melden</a></li>
+</ul>
+
+</div>
+<div class="nofloat  "></div>
+       </div>
+<div id="id25929" class="pansiteelement"><div class="box_right_title">Veranstaltungskalender</div>
+<div class="box_right_content">
+<div id="monatskalender"></div> 
+<script type="text/javascript">kalender_schreiben();</script>
+
+
+<FORM name="suche1" action="_Veranstaltungskalender/index.asp?db=79&fieldStadt=Recklinghausen&form=list&fieldgkdveranstbeginn=16.07.2026&orderby=fieldgkdveranstbeginn" method="post">
+<label for="feldKategorie" class="div_hideme">Veranstaltungskategorie</label>
+<select class="selfdb_select" name="fieldKategorie" id="feldKategorie" title="Auswahl der Kategorie"> 
+<option value="alle">Alle</option> 
+<option>Ausstellungen/Kongresse/Messe</option> 
+<option>Bildung</option> 
+<option>Feste</option> 
+<option>Film</option> 
+<option>F&uuml;hrungen</option> 
+<option>Inklusion</option> 
+<option>Kinder</option> 
+<option>Kleinkunst/Comedy/Kabarett</option> 
+<option>Lesungen/Vortr&auml;ge</option> 
+<option>Markt</option> 
+<option>Musik</option> 
+<option>Musiktheater</option> 
+<option>Sonstiges</option> 
+<option>Sport</option> 
+<option>Tanz</option> 
+<option>Theater</option> 
+</select>
+
+<INPUT class="button" type="submit" title="Suche" value="Suche" name="submit">
+</FORM>
+<p>
+<a href="_Veranstaltungskalender/index.asp?db=79&fieldStadt=Recklinghausen&form=search&fieldgkdveranstbeginn=16.07.2026" title="Veranstaltungskalender" alt="Eventkalender">Zur Veranstaltungssuche</a>
+</p>
+
+</div></div>
+<div id="id30750" class="pansiteelement">
+                   <div class="box_right_title">B&uuml;rgerbeteiligung</div> 
+                   <div class="box_right_content"><div><a href="http://beteiligung.nrw.de/portal/recklinghausen" target="_self">Online-Beteiligungsportal der Stadtverwaltung</a> <br ><br >Bauleitplanung: F&uuml;r B&uuml;rger*innen gibt es M&ouml;glichkeiten, sich an Bebauungspl&auml;nen und &Auml;nderungen zum Fl&auml;chennutzungsplan zu beteiligen.</div><div><br ><div><a href="Leben_Wohnen/Bebauungsplaene/aktuelle_buergerbeteiligung.asp" target="_self">Aktuelle B&uuml;rgerbeteiligungen zu Bebauungspl&auml;nen finden Sie hier.</a></div><div>&nbsp;<br ><div><a href="Leben_Wohnen/Flaechennutzungsplan/aktuelle-buergerbeteiligungen.asp" target="_self">Aktuelle B&uuml;rgerbeteiligungen zu Fl&auml;chennutzungsplan-&Auml;nderungen finden Sie hier.</a><br ></div></div></div></div>
+<div class="nofloat  "></div>
+       </div>
+<div id="id29617" class="pansiteelement">		
+			<div class="box_lebenslagen">
+			<div class="box_right_title">Lebenslagen</div>
+			<div class="box_right_content">
+			<ul>
+			
+			<li>
+			<a href="Leben_Wohnen/Lebenslagen/Neu_in_Recklinghausen/index.asp" target="_self" title="Neu in Recklinghausen">  
+			Neu in Recklinghausen</a>
+			</li>
+
+			
+			<li>
+			<a href="Leben_Wohnen/Lebenslagen/Heiraten/index.asp" target="_self" title="Heiraten">  
+			Heiraten</a>
+			</li>
+
+			
+			<li>
+			<a href="Leben_Wohnen/Lebenslagen/Geburt/index.asp" target="_self" title="Geburt">  
+			Geburt</a>
+			</li>
+
+			
+			<li>
+			<a href="Leben_Wohnen/Lebenslagen/Sterbefall/index.asp" target="_self" title="Sterbefall">  
+			Sterbefall</a>
+			</li>
+
+			
+			<li>
+			<a href="Leben_Wohnen/Lebenslagen/Umzug/index.asp" target="_self" title="Umzug">  
+			Umzug</a>
+			</li>
+
+			
+			<li>
+			<a href="Leben_Wohnen/Lebenslagen/Gewerbe/index.asp" target="_self" title="Gewerbe">  
+			Gewerbe</a>
+			</li>
+
+			
+			<li>
+			<a href="Leben_Wohnen/Lebenslagen/Behinderung/index.asp" target="_self" title="Behinderung">  
+			Behinderung</a>
+			</li>
+
+			
+			<li>
+			<a href="Leben_Wohnen/Lebenslagen/Arbeitslos/index.asp" target="_self" title="Arbeitslos">  
+			Arbeitslos</a>
+			</li>
+
+			
+			<li>
+			<a href="Leben_Wohnen/Lebenslagen/Senioren_und_Pflege/index.asp" target="_self" title="Senioren und Pflege">  
+			Senioren und Pflege</a>
+			</li>
+
+			
+			<li>
+			<a href="Leben_Wohnen/Lebenslagen/Finanzielle_und_soziale_Notlagen/index.asp" target="_self" title="Finanzielle und soziale Notlagen">  
+			Finanzielle und soziale Notlagen</a>
+			</li>
+
+			
+			</ul>
+			</div>
+			</div>
+<div class="nofloat  "></div>
+                     
+       </div>
+<div id="id35152" class="pansiteelement">
+                   <div class="box_right_title">Digitale Verwaltung: Online-Service</div> 
+                   <div class="box_right_content"><div><img alt="icon02" src="../../images/icon02_16637.jpg" ></div><div>Verwaltung digital: <a href="http://serviceportal.recklinghausen.de/servicesabisz" target="_self">Alle Online-Services von A bis Z im Serviceportal</a><a href="http://serviceportal.recklinghausen.de/servicesabisz" target="_self"><br ></a></div><div>&nbsp;</div><div>Statistik und Zahlen: Kommunale Daten beim Open Data Portal: <a href="https://opendata.ruhr/organization/recklinghausen" target="Link &ouml;ffnet neues Fenster">Hier geht es zum Open Data Portal</a></div><div>&nbsp;</div><div>Visualisierende Informationen rund um Recklinghausen auf einer Karte: <a href="https://www.geoportal.gkd-re.de/kreis-re/geoatlas/?lang=de&amp;basemap=stadtplan91i7i&amp;blop=1&amp;x=372800&amp;y=5725500&amp;zl=7&amp;hl=0&amp;layers=grenzen.grenzen.kreisgrenzeyx38h" target="Link &ouml;ffnet neues Fenster">Hier geht es zum Geo-Atlas</a></div></div>
+<div class="nofloat  "></div>
+       </div>
+<div id="id25506" class="pansiteelement">
+                   <div class="box_right_title">Heiraten in Recklinghausen</div> 
+                   <div class="box_right_content"><p>&nbsp;<img alt="Strauss Rosen" src="../../images/Hochzeit_4075_11910.jpg" ></p><p>In&nbsp;Recklinghausen&nbsp;gibt es wundersch&ouml;ne Trauorte. Ob historisch vor dem Rathaus, ob romantisch mit Bergbau-Atmosph&auml;re oder modern-architektonisch im Ruhrfestspielhaus&nbsp;- all das und mehr ist m&ouml;glich.&nbsp;Das Standesamt hilft bei allen Fragen von der Anmeldung bis zum Hochzeitstermin. <a href="Rathaus_Politik/Standesamt/index.asp" target="_self">Mehr</a></p></div>
+<div class="nofloat  "></div>
+       </div>
+<div id="id11906" class="pansiteelement">
+                   <div class="box_right_title">Brosch&uuml;re in Leichter Sprache</div> 
+                   <div class="box_right_content"><p><img alt="broschuere" src="../../images/broschuere_13838.jpg" ></p><p>Die neue Brosch&uuml;re in Leichter Sprache gibt Auskunft &uuml;ber verschiedene Hilfsangebote, wie Wohngeld, Pflege oder der Suche nach einer Sozialwohnung. <a href="Rathaus_Politik/Dokumente/Recklinghausen_hilft.pdf" target="_blank">Mehr</a><br ></p></div>
+<div class="nofloat  "></div>
+       </div>
+<div id="id11834" class="pansiteelement">
+                   <div class="box_right_title">Recklinghausen Blumenthal</div> 
+                   <div class="box_right_content"><p><img alt="Luftbild Blumenthal" src="../../images/Luftbild_Blumenthal_14084.jpg" ><br ></p><p>Das Gewerbegebiet Recklinghausen Blumenthal befindet sich in der Vermarktung. Weitere Informationen sowie Ansprechpartner gibt es <a href="http://recklinghausen-blumenthal.de/" target="_blank">hier</a>.<br ></p></div>
+<div class="nofloat  "></div>
+       </div>
+<div id="id67983" class="pansiteelement">
+                   <div class="box_right_title">REACT-EU: Digitale Transformation</div> 
+                   <div class="box_right_content"><img alt="REACT-EU_LOGO_JPG_RGB" src="../../images/REACT-EU_LOGO_JPG_RGB_26976.jpg" ><br ><br ><div>Mit finanzieller Unterst&uuml;tzung des Landes Nordrhein-Westfalen und des Europ&auml;ischen Sozialfonds/REACT-EU als Teil der Reaktion der Union auf die COVID-19-Pandemie, haben einige <a href="Familie_Bildung/Schulen_und_Hochschulen/Fachbereich_fuer_Bildung_und_Sport/index.asp" target="_self">Schulen</a> mobile Leihger&auml;te f&uuml;r ihre Sch&uuml;ler*innen erhalten.<br ><br ></div></div>
+<div class="nofloat  "></div>
+       </div>
+<div id="id11902" class="pansiteelement">
+                   <div class="box_right_title">Gedenkbuch</div> 
+                   <div class="box_right_content"><p><img alt="Karte_Staetten_der_Herrschaft_5267" src="../../images/Karte_Staetten_der_Herrschaft_5267_26188.jpg" ><br ></p><p>Sich mit der NS-Diktatur auseinandersetzen, M&ouml;glichkeiten des Engagements schaffen und sich so gegen das Vergessen des Nazi-Terrors einsetzen - daf&uuml;r steht das Online-Gedenkbuch. <a href="Ruhrfestspiele_Kultur/Gedenkbuch/index.asp" target="_self">Mehr</a><br ></p></div>
+<div class="nofloat  "></div>
+       </div>
+<div id="id11904" class="pansiteelement">
+                   <div class="box_right_title">Museen</div> 
+                   <div class="box_right_content"><p><img alt="Ikonen-Museum" src="../../images/Ikonenmuseum_aussen_6248.jpeg" ><br >In Recklinghausen gibt es verschiedene Museen zu entdecken, darunter das Ikonen-Museum und die Kunsthalle. <a href="Ruhrfestspiele_Kultur/Museen/index.asp" target="_self">Mehr</a></p></div>
+<div class="nofloat  "></div>
+       </div>
+<div id="id11907" class="pansiteelement">
+                   <div class="box_right_title">Ausflugsziele</div> 
+                   <div class="box_right_content"><p><img alt="Stadthafen" src="../../images/Hafen_3753.jpg" ><br >Vom Stadthafen &uuml;ber Parks und Halden bis zur Sternwarte - Recklinghausen bietet eine Vielfalt an Ausflugszielen. <a href="Freizeit_Tourismus/Ausflugsziele/index.asp" target="_self">Mehr
+</a><br ></p></div>
+<div class="nofloat  "></div>
+       </div>
+<div id="id11901" class="pansiteelement">
+                   <div class="box_right_title">VHS online</div> 
+                   <div class="box_right_content"><p><img alt="Logo VHS" src="../../images/Doppellogo_VHS_RE_Kopie_5457.jpg" ><br >Informationen und alles Wissenswerte &uuml;ber die Veranstaltungen der Volkshochschule gibt es <a href="http://www.vhs-recklinghausen.de/startseite-der-vhs-recklinghausen.html" target="_blank">hier</a>. </p></div>
+<div class="nofloat  "></div>
+       </div>
+<div id="id11900" class="pansiteelement">
+                   <div class="box_right_title">Patientenverf&uuml;gung und Vorsorgevollmachten</div> 
+                   <div class="box_right_content"><p><img alt="Logo" src="../../images/Logo_27540.png" ><br >Auf der Seite des Bundesjustizministeriums finden Sie Informationen und Muster zu Vorsorgevollmachten und Patientenverf&uuml;gungen. <a href="https://www.bmj.de/DE/themen/vorsorge_betreuungsrecht/vorsorge_betreuungsrecht_node.html" target="Link &ouml;ffnet neues Fenster">Mehr</a></p></div>
+<div class="nofloat  "></div>
+       </div>
+<div id="id11903" class="pansiteelement">
+                   <div class="box_right_title">Kultur Kommt</div> 
+                   <div class="box_right_content"><p><img alt="Logo Kultur Kommt" src="../../images/Logo_Kultur_Kommt_10553_5459.jpg" ></p><p>Das Institut f&uuml;r Kulturarbeit der Stadt Recklinghausen bietet&nbsp;ganzj&auml;hrig ein umfangreiches, vielf&auml;ltiges Theater- und Konzertprogramm. <a href="Ruhrfestspiele_Kultur/Musik_und_Theater/Kultur_Kommt/index.asp" target="_self">Mehr</a><br ></p></div>
+<div class="nofloat  "></div>
+       </div>
+</div>
+</div>
+<div id="footer">
+<div id="id25431" class="pansiteelement"><div id="footer_left"></div>
+<div id="footer_right"><a href="#seitenanfang">Zum Seitenanfang</a><span>|</span><a href="javascript:window.print()">Seite drucken</a><span>|</span><a href="_Uebersicht/index.asp">&Uuml;bersicht</a><span>|</span><a href="_Impressum/index.asp">Impressum</a><span>|</span><a href="Datenschutzerklaerung/index.asp">Datenschutzerkl&auml;rung</a>|<a href="Erklaerung_Barrierefreiheit/index.asp">Erkl&auml;rung Barrierefreiheit</a></div></div>
+<div id="id11852" class="pansiteelement"><!-- Template Footer2.0 --></div>
+<div id="id64576" class="pansiteelement"><div id="totop">^</div>
+
+
+<script src="../../0_Technik/Scripte/GKD_jScripts_Startseite.js"></script>
+
+
+<script type="text/eqcss">
+@element 'html,body' and (min-scroll-y: 500px) and (max-width: 1279px) {
+div#totop {
+display: block;
+position: fixed;
+right: 5%;
+bottom: 0.5%;
+color: #ffffff;
+cursor: pointer;
+link: #ffffff;
+padding: 0.2em 0.2em 0em 0.2em;
+background-color: darkgreen;
+z-index: 21;
+font-size: 300%;
+}
+div#totop a, div#totop a:hover {
+color: #ffffff;
+link: #ffffff;
+text-decoration: none;
+}
+
+}
+
+</script>
+<script defer>window.addEventListener('scroll',EQCSS.throttle)</script></div>
+</div>
+</div>             <!--nxid=1--></body></html>

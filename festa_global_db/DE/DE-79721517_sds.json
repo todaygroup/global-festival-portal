@@ -1,40 +1,38 @@
 {
   "identity": {
-    "festival_id": "DE-79721517",
-    "name_en": "Q204798",
-    "name_local": "Q204798",
-    "country": "Germany",
-    "city": "Unknown",
-    "category": "Festival"
+    "name_local": "Zinkh\u00fctte M\u00fcnsterbusch",
+    "name_en": "Unknown Festival",
+    "category": "Festival",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "address": null
   },
-  "schedule": {
-    "start_date": "Unknown",
-    "end_date": "Unknown",
-    "frequency": "Annual",
-    "season": "Unknown"
+  "temporal": {
+    "start_date": null,
+    "end_date": null,
+    "frequency": null,
+    "detailed_schedule": null
+  },
+  "experience": {
+    "deep_description": "Zinkreduktionsh\u00fctte im Aachener Revier im westlichen Nordrhein-Westfalen",
+    "highlights": [],
+    "local_tips": [],
+    "points_of_interest": []
   },
   "logistics": {
-    "location": {
-      "address": "See official website",
-      "coordinates": {
-        "lat": 0,
-        "lon": 0
-      }
-    },
-    "access": "Public transportation"
+    "official_url": null,
+    "ticket_info": null,
+    "transport": null,
+    "accommodation_tips": null
   },
   "multimedia": {
-    "official_url": "N/A",
-    "images": [],
-    "videos": []
-  },
-  "resources": {
-    "tickets": "Check official website",
-    "guide_url": "N/A"
+    "official_images": [],
+    "official_videos": []
   },
   "verification": {
-    "source": "Wikidata",
-    "last_updated": "2026-07-14",
-    "status": "verified"
+    "source_url": null,
+    "update_date": "2026-07-16"
   }
 }

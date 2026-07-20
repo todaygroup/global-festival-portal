@@ -1,0 +1,1656 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <!-- Matomo -->
+    <script>
+        var _paq = window._paq = window._paq || [];
+        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+            var u = "//matomo.salvador.ba.gov.br/";
+            _paq.push(['setTrackerUrl', u + 'matomo.php']);
+            _paq.push(['setSiteId', '21']);
+            var d = document,
+                g = d.createElement('script'),
+                s = d.getElementsByTagName('script')[0];
+            g.async = true;
+            g.src = u + 'matomo.js';
+            s.parentNode.insertBefore(g, s);
+        })();
+    </script>
+    <!-- End Matomo Code -->
+     <meta name="google-site-verification" content="Q_1dSqY4E1ohtQGFs2yfElUKdIEAVmXNlLU9ZiyT1EQ" />
+    <meta UTF-8>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="facebook-domain-verification" content="l2ym54z8pfrrt6rjv22u82kur44nns" />
+
+    <!-- ICONE WEB -->
+    <link rel="shortcut icon" href="https://salvador.ba.gov.br/wp-content/themes/semit/icon.ico">
+
+    <!-- WORDPRESS -->
+    <link rel="stylesheet" href="https://salvador.ba.gov.br/wp-content/themes/semit/style.css">
+
+    <!-- Bootstrap  4.1.0 CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+    <!-- Style -->
+    <link rel="stylesheet" href="https://salvador.ba.gov.br/wp-content/themes/semit/slick/slick.css">
+    <link rel="stylesheet" href="https://salvador.ba.gov.br/wp-content/themes/semit/slick/slick-theme.css">
+
+
+    <link rel="stylesheet" href="https://salvador.ba.gov.br/wp-content/themes/semit/css/accordion.css">
+
+
+    <link rel="stylesheet" href="https://salvador.ba.gov.br/wp-content/themes/semit/css/flickity.css">
+
+
+    <link rel="stylesheet" href="https://salvador.ba.gov.br/wp-content/themes/semit/css/transparencia.css">
+    <link rel="stylesheet" href="https://salvador.ba.gov.br/wp-content/themes/semit/css/extra-large-screen.css">
+    <link rel="stylesheet" href="https://salvador.ba.gov.br/wp-content/themes/semit/css/large-screen.css" media="screen and (max-width: 992px)">
+    <link rel="stylesheet" href="https://salvador.ba.gov.br/wp-content/themes/semit/css/medium-screen.css" media="screen and (max-width: 768px)">
+    <link rel="stylesheet" href="https://salvador.ba.gov.br/wp-content/themes/semit/css/small-screen.css" media="screen and (max-width: 576px)">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Google Font -->
+    <!-- <style>
+           @import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600&family=Montserrat:wght@500;600&display=swap');
+        </style> -->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-X9R4RYCZKB"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-X9R4RYCZKB');
+    </script>
+    <title>Prefeitura Municipal de Salvador</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/salvador.ba.gov.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://salvador.ba.gov.br/wp-includes/css/dist/block-library/style.min.css?ver=6.4.1' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wp-pagenavi-css' href='https://salvador.ba.gov.br/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='pojo-a11y-css' href='https://salvador.ba.gov.br/wp-content/plugins/pojo-accessibility/assets/css/style.min.css?ver=1.0.0' type='text/css' media='all' />
+<script type="text/javascript" id="noticias-js-js-extra">
+/* <![CDATA[ */
+var ajax_url = "https:\/\/salvador.ba.gov.br\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://salvador.ba.gov.br/wp-content/themes/semit/js/noticias.js?ver=6.4.1" id="noticias-js-js"></script>
+<script type="text/javascript" src="https://salvador.ba.gov.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<link rel="https://api.w.org/" href="https://salvador.ba.gov.br/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://salvador.ba.gov.br/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.1" />
+<meta name="generator" content="Site Kit by Google 1.125.0" /><meta name="google-site-verification" content="Y9vuoX9qEcT23B4tQeiAUuUklK5O66lqQOuMkKyKvN4"><style type="text/css">
+#pojo-a11y-toolbar .pojo-a11y-toolbar-toggle a{ background-color: #4054b2;	color: #ffffff;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay, #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items.pojo-a11y-links{ border-color: #4054b2;}
+body.pojo-a11y-focusable a:focus{ outline-style: solid !important;	outline-width: 1px !important;	outline-color: #FF0000 !important;}
+#pojo-a11y-toolbar{ top: 100px !important;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay{ background-color: #ffffff;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a, #pojo-a11y-toolbar .pojo-a11y-toolbar-overlay p.pojo-a11y-toolbar-title{ color: #333333;}
+#pojo-a11y-toolbar .pojo-a11y-toolbar-overlay ul.pojo-a11y-toolbar-items li.pojo-a11y-toolbar-item a.active{ background-color: #4054b2;	color: #ffffff;}
+@media (max-width: 767px) { #pojo-a11y-toolbar { top: 50px !important; } }</style>
+</head>
+
+<body>
+
+    <div class="bg-head-prefeitura py-4 ">
+        <div class="container p-0">
+            <!-- <div class="row d-flex align-items-center"> -->
+            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 d-flex flex-column flex-lg-row justify-content-between align-items-center">
+                <!-- Imagem à esquerda -->
+                <img src="https://cdnsemit.salvador.ba.gov.br/geral/templates/header_prefeitura/logo_pms_topo.png" alt="Logo Prefeitura de Salvador">
+
+
+
+                <!-- Conteúdo do PHP à direita -->
+                <div class="bg-head-prefeitura">
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-12 col-lg-12 col-md-12 col-12 text-right">
+        <a href="https://salvadordigital.salvador.ba.gov.br/" target="_blank">
+          <img
+            src="https://cdnsemit.salvador.ba.gov.br/secretarias/pms/logo_salvador_digital_topo.png"
+            class="img-fluid pr-2"
+            alt="Logo Prefeitura de Salvador"
+            style="height: 29px"
+          />
+        </a>
+        <a href="/lgpd">
+          <img
+            src="https://cdnsemit.salvador.ba.gov.br/secretarias/pms/logo_lei_de_dados_topo.png"
+            class="img-fluid pr-2"
+            alt="Logo Prefeitura de Salvador"
+            style="height: 29px; border-right: 2px solid #fff"
+          />
+        </a>
+        <a href="https://salvadordigital.salvador.ba.gov.br/servico/pedido-de-informacao140" target="_blank">
+          <img
+            src="https://cdnsemit.salvador.ba.gov.br/secretarias/pms/icone_acesso_informacao.png"
+            class="img-fluid pr-2"
+            alt="Logo Prefeitura de Salvador"
+            style="height: 29px; border-right: 2px solid #fff"
+          />
+        </a>
+        <a href="https://www.instagram.com/prefsalvador/" target="_blank">
+          <img
+            src="https://cdnsemit.salvador.ba.gov.br/secretarias/pms/redes-sociais/insta.png"
+            class="img-fluid"
+            alt="Logo Prefeitura de Salvador"
+            style="height: 29px"
+          />
+        </a>
+        <a href="https://pt-br.facebook.com/prefsalvador" target="_blank">
+          <img
+            src="https://cdnsemit.salvador.ba.gov.br/secretarias/pms/redes-sociais/face.png"
+            class="img-fluid"
+            alt="Logo Prefeitura de Salvador"
+            style="height: 29px"
+          />
+        </a>
+        <a href="https://www.youtube.com/prefeituradosalvador" target="_blank">
+          <img
+            src="https://cdnsemit.salvador.ba.gov.br/secretarias/pms/redes-sociais/youtube.png"
+            class="img-fluid"
+            alt="Logo Prefeitura de Salvador"
+            style="height: 29px"
+          />
+        </a>
+        <a href="https://twitter.com/PrefSalvador" target="_blank">
+          <img
+            src="https://cdnsemit.salvador.ba.gov.br/secretarias/pms/redes-sociais/twitter.png"
+            class="img-fluid"
+            alt="Logo Prefeitura de Salvador"
+            style="height: 29px"
+          />
+        </a>
+        <a href="https://www.whatsapp.com/channel/0029VaFmCdB4yltQS3T9X13s" target="_blank">
+          <img
+            src="https://cdnsemit.salvador.ba.gov.br/secretarias/pms/redes-sociais/whatsapp.png"
+            class="img-fluid"
+            alt="Logo Prefeitura de Salvador"
+            style="height: 29px"
+          />
+        </a>
+        
+          <img
+            src="https://cdnsemit.salvador.ba.gov.br/secretarias/pms/sitecompativel.png"
+            class="img-fluid"
+            alt="Logo Prefeitura de Salvador"
+            style="height: 35px"
+          />
+        
+      </div>
+    </div>
+  </div>
+</div>
+            </div>
+
+
+
+            <!-- </div> -->
+        </div>
+    </div>
+
+    <!-- HEADER SEMIT  -->
+    <div class="bg-head-site">
+        <div class="">
+            <div class="row justify-content-end">
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12">
+                    <a href="https://salvador.ba.gov.br">
+                        <img src="https://cdnsemit.salvador.ba.gov.br/secretarias/pms/logo_prefeitura.png" class="img-fluid" alt="Logo Secretaria" style="padding: 10px;">
+                    </a>
+                </div>
+                <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12">
+                    <div class="row justify-content-center links-do-menu-secundario">
+                        <div class="col-xl-10 col-lg-10 col-md-10 col-sm-12 col-12 px-3">
+
+                            <a class="pl-3 link-menu-secundario" href="/politica-de-privacidade" target="_blank">Política de Privacidade
+                            </a>
+                            <a class="pl-3 link-menu-secundario" href="http://www.transparencia.salvador.ba.gov.br/#/" target="_blank">Transparência
+                            </a>
+
+                            <a class="pl-3 link-menu-secundario" href="https://dados.salvador.ba.gov.br/" target="_blank">Salvador Dados
+                            </a>
+
+                            <a class="pl-3 link-menu-secundario" href=" https://leismunicipais.com.br/prefeitura/ba/salvador" target="_blank">Legislação
+                            </a>
+
+                            <a class="pl-3 link-menu-secundario" href="https://salvador.ba.gov.br/duvidas-frequentes">Dúvidas Frequentes
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-xl-12 col-lg-12 col-md-12 col-12 p-0 py-lg-2 py-sm-0">
+                            <nav class="navbar navbar-expand-md navbar-light ">
+
+                                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                                    <span class="navbar-toggler-icon"></span>
+                                </button>
+
+                                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                                    <ul class="navbar-nav justify-content-around w-100">
+
+                                        <li  id="menu-item-216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-216 nav-item"><a href="https://salvador.ba.gov.br/a-prefeitura/" class="nav-link">A PREFEITURA</a><div class="dropdown-divider"></div></li>
+<li  id="menu-item-598" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-598 nav-item"><a target="_blank" rel="noopener noreferrer" href="https://salvadordigital.salvador.ba.gov.br/" class="nav-link">CIDADÃO</a><div class="dropdown-divider"></div></li>
+<li  id="menu-item-599" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-599 nav-item"><a target="_blank" rel="noopener noreferrer" href="https://semge.salvador.ba.gov.br/" class="nav-link">SERVIDOR</a><div class="dropdown-divider"></div></li>
+<li  id="menu-item-704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-704 nav-item"><a target="_blank" rel="noopener noreferrer" href="https://salvadordigital.salvador.ba.gov.br/ouvidoria" class="nav-link">OUVIDORIA</a><div class="dropdown-divider"></div></li>
+<li  id="menu-item-4605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4605 nav-item"><a href="https://salvador.ba.gov.br/periodo-eleitoral/" class="nav-link">PERÍODO ELEITORAL</a><div class="dropdown-divider"></div></li>
+
+
+                                    </ul>
+                                </div>
+                            </nav>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+                <!-- FIM HEADER SEMIT -->
+
+
+
+    </div>
+    <!-- Fim Menu -->
+  <!-- Modal -->
+  <div class="modal fade" id="meuModal" tabindex="-1" role="dialog" aria-labelledby="meuModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <a href="https://salvador.ba.gov.br/wp-content/uploads/2025/10/Miolo_PMS-Planejamento-Estrategico_web.pdf" target="_blank">
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/thumbnail/banner_modal.png" class="img-fluid" alt="Plano Estratégico">
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- Modal -->
+
+<!-- Carousel Topo -->
+<div class="topo-carousel">
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="3000">
+
+        <div class="carousel-inner">
+            <!-- Slide 1: GIF -->
+            <div class="carousel-item active">
+                <a href="https://salvador.ba.gov.br/wp-content/uploads/2025/10/Miolo_PMS-Planejamento-Estrategico_web.pdf" download target="_blank">
+                    <img class="d-block w-100 img-fluid" src="https://salvador.ba.gov.br/wp-content/themes/semit/img/thumbnail/banner_principal2.gif" alt="Planejamento Estratégico">
+                </a>
+            </div>
+
+            <!-- Slide 2: Imagem estática -->
+            <div class="carousel-item">
+                <a href="https://salvadordigital.salvador.ba.gov.br/" target="_blank">
+                    <img class="d-block w-100 img-fluid" src="https://salvador.ba.gov.br/wp-content/themes/semit/img/thumbnail/banner_principalSD.png" alt="Salvador Digital">
+                </a>
+            </div>
+        </div>
+
+        <!-- Controles de navegação -->
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Anterior</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Próximo</span>
+        </a>
+    </div>
+
+    <div class="row">
+        <img class="img-fluid" src="https://salvador.ba.gov.br/wp-content/themes/semit/img/barra/barra_colorida_bg1.png" alt=""
+            style="height: 15px; width: 100%;">
+    </div>
+</div>
+<!-- Fim Carousel Topo -->
+     
+<!-- AREA DE ATUAÇÃO -->
+<section id="prefeitura-colada" class="pt-5">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 col-sm-12 col-12">
+
+                <div id="pesquisar-div">
+                    <form class="form-inline search-header" id="campo-form" role="search" method="get" action="https://salvador.ba.gov.br/">
+                        <input type="text" class="form-control w-100" aria-label="Search" aria-describedby="basic-addon2" value="" name="s" placeholder="Pesquise no Site" style="height: 40px;">
+                        <div class="input-group-append">
+                            <button class="btn btn-outline-light" id="btn-pesquisar" type="submit"><i class="fa fa-search"></i></button>
+                        </div>
+
+                    </form>
+                </div>
+                
+            </div>
+            <div class="col-xl-12 col-lg-12 col-md-12 col-12 anime mt-4">
+                <!-- <h1 class="h1-pref-colada">A Prefeitura tá colada com a gente</h1> -->
+            </div>
+        </div>
+
+        <div class="row justify-content-center mt-4">
+            <!-- <p class="txt-patrocionado">P A T R O C I N A D O</p> -->
+            <iframe class="banner-iframe ad-desktop" id='a955afe8' name='a955afe8' src='https://comunicacao.salvador.ba.gov.br/revive/www/delivery/afr.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='728' height='90' allow='autoplay'>
+                <a href='https://comunicacao.salvador.ba.gov.br/revive/www/delivery/ck.php?n=a7515f28&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'>
+                    <img src='https://comunicacao.salvador.ba.gov.br/revive/www/delivery/avw.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a7515f28' border='0' alt='' />
+                </a>
+            </iframe>
+            <iframe class="ad-mobile" id='af2d3aad' name='af2d3aad' src='https://comunicacao.salvador.ba.gov.br/revive/www/delivery/afr.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE' frameborder='0' scrolling='no' width='300' height='37' allow='autoplay'>
+                <a href='https://comunicacao.salvador.ba.gov.br/revive/www/delivery/ck.php?n=a2621d18&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'>
+                    <img src='https://comunicacao.salvador.ba.gov.br/revive/www/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a2621d18' border='0' alt='' />
+                </a>
+            </iframe>
+
+
+
+        </div>
+
+        <div class="row justify-content-center align-item-center botoes-prefs colored-cards" style="display: flex; gap: 2rem;">
+            
+            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12" style="background-color:#08A89A;">
+                <a href="/mapa-do-site">
+                    <p class="text-white" style="font-size: 16px;">MAPA DO SITE</p>
+                </a>
+            </div>
+            
+        
+            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12" style="background-color:#1790CD;">
+                <a href="/a-prefeitura/">
+                    <p class="text-white" style="font-size: 16px;">ESTRUTURA ORGANIZACIONAL</p>
+                </a>
+            </div>
+
+            <div class="col-xl-3 col-lg-3 col-md-3 col-sm-12 col-12" style="background-color:#2ABEEC;">
+                <a href="/contatos/">
+                    <p class="text-white" style="font-size: 16px;">CONTATOS</p>
+                </a>
+            </div>
+
+        </div>
+    </div>
+
+</section>
+<!-- Icones -->
+<section class="pb-5 pt-5" id="icones-secretaria">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12 col-lg-12 col-md-12 col-12 anime">
+                <h1 class="titulos-homepage mb-5 mt-3">ESTRUTURA DA PMS</h1>
+                <!-- <h2 class="titulos-homepage">DA PMS</h2> -->
+            </div>
+        </div>
+
+        <div class="row anime icones-homepage m-2 div-icones">
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+
+                <a href="https://arsal.salvador.ba.gov.br" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_arsal.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2  m-0">ARSAL</p>
+                    </div>
+                </a>
+
+            </div>
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="http://casacivil.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_casa_civil.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">CASA CIVIL</p>
+                    </div>
+                </a>
+
+            </div>
+
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://codecon.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_codecon.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">CODECON</p>
+                    </div>
+                </a>
+            </div>
+
+
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://cgm.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_controladoria.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">CONTROLADORIA</p>
+                    </div>
+                </a>
+
+            </div>
+
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="http://codesal.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_defesa_civil.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">DEFESA CIVIL</p>
+                    </div>
+                </a>
+            </div>
+            
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://desal.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_desal.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2  m-0">DESAL</p>
+                    </div>
+                </a>
+
+            </div>
+
+
+
+        </div>
+        <div class="row anime icones-homepage m-2 div-icones">
+
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://fcm.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_fcm.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">FCM</p>
+                    </div>
+                </a>
+
+            </div>
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://fgm.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_fgm.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">FGM</p>
+                    </div>
+                </a>
+
+            </div>
+
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://fmlf.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_fmlf.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">FMLF</p>
+                    </div>
+                </a>
+
+            </div>
+
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://gcm.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_gcms.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">GCM</p>
+                    </div>
+                </a>
+
+            </div>
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://limpurb.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_limpurb.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2  m-0">LIMPURB</p>
+                    </div>
+                </a>
+            </div>
+            
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://ouvidoria.salvador.ba.gov.br" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_ouvidoria.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">OUVIDORIA</p>
+                    </div>
+                </a>
+            </div>
+
+        </div>
+        <div class="row anime icones-homepage m-2 div-icones">
+
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://pgms.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_pgms.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2  m-0">PGMS</p>
+                    </div>
+                </a>
+
+            </div>
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://prefeiturabairro.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_novo.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2  m-0">SACPB</p>
+                    </div>
+                </a>
+
+            </div>
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://saltur.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_saltur.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2  m-0">SALTUR</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://sustentabilidade.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_secis.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">SECIS</p>
+                    </div>
+                </a>
+
+            </div>
+
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://comunicacao.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_secom.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">SECOM</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://secult.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_secult.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">SECULT</p>
+                    </div>
+                </a>
+
+            </div>
+
+
+
+        </div>
+        <div class="row anime icones-homepage m-2 div-icones">
+
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://sedur.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_sedur.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">SEDUR</p>
+                    </div>
+                </a>
+
+            </div>
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://sefaz.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_sefaz.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2  m-0">SEFAZ</p>
+                    </div>
+                </a>
+
+            </div>
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="http://seinfra.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_seinfra.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">SEINFRA</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://seman.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_seman.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">SEMAN</p>
+                    </div>
+                </a>
+
+            </div>
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://semdec.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_semdec.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">SEMDEC</p>
+                    </div>
+                </a>
+
+            </div>
+
+                <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://semge.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_semge.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">SEMGE</p>
+                    </div>
+                </a>
+
+            </div>
+
+        </div>
+        <div class="row anime icones-homepage m-2 div-icones">
+
+
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://semit.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_semit.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">SEMIT</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://mobilidade.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_semob.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">SEMOB</p>
+                    </div>
+                </a>
+
+            </div>
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://ordempublica.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_semop.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">SEMOP</p>
+                    </div>
+                </a>
+
+            </div>
+
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://sempre.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_sempre.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">SEMPRE</p>
+                    </div>
+                </a>
+
+            </div>
+
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://reparacao.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_semur.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2  m-0">SEMUR</p>
+                    </div>
+                </a>
+
+            </div>
+
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="http://educacao.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_smed.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">SMED</p>
+                    </div>
+                </a>
+
+            </div>
+
+        </div>
+        <div class="row anime icones-homepage m-2 div-icones">
+            
+            <div class="col-xl-3 col-lg-2 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="http://cogel.salvador.ba.gov.br" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_cogel.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">SMART</p>
+                    </div>
+                </a>
+
+            </div>
+
+            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="//saude.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_sms.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">SMS</p>
+                    </div>
+                </a>
+
+            </div>
+
+            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://spmj.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_spmj.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">SPMJ</p>
+                    </div>
+                </a>
+
+            </div>
+
+            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="https://sucop.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_sucop.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">SUCOP</p>
+                    </div>
+                </a>
+            </div>
+
+
+            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-12 d-flex align-items-center flex-column mt-xl-0 mt-lg-0 mt-md-3 mt-sm-4 mt-4 ">
+                <a href="http://transalvador.salvador.ba.gov.br/" target="_blank">
+
+                    <img src="https://salvador.ba.gov.br/wp-content/themes/semit/img/icones/icone_transalvador.png" class="img-fluid tamanho_icones">
+                    <div class="row justify-content-center">
+                        <p class="pt-2 m-0">TRANSALVADOR</p>
+                    </div>
+                </a>
+            </div>
+
+        </div>
+
+
+    </div>
+    </div>
+
+
+</section>
+
+<!-- Fim Icones -->
+<section id="noticias" class="pt-5 pb-5">
+
+    <div class="container">
+        <div class="row pb-4">
+            <div class="col-12 mt-4">
+                <h1 class="titulos-homepage">NOTÍCIAS</h1>
+                <h2 class="titulos-homepage">PMS</h2>
+            </div>
+
+        </div>
+        <div class="row">
+
+            
+                                                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 anime mb-5">
+                            <div class="h-100">
+
+                                <a href="https://salvador.ba.gov.br/prefeitura-lanca-o-novo-programa-empreenda-salvador-no-mercado-sao-miguel-nesta-quinta-feira-16/">
+                                    <div class="col-xl-12 p-0 mb-2 ">
+
+                                        <img src='https://salvador.ba.gov.br/wp-content/themes/semit/img/thumbnail/thumb-noticia.png' class='noticias-box img-fluid'>                                    </div>
+                                    <div class="col-xl-12 titulo-noticia p-0">
+                                        <h1>
+                                            Prefeitura lança o novo programa Empreenda Salvador no Mercado São Miguel nesta quinta-feira (16)                                        </h1>
+                                    </div>
+                                </a>
+
+                            </div>
+                        </div>
+                                                                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 anime mb-5">
+                            <div class="h-100">
+
+                                <a href="https://salvador.ba.gov.br/prefeitura-lanca-o-novo-programa-empreenda-salvador-no-mercado-sao-miguel-nesta-quinta-feira-16/">
+                                    <div class="col-xl-12 p-0 mb-2 ">
+
+                                        <img src='https://salvador.ba.gov.br/wp-content/themes/semit/img/thumbnail/thumb-noticia.png' class='noticias-box img-fluid'>                                    </div>
+                                    <div class="col-xl-12 titulo-noticia p-0">
+                                        <h1>
+                                            Prefeitura lança o novo programa Empreenda Salvador no Mercado São Miguel nesta quinta-feira (16)                                        </h1>
+                                    </div>
+                                </a>
+
+                            </div>
+                        </div>
+                                                                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 anime mb-5">
+                            <div class="h-100">
+
+                                <a href="https://salvador.ba.gov.br/prefeitura-lanca-o-novo-programa-empreenda-salvador-no-mercado-sao-miguel-nesta-quinta-feira-16/">
+                                    <div class="col-xl-12 p-0 mb-2 ">
+
+                                        <img src='https://salvador.ba.gov.br/wp-content/themes/semit/img/thumbnail/thumb-noticia.png' class='noticias-box img-fluid'>                                    </div>
+                                    <div class="col-xl-12 titulo-noticia p-0">
+                                        <h1>
+                                            Prefeitura lança o novo programa Empreenda Salvador no Mercado São Miguel nesta quinta-feira (16)                                        </h1>
+                                    </div>
+                                </a>
+
+                            </div>
+                        </div>
+                                                    
+
+
+
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 anime">
+                            <a href="https://salvador.ba.gov.br/prefeitura-lanca-o-novo-empreenda-salvador-nesta-quinta-feira-16-2/">
+                                <div class="row bg-noticias m-0 mb-3">
+
+                                    <div class="col-xl-4 imagem-destaque-noticia">
+                                        <img src='https://salvador.ba.gov.br/wp-content/themes/semit/img/thumbnail/thumb-noticia.png' class='noticias-box-menor img-fluid'>                                    </div>
+                                    <div class="col-xl-8 titulo-noticia">
+                                        <h1 class="m-0 pt-3 titulo-noticia">
+                                            Prefeitura lança o novo Empreenda Salvador nesta quinta-feira (16)                                        </h1>
+                                    </div>
+
+                                </div>
+                            </a>
+                        </div>
+
+
+
+
+
+                                                    
+
+
+
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 anime">
+                            <a href="https://salvador.ba.gov.br/prefeitura-lanca-o-novo-empreenda-salvador-nesta-quinta-feira-16/">
+                                <div class="row bg-noticias m-0 mb-3">
+
+                                    <div class="col-xl-4 imagem-destaque-noticia">
+                                        <img src='https://salvador.ba.gov.br/wp-content/themes/semit/img/thumbnail/thumb-noticia.png' class='noticias-box-menor img-fluid'>                                    </div>
+                                    <div class="col-xl-8 titulo-noticia">
+                                        <h1 class="m-0 pt-3 titulo-noticia">
+                                            Prefeitura lança o novo Empreenda Salvador nesta quinta-feira (16)                                        </h1>
+                                    </div>
+
+                                </div>
+                            </a>
+                        </div>
+
+
+
+
+
+                                                    
+
+
+
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 anime">
+                            <a href="https://salvador.ba.gov.br/salvamar-apresenta-novo-sistema-tecnologico-que-vai-agilizar-atendimento-aos-banhistas-nas-praias-de-salvador/">
+                                <div class="row bg-noticias m-0 mb-3">
+
+                                    <div class="col-xl-4 imagem-destaque-noticia">
+                                        <img src='https://salvador.ba.gov.br/wp-content/themes/semit/img/thumbnail/thumb-noticia.png' class='noticias-box-menor img-fluid'>                                    </div>
+                                    <div class="col-xl-8 titulo-noticia">
+                                        <h1 class="m-0 pt-3 titulo-noticia">
+                                            Salvamar apresenta novo sistema tecnológico que vai agilizar atendimento aos banhistas nas praias de Salvador                                        </h1>
+                                    </div>
+
+                                </div>
+                            </a>
+                        </div>
+
+
+
+
+
+                                                    
+
+
+
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 anime">
+                            <a href="https://salvador.ba.gov.br/salvamar-apresenta-novo-sistema-tecnologico-que-vai-agilizar-atendimento-aos-banhistas-nas-praias-de-salvador-2/">
+                                <div class="row bg-noticias m-0 mb-3">
+
+                                    <div class="col-xl-4 imagem-destaque-noticia">
+                                        <img src='https://salvador.ba.gov.br/wp-content/themes/semit/img/thumbnail/thumb-noticia.png' class='noticias-box-menor img-fluid'>                                    </div>
+                                    <div class="col-xl-8 titulo-noticia">
+                                        <h1 class="m-0 pt-3 titulo-noticia">
+                                            Salvamar apresenta novo sistema tecnológico que vai agilizar atendimento aos banhistas nas praias de Salvador                                        </h1>
+                                    </div>
+
+                                </div>
+                            </a>
+                        </div>
+
+
+
+
+
+                                                    
+
+
+
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 anime">
+                            <a href="https://salvador.ba.gov.br/salvamar-apresenta-novo-sistema-tecnologico-que-vai-agilizar-atendimento-aos-banhistas-nas-praias-de-salvador-3/">
+                                <div class="row bg-noticias m-0 mb-3">
+
+                                    <div class="col-xl-4 imagem-destaque-noticia">
+                                        <img src='https://salvador.ba.gov.br/wp-content/themes/semit/img/thumbnail/thumb-noticia.png' class='noticias-box-menor img-fluid'>                                    </div>
+                                    <div class="col-xl-8 titulo-noticia">
+                                        <h1 class="m-0 pt-3 titulo-noticia">
+                                            Salvamar apresenta novo sistema tecnológico que vai agilizar atendimento aos banhistas nas praias de Salvador                                        </h1>
+                                    </div>
+
+                                </div>
+                            </a>
+                        </div>
+
+
+
+
+
+                                                    
+
+
+
+                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 anime">
+                            <a href="https://salvador.ba.gov.br/prefeitura-de-salvador-inicia-obras-de-requalificacao-do-calcadao-da-avenida-contorno/">
+                                <div class="row bg-noticias m-0 mb-3">
+
+                                    <div class="col-xl-4 imagem-destaque-noticia">
+                                        <img src='https://salvador.ba.gov.br/wp-content/themes/semit/img/thumbnail/thumb-noticia.png' class='noticias-box-menor img-fluid'>                                    </div>
+                                    <div class="col-xl-8 titulo-noticia">
+                                        <h1 class="m-0 pt-3 titulo-noticia">
+                                            Prefeitura de Salvador inicia obras de requalificação do calçadão da Avenida Contorno                                        </h1>
+                                    </div>
+
+                                </div>
+                            </a>
+                        </div>
+
+
+
+
+
+                                            
+        </div>
+
+
+
+
+
+
+
+        <div class="row justify-content-center">
+            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-8 anime anime-init mt-3">
+                <a class="tag-a-todas-as-noticias" href="/noticias">
+                    <button type="button" class="btn-todas-as-noticias-homepage btn-block w-100">Todas as
+                        Notícias</button>
+                </a>
+            </div>
+        </div>
+    </div>
+    <!-- <div class="row justify-content-center">
+        <iframe class="iframe" src="http://www.comunicacao.salvador.ba.gov.br/#noticias" style="border: none; width: 75%;height: 76vh;" scrolling="no"></iframe>
+            
+        </div> -->
+</section>
+
+<section id="informativos" class="py-5">
+  <div class="container">
+    <div class="row">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 mb-3">
+            <div class="row">
+
+              <div class="col-5">
+
+                <img class="img-fluid" src="https://salvador.ba.gov.br/wp-content/uploads/2023/10/img_01.png" alt="">
+              </div>
+              <div class="col-7 d-flex flex-column justify-content-center">
+                <div class="">
+
+                  <h2 class="titulo-informativos">
+                    DIÁRIO                  </h2>
+                  <h3 class="m-0">
+                    
+Oficial
+                  </h3>
+                  <a href="http://dom.salvador.ba.gov.br/" target="_blank">
+                    <button type="button" class="btn-clique-aqui-informativos" style='background-color:#006EB6'>
+                      CLIQUE AQUI
+                    </button>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 mb-3">
+            <div class="row">
+
+              <div class="col-5">
+
+                <img class="img-fluid" src="https://salvador.ba.gov.br/wp-content/uploads/2023/10/img_03.png" alt="">
+              </div>
+              <div class="col-7 d-flex flex-column justify-content-center">
+                <div class="">
+
+                  <h2 class="titulo-informativos">
+                    Transp.                  </h2>
+                  <h3 class="m-0">
+                    
+Público
+                  </h3>
+                  <a href="https://mobilidade.salvador.ba.gov.br/" target="_blank">
+                    <button type="button" class="btn-clique-aqui-informativos" style='background-color:#FFC82A'>
+                      CLIQUE AQUI
+                    </button>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 mb-3">
+            <div class="row">
+
+              <div class="col-5">
+
+                <img class="img-fluid" src="https://salvador.ba.gov.br/wp-content/uploads/2023/10/img_05.png" alt="">
+              </div>
+              <div class="col-7 d-flex flex-column justify-content-center">
+                <div class="">
+
+                  <h2 class="titulo-informativos">
+                    A Cidade                  </h2>
+                  <h3 class="m-0">
+                    
+Somos Nós
+                  </h3>
+                  <a href="https://concursotransparencia.salvador.ba.gov.br/" target="_blank">
+                    <button type="button" class="btn-clique-aqui-informativos" style='background-color:#A5E30B'>
+                      CLIQUE AQUI
+                    </button>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+    </div>
+  </div>
+</section>
+<section id="canais-de-contato" class="py-5">
+  <div class="container mb-3">
+    <div class="row justify-content-start">
+      <div class="col-12 pb-4">
+        <h1 class="titulos-homepage">Canais</h1>
+        <h2 class="titulos-homepage">De Contato</h2>
+      </div>
+    </div>
+    <div class="row justify-content-center div-icones">
+                <div class="col-3">
+            <a href="https://www.tiktok.com/@prefsalvador" target="_blank">
+
+              <img src="https://salvador.ba.gov.br/wp-content/uploads/2023/10/botao_tiktok.png" class="img-fluid mb-3" alt="">
+              <h2 class="text-center">
+                TikTok              </h2>
+            </a>
+          </div>
+                  <div class="col-3">
+            <a href="https://pt-br.facebook.com/prefsalvador" target="_blank">
+
+              <img src="https://salvador.ba.gov.br/wp-content/uploads/2023/10/facebook.png" class="img-fluid mb-3" alt="">
+              <h2 class="text-center">
+                Facebook              </h2>
+            </a>
+          </div>
+                  <div class="col-3">
+            <a href="https://www.instagram.com/prefsalvador/" target="_blank">
+
+              <img src="https://salvador.ba.gov.br/wp-content/uploads/2023/10/istagran.png" class="img-fluid mb-3" alt="">
+              <h2 class="text-center">
+                Instagram              </h2>
+            </a>
+          </div>
+                  <div class="col-3">
+            <a href="tel:71987913420" target="_blank">
+
+              <img src="https://salvador.ba.gov.br/wp-content/uploads/2023/10/whatsapp.png" class="img-fluid mb-3" alt="">
+              <h2 class="text-center">
+                Whatsapp              </h2>
+            </a>
+          </div>
+        
+    </div>
+  </div>
+</section>
+<section id="aplicativos">
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+        <h1 class="titulos-homepage mb-3">APLICATIVOS</h1>
+        <!-- <h1 class="titulos-homepage">ALGUNS</h1>
+        <h2 class="titulos-homepage">APLICATIVOS</h2> -->
+      </div>
+    </div>
+    <div class="row d-flex justify-content-center align-items-center">
+                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 pt-3">
+            <a href="https://play.google.com/store/apps/details?id=apppoluicaosonora.sudoesteinformatica.com.br&hl=pt_BR&gl=US" target="_blank">
+              <img class="img-fluid" src="https://salvador.ba.gov.br/wp-content/uploads/2023/10/botao_02.png" alt="">
+            </a>
+          </div>
+                  <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-12 pt-3">
+            <a href="https://play.google.com/store/apps/details?id=br.gov.ba.salvador.codeconsalvador&hl=es_CR&gl=US" target="_blank">
+              <img class="img-fluid" src="https://salvador.ba.gov.br/wp-content/uploads/2023/10/botao_05.png" alt="">
+            </a>
+          </div>
+        
+
+    </div>
+
+    <!-- <div class="row justify-content-center pt-5">
+      <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8 col-8">
+        <a href="https://play.google.com/store/apps/developer?id=COGEL+GESPT" target="_blank">
+          <button type="button" class="text-uppercase ver-mais-aplicativos btn-block w-100">
+            Ver mais
+          </button>
+        </a>
+      </div> -->
+    </div>
+  </div>
+</section>
+<!-- FOOTER DA PREFEITURA -->
+<section id="tarja_azul_final" class="p-4">
+  <div class="container">
+    <div class="row justify-content-between">
+      <div class="col-xl-4 col-lg-4 col-md-6 col-12">
+        <a href=" https://salvadordigital.salvador.ba.gov.br/servico/pedido-de-informacao140" target="_blank">
+          <p class="text-center m-0">/ ACESSO À INFORMAÇÃO /</p>
+        </a>
+      </div>
+      <div class="col-xl-4 col-lg-4 col-md-6 col-12">
+        <a href="/identidade-visual/">
+          <p class="text-center m-0">/ IDENTIDADE VISUAL /</p>
+        </a>
+      </div>
+      <div class="col-xl-4 col-lg-4 col-md-6 col-12">
+        <a href="https://comunicacao.salvador.ba.gov.br/" target="_blank">
+          <p class="text-center m-0">/ ÁREA DE IMPRENSA /</p>
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+<section id="footer-site" class="pt-4">
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-2 col-lg-2 col-md-6 col-sm-12">
+        <img src="https://cdnsemit.salvador.ba.gov.br/secretarias/pms/logo_prefeitura_base.png" class="img-fluid" alt="Logo da Prefeitura Municipal do Salvador" style="width: 250px;" />
+      </div>
+
+      <div class="col-xl-10 col-lg-9 col-md-9 col-sm-12 anime">
+        <div class="row justify-content-center pt-3">
+          <!-- PMS -->
+          <div class="col-xl-2 col-lg-2 col-md-6 col-sm-12 col-12 text-center">
+            <img src="https://cdnsemit.salvador.ba.gov.br/geral/imagens/img_rodape/icone_pms.png" class="img-fluid img-rodape" alt="PMS" />
+            <p class="txt-img">PMS</p>
+            <a href="/a-prefeitura">
+              <p>A Prefeitura</p>
+            </a>
+            <a href="/#icones-secretaria">
+              <p>Orgãos Municipais</p>
+            </a>
+            <a href="https://casadashistoriasdesalvador.com.br/" target="_blank">
+              <p>Casa das Histórias</p>
+            </a>
+            <a href="http://www.transparencia.salvador.ba.gov.br/#/" target="_blank">
+              <p>Acesso à Informação</p>
+            </a>
+            <a href="/programas-e-acoes">
+              <p>Programas e Ações</p>
+            </a>
+            <a href="http://www.transparencia.salvador.ba.gov.br/#/" target="_blank">
+              <p>Transparência</p>
+            </a>
+            <a href="/a-prefeitura">
+              <p>Organograma</p>
+            </a>
+            <a href="/etica">
+              <p>Ética</p>
+            </a>
+          </div>
+          <!-- CIDADÃO -->
+          <div class="col-xl-2 col-lg-2 col-md-6 col-sm-12 col-12 text-center">
+            <img src="https://cdnsemit.salvador.ba.gov.br/geral/imagens/img_rodape/icone_cidadao.png" class="img-fluid img-rodape" alt="Cidadão" />
+            <p class="txt-img">Cidadão</p>
+            <a href="https://salvadordigital.salvador.ba.gov.br/" target="_blank">
+              <p>Disque 156</p>
+            </a>
+            <a href="http://www.saude.salvador.ba.gov.br/samu/" target="_blank">
+              <p>Samu 192</p>
+            </a>
+            <a href="http://codesal.salvador.ba.gov.br" target="_blank">
+              <p>Defesa Civil</p>
+            </a>
+            <a href="https://salvadordigital.salvador.ba.gov.br" target="_blank">
+              <p>Salvador Digital</p>
+            </a>
+            <a href="https://sedur.salvador.ba.gov.br" target="_blank">
+              <p>Poluição Sonora</p>
+            </a>
+            <a href="https://codecon.salvador.ba.gov.br" target="_blank">
+              <p>Consumidor</p>
+            </a>
+            <a href="https://salvadordigital.salvador.ba.gov.br/ouvidoria" target="_blank">
+              <p>Ouvidoria</p>
+            </a>
+
+          </div>
+          <!-- SERVIDOR -->
+          <div class="col-xl-2 col-lg-2 col-md-6 col-sm-12 col-12 text-center">
+            <img src="https://cdnsemit.salvador.ba.gov.br/geral/imagens/img_rodape/icone_servidor.png" class="img-fluid img-rodape" alt="Servidor" />
+            <p class="txt-img">Servidor</p>
+            <a href="https://semge.salvador.ba.gov.br/manuais-do-servidor/" target="_blank">
+              <p>Plano de Saúde</p>
+            </a>
+            <a href="http://www.contrachequeonline.salvador.ba.gov.br/" target="_blank">
+              <p>Contracheque</p>
+            </a>
+            <!-- <a href="#" target="_blank">
+              <p>Treinamentos</p>
+            </a> -->
+            <a href="https://previdencia.salvador.ba.gov.br" target="_blank">
+              <p>Previdência</p>
+            </a>
+            <a href="https://semge.salvador.ba.gov.br/" target="_blank">
+              <p>Afastamento</p>
+            </a>
+            <a href="https://semge.salvador.ba.gov.br/programa-de-valorizacao-do-servidor/" target="_blank">
+              <p>Valorização</p>
+            </a>
+            <a href="https://semge.salvador.ba.gov.br" target="_blank">
+              <p>Estágio</p>
+            </a>
+          </div>
+          <!-- EMPRESA -->
+          <div class="col-xl-2 col-lg-2 col-md-6 col-sm-12 col-12 text-center">
+            <img src="https://cdnsemit.salvador.ba.gov.br/geral/imagens/img_rodape/icone_empresas.png" class="img-fluid img-rodape" alt="Empresa" />
+            <p class="txt-img">Empresa</p>
+            <a href="http://www.compras.salvador.ba.gov.br/novo/?secao=licitacoes" target="_blank">
+              <p>Licitações</p>
+            </a>
+            <a href="https://servicos.sedur.salvador.ba.gov.br/#/portal/consulta-documentos" target="_blank">
+              <p>Documentação</p>
+            </a>
+            <a href="https://www2.sefaz.salvador.ba.gov.br/" target="_blank">
+              <p>Tributos</p>
+            </a>
+            <!-- <a href="#" target="_blank">
+              <p>Parceiros</p>
+            </a> -->
+            <a href="https://sedur.salvador.ba.gov.br/" target="_blank">
+              <p>Uso do Solo</p>
+            </a>
+            <a href="https://www.invista.salvador.ba.gov.br" target="_blank">
+              <p>Invista Salvador</p>
+            </a>
+          </div>
+          <!-- OUTROS -->
+          <div class="col-xl-2 col-lg-2 col-md-6 col-sm-12 col-12 text-center">
+            <img src="https://cdnsemit.salvador.ba.gov.br/geral/imagens/img_rodape/icone_outros.png" class="img-fluid img-rodape" alt="" />
+            <p class="txt-img">Outros</p>
+            <a href="https://www.sca.salvador.ba.gov.br" target="_blank">
+              <p>Ambulantes</p>
+            </a>
+            <a href="https://www.salvadordabahia.com/agenda/" target="_blank">
+              <p>Eventos Salvador</p>
+            </a>
+            <a href="https://www2.sefaz.salvador.ba.gov.br/servico/iptu" target="_blank">
+              <p>IPTU</p>
+            </a>
+            <a href="https://sustentabilidade.salvador.ba.gov.br/" target="_blank">
+              <p>CastraMóvel</p>
+            </a>
+            <a href="http://educacao3.salvador.ba.gov.br/" target="_blank">
+              <p>Escola</p>
+            </a>
+            <a href="https://secult.salvador.ba.gov.br/" target="_blank">
+              <p>Turismo</p>
+            </a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section><!-- FIM FOOTER DA PREFEITURA -->
+
+
+
+<script src="https://salvador.ba.gov.br/wp-content/themes/semit/js/jquery-3.6.0.min.js"></script>
+
+<script type="text/javascript" id="pojo-a11y-js-extra">
+/* <![CDATA[ */
+var PojoA11yOptions = {"focusable":"","remove_link_target":"","add_role_links":"","enable_save":"","save_expiration":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://salvador.ba.gov.br/wp-content/plugins/pojo-accessibility/assets/js/app.min.js?ver=1.0.0" id="pojo-a11y-js"></script>
+		<a id="pojo-a11y-skip-content" class="pojo-skip-link pojo-skip-content" tabindex="1" accesskey="s" href="#content">Pular para o conteúdo</a>
+				<nav id="pojo-a11y-toolbar" class="pojo-a11y-toolbar-left" role="navigation">
+			<div class="pojo-a11y-toolbar-toggle">
+				<a class="pojo-a11y-toolbar-link pojo-a11y-toolbar-toggle-link" href="javascript:void(0);" title="Ferramentas de Acessibilidade" role="button">
+					<span class="pojo-sr-only sr-only">Barra de Ferramentas Aberta</span>
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="currentColor" width="1em">
+						<title>Ferramentas de Acessibilidade</title>
+						<path d="M50 .8c5.7 0 10.4 4.7 10.4 10.4S55.7 21.6 50 21.6s-10.4-4.7-10.4-10.4S44.3.8 50 .8zM92.2 32l-21.9 2.3c-2.6.3-4.6 2.5-4.6 5.2V94c0 2.9-2.3 5.2-5.2 5.2H60c-2.7 0-4.9-2.1-5.2-4.7l-2.2-24.7c-.1-1.5-1.4-2.5-2.8-2.4-1.3.1-2.2 1.1-2.4 2.4l-2.2 24.7c-.2 2.7-2.5 4.7-5.2 4.7h-.5c-2.9 0-5.2-2.3-5.2-5.2V39.4c0-2.7-2-4.9-4.6-5.2L7.8 32c-2.6-.3-4.6-2.5-4.6-5.2v-.5c0-2.6 2.1-4.7 4.7-4.7h.5c19.3 1.8 33.2 2.8 41.7 2.8s22.4-.9 41.7-2.8c2.6-.2 4.9 1.6 5.2 4.3v1c-.1 2.6-2.1 4.8-4.8 5.1z"/>					</svg>
+				</a>
+			</div>
+			<div class="pojo-a11y-toolbar-overlay">
+				<div class="pojo-a11y-toolbar-inner">
+					<p class="pojo-a11y-toolbar-title">Ferramentas de Acessibilidade</p>
+					
+					<ul class="pojo-a11y-toolbar-items pojo-a11y-tools">
+																			<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-resize-font pojo-a11y-btn-resize-plus" data-action="resize-plus" data-action-group="resize" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Aumentar Texto</title><path fill="currentColor" d="M256 200v16c0 4.25-3.75 8-8 8h-56v56c0 4.25-3.75 8-8 8h-16c-4.25 0-8-3.75-8-8v-56h-56c-4.25 0-8-3.75-8-8v-16c0-4.25 3.75-8 8-8h56v-56c0-4.25 3.75-8 8-8h16c4.25 0 8 3.75 8 8v56h56c4.25 0 8 3.75 8 8zM288 208c0-61.75-50.25-112-112-112s-112 50.25-112 112 50.25 112 112 112 112-50.25 112-112zM416 416c0 17.75-14.25 32-32 32-8.5 0-16.75-3.5-22.5-9.5l-85.75-85.5c-29.25 20.25-64.25 31-99.75 31-97.25 0-176-78.75-176-176s78.75-176 176-176 176 78.75 176 176c0 35.5-10.75 70.5-31 99.75l85.75 85.75c5.75 5.75 9.25 14 9.25 22.5z"></path></svg></span><span class="pojo-a11y-toolbar-text">Aumentar Texto</span>								</a>
+							</li>
+							
+							<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-resize-font pojo-a11y-btn-resize-minus" data-action="resize-minus" data-action-group="resize" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Diminuir Texto</title><path fill="currentColor" d="M256 200v16c0 4.25-3.75 8-8 8h-144c-4.25 0-8-3.75-8-8v-16c0-4.25 3.75-8 8-8h144c4.25 0 8 3.75 8 8zM288 208c0-61.75-50.25-112-112-112s-112 50.25-112 112 50.25 112 112 112 112-50.25 112-112zM416 416c0 17.75-14.25 32-32 32-8.5 0-16.75-3.5-22.5-9.5l-85.75-85.5c-29.25 20.25-64.25 31-99.75 31-97.25 0-176-78.75-176-176s78.75-176 176-176 176 78.75 176 176c0 35.5-10.75 70.5-31 99.75l85.75 85.75c5.75 5.75 9.25 14 9.25 22.5z"></path></svg></span><span class="pojo-a11y-toolbar-text">Diminuir Texto</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-grayscale" data-action="grayscale" data-action-group="schema" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Escala de Cinza</title><path fill="currentColor" d="M15.75 384h-15.75v-352h15.75v352zM31.5 383.75h-8v-351.75h8v351.75zM55 383.75h-7.75v-351.75h7.75v351.75zM94.25 383.75h-7.75v-351.75h7.75v351.75zM133.5 383.75h-15.5v-351.75h15.5v351.75zM165 383.75h-7.75v-351.75h7.75v351.75zM180.75 383.75h-7.75v-351.75h7.75v351.75zM196.5 383.75h-7.75v-351.75h7.75v351.75zM235.75 383.75h-15.75v-351.75h15.75v351.75zM275 383.75h-15.75v-351.75h15.75v351.75zM306.5 383.75h-15.75v-351.75h15.75v351.75zM338 383.75h-15.75v-351.75h15.75v351.75zM361.5 383.75h-15.75v-351.75h15.75v351.75zM408.75 383.75h-23.5v-351.75h23.5v351.75zM424.5 383.75h-8v-351.75h8v351.75zM448 384h-15.75v-352h15.75v352z"></path></svg></span><span class="pojo-a11y-toolbar-text">Escala de Cinza</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-high-contrast" data-action="high-contrast" data-action-group="schema" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Alto Contraste</title><path fill="currentColor" d="M192 360v-272c-75 0-136 61-136 136s61 136 136 136zM384 224c0 106-86 192-192 192s-192-86-192-192 86-192 192-192 192 86 192 192z"></path></svg></span><span class="pojo-a11y-toolbar-text">Alto Contraste</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-negative-contrast" data-action="negative-contrast" data-action-group="schema" tabindex="-1" role="button">
+
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Contraste Negativo</title><path fill="currentColor" d="M416 240c-23.75-36.75-56.25-68.25-95.25-88.25 10 17 15.25 36.5 15.25 56.25 0 61.75-50.25 112-112 112s-112-50.25-112-112c0-19.75 5.25-39.25 15.25-56.25-39 20-71.5 51.5-95.25 88.25 42.75 66 111.75 112 192 112s149.25-46 192-112zM236 144c0-6.5-5.5-12-12-12-41.75 0-76 34.25-76 76 0 6.5 5.5 12 12 12s12-5.5 12-12c0-28.5 23.5-52 52-52 6.5 0 12-5.5 12-12zM448 240c0 6.25-2 12-5 17.25-46 75.75-130.25 126.75-219 126.75s-173-51.25-219-126.75c-3-5.25-5-11-5-17.25s2-12 5-17.25c46-75.5 130.25-126.75 219-126.75s173 51.25 219 126.75c3 5.25 5 11 5 17.25z"></path></svg></span><span class="pojo-a11y-toolbar-text">Contraste Negativo</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-background-group pojo-a11y-btn-light-background" data-action="light-background" data-action-group="schema" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Fundo Claro</title><path fill="currentColor" d="M184 144c0 4.25-3.75 8-8 8s-8-3.75-8-8c0-17.25-26.75-24-40-24-4.25 0-8-3.75-8-8s3.75-8 8-8c23.25 0 56 12.25 56 40zM224 144c0-50-50.75-80-96-80s-96 30-96 80c0 16 6.5 32.75 17 45 4.75 5.5 10.25 10.75 15.25 16.5 17.75 21.25 32.75 46.25 35.25 74.5h57c2.5-28.25 17.5-53.25 35.25-74.5 5-5.75 10.5-11 15.25-16.5 10.5-12.25 17-29 17-45zM256 144c0 25.75-8.5 48-25.75 67s-40 45.75-42 72.5c7.25 4.25 11.75 12.25 11.75 20.5 0 6-2.25 11.75-6.25 16 4 4.25 6.25 10 6.25 16 0 8.25-4.25 15.75-11.25 20.25 2 3.5 3.25 7.75 3.25 11.75 0 16.25-12.75 24-27.25 24-6.5 14.5-21 24-36.75 24s-30.25-9.5-36.75-24c-14.5 0-27.25-7.75-27.25-24 0-4 1.25-8.25 3.25-11.75-7-4.5-11.25-12-11.25-20.25 0-6 2.25-11.75 6.25-16-4-4.25-6.25-10-6.25-16 0-8.25 4.5-16.25 11.75-20.5-2-26.75-24.75-53.5-42-72.5s-25.75-41.25-25.75-67c0-68 64.75-112 128-112s128 44 128 112z"></path></svg></span><span class="pojo-a11y-toolbar-text">Fundo Claro</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-links-underline" data-action="links-underline" data-action-group="toggle" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Links Sublinhados</title><path fill="currentColor" d="M364 304c0-6.5-2.5-12.5-7-17l-52-52c-4.5-4.5-10.75-7-17-7-7.25 0-13 2.75-18 8 8.25 8.25 18 15.25 18 28 0 13.25-10.75 24-24 24-12.75 0-19.75-9.75-28-18-5.25 5-8.25 10.75-8.25 18.25 0 6.25 2.5 12.5 7 17l51.5 51.75c4.5 4.5 10.75 6.75 17 6.75s12.5-2.25 17-6.5l36.75-36.5c4.5-4.5 7-10.5 7-16.75zM188.25 127.75c0-6.25-2.5-12.5-7-17l-51.5-51.75c-4.5-4.5-10.75-7-17-7s-12.5 2.5-17 6.75l-36.75 36.5c-4.5 4.5-7 10.5-7 16.75 0 6.5 2.5 12.5 7 17l52 52c4.5 4.5 10.75 6.75 17 6.75 7.25 0 13-2.5 18-7.75-8.25-8.25-18-15.25-18-28 0-13.25 10.75-24 24-24 12.75 0 19.75 9.75 28 18 5.25-5 8.25-10.75 8.25-18.25zM412 304c0 19-7.75 37.5-21.25 50.75l-36.75 36.5c-13.5 13.5-31.75 20.75-50.75 20.75-19.25 0-37.5-7.5-51-21.25l-51.5-51.75c-13.5-13.5-20.75-31.75-20.75-50.75 0-19.75 8-38.5 22-52.25l-22-22c-13.75 14-32.25 22-52 22-19 0-37.5-7.5-51-21l-52-52c-13.75-13.75-21-31.75-21-51 0-19 7.75-37.5 21.25-50.75l36.75-36.5c13.5-13.5 31.75-20.75 50.75-20.75 19.25 0 37.5 7.5 51 21.25l51.5 51.75c13.5 13.5 20.75 31.75 20.75 50.75 0 19.75-8 38.5-22 52.25l22 22c13.75-14 32.25-22 52-22 19 0 37.5 7.5 51 21l52 52c13.75 13.75 21 31.75 21 51z"></path></svg></span><span class="pojo-a11y-toolbar-text">Links Sublinhados</span>								</a>
+							</li>
+						
+													<li class="pojo-a11y-toolbar-item">
+								<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-readable-font" data-action="readable-font" data-action-group="toggle" tabindex="-1" role="button">
+									<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Fonte Legível</title><path fill="currentColor" d="M181.25 139.75l-42.5 112.5c24.75 0.25 49.5 1 74.25 1 4.75 0 9.5-0.25 14.25-0.5-13-38-28.25-76.75-46-113zM0 416l0.5-19.75c23.5-7.25 49-2.25 59.5-29.25l59.25-154 70-181h32c1 1.75 2 3.5 2.75 5.25l51.25 120c18.75 44.25 36 89 55 133 11.25 26 20 52.75 32.5 78.25 1.75 4 5.25 11.5 8.75 14.25 8.25 6.5 31.25 8 43 12.5 0.75 4.75 1.5 9.5 1.5 14.25 0 2.25-0.25 4.25-0.25 6.5-31.75 0-63.5-4-95.25-4-32.75 0-65.5 2.75-98.25 3.75 0-6.5 0.25-13 1-19.5l32.75-7c6.75-1.5 20-3.25 20-12.5 0-9-32.25-83.25-36.25-93.5l-112.5-0.5c-6.5 14.5-31.75 80-31.75 89.5 0 19.25 36.75 20 51 22 0.25 4.75 0.25 9.5 0.25 14.5 0 2.25-0.25 4.5-0.5 6.75-29 0-58.25-5-87.25-5-3.5 0-8.5 1.5-12 2-15.75 2.75-31.25 3.5-47 3.5z"></path></svg></span><span class="pojo-a11y-toolbar-text">Fonte Legível</span>								</a>
+							</li>
+																		<li class="pojo-a11y-toolbar-item">
+							<a href="#" class="pojo-a11y-toolbar-link pojo-a11y-btn-reset" data-action="reset" tabindex="-1" role="button">
+								<span class="pojo-a11y-toolbar-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="1em" viewBox="0 0 448 448"><title>Reiniciar</title><path fill="currentColor" d="M384 224c0 105.75-86.25 192-192 192-57.25 0-111.25-25.25-147.75-69.25-2.5-3.25-2.25-8 0.5-10.75l34.25-34.5c1.75-1.5 4-2.25 6.25-2.25 2.25 0.25 4.5 1.25 5.75 3 24.5 31.75 61.25 49.75 101 49.75 70.5 0 128-57.5 128-128s-57.5-128-128-128c-32.75 0-63.75 12.5-87 34.25l34.25 34.5c4.75 4.5 6 11.5 3.5 17.25-2.5 6-8.25 10-14.75 10h-112c-8.75 0-16-7.25-16-16v-112c0-6.5 4-12.25 10-14.75 5.75-2.5 12.75-1.25 17.25 3.5l32.5 32.25c35.25-33.25 83-53 132.25-53 105.75 0 192 86.25 192 192z"></path></svg></span>
+								<span class="pojo-a11y-toolbar-text">Reiniciar</span>
+							</a>
+						</li>
+					</ul>
+									</div>
+			</div>
+		</nav>
+		
+
+
+<!-- ACCORDION PARA LICITACOES -->
+<script type="text/javascript" src="https://salvador.ba.gov.br/wp-content/themes/semit/js/accordion.js"></script>
+
+<!-- Transparência -->
+<script type="text/javascript" src="https://salvador.ba.gov.br/wp-content/themes/semit/js/transparencia.js"></script>
+
+<!-- ACCORDION PARA DUVIDAS FREQUENTES -->
+<script type="text/javascript" src="https://salvador.ba.gov.br/wp-content/themes/semit/js/duvidas_accordion.js"></script>
+
+
+
+<!-- MASCARA -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.0/jquery.mask.js"></script>
+<script>
+    // Máscara campo do form
+    $(document).ready(function() {
+        $('#celular').mask('(00) 00000-0000');
+    });
+</script>
+
+<!-- RECAPTCHA -->
+<script src="https://www.google.com/recaptcha/api.js?render=inserir_senha_aqui"></script>
+<script>
+    $('#enviar-faleconosco').submit(function(event) {
+        event.preventDefault();
+
+        grecaptcha.ready(function() {
+            grecaptcha.execute('inserir_senha_aqui', {
+                action: 'subscribe_newsletter'
+            }).then(function(token) {
+                $('#enviar-faleconosco').prepend('<input type="hidden" name="token" value="' + token + '">');
+                $('#enviar-faleconosco').prepend('<input type="hidden" name="action" value="subscribe_newsletter">');
+                $('#enviar-faleconosco').unbind('submit').submit();
+            });;
+        });
+    });
+</script>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+
+<!-- Slider Parceiros -->
+
+<script type="text/javascript" src="https://salvador.ba.gov.br/wp-content/themes/semit/slick/slick.min.js"></script>
+<script type="text/javascript" src="https://salvador.ba.gov.br/wp-content/themes/semit/js/slick-variable-slider.js"></script>
+
+<!-- Fim Slider Parceiros -->
+
+
+<!-- Flickity Galeria -->
+<script src="https://salvador.ba.gov.br/wp-content/themes/semit/js/flickity.pkgd.min.js"></script>
+<script src="https://salvador.ba.gov.br/wp-content/themes/semit/js/flickity-options.js"></script>
+
+<!-- Copiar Link Noticias -->
+<script>
+    $('.link-compartilhar').click(function(e) {
+        e.preventDefault();
+        var copyText = $(this).attr('href');
+
+        document.addEventListener('copy', function(e) {
+            e.clipboardData.setData('text/plain', copyText);
+            e.preventDefault();
+        }, true);
+
+        document.execCommand('copy');
+        // console.log('copied text : ', copyText);
+        alert('Link copiado!! ');
+    });
+</script>
+<script>
+    $('.link-compartilhar-noticias').click(function(e) {
+        e.preventDefault();
+        var copyText = $(this).attr('href');
+
+        document.addEventListener('copy', function(e) {
+            e.clipboardData.setData('text/plain', copyText);
+            e.preventDefault();
+        }, true);
+
+        document.execCommand('copy');
+        // console.log('copied text : ', copyText);
+        alert('Link copiado!! ');
+    });
+</script>
+
+
+<!-- ArcGIS API for JavaScript -->
+<link rel="stylesheet" href="https://js.arcgis.com/4.22/esri/themes/light/main.css">
+<script src="https://js.arcgis.com/4.22/"></script>
+
+<script type="text/javascript" src="https://salvador.ba.gov.br/wp-content/themes/semit/js/arcgis_api.js"></script>
+
+<!-- Anime -->
+<script>
+    var root = document.documentElement;
+    root.className += ' js';
+
+    function boxTop(idBox) {
+        var boxOffset = $(idBox).offset().top;
+        return boxOffset;
+    }
+
+    $(document).ready(function() {
+        var $target = $('.anime'),
+            animationClass = 'anime-init',
+            windowHeight = $(window).height(),
+            offset = windowHeight - (windowHeight / 4);
+
+        function animeScroll() {
+            var documentTop = $(document).scrollTop();
+            $target.each(function() {
+                if (documentTop > boxTop(this) - offset) {
+                    $(this).addClass(animationClass);
+                }
+            });
+        }
+
+
+        animeScroll();
+
+
+        $(document).scroll(function() {
+            animeScroll();
+
+        });
+    });
+</script>
+<script>
+    var root = document.documentElement;
+    root.className += ' js';
+
+    function boxTop(idBox) {
+        var boxOffset = $(idBox).offset().top;
+        return boxOffset;
+    }
+
+    $(document).ready(function() {
+        var $target = $('.anime-banner'),
+            animationClass = 'anime-banner-init',
+            windowHeight = $(window).height(),
+            offset = windowHeight - (windowHeight / 4);
+
+        function animeScroll() {
+            var documentTop = $(document).scrollTop();
+            $target.each(function() {
+                if (documentTop > boxTop(this) - offset) {
+                    $(this).addClass(animationClass);
+                }
+            });
+        }
+        animeScroll();
+
+        $(document).scroll(function() {
+            animeScroll();
+        });
+    });
+</script>
+<!-- Fim Anime -->
+<!-- Script do campo de pesquisa no header -->
+<script>
+    function btnPesquisar() {
+        var pesquisar = document.getElementById("pesquisar-div")
+        if (pesquisar.style.width === "0px") {
+            pesquisar.style.display = "block";
+            pesquisar.style.width = '250px';
+            pesquisar.style.animation = "mover ease 2s";
+        } else {
+            pesquisar.style.width = '0px';
+            pesquisar.style.animation = "fechar ease 2s";
+            setTimeout(() => {
+                pesquisar.style.display = 'none'
+            }, 1200);
+        }
+    }
+</script>
+<!-- Customizar tempo carousel -->
+
+<!-- VLIBRAS -->
+<div vw class="enabled">
+    <div vw-access-button class="active"></div>
+    <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+    </div>
+</div>
+<script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+<script>
+    new window.VLibras.Widget('https://vlibras.gov.br/app');
+</script>
+<!-- VLIBRAS -->
+
+<!-- MODAL -->
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#meuModal').modal('show');
+    });
+    // $('#meuModal').on('shown.bs.modal', function() {
+    //     $('#myInput').focus();
+    // })
+</script>
+<!-- MODAL -->
+ 
+</body>
+
+
+</html>

@@ -1,42 +1,38 @@
 {
   "identity": {
-    "festival_id": "DE-35b8d9aa",
-    "name_en": "Bottrop Christmas Market",
-    "name_local": "Bottroper Weihnachtsmarkt",
-    "country": "Germany",
-    "city": "Bottrop",
-    "category": "Traditional/Winter"
+    "name_local": "Unknown Festival",
+    "name_en": "Unknown Festival",
+    "category": "Festival",
+    "coordinates": {
+      "latitude": null,
+      "longitude": null
+    },
+    "address": null
   },
-  "schedule": {
-    "start_date": "November",
-    "end_date": "December",
-    "frequency": "Annual",
-    "season": "Winter"
+  "temporal": {
+    "start_date": null,
+    "end_date": null,
+    "frequency": null,
+    "detailed_schedule": null
+  },
+  "experience": {
+    "deep_description": null,
+    "highlights": [],
+    "local_tips": [],
+    "points_of_interest": []
   },
   "logistics": {
-    "location": {
-      "address": "Main square, Bottrop, Germany",
-      "coordinates": {
-        "lat": 51.53,
-        "lon": 6.94
-      }
-    },
-    "access": "Public transportation, taxis, and local shuttles."
+    "official_url": null,
+    "ticket_info": null,
+    "transport": null,
+    "accommodation_tips": null
   },
   "multimedia": {
-    "official_url": "https://www.bottrop.de",
-    "images": [
-      "https://cdn.festa-global.com/DE/DE-35b8d9aa_main.jpg"
-    ],
-    "videos": []
-  },
-  "resources": {
-    "tickets": "Available via official website",
-    "guide_url": "https://www.bottrop.de/guide"
+    "official_images": [],
+    "official_videos": []
   },
   "verification": {
-    "source": "Official Tourism Board",
-    "last_updated": "2026-07-14",
-    "status": "verified"
+    "source_url": null,
+    "update_date": "2026-07-16"
   }
 }

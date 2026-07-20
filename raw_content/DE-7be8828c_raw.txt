@@ -1,0 +1,2454 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot > * { display: none !important; } form.antibot noscript { display: block !important; }</style>
+</noscript><script type="text/plain" id="bielefeld_dsgvo_matomo" data-bielefeld-dsgvo="matomo">var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://statistik.rz-betrieb.de/" : "http://statistik.rz-betrieb.de/");_paq.push(["setSiteId", "66"]);_paq.push(["setTrackerUrl", u+"matomo.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(["disableCookies"]);if (!window.matomo_search_results_active) {_paq.push(["trackPageView"]);}_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"matomo.js";s.parentNode.insertBefore(g,s);})();</script>
+<link rel="canonical" href="https://www.bielefeld.de/" />
+<link rel="shortlink" href="https://www.bielefeld.de/" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<link href="/themes/custom/bootstrap_bielefeld/favicon/favicon.ico" rel="shortcut icon" />
+<link href="/themes/custom/bootstrap_bielefeld/favicon/apple-icon-57x57.png" rel="apple-touch-icon" />
+<link href="/themes/custom/bootstrap_bielefeld/favicon/apple-icon-60x60.png" rel="apple-touch-icon" />
+<link href="/themes/custom/bootstrap_bielefeld/favicon/apple-icon-72x72.png" rel="apple-touch-icon" />
+<link href="/themes/custom/bootstrap_bielefeld/favicon/apple-icon-76x76.png" rel="apple-touch-icon" />
+<link href="/themes/custom/bootstrap_bielefeld/favicon/apple-icon-114x114.png" rel="apple-touch-icon" />
+<link href="/themes/custom/bootstrap_bielefeld/favicon/apple-icon-120x120.png" rel="apple-touch-icon" />
+<link href="/themes/custom/bootstrap_bielefeld/favicon/apple-icon-144x144.png" rel="apple-touch-icon" />
+<link href="/themes/custom/bootstrap_bielefeld/favicon/apple-icon-152x152.png" rel="apple-touch-icon" />
+<link href="/themes/custom/bootstrap_bielefeld/favicon/apple-icon-180x180.png" rel="apple-touch-icon" />
+<link href="/themes/custom/bootstrap_bielefeld/favicon/android-icon-192x192.png" rel="icon" />
+<link href="/themes/custom/bootstrap_bielefeld/favicon/android-icon-144x144.png" rel="icon" />
+<link href="/themes/custom/bootstrap_bielefeld/favicon/android-icon-96x96.png" rel="icon" />
+<link href="/themes/custom/bootstrap_bielefeld/favicon/android-icon-72x72.png" rel="icon" />
+<link href="/themes/custom/bootstrap_bielefeld/favicon/android-icon-48x48.png" rel="icon" />
+<link href="/themes/custom/bootstrap_bielefeld/favicon/android-icon-36x36.png" rel="icon" />
+<link rel="preload" href="/themes/custom/bootstrap_bielefeld/fonts/CeraBielefeldWeb-Regular.woff2?v=1" as="font" type="font/woff2" crossorigin="anonymous" />
+<link rel="preload" href="/themes/custom/bootstrap_bielefeld/fonts/CeraBielefeldWeb-Light.woff2?v=1" as="font" type="font/woff2" crossorigin="anonymous" />
+<link rel="preload" href="/themes/custom/bootstrap_bielefeld/fonts/ui-icons/bielefeld-ui.woff?v=1.7" as="font" type="font/woff" crossorigin="anonymous" />
+<meta name="msapplication-TileColor" content="#1F3B70" />
+<meta name="msapplication-TileImage" content="/themes/custom/bootstrap_bielefeld/favicon/ms-icon-144x144.png" />
+<meta name="theme-color" content="#1F3B70" />
+<meta name="theme-color" content="#e30014" />
+<link rel="alternate" hreflang="de" href="https://www.bielefeld.de/" />
+
+    <title>Willkommen in Bielefeld | Bielefeld</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_e3iGI7_wezKhzrvET6nmyOn-iVX4RXjELJY9hgPoF6c.css?delta=0&amp;language=de&amp;theme=bootstrap_bielefeld&amp;include=eJyFkmtywyAMhC9EzJEYYWTCVEaMJJymp6-dNI-6yfQPiG8XGFZAtRLZPFznYWKZXSxIOCElf69C0rzwS-WLeQ4jR-GTlpofnoCfhlULV_-CBYIzd3uyVzyp34YwCVdrkHGnEpqh-EcZIPK_HoOsTyYBO0JXv6BAVQOyXjPWIUtJLjKbmkALEUQK-2sge5qJI9BB7UyXJ-_1ygmf6SO2G3upvj_2buHJMmofjzZE4vHDjSzok_QGNKQCxNmtGa_7P270Z-kUQcZjgFYCdOOR57YmhP4Nd3oqbY1vSwAuma73AYW51DIVTH_1PXB6VsPZR1B0S9naexmHmVOn30hQG68fY8HD1ohv0O8ItA" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_y5toYQK5mQUqsVlj38E7dNIKvwBG9XQxtBKZBUFo5fc.css?delta=1&amp;language=de&amp;theme=bootstrap_bielefeld&amp;include=eJyFkmtywyAMhC9EzJEYYWTCVEaMJJymp6-dNI-6yfQPiG8XGFZAtRLZPFznYWKZXSxIOCElf69C0rzwS-WLeQ4jR-GTlpofnoCfhlULV_-CBYIzd3uyVzyp34YwCVdrkHGnEpqh-EcZIPK_HoOsTyYBO0JXv6BAVQOyXjPWIUtJLjKbmkALEUQK-2sge5qJI9BB7UyXJ-_1ygmf6SO2G3upvj_2buHJMmofjzZE4vHDjSzok_QGNKQCxNmtGa_7P270Z-kUQcZjgFYCdOOR57YmhP4Nd3oqbY1vSwAuma73AYW51DIVTH_1PXB6VsPZR1B0S9naexmHmVOn30hQG68fY8HD1ohv0O8ItA" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_gB30mQju8WFlTA_wjGIZIYlupHZ5MpsMrtLAYM_VToo.css?delta=2&amp;language=de&amp;theme=bootstrap_bielefeld&amp;include=eJyFkmtywyAMhC9EzJEYYWTCVEaMJJymp6-dNI-6yfQPiG8XGFZAtRLZPFznYWKZXSxIOCElf69C0rzwS-WLeQ4jR-GTlpofnoCfhlULV_-CBYIzd3uyVzyp34YwCVdrkHGnEpqh-EcZIPK_HoOsTyYBO0JXv6BAVQOyXjPWIUtJLjKbmkALEUQK-2sge5qJI9BB7UyXJ-_1ygmf6SO2G3upvj_2buHJMmofjzZE4vHDjSzok_QGNKQCxNmtGa_7P270Z-kUQcZjgFYCdOOR57YmhP4Nd3oqbY1vSwAuma73AYW51DIVTH_1PXB6VsPZR1B0S9naexmHmVOn30hQG68fY8HD1ohv0O8ItA" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_Q1Copk0FRay5PtNlA76KExfd-Fb1AonaLtqCD4A6CE4.css?delta=3&amp;language=de&amp;theme=bootstrap_bielefeld&amp;include=eJyFkmtywyAMhC9EzJEYYWTCVEaMJJymp6-dNI-6yfQPiG8XGFZAtRLZPFznYWKZXSxIOCElf69C0rzwS-WLeQ4jR-GTlpofnoCfhlULV_-CBYIzd3uyVzyp34YwCVdrkHGnEpqh-EcZIPK_HoOsTyYBO0JXv6BAVQOyXjPWIUtJLjKbmkALEUQK-2sge5qJI9BB7UyXJ-_1ygmf6SO2G3upvj_2buHJMmofjzZE4vHDjSzok_QGNKQCxNmtGa_7P270Z-kUQcZjgFYCdOOR57YmhP4Nd3oqbY1vSwAuma73AYW51DIVTH_1PXB6VsPZR1B0S9naexmHmVOn30hQG68fY8HD1ohv0O8ItA" />
+<link rel="stylesheet" media="print" href="/sites/default/files/css/css_iQA56FnrHwDts6YmjUouSJI6o1hoquo7gzecao5t0Ws.css?delta=4&amp;language=de&amp;theme=bootstrap_bielefeld&amp;include=eJyFkmtywyAMhC9EzJEYYWTCVEaMJJymp6-dNI-6yfQPiG8XGFZAtRLZPFznYWKZXSxIOCElf69C0rzwS-WLeQ4jR-GTlpofnoCfhlULV_-CBYIzd3uyVzyp34YwCVdrkHGnEpqh-EcZIPK_HoOsTyYBO0JXv6BAVQOyXjPWIUtJLjKbmkALEUQK-2sge5qJI9BB7UyXJ-_1ygmf6SO2G3upvj_2buHJMmofjzZE4vHDjSzok_QGNKQCxNmtGa_7P270Z-kUQcZjgFYCdOOR57YmhP4Nd3oqbY1vSwAuma73AYW51DIVTH_1PXB6VsPZR1B0S9naexmHmVOn30hQG68fY8HD1ohv0O8ItA" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_qxfHyYBK0F0wzBUVTsyDQ-piVofPFm03kFgZrye-se0.css?delta=5&amp;language=de&amp;theme=bootstrap_bielefeld&amp;include=eJyFkmtywyAMhC9EzJEYYWTCVEaMJJymp6-dNI-6yfQPiG8XGFZAtRLZPFznYWKZXSxIOCElf69C0rzwS-WLeQ4jR-GTlpofnoCfhlULV_-CBYIzd3uyVzyp34YwCVdrkHGnEpqh-EcZIPK_HoOsTyYBO0JXv6BAVQOyXjPWIUtJLjKbmkALEUQK-2sge5qJI9BB7UyXJ-_1ygmf6SO2G3upvj_2buHJMmofjzZE4vHDjSzok_QGNKQCxNmtGa_7P270Z-kUQcZjgFYCdOOR57YmhP4Nd3oqbY1vSwAuma73AYW51DIVTH_1PXB6VsPZR1B0S9naexmHmVOn30hQG68fY8HD1ohv0O8ItA" />
+
+    <script src="/sites/default/files/js/js_5hH8PkUgWmP0c70oiLiU8izyYVT_yExRe_-Hrp4tsu0.js?scope=header&amp;delta=0&amp;language=de&amp;theme=bootstrap_bielefeld&amp;include=eJyFkWFuwzAIhS_kxkeycExcr46xgCTdTr84aZcpyrQ_PPw-hABD0eRJLezaDcSj8QkzDpiD_clckDjTJWGEIBXhgXzJv4hG15NnWiSVeNS4govYFtzAVLRCxBPNqIpsj9SBp39rFKL8KmLQO0xiZ2QoopB1KhFLFzmFmyyptsGJVJShOg_MiWzM5CHfRD_zNvTBjxXf3iU9NeiJ0QaeKuRunUFRDD51RY-3-3qaEZRGsrsYQeD-7qAmB5NST2Ndt0T7h2_2fVz7R9jucjbMnNrZt9jBBzzNgr5R-9IuJMgUvwG5UtXI"></script>
+
+  </head>
+  <body class="layout-no-sidebars page-node-1 path-frontpage node--type-page">
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+<header class="nav-wrap">
+    <nav class="navbar navbar-expand-lg container navbar-cpsp" id="navbar">
+        <div class="wai-menu">
+            <a href="#container-content" class="link-content-jump wai-link">Inhalt anspringen</a>
+            <a href="#mainmenu" role="button" aria-haspopup="menu" class="navbar-toggler wai-link" data-bs-target="#mainmenu" data-bs-toggle="collapse">Men&uuml; anspringen</a>
+            <a href="#search-menu" class="search-toggler wai-link" data-bs-target="#search-menu" data-bs-toggle="collapse">Suche anspringen</a>
+        </div>
+
+        <!-- Logo -->
+        <a class="nav-brand" href="/" title="Bielefeld.de - Startseite" aria-label="Bielefeld.de - Startseite">
+            <svg class="logo" role="figure" aria-label="Logo Bielefeld" viewBox="0 0 60 84" xmlns="http://www.w3.org/2000/svg">
+                <path d="m60 84h-13v-51.59h13zm-20-15.32c0 9.07-7.21 15.32-16.78 15.32h-23.22v-51.59h18c9.49 0 16.8 6.1 16.8 15.24a13.1 13.1 0 0 1 -3 8.68 12.69 12.69 0 0 1 8.2 12.35m-27.56-15.87h5c3.09 0 5-1.79 5-4.53s-1.88-4.53-5-4.53h-5zm14.56 15.32c0-3-2-4.53-5-4.53h-9.56v9.07h9.61c3 0 5-1.49 5-4.54m32.95-68.13h-13v11.15h-10.83v-11.15h-12.34v11.15h-10.83v-11.15h-13v24h60z"
+                      fill="#e30014"></path>
+            </svg>
+        </a>
+
+        <!-- Mainmenu -->
+        <div id="mainmenu" tabindex="-1" class="collapse navbar-collapse menu-tile" data-bs-parent=".navbar-cpsp">
+                        
+
+              <ul id="mainmenu-wrap"  class="clearfix container navbar-nav navbar-cpsp">
+        <li class="menulevelup-wrapper">
+          <a href="#levelup" id="menulevelup"><i class="bielefeld-ui-pfeil_hoch rotate-270"></i>  zur&uuml;ck</a>
+        </li>
+                <li class="nav-item">
+                                                                                    
+          <a id="2eb478e4-3319-48d4-b47a-a0b1680d302e" class="nav-link nav-link-top collapsed" data-bs-toggle="collapse" href="#submenu-1" role="button" aria-expanded="false">
+            <span class="light">Stadt.</span>Service
+          </a>
+
+          <div class="collapse submenu" id="submenu-1" data-bs-parent="#mainmenu-wrap">
+                                        <div class="container">
+      <ul class="submenu-list list-unstyled">
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="https://service.bielefeld.de/" class="nav-link nav-link-second" id="9f09bbf3-9b27-4edc-abf1-ba505b001ab6">Mein Serviceportal</a>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="051f6db9-afd7-4c23-b7e3-afa24ed37e5f"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-1-2"
+               role="button" aria-expanded="false"
+               aria-label="Terminvereinbarung aufklappen">
+                Terminvereinbarung
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-1-2" data-bs-parent="#submenu-1">
+              <li class="deepmenu-title"><a href="/termin" class="nav-link nav-link-second collapsed" id="title-051f6db9-afd7-4c23-b7e3-afa24ed37e5f" data-drupal-link-system-path="node/8123">Terminvereinbarung</a></li>
+                                            <li><a href="https://tempus-termine.com/termine/index.php?anlagennr=54" title="Terminvereinbarung Ausländerbehörde" class="nav-link nav-link-deepmenu" id="f2a3aea1-654b-414b-a283-3a42fc544047">Ausländerbehörde</a></li>
+                      <li><a href="https://tempus-termine.com/termine/index.php?anlagennr=83" title="Terminvereinbarung Bürgerberatungen" class="nav-link nav-link-deepmenu" id="14385731-1603-426e-8e22-43bbdd6c5fa2">Bürgerberatungen</a></li>
+                      <li><a href="https://tempus-termine.com/termine/index.php?anr=110" title="Terminvereinbarung Fahrerlaubnisbehörde" class="nav-link nav-link-deepmenu" id="c17b37af-0c43-49fa-b8c8-fbcfc606f682">Fahrerlaubnisbehörde</a></li>
+                      <li><a href="https://tempus-termine.com/termine/index.php?anlagennr=12&amp;anliegenauswahl=ja" title="Terminvereinbarung Kfz-Zulassungsbehörde" class="nav-link nav-link-deepmenu" id="feb0ba9e-6ea0-45f5-9f1d-1bf0410e2a68">Kfz-Zulassungsbehörde</a></li>
+                      <li><a href="https://tempus-termine.com/termine/index.php?anlagennr=58" title="Terminvereinbarung Standesamt" class="nav-link nav-link-deepmenu" id="2da67929-2e5d-46cd-93f8-ba8ef9016fed">Standesamt</a></li>
+                      <li><a href="https://traukalender.bielefeld.de/" class="nav-link nav-link-deepmenu" id="677788de-e6d1-4f7a-8e40-43d841ecac2a">Traukalender online</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="b7ecb355-c82a-4491-83a8-8688212b07fb"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-1-3"
+               role="button" aria-expanded="false"
+               aria-label="Karriere bei der Stadt aufklappen">
+                Karriere bei der Stadt
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-1-3" data-bs-parent="#submenu-1">
+              <li class="deepmenu-title"><a href="/karriere" class="nav-link nav-link-second collapsed" id="title-b7ecb355-c82a-4491-83a8-8688212b07fb" data-drupal-link-system-path="node/26468">Karriere bei der Stadt</a></li>
+                                            <li><a href="/node/31193" class="nav-link nav-link-deepmenu" id="1a05c1df-96a4-4cd9-b1f4-dd589324b4a2" data-drupal-link-system-path="node/31193">Angebote für Erzieher*innen in Ausbildung (Berufspraktikum)</a></li>
+                      <li><a href="/jobbotschaften" class="nav-link nav-link-deepmenu" id="085d89ba-cb62-4c6e-87e8-452ce2f4b9be" data-drupal-link-system-path="node/32757">Bielefelder Jobbotschaften</a></li>
+                      <li><a href="/bfd" class="nav-link nav-link-deepmenu" id="d17b7a28-004c-4659-93d1-0ff1106136b3" data-drupal-link-system-path="node/7288">Bundesfreiwilligendienst</a></li>
+                      <li><a href="/node/29216" class="nav-link nav-link-deepmenu" id="6783a74a-5c83-4bb2-b779-8b0fc48a5f6c" data-drupal-link-system-path="node/29216">Personalentwicklung &amp; Gesundheitsmanagement</a></li>
+                      <li><a href="/node/29207" class="nav-link nav-link-deepmenu" id="93f07436-cfd3-4470-92ac-4d7891e62118" data-drupal-link-system-path="node/29207">Unsere Angebote für Berufseinsteiger*innen</a></li>
+                      <li><a href="/node/29208" class="nav-link nav-link-deepmenu" id="3d3386a9-9baa-43d7-9fba-9308458f5c8d" data-drupal-link-system-path="node/29208">Unsere Angebote für Berufserfahrene</a></li>
+                      <li><a href="/karriere/schueler" class="nav-link nav-link-deepmenu" id="9a097d83-7e31-4a67-923f-2b6907c6f3d4" data-drupal-link-system-path="node/27052">Unsere Angebote für Schüler*innen</a></li>
+                      <li><a href="/karriere/studierende" class="nav-link nav-link-deepmenu" id="093738d4-c75c-4e1e-a2c7-3d48deac68e0" data-drupal-link-system-path="node/29206">Unsere Angebote für Studierende</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="https://bielefeld-baut.de/" target="_blank" class="nav-link nav-link-second" id="ba5875d6-a0a3-4572-8200-50dfcc87a0b5">Baustellenauskunft</a>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="504718fe-c207-4184-bb2f-b9699091c3c0"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-1-5"
+               role="button" aria-expanded="false"
+               aria-label="Soziale Leistungen aufklappen">
+                Soziale Leistungen
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-1-5" data-bs-parent="#submenu-1">
+              <li class="deepmenu-title"><a href="/node/7700" class="nav-link nav-link-second collapsed" id="title-504718fe-c207-4184-bb2f-b9699091c3c0" data-drupal-link-system-path="node/7700">Soziale Leistungen</a></li>
+                                            <li><a href="http://www.rege-mbh.de/" class="nav-link nav-link-deepmenu" id="d17060a3-86a7-4a4c-96ce-87e7594a46e0">Bielefeld REGE</a></li>
+                      <li><a href="/node/6056" class="nav-link nav-link-deepmenu" id="05111823-a63c-42c4-a564-e6e924824b04" data-drupal-link-system-path="node/6056">Finanzielle Hilfen</a></li>
+                      <li><a href="https://www.jobcenter-arbeitplus-bielefeld.de/" class="nav-link nav-link-deepmenu" id="c8a68892-0af5-475f-b5c6-e20d6c0f257e">Jobcenter Arbeitplus</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/ortskundich" class="nav-link nav-link-second" id="a3088405-a86a-4649-9097-13f4f8574be7" data-drupal-link-system-path="node/6278">Nachhaltig einkaufen - OrtsKundIch</a>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="bb3de68a-715d-4d4c-b3f1-67bbd5fe3d42"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-1-7"
+               role="button" aria-expanded="false"
+               aria-label="Veröffentlichungen der Stadt aufklappen">
+                Veröffentlichungen der Stadt
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-1-7" data-bs-parent="#submenu-1">
+              <li class="deepmenu-title"><a href="/veroeffentlichungen-der-stadt" class="nav-link nav-link-second collapsed" id="title-bb3de68a-715d-4d4c-b3f1-67bbd5fe3d42" data-drupal-link-system-path="node/7577">Veröffentlichungen der Stadt</a></li>
+                                            <li><a href="/bekanntmachungen/ausschreibungen" class="nav-link nav-link-deepmenu" id="089eb2e4-8d5b-4e11-bacd-67a04c9bf3bb" data-drupal-link-system-path="node/2613">Ausschreibungen</a></li>
+                      <li><a href="/bauleitplaene" class="nav-link nav-link-deepmenu" id="73e5402a-9a33-43a2-afcf-02502ad9e212" data-drupal-link-system-path="node/7853">Bauleitpläne</a></li>
+                      <li><a href="/oeffentliche-bekanntmachungen" class="nav-link nav-link-deepmenu" id="f55ec757-78c4-426f-bea8-145b3142d442" data-drupal-link-system-path="node/7852">Öffentliche Bekanntmachungen</a></li>
+                      <li><a href="/ortsrecht" class="nav-link nav-link-deepmenu" id="32cc8e78-b43d-47da-ad2d-b0a2ad87fa09" data-drupal-link-system-path="node/6396">Ortsrecht</a></li>
+                      <li><a href="/bekanntmachungen/veroeffentlichungen" class="nav-link nav-link-deepmenu" id="8ad86988-2776-4831-a89b-6c7ecb978045" data-drupal-link-system-path="node/2562">Zuschlagserteilungen</a></li>
+                      <li><a href="/bekanntmachungen/zustellungen" class="nav-link nav-link-deepmenu" id="26bcb2cc-fac5-48ca-af5e-245f086b14bd" data-drupal-link-system-path="node/2546">Zustellungen</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="45a34c77-ed27-45e9-a20a-d6cc13e5d8cc"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-1-8"
+               role="button" aria-expanded="false"
+               aria-label="Stadtverwaltung aufklappen">
+                Stadtverwaltung
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-1-8" data-bs-parent="#submenu-1">
+              <li class="deepmenu-title"><a href="/node/7578" class="nav-link nav-link-second collapsed" id="title-45a34c77-ed27-45e9-a20a-d6cc13e5d8cc" data-drupal-link-system-path="node/7578">Stadtverwaltung</a></li>
+                                            <li><a href="/node/2635" class="nav-link nav-link-deepmenu" id="f4157d06-3d77-47f8-b192-0d85f87585c6" data-drupal-link-system-path="node/2635">Antikorruption</a></li>
+                      <li><a href="/abh" class="nav-link nav-link-deepmenu" id="450a0b93-b93f-4400-8393-60fbcea1113f" data-drupal-link-system-path="node/6213">Ausländerangelegenheiten</a></li>
+                      <li><a href="/bauberatung" class="nav-link nav-link-deepmenu" id="e475e662-1950-4d7f-9edb-1d0249935de7" data-drupal-link-system-path="node/7277">Bauberatung</a></li>
+                      <li><a href="/buergerberatung" class="nav-link nav-link-deepmenu" id="3fe2a878-69ad-4f3a-bcde-3556f5d2ee1e" data-drupal-link-system-path="node/5783">Bürgerberatung</a></li>
+                      <li><a href="/dienststellen" class="nav-link nav-link-deepmenu" title="Dienststellen der Stadtverwaltung Bielefeld" id="447d0c3c-ce8f-4356-ba89-83af9e53591a" data-drupal-link-system-path="node/5516">Dienststellen</a></li>
+                      <li><a href="/finanzen" class="nav-link nav-link-deepmenu" id="24485a32-059c-4907-b9d1-f2a9b3191eec" data-drupal-link-system-path="node/5984">Finanzen</a></li>
+                      <li><a href="/formularservice" class="nav-link nav-link-deepmenu" id="013a2b37-4ffa-4d80-9a91-2e68111524ec" data-drupal-link-system-path="node/7108">Formularservice</a></li>
+                      <li><a href="/isb" class="nav-link nav-link-deepmenu" id="1d7fe926-d981-4a28-a03c-5d490492e098" data-drupal-link-system-path="node/3911">Immobilienservicebetrieb</a></li>
+                      <li><a href="/node/5989" class="nav-link nav-link-deepmenu" id="c6808ec4-3206-4c5d-91d5-b994535d2039" data-drupal-link-system-path="node/5989">Konzerncontrolling</a></li>
+                      <li><a href="https://service.bielefeld.de/dienstleistungen-a-z" class="nav-link nav-link-deepmenu" id="ed8b6a08-2b37-4178-9060-1dc4301e8ca5">Leistungen A-Z</a></li>
+                      <li><a href="https://interkulturelles-bielefeld.de/" class="nav-link nav-link-deepmenu" title="Interkulturelles Bielefeld" id="762129f4-91b0-40bf-83fb-b225fd3817ff">Mehrsprachige Informationen</a></li>
+                      <li><a href="/node/2634" class="nav-link nav-link-deepmenu" id="6d4b974e-ecbf-4b52-979a-667b1470594f" data-drupal-link-system-path="node/2634">Rechtsamt</a></li>
+                      <li><a href="/node/5982" class="nav-link nav-link-deepmenu" id="9ed9ddfb-ba16-4b5c-8ca8-decad2c640c7" data-drupal-link-system-path="node/5982">Rund um den Führerschein</a></li>
+                      <li><a href="/node/7326" class="nav-link nav-link-deepmenu" id="8112ddc2-8bae-437b-a25f-267ce10201ae" data-drupal-link-system-path="node/7326">Rund ums Gewerbe</a></li>
+                      <li><a href="/kfz-zulassung" class="nav-link nav-link-deepmenu" id="45b8e2f5-f137-4498-beb9-9bcec0dd7fcf" data-drupal-link-system-path="node/6443">Rund ums Kfz</a></li>
+                      <li><a href="/standesamt" class="nav-link nav-link-deepmenu" id="9a42bcad-7220-4137-bb4d-5c3f6a47e25d" data-drupal-link-system-path="node/6183">Standesamt</a></li>
+                      <li><a href="/umweltbetrieb" class="nav-link nav-link-deepmenu" id="0f1b857b-9574-4981-b78d-9fbc310a1c80" data-drupal-link-system-path="node/25241">Umweltbetrieb</a></li>
+                      <li><a href="/verwaltungsorganisation" class="nav-link nav-link-deepmenu" id="d73c5e73-b2a4-4f29-b26e-49765a4c8dfa" data-drupal-link-system-path="node/6082">Verwaltungsorganisation</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/branchenbuch" class="nav-link nav-link-second" id="1a5efe89-61f4-45da-b56d-b31e5bc0352b" data-drupal-link-system-path="node/5095">Branchenbuch</a>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/friedhoefe-bestattungen" class="nav-link nav-link-second" id="e8c149b3-ea4a-4dc3-b432-3e33e009b2f8" data-drupal-link-system-path="node/7443">Friedhöfe und Bestattungen</a>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/gleichstellungsstelle" class="nav-link nav-link-second" id="e10f3067-df25-4e77-8ff6-68b880298c3a" data-drupal-link-system-path="node/3846">Gleichstellungsstelle</a>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="517c07bd-0782-4a21-baae-913115fa5060"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-1-12"
+               role="button" aria-expanded="false"
+               aria-label="Sicherheit aufklappen">
+                Sicherheit
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-1-12" data-bs-parent="#submenu-1">
+              <li class="deepmenu-title"><a href="/node/7447" class="nav-link nav-link-second collapsed" id="title-517c07bd-0782-4a21-baae-913115fa5060" data-drupal-link-system-path="node/7447">Sicherheit</a></li>
+                                            <li><a href="/node/7215" class="nav-link nav-link-deepmenu" id="087877ba-9f3d-411f-acd2-01e9c13e7a23" data-drupal-link-system-path="node/7215">Bußgeldstelle</a></li>
+                      <li><a href="https://feuerwehr-bielefeld.de/" class="nav-link nav-link-deepmenu" id="336a2da1-6382-48d2-95ce-396ff5d07e3b">Feuerwehr</a></li>
+                      <li><a href="/notfall" class="nav-link nav-link-deepmenu" id="f06135f6-56a9-4270-bc08-363b114ec508" data-drupal-link-system-path="node/5878">Krisen- und Notfalldienste</a></li>
+                      <li><a href="/nachtboje" class="nav-link nav-link-deepmenu" id="a6cdf756-9a57-4a61-8986-2319e63f7d0b" data-drupal-link-system-path="node/32986">Nachtboje</a></li>
+                      <li><a href="/node/21526" class="nav-link nav-link-deepmenu" id="7090b5d4-f051-479d-8c66-8ad7ebaa3a20" data-drupal-link-system-path="node/21526">Ordnungsamt (Außendienste)</a></li>
+                      <li><a href="/node/5853" class="nav-link nav-link-deepmenu" id="0cbe4024-a03a-44f2-9b3c-cc32d8461553" data-drupal-link-system-path="node/5853">Sicherheit und Ordnung</a></li>
+                      <li><a href="/skpr" class="nav-link nav-link-deepmenu" id="20dbb9ce-139b-44b0-ab04-35fd296e0021" data-drupal-link-system-path="node/6222">Sozial- und Kriminalprävention</a></li>
+                      <li><a href="/stadtwache" class="nav-link nav-link-deepmenu" id="6a842aab-f531-4681-a9c7-f168891e901a" data-drupal-link-system-path="node/5568">Stadtwache</a></li>
+                      <li><a href="/node/7216" class="nav-link nav-link-deepmenu" id="9866a039-b66c-4e8b-b2e2-cf85b74fe2d3" data-drupal-link-system-path="node/7216">Verkehrsüberwachungsdienst</a></li>
+                      <li><a href="/node/3019" class="nav-link nav-link-deepmenu" id="5f01824b-50c9-4691-b810-0d8514506a40" data-drupal-link-system-path="node/3019">Waldrettungspunkte</a></li>
+                      <li><a href="/node/5570" class="nav-link nav-link-deepmenu" id="b4f16721-8ae4-474d-b09a-b70a021c4770" data-drupal-link-system-path="node/5570">Zentraler Außen- und Vollzugsdienst</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="87e61fec-2aec-4ac3-8f3b-59de9cf69972"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-1-13"
+               role="button" aria-expanded="false"
+               aria-label="Geoinformation.Kataster aufklappen">
+                Geoinformation.Kataster
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-1-13" data-bs-parent="#submenu-1">
+              <li class="deepmenu-title"><a href="/node/3035" class="nav-link nav-link-second collapsed" id="title-87e61fec-2aec-4ac3-8f3b-59de9cf69972" data-drupal-link-system-path="node/3035">Geoinformation.Kataster</a></li>
+                                            <li><a href="/node/9952" class="nav-link nav-link-deepmenu" id="d4542cad-888e-4f51-9fe4-69e977100367" data-drupal-link-system-path="node/9952">Amtlicher Stadtplan</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="e6871261-9fe1-4324-9291-773d034f3bc7"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-1-14"
+               role="button" aria-expanded="false"
+               aria-label="Wohnen aufklappen">
+                Wohnen
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-1-14" data-bs-parent="#submenu-1">
+              <li class="deepmenu-title"><a href="/wohnen" class="nav-link nav-link-second collapsed" id="title-e6871261-9fe1-4324-9291-773d034f3bc7" data-drupal-link-system-path="node/7444">Wohnen</a></li>
+                                            <li><a href="/gemeinschaftlich-wohnen" class="nav-link nav-link-deepmenu" id="4ab4d561-522c-4a35-a84e-f9129f8a4a7f" data-drupal-link-system-path="node/5578">Gemeinschaftliche Wohnformen</a></li>
+                      <li><a href="/node/3924" class="nav-link nav-link-deepmenu" id="e16dd759-8f53-4bce-abd5-f5076be058f2" data-drupal-link-system-path="node/3924">Grundstückshandel</a></li>
+                      <li><a href="/immobilienangebote" class="nav-link nav-link-deepmenu" id="a17178a5-caf9-4425-98ee-9212059bff47" data-drupal-link-system-path="node/7153">Immobilienangebote</a></li>
+                      <li><a href="/node/5861" class="nav-link nav-link-deepmenu" id="0bbd1ada-60fc-4e4b-8bb7-714b0f5abf67" data-drupal-link-system-path="node/5861">Masterplan Wohnen</a></li>
+                      <li><a href="/mietspiegel" class="nav-link nav-link-deepmenu" id="70f27b51-0020-49ef-be28-d6910ee457f8" data-drupal-link-system-path="node/5876">Mietspiegel</a></li>
+                      <li><a href="/wohnungsaufsicht" class="nav-link nav-link-deepmenu" id="27e0b81a-c902-4ebc-8d6f-f2ca5c03a321" data-drupal-link-system-path="node/6074">Wohnungsaufsicht</a></li>
+                      <li><a href="/wohnungsbaufoerderung" class="nav-link nav-link-deepmenu" id="d436a9c9-d036-4765-82d9-0068faab8f3d" data-drupal-link-system-path="node/6076">Wohnungsbauförderung</a></li>
+                      <li><a href="/wohnungshilfen" class="nav-link nav-link-deepmenu" id="fcaeec48-0e2e-4e3c-8225-f9ff42807d13" data-drupal-link-system-path="node/6052">Wohnungshilfen</a></li>
+                      <li><a href="/node/7103" class="nav-link nav-link-deepmenu" id="3747fdbe-f544-4dd8-b91a-7ba5b41ca0e5" data-drupal-link-system-path="node/7103">Wohnungsmarktbeobachtung</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/pressedienst" class="nav-link nav-link-second" id="ae07ba5c-fdd5-4771-98fd-6a7e1d33bc99" data-drupal-link-system-path="node/5240">Pressedienst</a>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/strassenreinigung" class="nav-link nav-link-second" id="a3061a87-f673-4015-8a08-751d71381154" data-drupal-link-system-path="node/7131">Straßenreinigung und Winterdienst</a>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/umweltbetrieb/abfall" title="Abfall- und Wertstoffentsorgung" class="nav-link nav-link-second" id="095ec45a-09a7-4764-94fc-92eb48fc6855" data-drupal-link-system-path="node/3715">Abfall- und Wertstoffentsorgung</a>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="30984ff4-9414-49cb-9b39-807791ae00f8"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-1-18"
+               role="button" aria-expanded="false"
+               aria-label="Bevölkerungsschutz aufklappen">
+                Bevölkerungsschutz
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-1-18" data-bs-parent="#submenu-1">
+              <li class="deepmenu-title"><a href="/bevoelkerungsschutz" class="nav-link nav-link-second collapsed" id="title-30984ff4-9414-49cb-9b39-807791ae00f8" data-drupal-link-system-path="node/30189">Bevölkerungsschutz</a></li>
+                                            <li><a href="/notfall-anlaufstellen" class="nav-link nav-link-deepmenu" id="7da53316-8279-45b0-8405-e6772577769c" data-drupal-link-system-path="node/21614">Anlaufstellen bei außergewöhnlichen Ereignissen</a></li>
+                      <li><a href="/bevorraten" class="nav-link nav-link-deepmenu" id="e3faad0b-6933-4112-ac50-b03f511e4836" data-drupal-link-system-path="node/21720">Essen und Trinken bevorraten</a></li>
+                      <li><a href="/evakuierung" class="nav-link nav-link-deepmenu" id="c80c14c4-ce77-4af3-8777-48caa7d5047a" data-drupal-link-system-path="node/30373">Evakuierung bei einem Kampfmittelfund</a></li>
+                      <li><a href="/haussicherheit" class="nav-link nav-link-deepmenu" id="9338f8f3-b98b-4ea2-aca8-56a457cd2fba" data-drupal-link-system-path="node/30906">Notfallvorsorge: Haussicherheit</a></li>
+                      <li><a href="/warnung-bevoelkerung" class="nav-link nav-link-deepmenu" id="8240592b-6bbf-40d1-9c7c-915f4c4d337f" data-drupal-link-system-path="node/30193">Warnung der Bevölkerung</a></li>
+                      <li><a href="/notfallvorsorge" class="nav-link nav-link-deepmenu" id="abb8a7e7-2b62-4f71-960a-d4e3e9abd1e6" data-drupal-link-system-path="node/21690">Wenn es schnell gehen muss: Das Notgepäck</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/node/3000" class="nav-link nav-link-second" id="8e583881-1ecd-4f72-a1d0-a0740f36fe8c" data-drupal-link-system-path="node/3000">Straßeninstandhaltung und -beschilderung</a>
+          
+        </li>
+              </ul>
+      </div>
+      
+                      </div>
+        </li>
+              <li class="nav-item">
+                                                                                    
+          <a id="9cb42322-2c02-4c47-8dd8-6a31cb95d321" class="nav-link nav-link-top collapsed" data-bs-toggle="collapse" href="#submenu-2" role="button" aria-expanded="false">
+            <span class="light">Stadt.</span>Gemeinschaft
+          </a>
+
+          <div class="collapse submenu" id="submenu-2" data-bs-parent="#mainmenu-wrap">
+                                        <div class="container">
+      <ul class="submenu-list list-unstyled">
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/oberbuergermeisterin" class="nav-link nav-link-second" id="b3c3ea18-3235-4c06-99b0-19fc6b5e3a58" data-drupal-link-system-path="node/33720">Oberbürgermeisterin</a>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/node/34127" class="nav-link nav-link-second" id="5d940c3a-633e-4a27-a11d-fa3ee985eae6" data-drupal-link-system-path="node/34127">Spenden, Stiftungen &amp; Nachlässe</a>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="27abf6e0-792d-4f34-990c-1b372763a2e0"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-2-3"
+               role="button" aria-expanded="false"
+               aria-label="Bildung aufklappen">
+                Bildung
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-2-3" data-bs-parent="#submenu-2">
+              <li class="deepmenu-title"><a href="/bildung" class="nav-link nav-link-second collapsed" id="title-27abf6e0-792d-4f34-990c-1b372763a2e0" data-drupal-link-system-path="node/7445">Bildung</a></li>
+                                            <li><a href="/amt-fuer-schule" class="nav-link nav-link-deepmenu" id="157234e8-2aba-442d-933d-0e1a247b42e9" data-drupal-link-system-path="node/5282">Amt für Schule</a></li>
+                      <li><a href="/bne" class="nav-link nav-link-deepmenu" id="e1020ad8-1da8-4273-9002-79a3f05dc8fa" data-drupal-link-system-path="node/5132">Bildung für nachhaltige Entwicklung</a></li>
+                      <li><a href="/node/5280" class="nav-link nav-link-deepmenu" id="2c1978a5-d2b5-4a37-9d2c-e9363e5f118a" data-drupal-link-system-path="node/5280">Bildungsbüro und Schulsozialarbeit</a></li>
+                      <li><a href="/node/5274" class="nav-link nav-link-deepmenu" id="218da753-7f11-4dd8-8405-3f99af8b2c1e" data-drupal-link-system-path="node/5274">Bildungsregion Bielefeld</a></li>
+                      <li><a href="/chancenportal" class="nav-link nav-link-deepmenu" id="051ad5a2-cccb-4107-846d-7a7403ddb401" data-drupal-link-system-path="node/29077">Chancenportal Bielefeld</a></li>
+                      <li><a href="/energiesparenmachtschule" class="nav-link nav-link-deepmenu" id="4e574fd5-34d2-43b7-bee2-c07d459a6825" data-drupal-link-system-path="node/6232">Energiesparen macht Schule</a></li>
+                      <li><a href="/kindermeilenkampagne" class="nav-link nav-link-deepmenu" id="e7da8299-0d7b-425a-8601-736cce677add" data-drupal-link-system-path="node/6230">Kindermeilenkampagne</a></li>
+                      <li><a href="/muku" class="nav-link nav-link-deepmenu" id="7fdfcaf4-d2a0-4d11-8eb7-f2931601f639" data-drupal-link-system-path="node/2658">Musik- und Kunstschule</a></li>
+                      <li><a href="/bildung-und-schule" class="nav-link nav-link-deepmenu" id="82a30f49-9500-4316-937b-fabe9ca19f42" data-drupal-link-system-path="node/5251">Rund ums Thema Schule</a></li>
+                      <li><a href="/schulamt" class="nav-link nav-link-deepmenu" id="322850de-9e59-49de-aa63-3489fc27f5ef" data-drupal-link-system-path="node/5249">Schulamt</a></li>
+                      <li><a href="/rsb" class="nav-link nav-link-deepmenu" id="932c502b-08a9-4f42-9b30-2849f6f451fc" data-drupal-link-system-path="node/5268">Schulberatungsstelle</a></li>
+                      <li><a href="/bildung/schulen" class="nav-link nav-link-deepmenu" id="aeb12e2b-5766-4442-9a4a-4e0597ada0c5" data-drupal-link-system-path="node/2534">Schulen</a></li>
+                      <li><a href="/node/2607" class="nav-link nav-link-deepmenu" id="50a66b90-d236-4f57-ba69-3c5e6b0a68d5" data-drupal-link-system-path="node/2607">Schulische Beratung Neuzugewanderter</a></li>
+                      <li><a href="https://www.vhs-bielefeld.de/" class="nav-link nav-link-deepmenu" id="7d589919-778f-45d9-9072-eee3b4c0b5cd">Volkshochschule</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="416ea646-3a29-4131-a3c4-faeecb6043aa"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-2-4"
+               role="button" aria-expanded="false"
+               aria-label="Politik aufklappen">
+                Politik
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-2-4" data-bs-parent="#submenu-2">
+              <li class="deepmenu-title"><a href="/node/7699" class="nav-link nav-link-second collapsed" id="title-416ea646-3a29-4131-a3c4-faeecb6043aa" data-drupal-link-system-path="node/7699">Politik</a></li>
+                                            <li><a href="/anregungen-beschwerden" class="nav-link nav-link-deepmenu" id="18b81a49-3d8b-4c50-ace9-2b5a79879fba" data-drupal-link-system-path="node/2632">Anregungen und Beschwerden</a></li>
+                      <li><a href="/beirat-behindertenfragen" class="nav-link nav-link-deepmenu" id="621aa8e2-6f32-47e9-959d-fead03759748" data-drupal-link-system-path="node/10257">Beirat für Behindertenfragen</a></li>
+                      <li><a href="/klimabeirat" class="nav-link nav-link-deepmenu" id="8b75ef1e-3d75-45b4-82bf-593aefbd4424" data-drupal-link-system-path="node/21714">Der Bielefelder Klimabeirat</a></li>
+                      <li><a href="/node/7155" class="nav-link nav-link-deepmenu" id="6f96e65e-44f3-4940-bf5d-0be69401e1c3" data-drupal-link-system-path="node/7155">Entschädigungen Mandatsträger*innen</a></li>
+                      <li><a href="https://anwendungen.bielefeld.de/ri/ylogon.asp?smcpn=info&amp;smclom=1" class="nav-link nav-link-deepmenu" id="c01e47eb-f1e8-4369-b69f-8bf19d8dea78">Gremieninfoportal (anmeldepflichtig)</a></li>
+                      <li><a href="/integrationsrat" class="nav-link nav-link-deepmenu" id="637862a1-2961-4a1d-a182-9e17f41d41e5" data-drupal-link-system-path="node/2606">Integrationsrat</a></li>
+                      <li><a href="/rats-tv" class="nav-link nav-link-deepmenu" id="19430ced-3d7f-400c-8f60-15048c440c70" data-drupal-link-system-path="node/21570">Rats-TV</a></li>
+                      <li><a href="https://anwendungen.bielefeld.de/bi/info.asp" class="nav-link nav-link-deepmenu" id="3363d395-207c-4315-8758-40c6206056ba">Ratsinformationssystem (öffentlich)</a></li>
+                      <li><a href="/seniorenrat" class="nav-link nav-link-deepmenu" id="bed6e619-d6a3-40c0-9126-03eec9c0a647" data-drupal-link-system-path="node/10110">Seniorenrat</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="e979e777-714b-405d-81f6-964ddb7389a0"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-2-5"
+               role="button" aria-expanded="false"
+               aria-label="Wahlen in Bielefeld aufklappen">
+                Wahlen in Bielefeld
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-2-5" data-bs-parent="#submenu-2">
+              <li class="deepmenu-title"><a href="https://www.bielefeld.de/wahlen" class="nav-link nav-link-second collapsed" id="title-e979e777-714b-405d-81f6-964ddb7389a0">Wahlen in Bielefeld</a></li>
+                                            <li><a href="/landtagswahl" class="nav-link nav-link-deepmenu" id="2462af19-e80e-4e68-bf08-ec6a85e46613" data-drupal-link-system-path="node/31654">Landtagswahl 2027</a></li>
+                      <li><a href="/node/31731" class="nav-link nav-link-deepmenu" id="6cbdf3a3-3786-4b5d-9f4e-1c7218ca0be0" data-drupal-link-system-path="node/31731">Willkommen im Wahlvorstand</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="e672122f-2869-4aa0-bcbb-fc38376cd909"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-2-6"
+               role="button" aria-expanded="false"
+               aria-label="Gesundheit aufklappen">
+                Gesundheit
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-2-6" data-bs-parent="#submenu-2">
+              <li class="deepmenu-title"><a href="/gesundheit" class="nav-link nav-link-second collapsed" id="title-e672122f-2869-4aa0-bcbb-fc38376cd909" data-drupal-link-system-path="node/6161">Gesundheit</a></li>
+                                            <li><a href="/bielefeldkompass" class="nav-link nav-link-deepmenu" id="b64429de-6246-4254-94a2-ef0dd5f82b80" data-drupal-link-system-path="node/34148">BielefeldKompass</a></li>
+                      <li><a href="/medizinische-versorgung" class="nav-link nav-link-deepmenu" id="c8d5d856-cd90-4d87-8f35-a1dcb0c654c1" data-drupal-link-system-path="node/34942">Gesundheitsmanagement zur medizinischen Versorgung</a></li>
+                      <li><a href="/hitzeportal" class="nav-link nav-link-deepmenu" id="751e77ea-8c38-4650-9fcb-d87b67fe800f" data-drupal-link-system-path="node/27235">Hitze-Portal</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/node/6137" class="nav-link nav-link-second" id="bfc082a1-11ed-4ab3-ad83-20d50fb64085" data-drupal-link-system-path="node/6137">Lebensmittelüberwachung</a>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/node/6113" class="nav-link nav-link-second" id="b7e9821c-99a6-46a3-bc12-debb1ec8dfb8" data-drupal-link-system-path="node/6113">Veterinärwesen</a>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/stadtbezirke" class="nav-link nav-link-second" id="3238ac4c-f021-4e44-b027-6537ef4e8241" data-drupal-link-system-path="node/6162">Stadtbezirke</a>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/staedtepartnerschaften" class="nav-link nav-link-second" id="4c0ea424-2fe6-447f-b528-9b8ccd6fd342" data-drupal-link-system-path="node/7151">Städtepartnerschaften</a>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="60a0274a-2c8e-42b5-93df-83cb3f0ca121"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-2-11"
+               role="button" aria-expanded="false"
+               aria-label="Kinder.Jugend.Familie aufklappen">
+                Kinder.Jugend.Familie
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-2-11" data-bs-parent="#submenu-2">
+              <li class="deepmenu-title"><a href="/jugendamt" class="nav-link nav-link-second collapsed" title="Jugendamt" id="title-60a0274a-2c8e-42b5-93df-83cb3f0ca121" data-drupal-link-system-path="node/7696">Kinder.Jugend.Familie</a></li>
+                                            <li><a href="/bereitschaftspflege" class="nav-link nav-link-deepmenu" id="79c4fdee-a52a-4b15-ace4-31cd50778e9b" data-drupal-link-system-path="node/3737">Bereitschaftspflege</a></li>
+                      <li><a href="/betreutes-wohnen" class="nav-link nav-link-deepmenu" id="a8a2a23e-e5fc-4ac3-8a57-c36cde1222b5" data-drupal-link-system-path="node/19177">Betreutes Wohnen</a></li>
+                      <li><a href="http://bielefelder-kinderfonds.de/" class="nav-link nav-link-deepmenu" id="bdd552db-6cf8-463e-a961-8b6252bee56f">Bielefelder Kinderfonds</a></li>
+                      <li><a href="/ebbie" class="nav-link nav-link-deepmenu" id="df9024ff-939e-4cb1-8a36-8e97cf7770d5" data-drupal-link-system-path="node/22910">EBBIE – Sozial- und Erziehungsberufe Bielefeld</a></li>
+                      <li><a href="/node/7824" class="nav-link nav-link-deepmenu" id="35cd9d99-43ae-40f5-b5ab-61f2365dac66" data-drupal-link-system-path="node/7824">Elterliche Sorge</a></li>
+                      <li><a href="/jugendhilfeeinrichtungen" class="nav-link nav-link-deepmenu" id="28d46560-eff6-4c38-9f5e-07ff6103b13c" data-drupal-link-system-path="node/3714">Erziehungshilfeeinrichtungen</a></li>
+                      <li><a href="/fachstelle-kinderschutz" class="nav-link nav-link-deepmenu" id="774114a0-7e93-4643-bc66-efab9509b900" data-drupal-link-system-path="node/10114">Fachstelle Kinderschutz</a></li>
+                      <li><a href="/familienbuero" class="nav-link nav-link-deepmenu" id="cdb3b61b-c7aa-426a-884b-2bcb508d592f" data-drupal-link-system-path="node/6261">Familienbüro</a></li>
+                      <li><a href="/node/6376" class="nav-link nav-link-deepmenu" id="fe3d801b-ef7b-4988-a0bd-8a852041db47" data-drupal-link-system-path="node/6376">Familienfreundliche Unternehmen</a></li>
+                      <li><a href="/node/6032" class="nav-link nav-link-deepmenu" id="6f3d0d28-71a3-4cd0-96f3-63f6a2f3652f" data-drupal-link-system-path="node/6032">Frühförderung im Vorschulalter</a></li>
+                      <li><a href="/jugendarbeit" class="nav-link nav-link-deepmenu" id="5bfa3ba9-1e3d-47ff-b2ba-0626d94b168c" data-drupal-link-system-path="node/6267">Jugendarbeit in Bielefeld</a></li>
+                      <li><a href="https://www.jba-bielefeld.de/" class="nav-link nav-link-deepmenu" id="de1dd138-30ca-4f27-9e5e-92d4204290c4">Jugendberufsagentur Bielefeld</a></li>
+                      <li><a href="/staedtische-kitas" class="nav-link nav-link-deepmenu" id="b68e6c58-74cb-490a-80b3-e5f566272b63" data-drupal-link-system-path="node/2478">KiTas in städtischer Trägerschaft</a></li>
+                      <li><a href="/kindertagesbetreuung" class="nav-link nav-link-deepmenu" id="88a5aef6-891e-4439-a737-09eb82eba000" data-drupal-link-system-path="node/2499">Kinderbetreuung</a></li>
+                      <li><a href="/but" class="nav-link nav-link-deepmenu" id="4b752846-eae2-482f-9fcc-dcc8d5ed0590" data-drupal-link-system-path="node/20221">Leistungen für Bildung und Teilhabe (BuT)</a></li>
+                      <li><a href="/online-ferienkalender" class="nav-link nav-link-deepmenu" id="10b77817-3eb7-49a2-a06b-34442c123787" data-drupal-link-system-path="node/8071">Online-Ferienkalender</a></li>
+                      <li><a href="/node/6251" class="nav-link nav-link-deepmenu" id="82a30548-2168-4721-99bd-d32ce2c6029b" data-drupal-link-system-path="node/6251">Pflegekinderdienst</a></li>
+                      <li><a href="/vormundschaft" class="nav-link nav-link-deepmenu" id="b0fe20a4-6959-465c-9877-6cee5ac26cfa" data-drupal-link-system-path="node/7816">Vormundschaft</a></li>
+                      <li><a href="/sprachbildungkita" class="nav-link nav-link-deepmenu" id="e8f4f9f7-ef91-4489-ac31-faf14d468cd6" data-drupal-link-system-path="node/6285">Vorschulische Sprachförderung</a></li>
+                      <li><a href="/node/19382" class="nav-link nav-link-deepmenu" id="2cbd9503-3885-498c-b4d3-d426520f9664" data-drupal-link-system-path="node/19382">Wirtschaftliche Jugendhilfe</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="d5166ddd-54f5-4e4a-9e98-2e74f786227e"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-2-12"
+               role="button" aria-expanded="false"
+               aria-label="Soziales Miteinander aufklappen">
+                Soziales Miteinander
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-2-12" data-bs-parent="#submenu-2">
+              <li class="deepmenu-title"><a href="/node/7697" class="nav-link nav-link-second collapsed" id="title-d5166ddd-54f5-4e4a-9e98-2e74f786227e" data-drupal-link-system-path="node/7697">Soziales Miteinander</a></li>
+                                            <li><a href="/alterbielefeld" class="nav-link nav-link-deepmenu" id="4367e351-ac44-4874-b61c-d34ebf1a2174" data-drupal-link-system-path="node/5420">Älter werden in Bielefeld</a></li>
+                      <li><a href="/pflegende-angehoerige" class="nav-link nav-link-deepmenu" id="a5a23316-ed85-4e25-811a-783364aa5aa9" data-drupal-link-system-path="node/20184">Angebot für pflegende Angehörige</a></li>
+                      <li><a href="/node/5994" class="nav-link nav-link-deepmenu" id="00755a22-f8aa-4083-8b0f-752c697f9d54" data-drupal-link-system-path="node/5994">Angebote für Menschen mit Behinderungen</a></li>
+                      <li><a href="/antidiskriminierungsstelle" class="nav-link nav-link-deepmenu" id="02306072-2ee5-4277-b837-e254d4eb8736" data-drupal-link-system-path="node/2600">Antidiskriminierungsstelle</a></li>
+                      <li><a href="/node/5843" class="nav-link nav-link-deepmenu" id="f526d4c0-a242-4862-84b0-95f3a3ca5acc" data-drupal-link-system-path="node/5843">Beratungsangebote</a></li>
+                      <li><a href="/bielefeldkompass" class="nav-link nav-link-deepmenu" id="cfad8c9e-a239-4246-8ae3-6ba95883e1af" data-drupal-link-system-path="node/34148">BielefeldKompass</a></li>
+                      <li><a href="/babi" class="nav-link nav-link-deepmenu" id="3e4ba837-bdfd-4bc9-8f5d-9ce719f4ebbb" data-drupal-link-system-path="node/7956">Bielefelder Aktionsbündnis Inklusion</a></li>
+                      <li><a href="/node/5820" class="nav-link nav-link-deepmenu" id="b27c7b91-7f44-4696-8d26-396c11b33205" data-drupal-link-system-path="node/5820">Bürgerschaftliches Engagement</a></li>
+                      <li><a href="/betreuungsbehoerde" class="nav-link nav-link-deepmenu" id="766f80cb-8738-48d1-adc8-c760fca75b35" data-drupal-link-system-path="node/24702">Die Betreuungsbehörde</a></li>
+                      <li><a href="/node/5812" class="nav-link nav-link-deepmenu" id="1ef6fa33-c866-4ef2-9de7-12daf08171ea" data-drupal-link-system-path="node/5812">Flüchtlinge in Bielefeld</a></li>
+                      <li><a href="/hilde" class="nav-link nav-link-deepmenu" id="2da8c376-dd69-44db-bd66-b1526f1e4d53" data-drupal-link-system-path="node/21014">Infomobil Hilde</a></li>
+                      <li><a href="/node/2615" class="nav-link nav-link-deepmenu" id="1d75618b-ba43-4074-9df8-1607ac77cf89" data-drupal-link-system-path="node/2615">Kommunales Integrationszentrum</a></li>
+                      <li><a href="/kultursensible-altenhilfe-pflegeberatung" title="soziales" class="nav-link nav-link-deepmenu" id="6752ec28-f63a-4eec-a602-a69725f11389" data-drupal-link-system-path="node/10922">Kultursensible Altenhilfe und Pflegeberatung</a></li>
+                      <li><a href="/LSBTIQ" class="nav-link nav-link-deepmenu" id="783357e1-78a3-48c5-93ee-bb678d5a81b0" data-drupal-link-system-path="node/3849">Lesbisch, schwul, bi, trans*, inter*, queer</a></li>
+                      <li><a href="/node/5474" class="nav-link nav-link-deepmenu" id="588cd061-a0f5-4613-b42a-a770644f02cd" data-drupal-link-system-path="node/5474">Pflege</a></li>
+                      <li><a href="/quartier" class="nav-link nav-link-deepmenu" id="c0498f44-4898-4597-a926-39af17ab3083" data-drupal-link-system-path="node/5463">Quartierssozialarbeit</a></li>
+                      <li><a href="/sozialplanung" class="nav-link nav-link-deepmenu" id="255911f3-3ed8-4b45-a267-3b2ffefda674" data-drupal-link-system-path="node/6218">Sozialplanung</a></li>
+                      <li><a href="/stadtteilzentren" class="nav-link nav-link-deepmenu" id="095dcb58-f23e-446d-b614-cbaa6007574a" data-drupal-link-system-path="node/10234">Stadtteilzentren für alle</a></li>
+                      <li><a href="/streetwork" class="nav-link nav-link-deepmenu" id="ee0eff2b-ad63-42e5-898d-82cffed1340e" data-drupal-link-system-path="node/9829">Streetwork</a></li>
+                      <li><a href="/wtg-behoerde" class="nav-link nav-link-deepmenu" id="a4818a53-ea9e-46a0-8f51-a905e7514f8d" data-drupal-link-system-path="node/7834">WTG-Behörde </a></li>
+                      <li><a href="/wenigerallein" class="nav-link nav-link-deepmenu" id="42f7ee16-3abb-4484-a188-14f50a9f2aea" data-drupal-link-system-path="node/35809">Weniger allein in Bielefeld</a></li>
+                      <li><a href="/node/10242" class="nav-link nav-link-deepmenu" id="f696af5e-8e3b-4e7b-839f-7287c5114423" data-drupal-link-system-path="node/10242">Zentrale Beratungsstelle für Senior*innen und Menschen mit Behinderung</a></li>
+            
+            </ul>
+          
+        </li>
+              </ul>
+      </div>
+      
+                      </div>
+        </li>
+              <li class="nav-item">
+                                                                                    
+          <a id="d74014c9-8489-4fe2-98b4-eb03bbe6eed0" class="nav-link nav-link-top collapsed" data-bs-toggle="collapse" href="#submenu-3" role="button" aria-expanded="false">
+            <span class="light">Stadt.</span>Entwicklung
+          </a>
+
+          <div class="collapse submenu" id="submenu-3" data-bs-parent="#mainmenu-wrap">
+                                        <div class="container">
+      <ul class="submenu-list list-unstyled">
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/bauen" class="nav-link nav-link-second" id="c7214386-8ee4-4ccc-8823-d2af60169ed8" data-drupal-link-system-path="node/7440">Bauen</a>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="c444855c-3a23-4020-b71c-9c6b9a60c454"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-3-2"
+               role="button" aria-expanded="false"
+               aria-label="Dialog &amp; Beteiligung aufklappen">
+                Dialog &amp; Beteiligung
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-3-2" data-bs-parent="#submenu-3">
+              <li class="deepmenu-title"><a href="/dialog" class="nav-link nav-link-second collapsed" id="title-c444855c-3a23-4020-b71c-9c6b9a60c454" data-drupal-link-system-path="node/18667">Dialog &amp; Beteiligung</a></li>
+                                            <li><a href="/aktuelle-beteiligungen" class="nav-link nav-link-deepmenu" id="16b78886-6f01-431a-912d-2fa27ff18241" data-drupal-link-system-path="node/20430">Aktuelle Beteiligungsverfahren</a></li>
+                      <li><a href="/bielefeld-im-dialog" class="nav-link nav-link-deepmenu" id="dc58ef03-cb7f-466c-bece-c9b153d30416" data-drupal-link-system-path="node/29094">Bielefeld im Dialog</a></li>
+                      <li><a href="/mach-mit" class="nav-link nav-link-deepmenu" id="0e67dde3-540a-4da8-84c5-3afc27a8fbfc" data-drupal-link-system-path="node/30522">Mach mit! Bielefelder Grundsätze für Beteiligung</a></li>
+                      <li><a href="/dialog/newsletter" class="nav-link nav-link-deepmenu" id="91a5b46a-80a9-4dea-b680-b215d6ee6540" data-drupal-link-system-path="node/21356">Newsletter</a></li>
+                      <li><a href="/partizipation" class="nav-link nav-link-deepmenu" id="66ef7d13-38b3-42a1-b00f-bfdb04af9f3d" data-drupal-link-system-path="node/21638">Was ist kommunale Partizipation?</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/statistik" class="nav-link nav-link-second" id="9895e92b-bf2e-451a-afd6-45bfb335b942" data-drupal-link-system-path="node/2617">Bielefeld in Zahlen</a>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/node/7355" class="nav-link nav-link-second" id="ea5ee038-0c2b-4b49-b5d0-c6ff40b46a42" data-drupal-link-system-path="node/7355">Regiopolregion</a>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="779c7e2c-db5d-4520-8097-6ab212a7bb58"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-3-5"
+               role="button" aria-expanded="false"
+               aria-label="Digitalisierung aufklappen">
+                Digitalisierung
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-3-5" data-bs-parent="#submenu-3">
+              <li class="deepmenu-title"><a href="/digitalisierung" class="nav-link nav-link-second collapsed" id="title-779c7e2c-db5d-4520-8097-6ab212a7bb58" data-drupal-link-system-path="node/6271">Digitalisierung</a></li>
+                                            <li><a href="/gemeinsam-digital" class="nav-link nav-link-deepmenu" id="12b856e3-bb97-449c-bb2f-ee82e0bfc79f" data-drupal-link-system-path="node/27638">Beratungsangebote zu digitalen Themen</a></li>
+                      <li><a href="/breitband" class="nav-link nav-link-deepmenu" id="f645c8b8-d24e-4ef4-90d0-e5fd191ab958" data-drupal-link-system-path="node/19342">Breitband</a></li>
+                      <li><a href="/mobilfunk" class="nav-link nav-link-deepmenu" id="cc4d6671-0215-44ca-8ddd-3e78aa9a901d" data-drupal-link-system-path="node/23412">Mobilfunkausbau</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="8c3b12b4-51cf-47ef-b66a-dbd7e2326364"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-3-6"
+               role="button" aria-expanded="false"
+               aria-label="Klima aufklappen">
+                Klima
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-3-6" data-bs-parent="#submenu-3">
+              <li class="deepmenu-title"><a href="/klima" class="nav-link nav-link-second collapsed" id="title-8c3b12b4-51cf-47ef-b66a-dbd7e2326364" data-drupal-link-system-path="node/21680">Klima</a></li>
+                                            <li><a href="/energieeffiziente-gebaeude" class="nav-link nav-link-deepmenu" id="341423fd-aab7-4d72-bbb2-b4267df28bc6" data-drupal-link-system-path="node/5201">Energieeffiziente Gebäude &amp; Quartiere</a></li>
+                      <li><a href="/gebaeudebegruenung" class="nav-link nav-link-deepmenu" id="b94ad39e-354a-4529-ad47-0b68c348047f" data-drupal-link-system-path="node/3993">Gebäudebegrünung</a></li>
+                      <li><a href="/giesskannenheldinnen" class="nav-link nav-link-deepmenu" id="cbd6d42d-526b-438c-b794-323c2d7e66e6" data-drupal-link-system-path="node/27720">Gießkannenheld*innen</a></li>
+                      <li><a href="/klimaanpassung" class="nav-link nav-link-deepmenu" id="89376871-0ae3-4274-9f81-9137986f126f" data-drupal-link-system-path="node/5238">Klimaanpassung</a></li>
+                      <li><a href="/erneuerbare-energien" class="nav-link nav-link-deepmenu" id="fa1a0b89-7846-4a1c-b97b-7ea04aed6ed2" data-drupal-link-system-path="node/5196">Klimaneutrale Energie</a></li>
+                      <li><a href="/klimaneutral" class="nav-link nav-link-deepmenu" id="d69ec26e-065f-44ce-a8ae-e5a143a32d26" data-drupal-link-system-path="node/22925">Klimaneutralität 2030</a></li>
+                      <li><a href="/climate-challenge" class="nav-link nav-link-deepmenu" id="b7c66653-ab8e-4ca6-a2ce-6e98828dafa9" data-drupal-link-system-path="node/30783">Klimaschutz - Einfach machen! climatechallenge</a></li>
+                      <li><a href="/klimaschutzimalltag" class="nav-link nav-link-deepmenu" id="3d670863-e4b9-487c-8f62-4705adb1eded" data-drupal-link-system-path="node/5210">Klimaschutz im Alltag</a></li>
+                      <li><a href="/node/5211" class="nav-link nav-link-deepmenu" id="b3336c51-b15b-4ea1-9a88-57cc7875e157" data-drupal-link-system-path="node/5211">Klimawandel &amp; Gesundheit</a></li>
+                      <li><a href="/waermeplanung" class="nav-link nav-link-deepmenu" id="2790c42f-ad36-4b50-9443-22eb4d160044" data-drupal-link-system-path="node/30038">Kommunale Wärmeplanung</a></li>
+                      <li><a href="/nachhaltiges-wirtschaften" class="nav-link nav-link-deepmenu" id="7862ee5e-f6b0-46d5-85b1-daf47f9e7085" data-drupal-link-system-path="node/5202">Nachhaltiges Wirtschaften</a></li>
+                      <li><a href="/node/7430" class="nav-link nav-link-deepmenu" id="7564d3ad-6edb-4c5a-80ea-900619bb0378" data-drupal-link-system-path="node/7430">Stadtklima</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="d5628ccd-61ba-4fdd-850a-4d1084fbbb30"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-3-7"
+               role="button" aria-expanded="false"
+               aria-label="Mobilität aufklappen">
+                Mobilität
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-3-7" data-bs-parent="#submenu-3">
+              <li class="deepmenu-title"><a href="/mobilitaet" class="nav-link nav-link-second collapsed" id="title-d5628ccd-61ba-4fdd-850a-4d1084fbbb30" data-drupal-link-system-path="node/7438">Mobilität</a></li>
+                                            <li><a href="/mobilitaet-aktuelles" class="nav-link nav-link-deepmenu" id="18cd39c9-358e-4121-a262-f44facdf2882" data-drupal-link-system-path="node/26900">Aktuelles</a></li>
+                      <li><a href="/umleitung/baustellen-online-auskunft" target="_blank" title="Stadtplan aufrufen" class="nav-link nav-link-deepmenu" id="31b9dba1-a42f-4ae4-b06d-f5c8fd1f9c37">Baustellen-Online-Auskunft</a></li>
+                      <li><a href="/emissionsfrei" class="nav-link nav-link-deepmenu" id="236353c0-4286-45e3-8424-aa801112d295" data-drupal-link-system-path="node/3207">Emissionsfreie Innenstadt </a></li>
+                      <li><a href="/node/3791" class="nav-link nav-link-deepmenu" id="02f9c494-1a2e-452b-a0fb-03767ff1e081" data-drupal-link-system-path="node/3791">Förderprojekte EU, Bund, Land</a></li>
+                      <li><a href="/fussverkehr" class="nav-link nav-link-deepmenu" id="7b5cc129-23c9-4506-b35f-7a656471bae0" data-drupal-link-system-path="node/3208">Fußverkehr</a></li>
+                      <li><a href="/kita-und-Schulwegsicherheit" class="nav-link nav-link-deepmenu" id="12dc58e6-3d40-4e8d-a914-c20cf7ee92de" data-drupal-link-system-path="node/21367">Kita- und Schulwegsicherheit</a></li>
+                      <li><a href="/mobilitaetsstrategie" class="nav-link nav-link-deepmenu" id="13e3b979-d54b-4ac3-a4b4-93541d910b5c" data-drupal-link-system-path="node/3205">Mobilitätsstrategie</a></li>
+                      <li><a href="/node/3249" class="nav-link nav-link-deepmenu" id="c92cf870-16b7-4054-8bd5-be761def2464" data-drupal-link-system-path="node/3249">Motorisierter Individualverkehr</a></li>
+                      <li><a href="/nahverkehr" class="nav-link nav-link-deepmenu" id="fbaafe18-931b-48ce-828e-1bdafa6bd3b1" data-drupal-link-system-path="node/3247">Öffentlicher Personennahverkehr</a></li>
+                      <li><a href="/f%C3%A4hrt-rad" class="nav-link nav-link-deepmenu" id="c38ea2d4-21df-4abe-8738-c66343f9efa6" data-drupal-link-system-path="node/20284">Radverkehr</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="209e5f6e-366c-4f4a-a605-af54fb8247ca"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-3-8"
+               role="button" aria-expanded="false"
+               aria-label="Nachhaltigkeit aufklappen">
+                Nachhaltigkeit
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-3-8" data-bs-parent="#submenu-3">
+              <li class="deepmenu-title"><a href="/nachhaltigkeit" title="Nachhaltigkeitsstrategie" class="nav-link nav-link-second collapsed" id="title-209e5f6e-366c-4f4a-a605-af54fb8247ca" data-drupal-link-system-path="node/7439">Nachhaltigkeit</a></li>
+                                            <li><a href="/biostadt" class="nav-link nav-link-deepmenu" id="c9569f89-05da-4f84-8c26-5957cf551276" data-drupal-link-system-path="node/20629">BioStadt</a></li>
+                      <li><a href="/fairtrade-stadt" class="nav-link nav-link-deepmenu" id="251110f8-d4e0-47a8-b6b5-925c8fc28117" data-drupal-link-system-path="node/5135">Fairtrade-Stadt</a></li>
+                      <li><a href="/nachhaltigkeitsstrategie" class="nav-link nav-link-deepmenu" id="5bc5e027-14a0-4a46-ba88-63af08ca07cb" data-drupal-link-system-path="node/35964">Nachhaltigkeitsstrategie</a></li>
+                      <li><a href="/sdg-rallye" class="nav-link nav-link-deepmenu" id="867c5e77-6b68-4f0a-900e-1190c9faf9e8" data-drupal-link-system-path="node/32935">SDG-Stadtrallye durch Bielefeld</a></li>
+                      <li><a href="/wochendernachhaltigkeit" class="nav-link nav-link-deepmenu" id="2eedc106-ccaa-433c-970b-700c7ccd27b9" data-drupal-link-system-path="node/35965">Wochen der Nachhaltigkeit</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="34f4ec41-0d39-456b-bcc4-711b81bc01b8"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-3-9"
+               role="button" aria-expanded="false"
+               aria-label="Umwelt aufklappen">
+                Umwelt
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-3-9" data-bs-parent="#submenu-3">
+              <li class="deepmenu-title"><a href="/umwelt" class="nav-link nav-link-second collapsed" id="title-34f4ec41-0d39-456b-bcc4-711b81bc01b8" data-drupal-link-system-path="node/7437">Umwelt</a></li>
+                                            <li><a href="/stadtentwaesserung" class="nav-link nav-link-deepmenu" id="7679ef7e-781f-4cf9-84ba-5fd1e13cc763" data-drupal-link-system-path="node/3884">Abwasser / Stadtentwässerung</a></li>
+                      <li><a href="/node/5149" class="nav-link nav-link-deepmenu" id="d612b1d5-c051-40cc-8a53-609d9e33048d" data-drupal-link-system-path="node/5149">Altlasten</a></li>
+                      <li><a href="/node/5148" class="nav-link nav-link-deepmenu" id="5f65fe40-254c-493b-95d8-4faa6281a3aa" data-drupal-link-system-path="node/5148">Boden</a></li>
+                      <li><a href="/gebaeudeschadstoffe" class="nav-link nav-link-deepmenu" id="ec82f6c4-c833-414a-952c-4b71fe545fb9" data-drupal-link-system-path="node/5138">Gebäudeschadstoffe</a></li>
+                      <li><a href="/genehmigungsbescheide" class="nav-link nav-link-deepmenu" id="49d6843a-22c7-4b4c-bffc-f2f42be91d8c" data-drupal-link-system-path="node/29601">Genehmigungsbescheide</a></li>
+                      <li><a href="/umweltinspektionen" class="nav-link nav-link-deepmenu" id="df6b56c4-3d7c-4237-8d80-24bf6933d30c" data-drupal-link-system-path="node/5885">Inspektionsberichte</a></li>
+                      <li><a href="/umwelt-konzepte-planungen" class="nav-link nav-link-deepmenu" id="b30db73c-aa42-4e8c-a64d-f11691f48875" data-drupal-link-system-path="node/5225">Konzepte und Planungen</a></li>
+                      <li><a href="/luft-und-laerm" class="nav-link nav-link-deepmenu" id="f362755c-445b-44f7-9da1-a6b225a774a1" data-drupal-link-system-path="node/5216">Luft und Lärm</a></li>
+                      <li><a href="/node/5879" class="nav-link nav-link-deepmenu" id="94cd4324-76e2-4866-a104-3bedecb06746" data-drupal-link-system-path="node/5879">Mineralische Ersatzbaustoffe</a></li>
+                      <li><a href="/naturschutz" class="nav-link nav-link-deepmenu" id="e7b52396-1e63-4bbc-b329-53a067166add" data-drupal-link-system-path="node/5150">Naturschutz</a></li>
+                      <li><a href="/ratten" class="nav-link nav-link-deepmenu" id="3b997bce-527a-451b-8c62-dff011ad99c4" data-drupal-link-system-path="node/30009">Rattenbekämpfung</a></li>
+                      <li><a href="/wasser" class="nav-link nav-link-deepmenu" id="5ea3bbd0-ec1a-49f0-9be0-bfa662128501" data-drupal-link-system-path="node/3975">Wasser</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="9c0c65b4-8bab-49aa-9792-1bb09df1a8ee"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-3-10"
+               role="button" aria-expanded="false"
+               aria-label="Planen aufklappen">
+                Planen
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-3-10" data-bs-parent="#submenu-3">
+              <li class="deepmenu-title"><a href="/node/7448" class="nav-link nav-link-second collapsed" id="title-9c0c65b4-8bab-49aa-9792-1bb09df1a8ee" data-drupal-link-system-path="node/7448">Planen</a></li>
+                                            <li><a href="/node/12682" class="nav-link nav-link-deepmenu" id="9c0a2168-6d49-4b25-b7d5-7c678a86d2f8" data-drupal-link-system-path="node/12682">Baugebiete Bielefeld</a></li>
+                      <li><a href="/baulandmanagement" class="nav-link nav-link-deepmenu" id="4f5383d6-e72d-4a4f-b850-13bee411adf0" data-drupal-link-system-path="node/24106">Baulandmanagement</a></li>
+                      <li><a href="/node/19084" class="nav-link nav-link-deepmenu" id="8a5da4de-6bf5-4fe3-a976-35c26acf66e6" data-drupal-link-system-path="node/19084">Bebauungsplan, Flächennutzungsplan und städtebauliche Satzungen online</a></li>
+                      <li><a href="/einzelhandels-zentrenkonzept" class="nav-link nav-link-deepmenu" id="4e1cec21-5562-406f-8675-8be60d19c107" data-drupal-link-system-path="node/5277">Einzelhandels- und Zentrenkonzept</a></li>
+                      <li><a href="/node/3923" class="nav-link nav-link-deepmenu" id="6521ad06-f8eb-4b6d-a0d9-0a5b7a12a855" data-drupal-link-system-path="node/3923">Erhaltungs- und Gestaltungssatzungen</a></li>
+                      <li><a href="/node/5468" class="nav-link nav-link-deepmenu" id="47f8bffe-57f5-4ca5-a7b9-9a0a3f8eded5" data-drupal-link-system-path="node/5468">Gesamträumliche Planung</a></li>
+                      <li><a href="/gewerbeflaechenentwicklung" class="nav-link nav-link-deepmenu" id="284f2894-2982-47be-b52c-c6b74a6c2008" data-drupal-link-system-path="node/5323">Gewerbeflächenentwicklung</a></li>
+                      <li><a href="/innenstadtentwicklung" class="nav-link nav-link-deepmenu" id="65f98e13-5457-457d-8af4-78e022a45c62" data-drupal-link-system-path="node/12648">Innenstadtentwicklung</a></li>
+                      <li><a href="/konversion" class="nav-link nav-link-deepmenu" id="ed7a0640-c54b-4f93-a6b8-547583e6bdd8" data-drupal-link-system-path="node/5304">Konversion</a></li>
+                      <li><a href="/node/36377" class="nav-link nav-link-deepmenu" id="0decc01c-5935-46a1-a7c7-02da9445835b" data-drupal-link-system-path="node/36377">Mobilstation und Stadtteilzentrum Stieghorst</a></li>
+                      <li><a href="/node/5399" class="nav-link nav-link-deepmenu" id="ff3c6682-828b-499c-84b6-bd7162a508ad" data-drupal-link-system-path="node/5399">Quartiersentwicklung Oberlohmannshof</a></li>
+                      <li><a href="/insek-baumheide" class="nav-link nav-link-deepmenu" id="7758000a-a0b5-497d-86c1-99bcdc4ce1ea" data-drupal-link-system-path="node/5526">Soziale Stadt Baumheide</a></li>
+                      <li><a href="/insek-sennestadt" class="nav-link nav-link-deepmenu" id="128f664c-e6fc-4d67-b4e8-24cc42d01060" data-drupal-link-system-path="node/5541">Soziale Stadt Sennestadt</a></li>
+                      <li><a href="/insek-sieker" class="nav-link nav-link-deepmenu" id="f5e613a9-7fa9-44c4-82a7-4a0cc1863b1e" data-drupal-link-system-path="node/5558">Soziale Stadt Sieker-Mitte</a></li>
+                      <li><a href="/node/5449" class="nav-link nav-link-deepmenu" id="83f1c375-7eb4-4e48-89d1-a3f22f6ec5bb" data-drupal-link-system-path="node/5449">Stadt- und Bauleitplanung</a></li>
+                      <li><a href="/node/27578" class="nav-link nav-link-deepmenu" id="8c25a48c-53dc-44cc-9c0e-3bd2bfb74ae8" data-drupal-link-system-path="node/27578">Stadterneuerungsgebiet Brackwede</a></li>
+                      <li><a href="/insek-ni" class="nav-link nav-link-deepmenu" id="c36fd1f4-fced-48ad-83d2-ca773ba1f3d7" data-drupal-link-system-path="node/5576">Stadtumbaugebiet &quot;Nördlicher Innenstadtrand&quot;</a></li>
+                      <li><a href="/sanierungsgebiete" class="nav-link nav-link-deepmenu" id="affff14d-b899-4948-bd80-b7ecab69fc65" data-drupal-link-system-path="node/5434">Städtebauliche Sanierungsgebiete</a></li>
+                      <li><a href="/wettbewerbe" class="nav-link nav-link-deepmenu" id="8c4ea578-5d4d-439a-a884-4b9994f672b2" data-drupal-link-system-path="node/33997">Wettbewerbe</a></li>
+                      <li><a href="/zentrenentwicklung" class="nav-link nav-link-deepmenu" id="e151a483-6328-4e9d-976d-ce702d18d012" data-drupal-link-system-path="node/33745">Zentrenentwicklung</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/stadtwald" class="nav-link nav-link-second" id="b5ec22de-731f-43b3-90a4-4c842c916747" data-drupal-link-system-path="node/7932">Stadtwald</a>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="c2c08b21-f66b-4ad2-8ac0-5d5e8b99130e"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-3-12"
+               role="button" aria-expanded="false"
+               aria-label="Wirtschaftsförderung aufklappen">
+                Wirtschaftsförderung
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-3-12" data-bs-parent="#submenu-3">
+              <li class="deepmenu-title"><a href="https://wege-bielefeld.de/" class="nav-link nav-link-second collapsed" id="title-c2c08b21-f66b-4ad2-8ac0-5d5e8b99130e">Wirtschaftsförderung</a></li>
+                                            <li><a href="https://wege-bielefeld.de/?s=das+kommt+aus+bielefeld" class="nav-link nav-link-deepmenu" id="e2d198cf-95f6-48dd-9ccb-f5bade1bf9d6">Wirtschaftsportal &quot;Das kommt aus Bielefeld&quot; </a></li>
+            
+            </ul>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/node/6233" class="nav-link nav-link-second" id="90ced055-9a7f-437f-9c7a-118c318b1d47" data-drupal-link-system-path="node/6233">Wissenschaftsstandort</a>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/node/7305" class="nav-link nav-link-second" id="6081442b-40b8-47fb-b159-0990aedee0c7" data-drupal-link-system-path="node/7305">Wissenschaftsstadt</a>
+          
+        </li>
+              </ul>
+      </div>
+      
+                      </div>
+        </li>
+              <li class="nav-item">
+                                                                                    
+          <a id="1c8011a1-de22-4203-a89a-6b2c6aa5c0e5" class="nav-link nav-link-top collapsed" data-bs-toggle="collapse" href="#submenu-4" role="button" aria-expanded="false">
+            <span class="light">Stadt.</span>Erlebnis
+          </a>
+
+          <div class="collapse submenu" id="submenu-4" data-bs-parent="#mainmenu-wrap">
+                                        <div class="container">
+      <ul class="submenu-list list-unstyled">
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="5d7722f5-a17c-4e24-b4c6-ad5478fc70ae"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-4-1"
+               role="button" aria-expanded="false"
+               aria-label="Kultur aufklappen">
+                Kultur
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-4-1" data-bs-parent="#submenu-4">
+              <li class="deepmenu-title"><a href="/kultur" class="nav-link nav-link-second collapsed" id="title-5d7722f5-a17c-4e24-b4c6-ad5478fc70ae" data-drupal-link-system-path="node/7701">Kultur</a></li>
+                                            <li><a href="/heimatpreis" class="nav-link nav-link-deepmenu" id="24b041e8-88aa-4d8d-b1b4-3cbfba1bc092" data-drupal-link-system-path="node/8160">Bielefelder Heimat-Preis</a></li>
+                      <li><a href="/node/7250" class="nav-link nav-link-deepmenu" id="ea48b306-68b2-49fc-b34e-6e842a2d33f9" data-drupal-link-system-path="node/7250">Bühnen und Orchester</a></li>
+                      <li><a href="/Graffiti" class="nav-link nav-link-deepmenu" id="2750c346-a411-42be-878c-f175b4c171a1" data-drupal-link-system-path="node/33565">Graffiti Freiflächen</a></li>
+                      <li><a href="/node/2667" class="nav-link nav-link-deepmenu" id="c436b584-b303-42dd-bdbf-54e3b2cb618a" data-drupal-link-system-path="node/2667">Historisches Museum</a></li>
+                      <li><a href="https://www.kulturamt-bielefeld.de/" class="nav-link nav-link-deepmenu" id="57a67118-e6f9-4e6e-b868-d1a80dff63b0">Kulturamt</a></li>
+                      <li><a href="/Kulturentwicklung" class="nav-link nav-link-deepmenu" id="f9d3018e-378c-4d22-b269-e400c5132fd0" data-drupal-link-system-path="node/7342">Kulturentwicklungsplan</a></li>
+                      <li><a href="https://kulturkreis-senne.de" class="nav-link nav-link-deepmenu" id="e91e650d-7b47-4402-ad70-aff997ce08ca">Kulturkreis Senne</a></li>
+                      <li><a href="/kunst-im-oeffentlichen-raum" class="nav-link nav-link-deepmenu" id="4a6fc19e-381f-4b73-8710-e25ec5f77e2e" data-drupal-link-system-path="node/15254">Kunst im öffentlichen Raum</a></li>
+                      <li><a href="https://www.kunsthalle-bielefeld.de/" class="nav-link nav-link-deepmenu" id="56f29aed-c8b7-446c-8b90-3fda3b45c10d">Kunsthalle</a></li>
+                      <li><a href="https://www.museumhuelsmann.de/" class="nav-link nav-link-deepmenu" id="b1df6463-d308-4127-b4fc-4af9d407385a">Museum Huelsmann</a></li>
+                      <li><a href="/muku" class="nav-link nav-link-deepmenu" id="617776c8-1ae3-4d6d-96d3-2db3fd7d68a3" data-drupal-link-system-path="node/2658">Musik- und Kunstschule</a></li>
+                      <li><a href="/node/2663" class="nav-link nav-link-deepmenu" id="2325f2e2-eb62-4583-a2ba-a90ebe44691f" data-drupal-link-system-path="node/2663">Naturkunde-Museum</a></li>
+                      <li><a href="https://www.sennestadtverein.de/" class="nav-link nav-link-deepmenu" id="dbf3f104-562a-4c5f-b9ea-4b62035a7974">Sennestadtverein</a></li>
+                      <li><a href="/node/3172" class="nav-link nav-link-deepmenu" id="825a82c8-a5ec-4f56-97ae-74a18c909b7f" data-drupal-link-system-path="node/3172">Stadtarchiv und Landesgeschichtliche Bibliothek</a></li>
+                      <li><a href="/stadtbibliothek" class="nav-link nav-link-deepmenu" id="3a583f0d-cc8d-4738-bd24-a3b8b8e8358e" data-drupal-link-system-path="node/2660">Stadtbibliothek</a></li>
+                      <li><a href="https://theater-bielefeld.de/" class="nav-link nav-link-deepmenu" id="7cd7aded-0497-4982-ae25-d2d829b87c8b">Theater Bielefeld</a></li>
+                      <li><a href="http://www.vhs-bielefeld.de" class="nav-link nav-link-deepmenu" id="aa35573e-94bd-4118-b52f-aadc99e646b5">Volkshochschule</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/tierpark" class="nav-link nav-link-second" id="723edf47-78da-4f76-8775-921fe5a697ad" data-drupal-link-system-path="node/428">Heimat-Tierpark Olderdissen</a>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="https://www.bielefeld.jetzt/" class="nav-link nav-link-second" id="6f694b66-50e0-4210-a925-83aa3d583d5d">Veranstaltungskalender</a>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="https://www.bielefeld.jetzt/tourist-information" class="nav-link nav-link-second" id="c5837ba6-da09-4b1a-b007-9e820108e920">Tourismus</a>
+          
+        </li>
+        
+                    
+        <li class="submenu-wrap ">
+                                          <a href="/online-ferienkalender" class="nav-link nav-link-second" id="e5d49ec7-59ce-4c1d-9e0b-ad881bacc1ac" data-drupal-link-system-path="node/8071">Online-Ferienkalender</a>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="d1a1ea92-1a74-4686-9b4b-329b879963c4"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-4-6"
+               role="button" aria-expanded="false"
+               aria-label="Sport aufklappen">
+                Sport
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-4-6" data-bs-parent="#submenu-4">
+              <li class="deepmenu-title"><a href="/sport" class="nav-link nav-link-second collapsed" id="title-d1a1ea92-1a74-4686-9b4b-329b879963c4" data-drupal-link-system-path="node/7442">Sport</a></li>
+                                            <li><a href="https://www.bielefelderbaeder.de/" class="nav-link nav-link-deepmenu" id="43ebf710-7b4b-49f6-aa28-29230e1f6303">Bielefelder Bäder- und Freizeit GmbH (BBF)</a></li>
+                      <li><a href="/node/7738" class="nav-link nav-link-deepmenu" id="f16be888-dbcd-41d9-bb59-acf9f396b28f" data-drupal-link-system-path="node/7738">Bielefelder Runden</a></li>
+                      <li><a href="/node/6384" class="nav-link nav-link-deepmenu" id="6fb8eae7-a317-42c2-8b0b-9ff6060e81b9" data-drupal-link-system-path="node/6384">Schutz Minderjähriger im Sport</a></li>
+                      <li><a href="/sportamt" class="nav-link nav-link-deepmenu" id="dfb269bd-97e3-4c0d-b5f7-116289a550bc" data-drupal-link-system-path="node/3146">Sportamt</a></li>
+                      <li><a href="/node/32520" class="nav-link nav-link-deepmenu" id="9a722d4d-91ae-4322-b046-06f911e7219e" data-drupal-link-system-path="node/32520">Sportkarte für den Freizeitsport</a></li>
+                      <li><a href="/sports4kids" class="nav-link nav-link-deepmenu" id="093b6343-6b29-43e3-8d91-9514d3b6b759" data-drupal-link-system-path="node/6387">Sports for Kids</a></li>
+                      <li><a href="https://anwendungen.bielefeld.de/sportstaetten/" class="nav-link nav-link-deepmenu" id="801308be-2424-444f-854e-dd2fe4683504">Sportstätten-Informationssystem</a></li>
+                      <li><a href="https://www.sportbund-bielefeld.de/" class="nav-link nav-link-deepmenu" id="83cdf313-f6e7-4926-99a3-0f1a8815dd8e">Stadtsportbund</a></li>
+            
+            </ul>
+          
+        </li>
+        
+                                          
+        <li class="submenu-wrap has-children">
+                                                                  
+                            <a id="9c1c85bf-a0c7-4021-b85e-8b6236dd53ff"
+               class="nav-link nav-link-second collapsed"
+               data-bs-toggle="collapse" href="#submenu-4-7"
+               role="button" aria-expanded="false"
+               aria-label="Stadtgrün und Landschaft aufklappen">
+                Stadtgrün und Landschaft
+              </a>
+
+            <ul class="list-unstyled collapse deepmenu" id="submenu-4-7" data-bs-parent="#submenu-4">
+              <li class="deepmenu-title"><a href="/natur" class="nav-link nav-link-second collapsed" id="title-9c1c85bf-a0c7-4021-b85e-8b6236dd53ff" data-drupal-link-system-path="node/3977">Stadtgrün und Landschaft</a></li>
+                                            <li><a href="/baumpatenschaft" class="nav-link nav-link-deepmenu" id="17924cf3-66bd-44ef-b57f-9e321b47fcfe" data-drupal-link-system-path="node/10180">Baum-Patenschaften</a></li>
+                      <li><a href="/bluehwiesen" class="nav-link nav-link-deepmenu" id="f713b4e4-f355-4164-92cc-021ff70eb891" data-drupal-link-system-path="node/10001">Blühwiesen</a></li>
+                      <li><a href="/botanischer-garten" class="nav-link nav-link-deepmenu" id="3ab55831-ba0f-451c-8b4c-aa445e5328bb" data-drupal-link-system-path="node/6796">Botanischer Garten</a></li>
+                      <li><a href="/essbare-stadt" class="nav-link nav-link-deepmenu" id="1d5090c5-e3f3-42e6-9708-931176dac0c8" data-drupal-link-system-path="node/3979">Essbare Stadt</a></li>
+                      <li><a href="/node/3984" class="nav-link nav-link-deepmenu" id="338b9b30-c832-478c-b661-7de9110b36cd" data-drupal-link-system-path="node/3984">Freizeit und Erholung</a></li>
+                      <li><a href="/landschaftsraeume" class="nav-link nav-link-deepmenu" id="0f4e6910-cf6f-4b42-b3d9-85ae25e4a533" data-drupal-link-system-path="node/3985">Landschaftsräume</a></li>
+                      <li><a href="/parks" class="nav-link nav-link-deepmenu" id="95a3fc14-7ba2-4d1e-82a8-c4d502557076" data-drupal-link-system-path="node/6790">Parks</a></li>
+                      <li><a href="/node/3986" class="nav-link nav-link-deepmenu" id="bb3542e0-2741-4f9f-9b38-6edf5927fb40" data-drupal-link-system-path="node/3986">Private Grünflächen</a></li>
+                      <li><a href="/spielplaetze" class="nav-link nav-link-deepmenu" id="aed395d3-ce55-4896-9742-1c118aa8d948" data-drupal-link-system-path="node/3982">Spielplätze</a></li>
+                      <li><a href="/node/3987" class="nav-link nav-link-deepmenu" id="b150116e-481c-4663-a9d8-5e20426373fc" data-drupal-link-system-path="node/3987">Umweltbildung</a></li>
+            
+            </ul>
+          
+        </li>
+              </ul>
+      </div>
+      
+                      </div>
+        </li>
+            </ul>
+      
+
+
+
+        </div>
+
+        <!-- Screen BG -->
+        <div class="menu-backface"></div>
+
+        <div class="navbar-controls-wrap d-flex">
+            <!-- Suche -->
+            <button class="search-toggler nav-link-top collapsed" tabindex="-1"
+                    data-bs-target="#search-menu" data-bs-toggle="collapse"
+                    aria-controls="search-menu" title="bielefeld.de durchsuchen"
+                    aria-expanded="false" aria-label="bielefeld.de durchsuchen">
+                <span class="icon control-open bielefeld-ui-suche"></span>
+                <span class="label d-none">bielefeld.de durchsuchen</span>
+            </button>
+            <div class="searchbar-wrapper collapse collapse-fade-in-everywhere menu-tile"
+                 id="search-menu" data-bs-parent=".navbar-cpsp">
+            <div class="container searchbar">
+                <div class="searchbar-inner">
+                    
+
+
+
+
+
+  
+
+
+
+
+
+<div  class="views-exposed-form block-search-form-block block block-bielefeld block-bielefeld-search-block" data-drupal-selector="views-exposed-form">
+  
+      
+    
+        
+    
+      
+      <div>
+      
+<form action="/suche" method="get" id="views-exposed-form-suche-website-simple" accept-charset="UTF-8">
+  <div class="container-inline">
+  
+
+
+  <div class="js-form-item js-form-type-search-api-autocomplete form-type-search-api-autocomplete js-form-item-keys form-item-keys form-no-label form-group col-auto">
+                <input placeholder="Ihr Suchbegriff ..." data-drupal-selector="edit-keys" data-search-api-autocomplete-search="suche_website" class="form-autocomplete form-control searchbar-text" data-autocomplete-path="/search_api_autocomplete/suche_website?display=simple&amp;&amp;filter=keys" aria-label="Suchbegriff" type="text" id="edit-keys" name="keys" value="" size="30" maxlength="128" />
+
+                  </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper mb-3" id="edit-actions"><button class="form-control searchbar-submit button js-form-submit form-submit btn btn-primary" type="submit" id="edit-submit-suche-website" value="Suchen">Suchen</button>
+</div>
+
+</div>
+
+</form>
+
+    </div>
+      
+  
+</div>
+
+                </div>
+            </div>
+            </div>
+
+            <!-- Sevicebar left -->
+            <button class="servicebar-toggler nav-link-top d-block d-lg-none collapsed"
+                    data-bs-target="#servicebarleft" data-bs-toggle="collapse"
+                    aria-controls="servicebarleft" title="Einstellungen und Hilfen"
+                    aria-expanded="false" aria-label="Einstellungen und Hilfen">
+                <span class="icon control-open bielefeld-ui-zahnrad"></span>
+                <span class="label d-none">Einstellungen und Hilfen</span>
+            </button>
+            
+
+
+
+
+
+  
+
+
+
+
+
+<div  id="servicebarleft" class="collapse menu-tile no-extlink block block-bielefeld block-bielefeld-servicebarleft-block" data-bs-parent=".navbar-cpsp">
+  
+      
+    
+        
+    
+      
+      <div>
+      <ul class="accessible container list-unstyled" id="accessible-sidebar">
+    <li><a href="/kontakt" class="accessible-tile control-contact">
+        <div class="abs-center-sidebar-bp">
+            <div class="accessible-tile-icon bielefeld-ui-telefon"></div>
+            <div class="accessible-tile-name">Kontakt</div>
+        </div>
+        </a></li>
+    <li><a href="https://stadtplan.bielefeld.de" target="_blank" class="accessible-tile control-citymap no-extlink">
+        <div class="abs-center-sidebar-bp">
+            <div class="accessible-tile-icon bielefeld-ui-ort"></div>
+            <div class="accessible-tile-name">Stadtplan</div>
+        </div>
+        </a></li>
+    <li><a href="#" class="accessible-tile control-font-size">
+        <div class="abs-center-sidebar-bp">
+            <div class="accessible-tile-icon bielefeld-ui-schriftgroesse"></div>
+            <div class="accessible-tile-name">Schrift&shy;größe</div>
+        </div>
+    </a></li>
+    <li><a href="#" class="accessible-tile control-contrast">
+        <div class="abs-center-sidebar-bp">
+            <div class="accessible-tile-icon bielefeld-ui-kontrast"></div>
+            <div class="accessible-tile-name">Kontrast</div>
+        </div>
+    </a></li><li><a class="accessible-tile control-read rs_skip rs_preserve rs_href" target="_self" href="//app-eu.readspeaker.com/cgi-bin/rsent?customerid=11189&amp;lang=de_de&amp;readid=block-bootstrap-bielefeld-content&amp;url=https%3A%2F%2Fwww.bielefeld.de%2Fnode%2F1">
+              <div class="abs-center-sidebar-bp">
+                  <div class="accessible-tile-icon bielefeld-ui-lautsprecher"></div>
+                  <div class="accessible-tile-name">Vorlesen</div>
+              </div>
+          </a></li><li><a href="#" class="accessible-tile control-leichtesprache summai-trigger no-plugin-translation" title="Texte der Seite in Leichte Sprache übersetzen" id="summai-toggle-translation" data-summai-language="DE_EL" data-summai-indicator="1" data-summai-title-idle="Texte der Seite in Leichte Sprache übersetzen" data-summai-title-active="Übersetzung in Leichte Sprache ausblenden" aria-pressed="false" aria-label="Texte der Seite in Leichte Sprache übersetzen">
+      <div class="abs-center-sidebar-bp">
+          <div class="accessible-tile-icon bielefeld-ui-leichte-sprache summai-trigger-icon"></div>
+          <div class="accessible-tile-name">Leichte Sprache</div>
+      </div>
+      </a></li><li><a href="" class="accessible-tile control-translator" title="Google Übersetzer aufrufen">
+      <div class="abs-center-sidebar-bp">
+          <div class="accessible-tile-icon bielefeld-ui-translate"></div>            
+          <div class="accessible-tile-name">Übersetzen</div>
+      </div>
+      <div id="google_translate_element"></div>
+      </a></li>
+</ul>
+    </div>
+      
+  
+</div>
+
+
+            <!-- Leichte Sprache: Slot, in den die Servicebar-Kachel
+                 "Leichte Sprache" auf Mobil per JS (accessibility.js)
+                 verschoben wird. Auf Desktop bleibt sie in der Servicebar. -->
+            <div class="leichtesprache-slot d-lg-none"></div>
+
+            <!-- Accessibility Settings -->
+            <!-- Links DGS und Leichte Sprache -->
+            <button class="accessible-toggler nav-link-top d-block d-lg-none collapsed"
+                data-bs-target="#headerservicelinks-wrapper" data-bs-toggle="collapse"
+                aria-controls="headerservicelinks-wrapper" title="Unterstützung zur Barrierefreiheit"
+                aria-expanded="false" aria-label="Unterstützung zur Barrierefreiheit">
+                <span class="icon control-open bielefeld-ui-gebaerdensprache"></span>
+                <span class="label d-none">Unterstützung zur Barrierefreiheit</span>
+            </button>
+            
+
+
+
+
+
+  
+
+
+
+
+
+<div  id="headerservicelinks-wrapper" class="headerservicelinks-wrapper collapse menu-tile block block-bielefeld block-bielefeld-headerservicelinks-block" data-bs-parent=".navbar-cpsp">
+  
+      
+    
+        
+    
+      
+      <div>
+      <ul id="headerservicelinks" class="container list-unstyled d-print-none">
+        <li><a href="/gebaerdenvideos" class="nav-link link-gebaerdensprache">
+          <i class="bielefeld-ui-gebaerdensprache"></i> Geb&auml;rdensprache (DGS)
+        </a></li>
+        <li><a role="button" aria-haspopup="dialog" class="nav-link webform-dialog webform-dialog-narrow link-barriere-melden" href="/form/feedback-website?source_entity_type=node&amp;source_entity_id=1" referrerpolicy="unsafe-url">
+          <i class="bielefeld-ui-sprache"></i> Barriere melden
+        </a></li>
+      </ul>
+    </div>
+      
+  
+</div>
+
+
+            <!-- Mobile Menu Toggler -->
+            <button class="navbar-toggler nav-link-top collapsed" data-bs-target="#mainmenu" data-bs-toggle="collapse"
+                    aria-controls="mainmenu" title="Menü" aria-expanded="false" aria-label="Menü">
+                <span class="icon control-open bielefeld-ui-menu"></span>
+                <span class="icon control-close bielefeld-ui-schliessen"></span>
+                <span class="label d-none">Hauptmenü</span>
+            </button>
+
+        </div>
+    </nav>
+            </header>
+
+
+<main  class="main-content order-last" id="content" role="main">
+  <div id="readspeaker-placeholder"></div>
+  <!--   Highlight region (for header image "Kopfbild")  -->
+      <div class="highlighted">
+        
+
+
+
+
+
+  
+
+
+
+
+
+<div  id="block-bootstrap-bielefeld-bielefeldintrostartseite" class="mb-5 block block-bielefeld block-bielefeld-intro-block">
+  
+      
+    
+        
+    
+      
+      <div>
+      
+    <!------  Startbereich - BigPicutre Bielefeld & integrierte Suche   -------->
+  <section class="intro pb-0">
+    <!-- Content  -->
+    <div class="intro-img gen-img-cover">
+        <picture>
+                  <source srcset="/sites/default/files/styles/giant/public/bild/2024/20240510_Sparrenburg_Philipp_Pilz.jpg?itok=uxm-HmME 1x" media="all and (min-width: 1440px)" type="image/jpeg" width="2200" height="1466"/>
+                  <img style="object-position: 45% 17%;" src="/sites/default/files/styles/large/public/bild/2024/20240510_Sparrenburg_Philipp_Pilz.jpg?itok=17w_4PKe" alt="Sparrenburg 2024 Startseite" class="img-fluid" />
+
+  </picture>
+
+    </div>
+    <div class="intro-text" style="text-align: center;">
+      Bielefeld
+    </div>
+    <!-- Searchbar -->
+    <div class="searchbar">
+      <div class="searchbar-inner">
+        
+<form class="views-exposed-form block-search-form-block" data-drupal-selector="views-exposed-form" action="/suche" method="get" id="views-exposed-form-suche-website-simple" accept-charset="UTF-8">
+  <div class="container-inline">
+  
+
+
+  <div class="js-form-item js-form-type-search-api-autocomplete form-type-search-api-autocomplete js-form-item-keys form-item-keys form-no-label form-group col-auto">
+                <input placeholder="Ihr Suchbegriff ..." data-drupal-selector="edit-keys" data-search-api-autocomplete-search="suche_website" class="form-autocomplete form-control searchbar-text" data-autocomplete-path="/search_api_autocomplete/suche_website?display=simple&amp;&amp;filter=keys" aria-label="Suchbegriff" type="text" id="edit-keys--2" name="keys" value="" size="30" maxlength="128" />
+
+                  </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper mb-3" id="edit-actions--2"><button class="form-control searchbar-submit button js-form-submit form-submit btn btn-primary" type="submit" id="edit-submit-suche-website--2" value="Suchen">Suchen</button>
+</div>
+
+</div>
+
+</form>
+
+      </div>
+    </div>
+  </section>    
+    
+    </div>
+      
+  
+</div>
+
+
+    </div>
+    
+  <div class="container">
+    
+  </div>
+  <div id="container-content" tabindex="-1" class="container">
+    <div class="clearfix">
+      <section class="section">
+          <div data-drupal-messages-fallback class="hidden"></div>
+
+<div id="block-bootstrap-bielefeld-content" class="block block-system block-system-main-block">
+  
+    
+        <div class="content">
+      
+
+<article class="node node--type-page node--view-mode-full clearfix">
+  <header>
+    
+        
+      </header>
+  <div class="node__content clearfix">
+    
+
+  
+
+
+
+
+
+
+ <div class="container section--bootstrap-bielfeld-one-col">
+  <div  class="mb-5 transparent layout layout--bielefeld-layout layout--bootstrap-bielfeld-one-col row">
+            <div >
+      
+    </div>
+                                                                                          <div  class="col-12 layout__region--main layout__region layout__region--first p-0">
+            
+
+
+
+
+
+  
+
+
+
+
+
+<div  class="views-element-container block block-views block-views-blockthemen-block-1">
+  
+      
+    
+        
+    
+      
+      <div class="content">
+      <div><div class="view view-themen view-id-themen view-display-id-block_1 js-view-dom-id-c5cfb541cca0e7cb7dd2cc70ee047d591ebad30f0e26ae13b76540c711464ff2">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+    <a class="thema" title="" href="https://service.bielefeld.de/">  <img loading="lazy" src="/sites/default/files/styles/thumbnail/public/icon_thumbnails/6fd0c69a-c47d-4b86-beed-ce1d949a3c2c.png?itok=OrM9v5vk" width="100" height="100" alt="" class="image-style-thumbnail img-fluid" />
+
+
+ <small>Serviceportal und Terminvereinbarung</small></a>
+  </div>
+    <div class="views-row">
+    <a class="thema" title="" href="/parken">  <img loading="lazy" src="/sites/default/files/styles/thumbnail/public/icon_thumbnails/da12bdc6-ef20-45a5-bf68-ae2a2b8bd7d0.png?itok=GBr-iTF5" width="100" height="100" alt="" class="image-style-thumbnail img-fluid" />
+
+
+ <small>Parken</small></a>
+  </div>
+    <div class="views-row">
+    <a class="thema" title="" href="/abfallkalender">  <img loading="lazy" src="/sites/default/files/styles/thumbnail/public/icon_thumbnails/040dbcae-0407-4c12-95ee-d647ec08bd4c.png?itok=0dR8EjG2" width="100" height="100" alt="" class="image-style-thumbnail img-fluid" />
+
+
+ <small>Abfallkalender</small></a>
+  </div>
+    <div class="views-row">
+    <a class="thema" title="" href="/tierpark">  <img loading="lazy" src="/sites/default/files/styles/thumbnail/public/icon_thumbnails/9bfc87da-e4e0-4f63-b88e-6dca88e9f34a.png?itok=9HELCg1d" width="100" height="100" alt="" class="image-style-thumbnail img-fluid" />
+
+
+ <small>Tierpark Olderdissen</small></a>
+  </div>
+    <div class="views-row">
+    <a class="thema" title="" href="/dialog">  <img loading="lazy" src="/sites/default/files/styles/thumbnail/public/icon_thumbnails/96c44cff-edb5-4ed0-b718-cf2ea7411f5a.png?itok=KLFYkClu" width="100" height="100" alt="" class="image-style-thumbnail img-fluid" />
+
+
+ <small>Dialog und Beteiligung</small></a>
+  </div>
+    <div class="views-row">
+    <a class="thema" title="" href="https://anwendungen.bielefeld.de/bi/info.asp">  <img loading="lazy" src="/sites/default/files/styles/thumbnail/public/icon_thumbnails/99740bb8-f45b-462e-ae6f-370dda5b1ad5.png?itok=tD04s2Ta" width="100" height="100" alt="" class="image-style-thumbnail img-fluid" />
+
+
+ <small>Ratsinformationssystem</small></a>
+  </div>
+    <div class="views-row">
+    <a class="thema" title="Stellenangebote / Ausbildung" href="/karriere">  <img loading="lazy" src="/sites/default/files/styles/thumbnail/public/icon_thumbnails/cde95d15-bfa7-488c-9747-b17b3cf01e4e.png?itok=lZLH660D" width="100" height="100" alt="" class="image-style-thumbnail img-fluid" />
+
+
+ <small>Karriere bei der Stadt</small></a>
+  </div>
+    <div class="views-row">
+    <a class="thema" title="" href="https://bielefeld-baut.de/">  <img loading="lazy" src="/sites/default/files/styles/thumbnail/public/icon_thumbnails/52184ec5-aa8b-4c31-89ec-71c931af2637.png?itok=ypwCnf28" width="100" height="100" alt="" class="image-style-thumbnail img-fluid" />
+
+
+ <small>Aktuelle Baustellen</small></a>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+    
+  
+</div>
+
+          </div>
+                    </div>
+</div>
+
+
+  
+
+
+
+
+
+
+ <div class="container section--bootstrap-bielfeld-one-col">
+                  <div class="section-title row">
+      
+      <h1 class="text-align-center">Aktuelles aus Bielefeld</h1>
+
+      
+    </div>
+  <div  class="mb-5 transparent layout layout--bielefeld-layout layout--bootstrap-bielfeld-one-col row" id="Aktuelles-aus-Bielefeld">
+            <div >
+      
+    </div>
+                                                                                          <div  class="col-12 layout__region--main layout__region layout__region--first p-0">
+            
+
+
+
+
+
+  
+
+
+
+
+
+<div  class="views-element-container block block-views block-views-blocknews-swiper-block-1">
+  
+      
+    
+        
+    
+      
+      <div class="content">
+      <div><div class="view view-news-swiper view-id-news_swiper view-display-id-block_1 js-view-dom-id-48a59d379d4897328c03592fe40a49141d3f69f0f5a745a11e25f73d9bedc3b5">
+  
+    
+      
+      <div class="view-content">
+      
+<div id="swiper-news-swiper-block-1" class="swiper-container news-highlight slide-single"><div class="swiper-wrapper"><div class="swiper-slide swiper-slide-views"><div  class="news is-promoted is-sticky highlight clearfix box-highlight"><div class="col-medien"><div class="field field--name-field-media-image field--type-entity-reference field--label-hidden field__item"><img loading="lazy" src="/sites/default/files/styles/large_3x2/public/bild/2026/stock-image-71340519-M.jpg?h=82f92a78&amp;itok=9xNHFhXU" width="1518" height="1012" alt="" class="image-style-large-3x2 img-fluid" /></div></div><div class="col-texte"><div class="texte bg-rot text-weiss"><p class="meta-subline">Catering</p><h3 class="label mb-3">Mittagsverpflegung an sechs Schulen: Stadt prüft Anschlusslösung</h3><p>Die Stadt Bielefeld arbeitet als Schulträgerin aktuell daran, die Mittagsverpflegung an den städtischen Schulen auch zum Beginn des kommenden Schuljahres zuverlässig sicherzustellen. Hintergrund ist die kurzfristige Mitteilung des Caterers Ehrenfried (Heidelberg), seine Leistungen für die sechs von ihm belieferten städtischen Schulen mit Ablauf des laufenden Schuljahres einzustellen.</p><div class="button-wrapper mt-4"><a class="btn btn-primary" href="/node/36402">mehr lesen</a></div></div></div></div></div><div class="swiper-slide swiper-slide-views"><div  class="news is-promoted is-sticky highlight clearfix box-highlight"><div class="col-medien"><div class="field field--name-field-media-image field--type-entity-reference field--label-hidden field__item"><img loading="lazy" src="/sites/default/files/styles/large_3x2/public/bild/2026/Freigabe-Radweg-Stieghorst-Linie-4_2.jpg?h=c712bd29&amp;itok=ubi8rcLc" width="1518" height="1012" alt="Freigabe Radweg Stieghorster Park " class="image-style-large-3x2 img-fluid" /></div></div><div class="col-texte"><div class="texte bg-rot text-weiss"><p class="meta-subline">Mobilität</p><h3 class="label mb-3">Neuer Radweg im Stieghorster Park freigegeben</h3><p>Nach rund einem Jahr Bauzeit ist der umfassend modernisierte Radweg zwischen Elpke und der Stieghorster Straße fertiggestellt. Der etwa ein Kilometer lange Abschnitt entlang der Stadtbahnlinie 4 durch den Stieghorster Park wurde jetzt für die Öffentlichkeit freigegeben. In den kommenden Wochen erfolgen noch restliche Arbeiten für die neuen Gehwege.&nbsp;</p><div class="button-wrapper mt-4"><a class="btn btn-primary" href="/node/36363">mehr lesen</a></div></div></div></div></div><div class="swiper-slide swiper-slide-views"><div  class="news is-promoted is-sticky highlight clearfix box-highlight"><div class="col-medien"><div class="field field--name-field-media-image field--type-entity-reference field--label-hidden field__item"><img loading="lazy" src="/sites/default/files/styles/large_3x2/public/bild/2026/260610_ob_innenstadt_01_tfs.jpg?h=d26a1c8f&amp;itok=7sY95EBa" width="1518" height="1012" alt="Oberbürgermeisterin Bauer mit Martin Knabenreich (Bielefeld Marketing GmbH), Martin Adamski (Dezernent), Katharina Schilberg (Bielefeld Marketing GmbH) und Katrin Köppe (Dezernat 3)" class="image-style-large-3x2 img-fluid" /></div></div><div class="col-texte"><div class="texte bg-rot text-weiss"><p class="meta-subline">Maßnahmenpaket</p><h3 class="label mb-3">Stadt Bielefeld stärkt Attraktivität, Sicherheit und Sauberkeit in der Innenstadt</h3><p>Die Bielefelder Innenstadt ist das Herz der Stadt: Hier begegnen sich Menschen, hier wird eingekauft, gearbeitet, gefeiert und Kultur erlebt. Damit die City auch in Zukunft ein einladender, sicherer und lebendiger Ort bleibt, hat die Stadt Bielefeld ein integriertes Maßnahmenpaket erarbeitet.</p><div class="button-wrapper mt-4"><a class="btn btn-primary" href="/node/36001">mehr lesen</a></div></div></div></div></div></div><div class="swiper-pagination pagination-swiper-news-swiper-block-1"></div></div><div class="swiper-button-prev swiper-news-swiper-block-1-prev"></div><div class="swiper-button-next swiper-news-swiper-block-1-next"></div>
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+    
+  
+</div>
+
+
+
+
+
+
+  
+
+
+
+
+
+<div  class="views-element-container block block-views block-views-blocknews-frontpage-block-1">
+  
+      
+    
+        
+    
+      
+      <div class="content">
+      <div><div class="view view-news-frontpage view-id-news_frontpage view-display-id-block_1 js-view-dom-id-f7b85e5d21657069ca91c23b56fc5331483de447d556f48b103fe032d8ff3274">
+  
+    
+      
+      <div class="view-content">
+      
+
+
+
+
+<div class="views-view-responsive-grid views-view-responsive-grid--horizontal" style="--views-responsive-grid--column-count:4;--views-responsive-grid--cell-min-width:220px;--views-responsive-grid--layout-gap:15px;">
+      <div class="views-view-responsive-grid__item">
+      <div class="views-view-responsive-grid__item-inner">
+<div  class="news is-promoted grid-item clearfix">
+
+  <div class="image-wrapper mb-2">
+          
+            <div class="field field--name-field-media-image field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/medium_3x2/public/bild/2026/mo4696_Arbeiten-im-Tunnel_moBiel.JPG?h=67eabc4d&amp;itok=Y57HVCfB" width="600" height="400" alt="" class="image-style-medium-3x2 img-fluid" />
+
+
+</div>
+      
+      </div>
+
+      <div class="meta-subline mb-2">Ersatzverkehr mit Bussen</div>
+        <h3><a class="stretched-link link-empty" href="/node/35683">Tunnel-Sanierung in den Sommerferien</a></h3>
+  
+</div>
+</div>
+    </div>
+      <div class="views-view-responsive-grid__item">
+      <div class="views-view-responsive-grid__item-inner">
+<div  class="news is-promoted grid-item clearfix">
+
+  <div class="image-wrapper mb-2">
+          
+            <div class="field field--name-field-media-image field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/medium_3x2/public/bild/2025/IMG_E2453.JPG?h=92229be0&amp;itok=QqRl5Xnn" width="600" height="400" alt="Fundsachen der Online-Versteigerung im Februar 2025" class="image-style-medium-3x2 img-fluid" />
+
+
+</div>
+      
+      </div>
+
+      <div class="meta-subline mb-2">Auktionsende am 9. August</div>
+        <h3><a class="stretched-link link-empty" href="/node/29797">Ordnungsamt versteigert Fundsachen</a></h3>
+  
+</div>
+</div>
+    </div>
+      <div class="views-view-responsive-grid__item">
+      <div class="views-view-responsive-grid__item-inner">
+<div  class="news is-promoted grid-item clearfix">
+
+  <div class="image-wrapper mb-2">
+          
+            <div class="field field--name-field-media-image field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/medium_3x2/public/bild/2024/panthermedia_2579409_2316x3460.jpg?h=061ce33c&amp;itok=pcvuZkpS" width="600" height="400" alt="Symbolbild Radarkontrolle " class="image-style-medium-3x2 img-fluid" />
+
+
+</div>
+      
+      </div>
+
+      <div class="meta-subline mb-2">Mobile Blitzer</div>
+        <h3><a class="stretched-link link-empty" href="/node/33756">Hier sind vom 13. bis 19. Juli Tempokontrollen geplant</a></h3>
+  
+</div>
+</div>
+    </div>
+      <div class="views-view-responsive-grid__item">
+      <div class="views-view-responsive-grid__item-inner">
+<div  class="news is-promoted grid-item clearfix">
+
+  <div class="image-wrapper mb-2">
+          
+            <div class="field field--name-field-media-image field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/medium_3x2/public/bild/2020/dornberg-bezirksamt.jpg?h=77a4059c&amp;itok=tvGTfNFw" width="600" height="400" class="image-style-medium-3x2 img-fluid" />
+
+
+</div>
+      
+      </div>
+
+      <div class="meta-subline mb-2">20. Juli</div>
+        <h3><a class="stretched-link link-empty" href="/node/36334">Baumaßnahme Dornberger Straße: Infoveranstaltung für Anwohnende</a></h3>
+  
+</div>
+</div>
+    </div>
+      <div class="views-view-responsive-grid__item">
+      <div class="views-view-responsive-grid__item-inner">
+<div  class="news is-promoted grid-item clearfix">
+
+  <div class="image-wrapper mb-2">
+          
+            <div class="field field--name-field-media-image field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/medium_3x2/public/bild/2024/10657_BIE_Startseite_Platzhalter_L03_08.jpg?h=10d202d3&amp;itok=zNmqSpuG" width="600" height="400" class="image-style-medium-3x2 img-fluid" />
+
+
+</div>
+      
+      </div>
+
+      <div class="meta-subline mb-2">27. Juli bis 7. August</div>
+        <h3><a class="stretched-link link-empty" href="/node/26578">Familienservice nur eingeschränkt erreichbar</a></h3>
+  
+</div>
+</div>
+    </div>
+      <div class="views-view-responsive-grid__item">
+      <div class="views-view-responsive-grid__item-inner">
+<div  class="news is-promoted grid-item clearfix">
+
+  <div class="image-wrapper mb-2">
+          
+            <div class="field field--name-field-media-image field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/medium_3x2/public/bild/2022/Bielefeld-Panorama-02.jpg?h=0a8b6f8b&amp;itok=aRQCs24k" width="600" height="400" alt="Blick über beleuchtetes Bielefeld." class="image-style-medium-3x2 img-fluid" />
+
+
+</div>
+      
+      </div>
+
+      <div class="meta-subline mb-2">2026</div>
+        <h3><a class="stretched-link link-empty" href="/node/36262">Neuer Mietspiegel für die Stadt Bielefeld</a></h3>
+  
+</div>
+</div>
+    </div>
+      <div class="views-view-responsive-grid__item">
+      <div class="views-view-responsive-grid__item-inner">
+<div  class="news is-promoted grid-item clearfix">
+
+  <div class="image-wrapper mb-2">
+          
+            <div class="field field--name-field-media-image field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/medium_3x2/public/bild/2025/IMG_5411.jpg?h=d67e29a9&amp;itok=BzFTIUQt" width="600" height="400" alt="" class="image-style-medium-3x2 img-fluid" />
+
+
+</div>
+      
+      </div>
+
+      <div class="meta-subline mb-2">Verkehr</div>
+        <h3><a class="stretched-link link-empty" href="/node/36248">Pilotprojekt &quot;Schulstraße&quot;: Zwischenstand und erste Ergebnisse</a></h3>
+  
+</div>
+</div>
+    </div>
+      <div class="views-view-responsive-grid__item">
+      <div class="views-view-responsive-grid__item-inner">
+<div  class="news is-promoted grid-item clearfix">
+
+  <div class="image-wrapper mb-2">
+          
+            <div class="field field--name-field-media-image field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/medium_3x2/public/bild/2020/Nordpark.JPG?h=5f62bdfc&amp;itok=CEeob2-I" width="600" height="400" alt="Blumenbeete und Bäume im Nordpark" class="image-style-medium-3x2 img-fluid" />
+
+
+</div>
+      
+      </div>
+
+      <div class="meta-subline mb-2">Wasserbehälter </div>
+        <h3><a class="stretched-link link-empty" href="/node/36225">Bewässerungslösung für hitzegeplagte innerstädtische Grünflächen</a></h3>
+  
+</div>
+</div>
+    </div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+    
+  
+</div>
+
+          </div>
+                    </div>
+</div>
+
+
+  
+
+  
+
+
+
+
+ <div class="container-flex section--bootstrap-bielfeld-three-col">
+  <div  class="mb-5 layout layout--bielefeld-layout layout--bootstrap-bielfeld-three-col row">
+            <div  class="col-12 d-block d-lg-none p-0 layout__region layout__region--important">
+      
+    </div>
+                                                                    <div  class="col-12 col-lg-4 mb-3 mb-lg-0 layout__region layout__region--first">
+            
+
+
+
+
+
+  
+
+
+
+
+
+<div  class="views-element-container block block-views block-views-blockpressemeldungen-block-3">
+  
+      
+    
+        
+    
+      
+      <div class="content">
+      <div><div class="kompakt startseite view view-pressemeldungen view-id-pressemeldungen view-display-id-block_3 js-view-dom-id-5be7887e529017c075c33023870bc23e7b1b26a2a2594da365b53898c003d65c">
+  
+    
+      <div class="view-header">
+      <h3>Pressemeldungen</h3>
+    </div>
+      
+      <div class="view-content">
+      <div>
+  
+  <ul class="link-list list-border">
+
+          <li><a href="/node/36353" hreflang="de">Wasserleitung: Wörheider Weg voll gesperrt</a></li>
+          <li><a href="/node/36429" hreflang="de">Sperrung der Rutsche auf dem Spielplatz Maiwiese</a></li>
+          <li><a href="/node/36427" hreflang="de">Kanalarbeiten im Ehlentruper Weg dauern an</a></li>
+          <li><a href="/node/36426" hreflang="de">Gleisarbeiten von moBiel: Niederwall voll gesperrt</a></li>
+          <li><a href="/node/36357" hreflang="de">Stadtteilbibliothek Baumheide: Krimilesung mit Michael Seibt</a></li>
+          <li><a href="/node/36402" hreflang="de">Sicherstellung der Mittagsverpflegung an Schulen hat für die Stadt höchste Priorität</a></li>
+    
+  </ul>
+
+</div>
+
+    </div>
+  
+            <div class="view-footer">
+      <div class="mt-3"><a class="list-item" href="/pressemeldungen">alle Pressemeldungen</a></div>
+    </div>
+    </div>
+</div>
+
+  </div>
+    
+  
+</div>
+
+          </div>
+                                                                        <div  class="col-12 col-lg-4 mb-3 mb-lg-0 mt-3 mt-lg-0 layout__region layout__region--second">
+            
+
+
+
+
+
+  
+
+
+
+
+
+<div  class="views-element-container block block-views block-views-blockbekanntmachungen-kompakt-block-1">
+  
+      
+    
+          
+        <h3 class="block-title">Öffentliche Bekanntmachungen</h3>
+      
+        
+    
+      
+      <div class="content">
+      <div><div class="view view-bekanntmachungen-kompakt view-id-bekanntmachungen_kompakt view-display-id-block_1 js-view-dom-id-e17bafba5b33573741739643e3fccbd18f7121e73ee177afcad1893f96f0402a">
+  
+    
+      
+      <div class="view-content">
+      <div>
+  
+  <ul class="link-list list-border">
+
+          <li>  <a class="ellipsis" title="Straßenbenennung:   Die Fläche im Bereich des Bunker Ulmenwalls wird &quot;Am Ulmenwall&quot; benannt" href="/sites/default/files/datei/2026/2-Bekanntmachung-OB-unterzeichnet.pdf" target="_blank"><time datetime="2026-07-15T12:00:00Z" class="datetime">15.07.2026</time>
+  Straßenbenennung:   Die Fläche im Bereich des Bunker Ulmenwalls wird &quot;Am Ulmenwall&quot; benannt</a>
+</li>
+          <li>  <a class="ellipsis" title="Kleinkinderspielplatzsatzung vom 01.07.2026 und Satzung über die Aufhebung der Satzung über die Beschaffenheit und Größe von Spielflächen vom 15. April 1997 vom 01.07.2026" href="/sites/default/files/datei/2026/Kleinkinderspielplatzsatzung_140726.pdf" target="_blank"><time datetime="2026-07-14T12:00:00Z" class="datetime">14.07.2026</time>
+  Kleinkinderspielplatzsatzung vom 01.07.2026 und Satzung über die Aufhebung der Satzung über die Beschaffenheit und Größe von Spielflächen vom 15. April 1997 vom 01.07.2026</a>
+</li>
+          <li>  <a class="ellipsis" title="Tagesordnung für die Sitzung des Rates der Stadt Bielefeld am Donnerstag, 16.07.2026" href="/sites/default/files/datei/2026/Bekanntmachung_Rat-16.07.26.pdf" target="_blank"><time datetime="2026-07-11T12:00:00Z" class="datetime">11.07.2026</time>
+  Tagesordnung für die Sitzung des Rates der Stadt Bielefeld am Donnerstag, 16.07.2026</a>
+</li>
+          <li>  <a class="ellipsis" title="Versteigerung Fundräder" href="/sites/default/files/datei/2026/Fundraeder-Versteigerung_040726.pdf" target="_blank"><time datetime="2026-07-04T12:00:00Z" class="datetime">04.07.2026</time>
+  Versteigerung Fundräder</a>
+</li>
+          <li>  <a class="ellipsis" title="Satzung über die Erhebung von Beiträgen nach § 8 KAG NRW für straßenbauliche Maßnahmen in der “Diebrocker Straße von Wallenbrücker Straße bis einschließlich des Flurstücks 152 (Diebrocker Straße 32)“" href="/sites/default/files/datei/2026/Satzung-Strassenbaubeitraege-Diebrocker-Strasse_010726_0.pdf" target="_blank"><time datetime="2026-07-01T12:00:00Z" class="datetime">01.07.2026</time>
+  Satzung über die Erhebung von Beiträgen nach § 8 KAG NRW für straßenbauliche Maßnahmen in der “Diebrocker Straße von Wallenbrücker Straße bis einschließlich des Flurstücks 152 (Diebrocker Straße 32)“</a>
+</li>
+          <li>  <a class="ellipsis" title="Innenbereichssatzung „Fingerhutweg/Auf der Grundheide“ " href="/sites/default/files/datei/2026/Innenbereichssatzung-Fingerhutweg-Auf-der-Grundheide_300626.pdf" target="_blank"><time datetime="2026-06-30T12:00:00Z" class="datetime">30.06.2026</time>
+  Innenbereichssatzung „Fingerhutweg/Auf der Grundheide“ </a>
+</li>
+    
+  </ul>
+
+</div>
+
+    </div>
+  
+            <div class="view-footer">
+      <div><a href="/oeffentliche-bekanntmachungen">alle öffentlichen Bekanntmachungen</a></div>
+    </div>
+    </div>
+</div>
+
+  </div>
+    
+  
+</div>
+
+          </div>
+                                                                        <div  class="col-12 col-lg-4 mt-3 mt-lg-0 layout__region layout__region--third">
+            
+
+
+
+
+
+  
+
+
+
+
+
+<div  class="views-element-container block block-views block-views-blockfeeds-news-block-2">
+  
+      
+    
+        
+    
+      
+      <div class="content">
+      <div><div class="sameheight-parent view view-feeds-news view-id-feeds_news view-display-id-block_2 js-view-dom-id-37687c6dc6ede566923fd261db10338fb68edfc8d19823ab3d86f7514092243e">
+  
+    
+      <div class="view-header">
+      <h3>News Radio Bielefeld</h3>
+    </div>
+      
+      <div class="view-content">
+      <div>
+  
+  <ul class="link-list list-border">
+
+          <li><a href="https://www.radiobielefeld.de/nachrichten/am-puls-der-stadt/bielefelder-ratskoalition-will-bauprogramm-umfassend-ueberarbeiten.html" class="ellipsis" target="_blank">Bielefelder Ratskoalition will Bauprogramm umfassend überarbeiten</a></li>
+          <li><a href="https://www.radiobielefeld.de/nachrichten/am-puls-der-stadt/woerheider-weg-in-bielefeld-joellenbeck-wird-lange-gesperrt.html" class="ellipsis" target="_blank">Wörheider Weg in Bielefeld Jöllenbeck wird lange gesperrt </a></li>
+          <li><a href="https://www.radiobielefeld.de/nachrichten/am-puls-der-stadt/niederwall-in-bielefeld-wird-sechs-wochen-gesperrt.html" class="ellipsis" target="_blank">Niederwall in Bielefeld wird sechs Wochen gesperrt </a></li>
+          <li><a href="https://www.radiobielefeld.de/nachrichten/am-puls-der-stadt/arminia-bielefeld-am-samstagabend-in-nuernberg-und-am-freitagabend-gegen-st-pauli.html" class="ellipsis" target="_blank">Arminia Bielefeld am Samstagabend in Nürnberg und am Freitagabend gegen St. Pauli</a></li>
+          <li><a href="https://www.radiobielefeld.de/nachrichten/am-puls-der-stadt/a2-nach-lkw-unfall-in-richtung-bielefeld-voll-gesperrt.html" class="ellipsis" target="_blank">A2 nach Lkw-Unfall in Richtung Bielefeld voll gesperrt</a></li>
+          <li><a href="https://www.radiobielefeld.de/nachrichten/am-puls-der-stadt/prozess-gegen-leichenschaender-beginnt-in-bielefeld.html" class="ellipsis" target="_blank">Prozess gegen Leichenschänder beginnt in Bielefeld</a></li>
+    
+  </ul>
+
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+    
+  
+</div>
+
+          </div>
+                    </div>
+</div>
+
+
+  
+
+
+
+
+
+
+ <div class="container section--bootstrap-bielfeld-one-col">
+                  <div class="section-title row">
+      
+      <h1 class="text-align-center">Karriere bei der Stadt</h1>
+
+      
+    </div>
+  <div  class="mb-5 transparent layout layout--bielefeld-layout layout--bootstrap-bielfeld-one-col row" id="Karriere-bei-der-Stadt">
+            <div >
+      
+    </div>
+                                                                                          <div  class="col-12 layout__region--main layout__region layout__region--first p-0">
+            
+
+
+
+
+
+  
+
+
+
+
+
+<div  class="block block-bielefeld-extension block-bielefeld-block-highlight">
+  
+      
+    
+        
+    
+      
+  
+  
+  
+<div  class="block block-bielefeld-extension block-bielefeld-block-highlight box-highlight text-pos-left">
+  <div class="col-medien">
+    
+    <video width="100%" autoplay muted playsinline loop>
+            <source src="/sites/default/files/video/2024/11472_BIE_Web_Karriere_Teaser_L02.mp4" type="video/mp4">
+            </video>
+      </div>
+  <div class="col-texte">
+    <div class="texte bg-rot text-weiss">
+                        <h3>Themen</h3>
+
+<ul class="link-list list-border">
+	<li><a href="https://karriere.bielefeld.de/stellenangebote.html?reset_search=1">Stellenausschreibungen</a></li>
+	<li><a href="https://karriere.bielefeld.de/karriere.bielefeld.de/stellenangebote.html?filter[taetigkeit_id][]=8">Freie Ausbildungsplätze</a></li>
+	<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="0f76e46c-60d6-496b-ad33-e909f490da6e" href="/fsj" title="Freiwilliges Soziales Jahr (FSJ)" class="link-node link-page">Freiwilliges Soziales Jahr</a></li>
+	<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="338a823e-e5f3-4f1c-b8d7-e8ef922f0de9" href="/bfd" title="Bundesfreiwilligendienst" class="link-node link-page">Bundesfreiwilligendienst</a></li>
+	<li><a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="729e552e-1fa1-4a2e-861f-9995a72da1b9" href="/warum-zu-uns" title="Warum zu uns?" class="link-node link-page">Unsere Benefits</a></li>
+</ul>
+
+<p><a class="generic-button link-node link-page" data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="35102afd-9892-44e3-9b56-619fbf09fcc7" href="/karriere" title="Karriere starten bei der Stadt">zu unserer Karriereseite</a></p>
+
+          </div>
+  </div>
+</div>
+
+    
+  
+</div>
+
+          </div>
+                    </div>
+</div>
+
+
+  
+
+
+
+
+
+
+ <div class="container section--bootstrap-bielfeld-one-col">
+                  <div class="section-title row">
+      
+      <h1 class="text-align-center">Bielefeld entdecken</h1>
+
+      
+    </div>
+  <div  class="mb-5 transparent layout layout--bielefeld-layout layout--bootstrap-bielfeld-one-col row" id="Bielefeld-entdecken">
+            <div >
+      
+    </div>
+                                                                                          <div  class="col-12 layout__region--main layout__region layout__region--first p-0">
+            
+
+
+
+
+
+  
+
+
+
+
+
+<div  class="block block-bielefeld-rathaus block-bielefeld-jetzt-veranstaltungen-block">
+  
+      
+    
+        
+    
+      
+      <div>
+      <div class="position-relative"><div class="veranstaltungen-grid veranstaltungen-grid-swiper swiper mb-4"><div class="swiper-wrapper"><div class="swiper-slide"><div class="grid-item"><div class="image-wrapper" style="background-image:url(https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bild/2024/abendmarkt-84.jpg?itok=4OL3KjHD);"><div class="image-caption">© Bielefeld Marketing GmbH | Tim Fröhlich</div></div><a href="https://www.bielefeld.jetzt/node/416199" class="stretched-link no-extlink" target="_blank"><div class="texte-wrapper"><div class="texte text-weiss"><strong class="veranst-titel">Abendmarkt</strong><div class="veranst-untertitel">Starte deinen entspannten Feierabend</div><div class="veranst-datum"><i class="bielefeld-ui-kalender"></i> 16.07.2026 bis 27.08.2026</div><div class="veranst-ort"><i class="bielefeld-ui bielefeld-ui-ort"></i> Klosterplatz</div></div></div></a></div></div><div class="swiper-slide"><div class="grid-item"><div class="image-wrapper" style="background-image:url(https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bilder/veranstaltungen/Theater/2021_07_17_Tanzfestival_Abschlusspraesentation_c_Klaus_Hansen.jpg?itok=ONaevyjE);"><div class="image-caption">© Kulturamt Bielefeld | Klaus Hansen</div></div><a href="https://www.bielefeld.jetzt/tanzfestival" class="stretched-link no-extlink" target="_blank"><div class="texte-wrapper"><div class="texte text-weiss"><strong class="veranst-titel">Tanzfestival Bielefeld </strong><div class="veranst-datum"><i class="bielefeld-ui-kalender"></i> 19.07.2026 bis 01.08.2026</div><div class="veranst-ort"><i class="bielefeld-ui bielefeld-ui-ort"></i> Bielefeld</div></div></div></a></div></div><div class="swiper-slide"><div class="grid-item"><div class="image-wrapper" style="background-image:url(https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bilder/veranstaltungen/veranstaltungen2018/20130727_sparrenburgfest_065_MVA.jpg?itok=hIyqr9l0);"><div class="image-caption">© Bielefeld Marketing GmbH</div></div><a href="https://www.bielefeld.jetzt/node/18058" class="stretched-link no-extlink" target="_blank"><div class="texte-wrapper"><div class="texte text-weiss"><strong class="veranst-titel">Sparrenburgfest </strong><div class="veranst-untertitel">Mittelalterliches Burg-Spektakulum</div><div class="veranst-datum"><i class="bielefeld-ui-kalender"></i> 24.07.2026 bis 26.07.2026</div><div class="veranst-ort"><i class="bielefeld-ui bielefeld-ui-ort"></i> Sparrenburg</div></div></div></a></div></div><div class="swiper-slide"><div class="grid-item"><div class="image-wrapper" style="background-image:url(https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bild/2026/2026-08-30-Wackelpeter-C-Klaus-Hansen.jpg?itok=G6HwwjTx);"><div class="image-caption">© Klaus Hansen</div></div><a href="https://www.bielefeld.jetzt/node/17904" class="stretched-link no-extlink" target="_blank"><div class="texte-wrapper"><div class="texte text-weiss"><strong class="veranst-titel">Wackelpeter 2026</strong><div class="veranst-untertitel">Kinderkulturfest</div><div class="veranst-datum"><i class="bielefeld-ui-kalender"></i> 30.08.2026</div><div class="veranst-ort"><i class="bielefeld-ui bielefeld-ui-ort"></i> Ravensberger Park</div></div></div></a></div></div><div class="swiper-slide"><div class="grid-item"><div class="image-wrapper" style="background-image:url(https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bild/2022/Weinmarkt2.jpg?itok=2SfhSJb5);"><div class="image-caption">© Bielefeld Marketing GmbH</div></div><a href="https://www.bielefeld.jetzt/node/26222" class="stretched-link no-extlink" target="_blank"><div class="texte-wrapper"><div class="texte text-weiss"><strong class="veranst-titel">Bielefelder Weinmarkt</strong><div class="veranst-untertitel">Deutscher Wein in stimmungsvoller Atmosphäre</div><div class="veranst-datum"><i class="bielefeld-ui-kalender"></i> 01.09.2026 bis 06.09.2026</div><div class="veranst-ort"><i class="bielefeld-ui bielefeld-ui-ort"></i> Bielefeld-Mitte</div></div></div></a></div></div><div class="swiper-slide"><div class="grid-item"><div class="image-wrapper" style="background-image:url(https://www.bielefeld.jetzt/sites/default/files/styles/medium/public/bild/2026/2026-09-06-RadKulTour-2-C-Klaus-Hansen.jpg?itok=GlvkHadN);"><div class="image-caption">© Klaus Hansen</div></div><a href="https://www.bielefeld.jetzt/node/372071" class="stretched-link no-extlink" target="_blank"><div class="texte-wrapper"><div class="texte text-weiss"><strong class="veranst-titel">RadKulTour Bielefeld</strong><div class="veranst-untertitel">Kultur pur durch den Bielefelder Norden</div><div class="veranst-datum"><i class="bielefeld-ui-kalender"></i> 06.09.2026</div><div class="veranst-ort"><i class="bielefeld-ui bielefeld-ui-ort"></i> Bielefeld</div></div></div></a></div></div></div></div><div class="swiper-button-prev"></div><div class="swiper-button-next"></div></div><p class="text-align-center"><a class="generic-button" href="https://www.bielefeld.jetzt">Das ist in Bielefeld.JETZT los</a></p>
+
+    </div>
+      
+  
+</div>
+
+          </div>
+                    </div>
+</div>
+
+  </div>
+</article>
+
+    </div>
+  </div>
+
+
+
+
+
+
+  
+
+
+
+
+
+<div  id="block-bielefeld-sparrenbertchat" class="block-content-basic block block-block-content block-block-content79e5b362-f356-4a67-8a1f-c20365f9f638">
+  
+      
+    
+        
+    
+      
+      <div>
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="convaisecss-clear" id="convaise-wrapper" data-botid="41j5f1madnfr5z">&nbsp;</div><script>                                                                                                                                                
+  window.addEventListener('load', function() {                                                                                                            
+    var css = document.createElement('link');                                                                                                             
+    css.rel = 'stylesheet';                                                                                                                               
+    css.href = 'https://static.convaise.com/popup/bots/41j5f1madnfr5z/popup.min.css?v=1.0.0';                                                             
+    document.head.appendChild(css);                                                                                                                       
+                                                                                                                                                          
+    var js = document.createElement('script');                                                                                                            
+    js.src = 'https://static.convaise.com/popup/bots/41j5f1madnfr5z/popup.min.js?v=1.0.0';                                                                
+    document.body.appendChild(js);                                                                                                                        
+  });
+  </script></div>
+      
+    </div>
+      
+  
+</div>
+
+
+      </section>
+                </div>
+  </div>
+
+  
+<!------------ Footer Section  -------------->
+
+<footer class="footer content-section text-weiss">
+            <div class="container">
+                            <div class="row d-print-none">
+                    <div class="col-12 col-md-6">
+                          
+
+
+
+
+
+  
+
+
+
+
+
+<div  id="block-bootstrap-bielefeld-kontakt-bima" class="col-12 px-0 pt-2 block-content-basic block block-block-content block-block-contentca030953-e3bc-4bb8-a969-dba18cad04fe">
+  
+      
+    
+        
+    
+      
+      <div>
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h2>Stadt Bielefeld</h2>
+
+<div class="row">
+<div class="col-12 col-lg-7">
+<p>Tel. <a href="tel:+49 521510">+49 521 51-0</a> (BürgerServiceCenter)<br>
+Tel. Erreichbarkeit: mo-fr 7.30-18 Uhr<br>
+<a href="mailto:posteingang@bielefeld.de">posteingang@bielefeld.de</a><br>
+<a href="https://www.bielefeld.de">https://www.bielefeld.de</a></p>
+</div>
+
+<div class="col-12 col-lg-5 py-4 py-lg-0">
+<ul class="footer-icon-links list-unstyled no-extlink d-flex">
+	<li><a aria-label="Stadt Bielefeld bei Instagram" href="https://instagram.com/stadtbielefeld" target="_blank"><em><i class="bielefeld-ui-instagram" title="Stadt Bielefeld bei Instagram">‌</i></em></a></li>
+	<li><a aria-label="Stadt Bielefeld bei Facebook" href="https://www.facebook.com/stadtbielefeld" target="_blank"><em><i class="bielefeld-ui-facebook" title="Stadt Bielefeld bei Facebook">‌</i></em></a></li>
+	<li><a aria-label="Stadt Bielefeld bei LinkedIn" href="https://de.linkedin.com/company/stadt-bielefeld" target="_blank"><em><i class="bielefeld-ui-linkedin_alternative" title="Stadt Bielefeld bei LinkedIn">‌</i></em></a></li>
+	<li><a aria-label="Stadt Bielefeld bei YouTube" href="https://www.youtube.com/StadtBielefeldDE" target="_blank"><em><i class="bielefeld-ui-youtube" title="Stadt Bielefeld bei YouTube">‌</i></em></a></li>
+</ul>
+</div>
+</div>
+</div>
+      
+    </div>
+      
+  
+</div>
+<nav role="navigation" aria-labelledby="block-bootstrap-bielefeld-footer-menu" id="block-bootstrap-bielefeld-footer" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-bootstrap-bielefeld-footer-menu">Fußzeilenmenü</h2>
+  
+
+        
+        <ul class="link-list list-border">
+                                      <li>
+          <a href="/impressum" data-drupal-link-system-path="node/2">Impressum</a>
+        </li>
+                                                        <li>
+          <a href="/kontakt" data-drupal-link-system-path="node/557">Kontakt</a>
+        </li>
+                                                        <li>
+          <a href="/datenschutzerklaerung" data-drupal-link-system-path="node/558">Datenschutzerklärung</a>
+        </li>
+                                                        <li>
+          <a href="#cookie-settings" class="dsgvo-dialog-link">Cookie-Einstellungen</a>
+        </li>
+                                                        <li>
+          <a href="/erklaerung-zur-barrierefreiheit" data-drupal-link-system-path="node/6239">Erklärung zur Barrierefreiheit</a>
+        </li>
+          </ul>
+  
+
+
+  </nav>
+
+
+
+
+
+
+  
+
+
+
+
+
+<div  id="block-bielefeldzoomcobrowsing" class="mb-4 mb-lg-0 block block-bielefeld block-bielefeld-zoom-cobrowsing-block">
+  
+      
+    
+        
+    
+      
+      <div>
+      <ul class="footer-icon-links list-unstyled no-extlink d-flex">
+    <li>
+      <a href="#" id="zoom_unterstuetzung" aria-label="Online-Support" aria-haspopup="dialog">
+        <em><i class="icon-pc" title="Online-Support">&zwnj;</i></em>
+      </a>
+    </li>
+  </ul><div id="zoom-cobrowsing-overlay">
+    <div id="zoom-cobrowsing-dialog" role="dialog" aria-modal="true" aria-labelledby="zoom-cobrowsing-title" tabindex="-1">
+      <button type="button" class="btn-close zoom-cobrowsing-close" title="schließen" aria-label="schließen"></button>
+      <div class="zoom-cobrowsing-text"><h3>Einwilligung zum Online-Support</h3>
+<p>Beim Online-Support teilen Sie die Inhalte Ihres Browserfensters – einschließlich Ihrer Lesezeichen – mit einer Mitarbeiter*in der Stadt Bielefeld. So kann Ihnen direkt geholfen werden.</p>
+<div class="scroll-container">
+<p>
+    <strong>Datenschutzrechtliche Einwilligungserklärung nach Art. 6 Abs. 1 lit. a) Datenschutz-Grundverordnung (DSGVO) für das Teilen des Bildschirms mit Mitarbeitenden des BürgerServiceCenters der Stadt Bielefeld im Rahmen des Co-Browsings&nbsp;</strong>
+</p>
+<p>
+    <strong>Verantwortlich für die Datenerhebung ist</strong><br>
+    Stadt Bielefeld<br>
+    Bürgeramt – Geschäftsbereich BürgerServiceCenter (BSC)
+</p>
+<p>
+    <strong>Zweck der Datenverarbeitung</strong><br>
+    Ihre personenbezogenen Daten werden zur Durchführung einer Telefonkonferenz mit Bildschirmteilung (nachfolgend Co-Browsing) mit dem Videokonferenzsystem Zoom Meetings verarbeitet.
+</p>
+<p>
+    <strong>Rechtsgrundlage der Datenverarbeitung</strong><br>
+    Rechtsgrundlage für die Verarbeitung Ihrer personenbezogenen Daten zu dem zuvor genannten Zwecken ist Art. 6 Abs. 1 lit. a) DSGVO und die von Ihnen in diesem Zusammenhang erteilte Einwilligung.
+</p>
+<p>
+    <strong>Herkunft der Daten</strong><br>
+    Eigene Erklärung/ Einwilligung durch Sie
+</p>
+<p>
+    <strong>Empfänger von Daten</strong><br>
+    Personenbezogene Daten, die im Zusammenhang mit dem Co-Browsing und der Bildschirmteilung verarbeitet werden, werden grundsätzlich nicht an Dritte weitergegeben.
+</p>
+<p>
+    Der Anbieter von „Zoom“ (KDN – Dachverband kommunaler IT-Dienstleister, Mühlenstr. 51, 53721 Siegburg) erhält notwendigerweise Kenntnis von den o. g. Daten, soweit dies im Rahmen unseres datenschutzrechtlichen Auftragsverarbeitungsvertrages mit dem KDN vorgesehen ist.
+</p>
+<p>
+    <strong>Datenverarbeitung und Dauer der Speicherung</strong><br>
+    Ihre personenbezogenen Daten werden gemäß des mit dem KDN geschlossenen Auftragsverarbeitungsvertrages nach Ende des Co-Browsings durch den KDN gelöscht. Eine Aufzeichnung/ Speicherung der Bildschirminhalte und anderen Inhalten davon durch die Stadt Bielefeld erfolgt im Rahmen des Co-Browsings und der Bildschirmteilung nicht. Ein eigenständiger Zugriff auf die Bildschirminhalte ist den Mitarbeitenden des BSC ohne Ihre vorherige Zustimmung nicht möglich, technisch ausgeschlossen und im Übrigen verboten.
+</p>
+<p>
+    <strong>Ihre Pflichten</strong><br>
+    Die Einwilligung in die Verarbeitung Ihrer personenbezogenen Daten erfolgt freiwillig. Ohne Ihre Einwilligung ist das Teilen der Bildschirminhalte nicht möglich.
+</p>
+<p>
+    <strong>Ihre Rechte</strong><br>
+    Betroffene Personen haben folgende Rechte, wenn die gesetzlichen und persönlichen Voraussetzungen erfüllt sind:&nbsp;
+</p>
+<ul>
+    <li data-list-item-id="e06472c1b1d5653e954c01c70f7c5dc35">
+        Auskunft über die erhobenen Daten (Art. 15 DSGVO),
+    </li>
+    <li data-list-item-id="e7bb8e817ef0f9d312c79c1104ebf02e7">
+        Berichtigung unrichtiger oder unrichtig gewordener Daten (Art. 16 DSGVO),
+    </li>
+    <li data-list-item-id="e3256bc9bbf275c398ca922b8d89e2a82">
+        Löschung personenbezogener Daten (Art. 17 DSGVO),
+    </li>
+    <li data-list-item-id="e355c35e7249d0d7039346d77607673ea">
+        Einschränkung der Datenverarbeitung (Art. 18 DSGVO),
+    </li>
+    <li data-list-item-id="eb15d45eabbeda742659fc4bea7b48a19">
+        Widerspruch gegen die Datenverarbeitung (Art. 21 DSGVO),
+    </li>
+    <li data-list-item-id="ea0ee400a556a7da68330f0a20188b8fa">
+        jederzeitigen Widerruf einer Einwilligung mit Wirkung für die Zukunft (Art. 7 DSGVO),
+    </li>
+    <li data-list-item-id="e23992a364563867d9a7e0daeb2e73fa1">
+        Beschwerde bei der Aufsichtsbehörde (Art. 77 DSGVO):
+    </li>
+</ul>
+<p>
+    Landesbeauftragte(r) für Datenschutz und Informationsfreiheit (LDI NRW)<br>
+    Postfach 20 04 44, 40102 Düsseldorf<br>
+    E-Mail: <a href="mailto:poststelle@ldi.nrw.de">poststelle@ldi.nrw.de</a><br>
+    Telefon: 0211 38424-0<br>
+    Internet: www.ldi.nrw.de
+</p>
+<p>
+    <strong>Kontaktdaten der/des behördlichen Datenschutzbeauftragten</strong><br>
+    Wenn Sie der Auffassung sind, dass die Verarbeitung gegen den Datenschutz verstößt, können Sie sich an die/den behördliche(n) Datenschutzbeauftragte(n) der Stadt Bielefeld wenden.
+</p>
+<p>
+    E-Mail: <a href="mailto:datenschutzbeauftragter@bielefeld.de">datenschutzbeauftragter@bielefeld.de</a><br>
+    Telefon: 0521 51-6888
+</p>
+<p>
+    <strong>Datenschutzrechtliche Einwilligungserklärung</strong>
+</p>
+<p>
+    Ich habe die Informationen zum Datenschutz, die dieser Einwilligungserklärung beigefügt sind, die Erklärung, was geschieht, wenn man mit dem BSC in Kontakt tritt und die Möglichkeit der Bildschirmteilung genutzt werden soll sowie die Ausführungen dieser Einwilligungserklärung zur Kenntnis genommen und verstanden. Ich willige durch das Setzen des Kreuzes in dem dafür vorgesehenen Kästchen ein, dass meine personenbezogenen Daten zu den genannten Zwecken im Rahmen der von mir veranlassten Bildschirmteilung während eines Telefonats mit Mitarbeitenden des BSC verarbeitet werden.
+</p>
+<p>
+    Ich bin darüber informiert worden, dass ich das Recht habe, meine Einwilligung jederzeit mit Wirkung für die Zukunft formlos gegenüber der Stadt Bielefeld zu widerrufen, beispielsweise durch die Beendigung der Bildschirmteilung. Durch den Widerruf der Einwilligung wird die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung nicht berührt. Ich bin vor Abgabe der Einwilligung hiervon in Kenntnis gesetzt worden.
+</p>
+<p>
+    Im Falle des Widerrufs und der Ablehnung der Einwilligung, kann ich nicht den Bildschirm teilen und es nicht möglich, dass Mitarbeitende des BSC mich über diese Funktion unterstützen und meine Bildschirminhalte sehen. Soweit ich die Einwilligung nicht widerrufe, gilt sie für die Dauer der Teilung des Bildschirms, die spätestens mit Beendigung des Telefonats mit den Mitarbeitenden des BSC endet.
+</p>
+<p>
+    Ich entscheide freiwillig, ob ich meinen Bildschirm und die dort ersichtlichen Inhalte mit dem Mitarbeitenden des BSC der Stadt Bielefeld teilen werde.
+</p>
+</div></div>
+      <div class="zoom-cobrowsing-option form-check mb-3">
+        <input id="zoom-chk-bestaetigung" class="form-check-input" type="checkbox" value="1">
+        <label class="form-check-label" for="zoom-chk-bestaetigung">Ich habe die Hinweise zur Bildschirmteilung und zum Datenschutz zur Kenntnis genommen.</label>
+      </div>
+      <button type="button" class="btn btn-primary zoom-cobrowsing-start" disabled="disabled">Co-Browsing starten</button>
+    </div>
+  </div><script type="text/plain" id="zoom-cobrowsing-script" data-src="https://eu01ccistatic.zoom.us/eu01cci/web-sdk/zcc-sdk.js" data-apikey="vrVKHnisRL6GHEpnSrjOCg" data-env="eu01"></script>
+    </div>
+      
+  
+</div>
+
+
+                    </div>
+                    <div class="d-md-none d-lg-block col-1">
+                    </div>
+                    <div class="col-12 col-lg-5 col-md-6">
+                          
+<div class="simplenews-subscriptions-block-footeraboform simplenews-subscriber-form mb-3 block block-simplenews block-simplenews-subscription-block" data-drupal-selector="simplenews-subscriptions-block-footeraboform" id="block-bootstrap-bielefeld-simplenewsabonnement">
+  
+      <h2>Newsletter</h2>
+    
+        <div class="content">
+      
+<form data-block-id="block-bootstrap-bielefeld-simplenewsabonnement" data-action="/" class="antibot" action="/antibot" method="post" id="simplenews-subscriptions-block-footeraboform" accept-charset="UTF-8">
+  <noscript>
+  <div class="antibot-no-js antibot-message antibot-message-warning">JavaScript muss aktiviert sein, um dieses Formular zu verwenden.</div>
+</noscript>
+
+
+
+  <div id="edit-message" class="js-form-item js-form-type-item form-type-item js-form-item-message form-item-message form-no-label form-group col-auto">
+                Bleiben Sie auf dem Laufenden - abonnieren Sie unsere Newsletter.
+                  </div>
+<div class="field--type-email field--name-mail field--widget-email-default js-form-wrapper form-wrapper mb-3" data-drupal-selector="edit-mail-wrapper" id="edit-mail-wrapper">      
+
+
+  <div class="js-form-item js-form-type-email form-type-email js-form-item-mail-0-value form-item-mail-0-value form-no-label form-group col-auto">
+                <input class="item-rounded form-email required form-control" data-drupal-selector="edit-mail-0-value" type="email" id="edit-mail-0-value" name="mail[0][value]" value="" size="60" maxlength="254" placeholder="E-Mail" required="required" aria-required="true" />
+
+                  </div>
+
+  </div>
+<div class="field--type-simplenews-subscription field--name-subscriptions field--widget-simplenews-subscription-select js-form-wrapper form-wrapper mb-3" data-drupal-selector="edit-subscriptions-wrapper" id="edit-subscriptions-wrapper"><fieldset data-drupal-selector="edit-subscriptions" id="edit-subscriptions--wrapper" class="fieldgroup form-composite required js-form-item form-item js-form-wrapper form-wrapper mb-3" required="required" aria-required="true">
+      <legend>
+    <span class="fieldset-legend js-form-required form-required">Auswahl der Newsletter</span>
+  </legend>
+  <div class="fieldset-wrapper">
+                <div id="edit-subscriptions" class="checkbox">
+                
+
+  <div class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-subscriptions-stadtblick form-item-subscriptions-stadtblick">
+                <input data-drupal-selector="edit-subscriptions-stadtblick" type="checkbox" id="edit-subscriptions-stadtblick" name="subscriptions[stadtblick]" value="stadtblick" class="form-checkbox form-check-input">
+          <label  class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-subscriptions-stadtblick form-item-subscriptions-stadtblick form-check-label" for="edit-subscriptions-stadtblick">
+        <div class="mb-3">
+          <b>Stadtblick (News der Woche)</b><div class="bemerkung"><p>Wöchentlicher Newsletter <a data-entity-substitution="canonical" data-entity-type="node" data-entity-uuid="06b46ee1-0509-4480-a7bb-891636acb24f" href="/node/27783">Stadt.Blick</a> aus dem Presseamt.</p>
+</div></div>
+      </label>
+                  </div>
+
+                
+
+  <div class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-subscriptions-pressemeldung form-item-subscriptions-pressemeldung">
+                <input data-drupal-selector="edit-subscriptions-pressemeldung" type="checkbox" id="edit-subscriptions-pressemeldung" name="subscriptions[pressemeldung]" value="pressemeldung" class="form-checkbox form-check-input">
+          <label  class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-subscriptions-pressemeldung form-item-subscriptions-pressemeldung form-check-label" for="edit-subscriptions-pressemeldung">
+        <div class="mb-3">
+          <b>Pressemeldungen</b><div class="bemerkung"><p>Aktuelle <a href="/pressemeldungen">Pressemeldungen</a> der Stadt Bielefeld</p>
+</div></div>
+      </label>
+                  </div>
+<div class="newsletter-tags-wrapper"><fieldset data-drupal-selector="edit-nltags-pressemeldung" aria-describedby="edit-nltags-pressemeldung--wrapper--description" id="edit-nltags-pressemeldung--wrapper" class="fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper mb-3" data-drupal-states="{&quot;visible&quot;:{&quot;:input[name=\u0022subscriptions[pressemeldung]\u0022]&quot;:{&quot;checked&quot;:true}}}">
+      <legend>
+    <span class="visually-hidden fieldset-legend">Themen-Auswahl</span>
+  </legend>
+  <div class="fieldset-wrapper">
+          <div id="edit-nltags-pressemeldung--wrapper--description" data-drupal-field-elements="description" class="description text-muted"><small class="description">Wählen Sie Themen, um nur passende Meldungen zu erhalten.<br>Ohne Auswahl erhalten Sie <b>alle</b> Meldungen.</small></div>
+                <div id="edit-nltags-pressemeldung" class="checkbox">
+                
+
+  <div class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-nltags-pressemeldung-3090 form-item-nltags-pressemeldung-3090">
+                <input data-drupal-selector="edit-nltags-pressemeldung-3090" aria-describedby="edit-nltags-pressemeldung--description" type="checkbox" id="edit-nltags-pressemeldung-3090" name="nltags_pressemeldung[3090]" value="3090" class="form-checkbox form-check-input">
+          <label  class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-nltags-pressemeldung-3090 form-item-nltags-pressemeldung-3090 form-check-label" for="edit-nltags-pressemeldung-3090">
+        Familie, Soziales & Gesundheit
+      </label>
+                  </div>
+
+                
+
+  <div class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-nltags-pressemeldung-3091 form-item-nltags-pressemeldung-3091">
+                <input data-drupal-selector="edit-nltags-pressemeldung-3091" aria-describedby="edit-nltags-pressemeldung--description" type="checkbox" id="edit-nltags-pressemeldung-3091" name="nltags_pressemeldung[3091]" value="3091" class="form-checkbox form-check-input">
+          <label  class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-nltags-pressemeldung-3091 form-item-nltags-pressemeldung-3091 form-check-label" for="edit-nltags-pressemeldung-3091">
+        Kultur & Bildung
+      </label>
+                  </div>
+
+                
+
+  <div class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-nltags-pressemeldung-3092 form-item-nltags-pressemeldung-3092">
+                <input data-drupal-selector="edit-nltags-pressemeldung-3092" aria-describedby="edit-nltags-pressemeldung--description" type="checkbox" id="edit-nltags-pressemeldung-3092" name="nltags_pressemeldung[3092]" value="3092" class="form-checkbox form-check-input">
+          <label  class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-nltags-pressemeldung-3092 form-item-nltags-pressemeldung-3092 form-check-label" for="edit-nltags-pressemeldung-3092">
+        Natur, Umwelt & Klima
+      </label>
+                  </div>
+
+                
+
+  <div class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-nltags-pressemeldung-3093 form-item-nltags-pressemeldung-3093">
+                <input data-drupal-selector="edit-nltags-pressemeldung-3093" aria-describedby="edit-nltags-pressemeldung--description" type="checkbox" id="edit-nltags-pressemeldung-3093" name="nltags_pressemeldung[3093]" value="3093" class="form-checkbox form-check-input">
+          <label  class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-nltags-pressemeldung-3093 form-item-nltags-pressemeldung-3093 form-check-label" for="edit-nltags-pressemeldung-3093">
+        Service, Stadtleben & Beteiligung
+      </label>
+                  </div>
+
+                
+
+  <div class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-nltags-pressemeldung-3094 form-item-nltags-pressemeldung-3094">
+                <input data-drupal-selector="edit-nltags-pressemeldung-3094" aria-describedby="edit-nltags-pressemeldung--description" type="checkbox" id="edit-nltags-pressemeldung-3094" name="nltags_pressemeldung[3094]" value="3094" class="form-checkbox form-check-input">
+          <label  class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-nltags-pressemeldung-3094 form-item-nltags-pressemeldung-3094 form-check-label" for="edit-nltags-pressemeldung-3094">
+        Stadtentwicklung & Bauen
+      </label>
+                  </div>
+
+                
+
+  <div class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-nltags-pressemeldung-3095 form-item-nltags-pressemeldung-3095">
+                <input data-drupal-selector="edit-nltags-pressemeldung-3095" aria-describedby="edit-nltags-pressemeldung--description" type="checkbox" id="edit-nltags-pressemeldung-3095" name="nltags_pressemeldung[3095]" value="3095" class="form-checkbox form-check-input">
+          <label  class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-nltags-pressemeldung-3095 form-item-nltags-pressemeldung-3095 form-check-label" for="edit-nltags-pressemeldung-3095">
+        Verkehr & Mobilität
+      </label>
+                  </div>
+</div>
+
+          </div>
+</fieldset>
+</div>
+                
+
+  <div class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-subscriptions-newsletter-partizipation form-item-subscriptions-newsletter-partizipation">
+                <input data-drupal-selector="edit-subscriptions-newsletter-partizipation" type="checkbox" id="edit-subscriptions-newsletter-partizipation" name="subscriptions[newsletter_partizipation]" value="newsletter_partizipation" class="form-checkbox form-check-input">
+          <label  class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-subscriptions-newsletter-partizipation form-item-subscriptions-newsletter-partizipation form-check-label" for="edit-subscriptions-newsletter-partizipation">
+        <div class="mb-3">
+          <b>Newsletter Dialog &amp; Beteiligung</b><div class="bemerkung"><p>Bleiben Sie in Sachen <a href="/dialog/newsletter">Dialog und Beteiligung</a> immer auf dem Laufenden.</p>
+</div></div>
+      </label>
+                  </div>
+
+                
+
+  <div class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-subscriptions-newsletter-umweltamt form-item-subscriptions-newsletter-umweltamt">
+                <input data-drupal-selector="edit-subscriptions-newsletter-umweltamt" type="checkbox" id="edit-subscriptions-newsletter-umweltamt" name="subscriptions[newsletter_umweltamt]" value="newsletter_umweltamt" class="form-checkbox form-check-input">
+          <label  class="js-form-item js-form-type-checkbox checkbox form-check js-form-item-subscriptions-newsletter-umweltamt form-item-subscriptions-newsletter-umweltamt form-check-label" for="edit-subscriptions-newsletter-umweltamt">
+        <div class="mb-3">
+          <b>Newsletter Klimaschutz &amp; Nachhaltigkeit</b><div class="bemerkung"><p>Neuigkeiten, Ideen und Veranstaltungen im Bereich <a href="/klima">Klimaschutz</a> und <a href="/nachhaltigkeit">Nachhaltigkeit</a> der Stadt Bielefeld.</p>
+</div></div>
+      </label>
+                  </div>
+</div>
+
+          </div>
+</fieldset>
+<p class="description">Sie müssen Ihr Abonnement bestätigen und erhalten dafür einen Link per E-Mail zugeschickt.<br>Es gelten unsere <a href="/datenschutzerklaerung#newsletter">Datenschutzbestimmungen</a>.<br>Weitere <a href="/newsletter-abo">Infos zu unseren Newslettern</a>.<br><a href="/newsletter/validate">Bestehende Abonnements verwalten</a></p></div>
+<input autocomplete="off" type="hidden" name="form_build_id" value="form-J3XYuo8qNYH58VdE89xPTm9eV6E4Gk4Zc04KQyfyxok" class="form-control" />
+<input data-drupal-selector="edit-simplenews-subscriptions-block-footeraboform" type="hidden" name="form_id" value="simplenews_subscriptions_block_footeraboform" class="form-control" />
+<input data-drupal-selector="edit-antibot-key" type="hidden" name="antibot_key" value="" class="form-control" />
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper mb-3" id="edit-actions--2"><button data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Abonnieren" class="button button--primary js-form-submit form-submit btn btn-primary">Abonnieren</button>
+</div>
+
+</form>
+
+    </div>
+  </div>
+
+
+
+
+
+
+  
+
+
+
+
+
+<div  id="block-bootstrap-bielefeld-bielefelddsgvocookies" class="block block-bielefeld block-bielefeld-dsgvo-block">
+  
+      
+    
+        
+    
+      
+      <div>
+      <div id="dsgvo-dialog-overlay"><div id="dsgvo-dialog" class=""><form><p>Um Ihr Erlebnis auf unserer Website zu verbessern, verwenden wir Cookies und die Analysesoftware Matomo. Dazu benötigen wir Ihre Einwilligung.<br>Erfahren Sie mehr in unserer <a href="/datenschutzerklaerung">Datenschutzerklärung</a>.</p><div class="dsgvo-option form-check form-switch mb-2"><input id="dsgvo-chk-technisch" class="form-check-input" type="checkbox" role="switch"  name="cookies-technisch" value="1" disabled="disabled"><label class="form-check-label" for="dsgvo-chk-technisch">Technisch notwendige Cookies</label></div><div class="dsgvo-option form-check form-switch mb-2"><input id="dsgvo-chk-statistik" class="form-check-input" type="checkbox" role="switch"  name="cookies-statistik" value="1"><label class="form-check-label" for="dsgvo-chk-statistik">Statistik / Matomo zulassen</label><div class="description small text-grau">Zugriffe werden teilanonymisiert erfasst.</div></div><div class="dsgvo-option form-check form-switch mb-2"><input id="dsgvo-chk-videos" class="form-check-input" type="checkbox" role="switch"  name="cookies-videos" value="1"><label class="form-check-label" for="dsgvo-chk-videos">Externe Videos zulassen</label><div class="description small text-grau">Video-Einbindung von YouTube, Vimeo und Video.Taxi zulassen.</div></div><div class="row mt-md-3 g-3">
+            <div class="col">
+              <input id="dsgvo-btn-speichern" type="submit" class="btn btn-primary bg-grau w-100 btn-dsgvo-speichern" name="btn-speichern" value="Auswahl speichern">
+            </div>
+            <div class="col">
+              <input id="dsgvo-btn-alle" type="submit" class="btn btn-primary w-100 btn-dsgvo-alle" name="btn-alle" value="Alles zulassen">
+            </div>
+         </div></form></div></div>
+    </div>
+      
+  
+</div>
+
+
+                        
+                    </div>
+                </div>
+                    </div>
+    </footer>
+</main>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/1","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"de"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyFkuuSgyAMhV-IyiMxQSJlRcIkUdt9-tXaq2Nn_xD4ziEzOQBFkye1sNWmIx6MT5ixwxzsc-eCxIkOFUYIUhF65EP9l2hwLXmmWVKJL4_Di2KRRMUeMJfhSqO-2QvOYtfFdUxFK0TcqRlVke1r68DTvx6FKG8mBj3DKHZChiIKWccSsTSRUzjJnOo6J5GKMlTngTmR3XLb05jJQz6JXvNt8r1eKOA7faX3YIfq97ZPC3UaUcb2rI3P1PamJUYbeKyQm2UoRTFL1Mv9_kHvRzOA0kB2K0YQuD07qMnBqNTSUJfY0H7hZgvIrXnALeg9MHIVxcF6EDRTWt_0tjbwA5cPMFAY86eHUSot32PC0_ocZka_Nrb32oQEmeIf608gHA","theme":"bootstrap_bielefeld","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/willkommen":true},"matomo":{"disableCookies":true,"trackMailto":true,"trackColorbox":true},"theme_breakpoints":"[{\u0022name\u0022:\u0022small\u0022,\u0022mediaQuery\u0022:\u0022all and (max-width: 575px)\u0022,\u0022multipliers\u0022:[\u00221x\u0022]},{\u0022name\u0022:\u0022medium\u0022,\u0022mediaQuery\u0022:\u0022all and (min-width: 576px)\u0022,\u0022multipliers\u0022:[\u00221x\u0022]},{\u0022name\u0022:\u0022large\u0022,\u0022mediaQuery\u0022:\u0022all and (min-width: 992px)\u0022,\u0022multipliers\u0022:[\u00221x\u0022]},{\u0022name\u0022:\u0022extra\u0022,\u0022mediaQuery\u0022:\u0022all and (min-width: 1200px)\u0022,\u0022multipliers\u0022:[\u00221x\u0022]},{\u0022name\u0022:\u0022xxl\u0022,\u0022mediaQuery\u0022:\u0022all and (min-width: 1440px)\u0022,\u0022multipliers\u0022:[\u00221x\u0022]},{\u0022name\u0022:\u0022xxxl\u0022,\u0022mediaQuery\u0022:\u0022all and (min-width: 1800px)\u0022,\u0022multipliers\u0022:[\u00221x\u0022]}]","webform":{"dialog":{"options":{"narrow":{"title":"Narrow","width":600},"normal":{"title":"Normal","width":800},"wide":{"title":"Wide","width":1000}},"entity_type":"node","entity_id":"1"}},"data":{"extlink":{"extTarget":true,"extTargetAppendNewWindowDisplay":true,"extTargetAppendNewWindowLabel":"(\u00f6ffnet ein neues Fenster)","extTargetNoOverride":true,"extNofollow":false,"extTitleNoOverride":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"0","extLabel":"(Link ist extern)","extImgClass":false,"extSubdomains":true,"extExclude":"","extInclude":".*\\.(pdf|PDF|xls|XLS|doc|DOC|docx|DOCX|xlsx|XLSX)$","extCssExclude":"","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"Dieser Link f\u00fchrt Sie zu einer externen Website. Wir sind nicht f\u00fcr deren Inhalte verantwortlich.","extHideIcons":false,"mailtoClass":"0","telClass":"0","mailtoLabel":"(Link sendet E-Mail)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"prepend","extPreventOrphan":false,"extFaLinkClasses":"text-link-icon bielefeld-ui-ext-link","extFaMailtoClasses":"text-link-icon bielefeld-ui-email","extAdditionalLinkClasses":"link-extern","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","allowedDomains":["service.bielefeld.de"],"extExcludeNoreferrer":""}},"bielefeld_dsgvo":{"ausnahmen":["\/datenschutzerklaerung"]},"antibot":{"forms":{"simplenews-subscriptions-block-footeraboform":{"id":"simplenews-subscriptions-block-footeraboform","key":"sahMtXg0R8uh69BiRPrmd-rqRT9x51YmBurvZ8SJUli"}}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:5be7887e529017c075c33023870bc23e7b1b26a2a2594da365b53898c003d65c":{"view_name":"pressemeldungen","view_display_id":"block_3","view_args":"","view_path":"\/node\/1","view_base_path":null,"view_dom_id":"5be7887e529017c075c33023870bc23e7b1b26a2a2594da365b53898c003d65c","pager_element":0}}},"swiper_formatter":{"swipers":{"swiper-news-swiper-block-1":{"grouping":[],"uses_fields":false,"template":"news_highlight","caption":"","id":"swiper-news-swiper-block-1","swiper":null,"enabled":true,"source":"local_minified","autoHeight":false,"width":null,"height":null,"observer":false,"updateOnWindowResize":true,"resizeObserver":true,"direction":"horizontal","effect":"slide","loop":true,"rewind":false,"centeredSlides":false,"speed":300,"slidesPerView":1,"spaceBetween":0,"slidesPerGroup":1,"loopedSlides":1,"noSwipingSelector":".no-swipe, button, input","mousewheel":false,"grabCursor":false,"simulateTouch":true,"allowTouchMove":true,"cssMode":false,"keyboard":{"enabled":false,"onlyInViewport":true,"pageUpDown":true},"autoplay":{"enabled":true,"delay":5000,"disableOnInteraction":true,"pauseOnMouseEnter":true,"reverseDirection":false,"stopOnLastSlide":false,"waitForTransition":true},"navigation":{"enabled":true,"hideOnClick":false,"prevEl":".swiper-news-swiper-block-1-prev","nextEl":".swiper-news-swiper-block-1-next"},"pagination":{"enabled":true,"type":"bullets","dynamicBullets":false,"clickable":false,"el":".pagination-swiper-news-swiper-block-1"},"scrollbar":{"enabled":false,"draggable":false,"dragSize":"auto","hide":true,"snapOnRelease":false,"el":".scrollbar-swiper-news-swiper-block-1"},"zoom":{"enabled":false,"limitToOriginalSize":false,"maxRatio":3,"minRatio":1,"panOnMouseMove":false,"toggle":true},"lazy":{"enabled":false,"checkInView":false,"loadOnTransitionStart":false,"loadPrevNext":false,"loadPrevNextAmount":1,"scrollingElement":"window"},"label":"News-Highlight","description":"Swiper\/Slider-Einstellungen f\u00fcr die Highlight-News auf der Startseite","field_type":"views","is_image":false,"has_breakpoint_navigation":false,"has_breakpoint_pagination":false,"has_breakpoint_slides_per_view":1,"has_breakpoint_slides_per_group":1}}},"search_api_autocomplete":{"suche_website":{"auto_submit":true,"min_length":2}},"menu_main_active_trail":[],"user":{"uid":0,"permissionsHash":"5e2a6693bafc3e6d7bb45ae3ccdd13893494cf55df31b96d9de79c2bfb257811"}}</script>
+<script src="/sites/default/files/js/js_dSG7A_HDqBGYGeGEtO84tDMUdMV_5qaT-sYk6bHb5ZI.js?scope=footer&amp;delta=0&amp;language=de&amp;theme=bootstrap_bielefeld&amp;include=eJyFkWFuwzAIhS_kxkeycExcr46xgCTdTr84aZcpyrQ_PPw-hABD0eRJLezaDcSj8QkzDpiD_clckDjTJWGEIBXhgXzJv4hG15NnWiSVeNS4govYFtzAVLRCxBPNqIpsj9SBp39rFKL8KmLQO0xiZ2QoopB1KhFLFzmFmyyptsGJVJShOg_MiWzM5CHfRD_zNvTBjxXf3iU9NeiJ0QaeKuRunUFRDD51RY-3-3qaEZRGsrsYQeD-7qAmB5NST2Ndt0T7h2_2fVz7R9jucjbMnNrZt9jBBzzNgr5R-9IuJMgUvwG5UtXI"></script>
+<script src="//cdn1.readspeaker.com/script/11189/webReader/webReader.js?pids=wr"></script>
+<script src="/sites/default/files/js/js_hJvjnli7pRsJlJH7the0iSnG1NfqlvGN8j4aJzRWv58.js?scope=footer&amp;delta=2&amp;language=de&amp;theme=bootstrap_bielefeld&amp;include=eJyFkWFuwzAIhS_kxkeycExcr46xgCTdTr84aZcpyrQ_PPw-hABD0eRJLezaDcSj8QkzDpiD_clckDjTJWGEIBXhgXzJv4hG15NnWiSVeNS4govYFtzAVLRCxBPNqIpsj9SBp39rFKL8KmLQO0xiZ2QoopB1KhFLFzmFmyyptsGJVJShOg_MiWzM5CHfRD_zNvTBjxXf3iU9NeiJ0QaeKuRunUFRDD51RY-3-3qaEZRGsrsYQeD-7qAmB5NST2Ndt0T7h2_2fVz7R9jucjbMnNrZt9jBBzzNgr5R-9IuJMgUvwG5UtXI"></script>
+
+  </body>
+</html>
