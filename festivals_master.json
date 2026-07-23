@@ -1,2889 +1,2220 @@
-{
-  "metadata": {
-    "last_aggregated": "2026-07-22 02:03:22",
-    "total_records": 75,
-    "source_path": "/home/aiagent/hyeongryeol_workspace/festa_global_db"
-  },
-  "festivals": [
-    {
-      "identity": {
-        "name_local": "Zinkhütte Münsterbusch",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": "Zinkreduktionshütte im Aachener Revier im westlichen Nordrhein-Westfalen",
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Zinkhütte Velau",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": 50.7894,
-          "longitude": 6.22485
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Zinkhütte Birkengang",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": 50.7843,
-          "longitude": 6.23062
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": "Eschweiler Zinkhütte",
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "festival_id": "KEN-cd9028a8",
-        "name_en": "Lamu Faulu Festival",
-        "name_local": "Lamu Faulu Festival",
-        "country": "KEN",
-        "city": "Lamu",
-        "category": "Cultural"
-      },
-      "schedule": {
-        "start_date": "November",
-        "end_date": "November",
-        "frequency": "Annual",
-        "season": "Autumn"
-      },
-      "logistics": {
-        "location": {
-          "address": "Main venue, Lamu",
-          "coordinates": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        "access": "Public transport and local services."
-      },
-      "multimedia": {
-        "official_url": "https://kenya.go.ke",
-        "images": [],
-        "videos": []
-      },
-      "resources": {
-        "tickets": "Check official website",
-        "guide_url": "https://kenya.go.ke/guide"
-      },
-      "verification": {
-        "source": "Official Seed Data",
-        "last_updated": "2026-07-20",
-        "status": "verified"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "festival_id": "COL-57e470c7",
-        "name_en": "Carnaval de Barranquilla",
-        "name_local": "Carnaval de Barranquilla",
-        "country": "COL",
-        "city": "Barranquilla",
-        "category": "Cultural"
-      },
-      "schedule": {
-        "start_date": "February",
-        "end_date": "February",
-        "frequency": "Annual",
-        "season": "Winter"
-      },
-      "logistics": {
-        "location": {
-          "address": "Main venue, Barranquilla",
-          "coordinates": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        "access": "Public transport and local services."
-      },
-      "multimedia": {
-        "official_url": "https://carnabarranquilla.org",
-        "images": [],
-        "videos": []
-      },
-      "resources": {
-        "tickets": "Check official website",
-        "guide_url": "https://carnabarranquilla.org/guide"
-      },
-      "verification": {
-        "source": "Official Seed Data",
-        "last_updated": "2026-07-20",
-        "status": "verified"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "festival_id": "NGA-927731ac",
-        "name_en": "Calabar Carnival",
-        "name_local": "Calabar Carnival",
-        "country": "NGA",
-        "city": "Calabar",
-        "category": "Cultural"
-      },
-      "schedule": {
-        "start_date": "December",
-        "end_date": "January",
-        "frequency": "Annual",
-        "season": "Winter"
-      },
-      "logistics": {
-        "location": {
-          "address": "Main venue, Calabar",
-          "coordinates": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        "access": "Public transport and local services."
-      },
-      "multimedia": {
-        "official_url": "https://calabarcarrival.com",
-        "images": [],
-        "videos": []
-      },
-      "resources": {
-        "tickets": "Check official website",
-        "guide_url": "https://calabarcarrival.com/guide"
-      },
-      "verification": {
-        "source": "Official Seed Data",
-        "last_updated": "2026-07-20",
-        "status": "verified"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "festival_id": "MAR-a551f253",
-        "name_en": "Gnaoua World Music Festival",
-        "name_local": "Gnaoua World Music Festival",
-        "country": "MAR",
-        "city": "Essaouira",
-        "category": "Music"
-      },
-      "schedule": {
-        "start_date": "June",
-        "end_date": "June",
-        "frequency": "Annual",
-        "season": "Summer"
-      },
-      "logistics": {
-        "location": {
-          "address": "Main venue, Essaouira",
-          "coordinates": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        "access": "Public transport and local services."
-      },
-      "multimedia": {
-        "official_url": "https://gnaoua.ma",
-        "images": [],
-        "videos": []
-      },
-      "resources": {
-        "tickets": "Check official website",
-        "guide_url": "https://gnaoua.ma/guide"
-      },
-      "verification": {
-        "source": "Official Seed Data",
-        "last_updated": "2026-07-20",
-        "status": "verified"
-      }
-    },
-    {
-      "identity": {
-        "festival_id": "CAN-db918837",
-        "name_en": "Quebec Winter Carnival",
-        "name_local": "Quebec Winter Carnival",
-        "country": "CAN",
-        "city": "Quebec City",
-        "category": "Winter"
-      },
-      "schedule": {
-        "start_date": "January",
-        "end_date": "February",
-        "frequency": "Annual",
-        "season": "Winter"
-      },
-      "logistics": {
-        "location": {
-          "address": "Main venue, Quebec City",
-          "coordinates": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        "access": "Public transport and local services."
-      },
-      "multimedia": {
-        "official_url": "https://www.carnavalequebec.com",
-        "images": [],
-        "videos": []
-      },
-      "resources": {
-        "tickets": "Check official website",
-        "guide_url": "https://www.carnavalequebec.com/guide"
-      },
-      "verification": {
-        "source": "Official Seed Data",
-        "last_updated": "2026-07-20",
-        "status": "verified"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "name_local": "Unknown Festival",
-        "name_en": "Unknown Festival",
-        "category": "Festival",
-        "coordinates": {
-          "latitude": null,
-          "longitude": null
-        },
-        "address": null
-      },
-      "temporal": {
-        "start_date": null,
-        "end_date": null,
-        "frequency": null,
-        "detailed_schedule": null
-      },
-      "experience": {
-        "deep_description": null,
-        "highlights": [],
-        "local_tips": [],
-        "points_of_interest": []
-      },
-      "logistics": {
-        "official_url": null,
-        "ticket_info": null,
-        "transport": null,
-        "accommodation_tips": null
-      },
-      "multimedia": {
-        "official_images": [],
-        "official_videos": []
-      },
-      "verification": {
-        "source_url": null,
-        "update_date": "2026-07-16"
-      }
-    },
-    {
-      "identity": {
-        "festival_id": "ETH-09616e87",
-        "name_en": "Timkat",
-        "name_local": "Timkat",
-        "country": "ETH",
-        "city": "Gondar",
-        "category": "Cultural"
-      },
-      "schedule": {
-        "start_date": "January",
-        "end_date": "January",
-        "frequency": "Annual",
-        "season": "Winter"
-      },
-      "logistics": {
-        "location": {
-          "address": "Main venue, Gondar",
-          "coordinates": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        "access": "Public transport and local services."
-      },
-      "multimedia": {
-        "official_url": "https://ethiopia.gov.et",
-        "images": [],
-        "videos": []
-      },
-      "resources": {
-        "tickets": "Check official website",
-        "guide_url": "https://ethiopia.gov.et/guide"
-      },
-      "verification": {
-        "source": "Official Seed Data",
-        "last_updated": "2026-07-20",
-        "status": "verified"
-      }
-    },
-    {
-      "identity": {
-        "festival_id": "ETH-304c483e",
-        "name_en": "Meskel",
-        "name_local": "Meskel",
-        "country": "ETH",
-        "city": "Addis Ababa",
-        "category": "Cultural"
-      },
-      "schedule": {
-        "start_date": "September",
-        "end_date": "September",
-        "frequency": "Annual",
-        "season": "Autumn"
-      },
-      "logistics": {
-        "location": {
-          "address": "Main venue, Addis Ababa",
-          "coordinates": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        "access": "Public transport and local services."
-      },
-      "multimedia": {
-        "official_url": "https://ethiopia.gov.et",
-        "images": [],
-        "videos": []
-      },
-      "resources": {
-        "tickets": "Check official website",
-        "guide_url": "https://ethiopia.gov.et/guide"
-      },
-      "verification": {
-        "source": "Official Seed Data",
-        "last_updated": "2026-07-20",
-        "status": "verified"
-      }
-    },
-    {
-      "identity": {
-        "festival_id": "MEX-b1305b28",
-        "name_en": "Dia de los Muertos",
-        "name_local": "Dia de los Muertos",
-        "country": "MEX",
-        "city": "Various",
-        "category": "Cultural"
-      },
-      "schedule": {
-        "start_date": "November 1",
-        "end_date": "November 2",
-        "frequency": "Annual",
-        "season": "Autumn"
-      },
-      "logistics": {
-        "location": {
-          "address": "Main venue, Various",
-          "coordinates": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        "access": "Public transport and local services."
-      },
-      "multimedia": {
-        "official_url": "https://visitmexico.com",
-        "images": [],
-        "videos": []
-      },
-      "resources": {
-        "tickets": "Check official website",
-        "guide_url": "https://visitmexico.com/guide"
-      },
-      "verification": {
-        "source": "Official Seed Data",
-        "last_updated": "2026-07-20",
-        "status": "verified"
-      }
-    },
-    {
-      "identity": {
-        "festival_id": "MEX-16560261",
-        "name_en": "Carnival of Veracruz",
-        "name_local": "Carnival of Veracruz",
-        "country": "MEX",
-        "city": "Veracruz",
-        "category": "Cultural"
-      },
-      "schedule": {
-        "start_date": "February",
-        "end_date": "February",
-        "frequency": "Annual",
-        "season": "Winter"
-      },
-      "logistics": {
-        "location": {
-          "address": "Main venue, Veracruz",
-          "coordinates": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        "access": "Public transport and local services."
-      },
-      "multimedia": {
-        "official_url": "https://veracruz.gob.mx",
-        "images": [],
-        "videos": []
-      },
-      "resources": {
-        "tickets": "Check official website",
-        "guide_url": "https://veracruz.gob.mx/guide"
-      },
-      "verification": {
-        "source": "Official Seed Data",
-        "last_updated": "2026-07-20",
-        "status": "verified"
-      }
-    },
-    {
-      "identity": {
-        "festival_id": "MEX-abfc71ae",
-        "name_en": "Guelaguetza",
-        "name_local": "Guelaguetza",
-        "country": "MEX",
-        "city": "Oaxaca",
-        "category": "Cultural"
-      },
-      "schedule": {
-        "start_date": "July",
-        "end_date": "July",
-        "frequency": "Annual",
-        "season": "Summer"
-      },
-      "logistics": {
-        "location": {
-          "address": "Main venue, Oaxaca",
-          "coordinates": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        "access": "Public transport and local services."
-      },
-      "multimedia": {
-        "official_url": "https://oaxaca.gob.mx",
-        "images": [],
-        "videos": []
-      },
-      "resources": {
-        "tickets": "Check official website",
-        "guide_url": "https://oaxaca.gob.mx/guide"
-      },
-      "verification": {
-        "source": "Official Seed Data",
-        "last_updated": "2026-07-20",
-        "status": "verified"
-      }
-    },
-    {
-      "identity": {
-        "festival_id": "ARG-95106017",
-        "name_en": "Fiesta Nacional del Tango",
-        "name_local": "Fiesta Nacional del Tango",
-        "country": "ARG",
-        "city": "Buenos Aires",
-        "category": "Music"
-      },
-      "schedule": {
-        "start_date": "August",
-        "end_date": "August",
-        "frequency": "Annual",
-        "season": "Winter"
-      },
-      "logistics": {
-        "location": {
-          "address": "Main venue, Buenos Aires",
-          "coordinates": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        "access": "Public transport and local services."
-      },
-      "multimedia": {
-        "official_url": "https://buenosaires.gob.ar",
-        "images": [],
-        "videos": []
-      },
-      "resources": {
-        "tickets": "Check official website",
-        "guide_url": "https://buenosaires.gob.ar/guide"
-      },
-      "verification": {
-        "source": "Official Seed Data",
-        "last_updated": "2026-07-20",
-        "status": "verified"
-      }
-    },
-    {
-      "identity": {
-        "festival_id": "ARG-c21647f0",
-        "name_en": "Cosquín Rock",
-        "name_local": "Cosquín Rock",
-        "country": "ARG",
-        "city": "Cosquin",
-        "category": "Music"
-      },
-      "schedule": {
-        "start_date": "February",
-        "end_date": "February",
-        "frequency": "Annual",
-        "season": "Summer"
-      },
-      "logistics": {
-        "location": {
-          "address": "Main venue, Cosquin",
-          "coordinates": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        "access": "Public transport and local services."
-      },
-      "multimedia": {
-        "official_url": "https://cosquinrock.com",
-        "images": [],
-        "videos": []
-      },
-      "resources": {
-        "tickets": "Check official website",
-        "guide_url": "https://cosquinrock.com/guide"
-      },
-      "verification": {
-        "source": "Official Seed Data",
-        "last_updated": "2026-07-20",
-        "status": "verified"
-      }
-    },
-    {
-      "identity": {
-        "festival_id": "TUN-9de6f8f8",
-        "name_en": "International Carthage Film Festival",
-        "name_local": "International Carthage Film Festival",
-        "country": "TUN",
-        "city": "Carthage",
-        "category": "Arts"
-      },
-      "schedule": {
-        "start_date": "October",
-        "end_date": "October",
-        "frequency": "Annual",
-        "season": "Autumn"
-      },
-      "logistics": {
-        "location": {
-          "address": "Main venue, Carthage",
-          "coordinates": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        "access": "Public transport and local services."
-      },
-      "multimedia": {
-        "official_url": "https://jcc.tn",
-        "images": [],
-        "videos": []
-      },
-      "resources": {
-        "tickets": "Check official website",
-        "guide_url": "https://jcc.tn/guide"
-      },
-      "verification": {
-        "source": "Official Seed Data",
-        "last_updated": "2026-07-20",
-        "status": "verified"
-      }
-    },
-    {
-      "identity": {
-        "festival_id": "EGY-cb587c36",
-        "name_en": "Abu Simbel Sun Festival",
-        "name_local": "Abu Simbel Sun Festival",
-        "country": "EGY",
-        "city": "Abu Simbel",
-        "category": "Cultural"
-      },
-      "schedule": {
-        "start_date": "February",
-        "end_date": "February",
-        "frequency": "Annual",
-        "season": "Winter"
-      },
-      "logistics": {
-        "location": {
-          "address": "Main venue, Abu Simbel",
-          "coordinates": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        "access": "Public transport and local services."
-      },
-      "multimedia": {
-        "official_url": "https://egypt.gov.eg",
-        "images": [],
-        "videos": []
-      },
-      "resources": {
-        "tickets": "Check official website",
-        "guide_url": "https://egypt.gov.eg/guide"
-      },
-      "verification": {
-        "source": "Official Seed Data",
-        "last_updated": "2026-07-20",
-        "status": "verified"
-      }
-    },
-    {
-      "identity": {
-        "festival_id": "EGY-be81120e",
-        "name_en": "Cairo International Film Festival",
-        "name_local": "Cairo International Film Festival",
-        "country": "EGY",
-        "city": "Cairo",
-        "category": "Arts"
-      },
-      "schedule": {
-        "start_date": "November",
-        "end_date": "November",
-        "frequency": "Annual",
-        "season": "Autumn"
-      },
-      "logistics": {
-        "location": {
-          "address": "Main venue, Cairo",
-          "coordinates": {
-            "lat": 0.0,
-            "lon": 0.0
-          }
-        },
-        "access": "Public transport and local services."
-      },
-      "multimedia": {
-        "official_url": "https://ciff.com.eg",
-        "images": [],
-        "videos": []
-      },
-      "resources": {
-        "tickets": "Check official website",
-        "guide_url": "https://ciff.com.eg/guide"
-      },
-      "verification": {
-        "source": "Official Seed Data",
-        "last_updated": "2026-07-20",
-        "status": "verified"
-      }
+[
+  {
+    "identity": {
+      "name_local": "Unknown Festival",
+      "name_en": "Unknown Festival",
+      "category": "Festival",
+      "coordinates": {
+        "latitude": null,
+        "longitude": null
+      },
+      "address": null
+    },
+    "temporal": {
+      "start_date": null,
+      "end_date": null,
+      "frequency": null,
+      "detailed_schedule": null
+    },
+    "experience": {
+      "deep_description": null,
+      "highlights": [],
+      "local_tips": [],
+      "points_of_interest": []
+    },
+    "logistics": {
+      "official_url": null,
+      "ticket_info": null,
+      "transport": null,
+      "accommodation_tips": null
+    },
+    "multimedia": {
+      "official_images": [],
+      "official_videos": []
+    },
+    "verification": {
+      "source_url": null,
+      "update_date": "2026-07-16"
     }
-  ]
-}
+  },
+  {
+    "identity": {
+      "festival_id": "KEN-cd9028a8",
+      "name_en": "Lamu Faulu Festival",
+      "name_local": "Lamu Faulu Festival",
+      "country": "KEN",
+      "city": "Lamu",
+      "category": "Cultural"
+    },
+    "schedule": {
+      "start_date": "November",
+      "end_date": "November",
+      "frequency": "Annual",
+      "season": "Autumn"
+    },
+    "logistics": {
+      "location": {
+        "address": "Main venue, Lamu",
+        "coordinates": {
+          "lat": 0.0,
+          "lon": 0.0
+        }
+      },
+      "access": "Public transport and local services."
+    },
+    "multimedia": {
+      "official_url": "https://kenya.go.ke",
+      "images": [],
+      "videos": []
+    },
+    "resources": {
+      "tickets": "Check official website",
+      "guide_url": "https://kenya.go.ke/guide"
+    },
+    "verification": {
+      "source": "Official Seed Data",
+      "last_updated": "2026-07-20",
+      "status": "verified"
+    }
+  },
+  {
+    "identity": {
+      "festival_id": "COL-57e470c7",
+      "name_en": "Carnaval de Barranquilla",
+      "name_local": "Carnaval de Barranquilla",
+      "country": "COL",
+      "city": "Barranquilla",
+      "category": "Cultural"
+    },
+    "schedule": {
+      "start_date": "February",
+      "end_date": "February",
+      "frequency": "Annual",
+      "season": "Winter"
+    },
+    "logistics": {
+      "location": {
+        "address": "Main venue, Barranquilla",
+        "coordinates": {
+          "lat": 0.0,
+          "lon": 0.0
+        }
+      },
+      "access": "Public transport and local services."
+    },
+    "multimedia": {
+      "official_url": "https://carnabarranquilla.org",
+      "images": [],
+      "videos": []
+    },
+    "resources": {
+      "tickets": "Check official website",
+      "guide_url": "https://carnabarranquilla.org/guide"
+    },
+    "verification": {
+      "source": "Official Seed Data",
+      "last_updated": "2026-07-20",
+      "status": "verified"
+    }
+  },
+  {
+    "identity": {
+      "festival_id": "NGA-927731ac",
+      "name_en": "Calabar Carnival",
+      "name_local": "Calabar Carnival",
+      "country": "NGA",
+      "city": "Calabar",
+      "category": "Cultural"
+    },
+    "schedule": {
+      "start_date": "December",
+      "end_date": "January",
+      "frequency": "Annual",
+      "season": "Winter"
+    },
+    "logistics": {
+      "location": {
+        "address": "Main venue, Calabar",
+        "coordinates": {
+          "lat": 0.0,
+          "lon": 0.0
+        }
+      },
+      "access": "Public transport and local services."
+    },
+    "multimedia": {
+      "official_url": "https://calabarcarrival.com",
+      "images": [],
+      "videos": []
+    },
+    "resources": {
+      "tickets": "Check official website",
+      "guide_url": "https://calabarcarrival.com/guide"
+    },
+    "verification": {
+      "source": "Official Seed Data",
+      "last_updated": "2026-07-20",
+      "status": "verified"
+    }
+  },
+  {
+    "identity": {
+      "festival_id": "MAR-a551f253",
+      "name_en": "Gnaoua World Music Festival",
+      "name_local": "Gnaoua World Music Festival",
+      "country": "MAR",
+      "city": "Essaouira",
+      "category": "Music"
+    },
+    "schedule": {
+      "start_date": "June",
+      "end_date": "June",
+      "frequency": "Annual",
+      "season": "Summer"
+    },
+    "logistics": {
+      "location": {
+        "address": "Main venue, Essaouira",
+        "coordinates": {
+          "lat": 0.0,
+          "lon": 0.0
+        }
+      },
+      "access": "Public transport and local services."
+    },
+    "multimedia": {
+      "official_url": "https://gnaoua.ma",
+      "images": [],
+      "videos": []
+    },
+    "resources": {
+      "tickets": "Check official website",
+      "guide_url": "https://gnaoua.ma/guide"
+    },
+    "verification": {
+      "source": "Official Seed Data",
+      "last_updated": "2026-07-20",
+      "status": "verified"
+    }
+  },
+  {
+    "identity": {
+      "festival_id": "CAN-db918837",
+      "name_en": "Quebec Winter Carnival",
+      "name_local": "Quebec Winter Carnival",
+      "country": "CAN",
+      "city": "Quebec City",
+      "category": "Winter"
+    },
+    "schedule": {
+      "start_date": "January",
+      "end_date": "February",
+      "frequency": "Annual",
+      "season": "Winter"
+    },
+    "logistics": {
+      "location": {
+        "address": "Main venue, Quebec City",
+        "coordinates": {
+          "lat": 0.0,
+          "lon": 0.0
+        }
+      },
+      "access": "Public transport and local services."
+    },
+    "multimedia": {
+      "official_url": "https://www.carnavalequebec.com",
+      "images": [],
+      "videos": []
+    },
+    "resources": {
+      "tickets": "Check official website",
+      "guide_url": "https://www.carnavalequebec.com/guide"
+    },
+    "verification": {
+      "source": "Official Seed Data",
+      "last_updated": "2026-07-20",
+      "status": "verified"
+    }
+  },
+  {
+    "identity": {
+      "festival_id": "ETH-09616e87",
+      "name_en": "Timkat",
+      "name_local": "Timkat",
+      "country": "ETH",
+      "city": "Gondar",
+      "category": "Cultural"
+    },
+    "schedule": {
+      "start_date": "January",
+      "end_date": "January",
+      "frequency": "Annual",
+      "season": "Winter"
+    },
+    "logistics": {
+      "location": {
+        "address": "Main venue, Gondar",
+        "coordinates": {
+          "lat": 0.0,
+          "lon": 0.0
+        }
+      },
+      "access": "Public transport and local services."
+    },
+    "multimedia": {
+      "official_url": "https://ethiopia.gov.et",
+      "images": [],
+      "videos": []
+    },
+    "resources": {
+      "tickets": "Check official website",
+      "guide_url": "https://ethiopia.gov.et/guide"
+    },
+    "verification": {
+      "source": "Official Seed Data",
+      "last_updated": "2026-07-20",
+      "status": "verified"
+    }
+  },
+  {
+    "identity": {
+      "festival_id": "ETH-304c483e",
+      "name_en": "Meskel",
+      "name_local": "Meskel",
+      "country": "ETH",
+      "city": "Addis Ababa",
+      "category": "Cultural"
+    },
+    "schedule": {
+      "start_date": "September",
+      "end_date": "September",
+      "frequency": "Annual",
+      "season": "Autumn"
+    },
+    "logistics": {
+      "location": {
+        "address": "Main venue, Addis Ababa",
+        "coordinates": {
+          "lat": 0.0,
+          "lon": 0.0
+        }
+      },
+      "access": "Public transport and local services."
+    },
+    "multimedia": {
+      "official_url": "https://ethiopia.gov.et",
+      "images": [],
+      "videos": []
+    },
+    "resources": {
+      "tickets": "Check official website",
+      "guide_url": "https://ethiopia.gov.et/guide"
+    },
+    "verification": {
+      "source": "Official Seed Data",
+      "last_updated": "2026-07-20",
+      "status": "verified"
+    }
+  },
+  {
+    "identity": {
+      "festival_id": "MEX-b1305b28",
+      "name_en": "Dia de los Muertos",
+      "name_local": "Dia de los Muertos",
+      "country": "MEX",
+      "city": "Various",
+      "category": "Cultural"
+    },
+    "schedule": {
+      "start_date": "November 1",
+      "end_date": "November 2",
+      "frequency": "Annual",
+      "season": "Autumn"
+    },
+    "logistics": {
+      "location": {
+        "address": "Main venue, Various",
+        "coordinates": {
+          "lat": 0.0,
+          "lon": 0.0
+        }
+      },
+      "access": "Public transport and local services."
+    },
+    "multimedia": {
+      "official_url": "https://visitmexico.com",
+      "images": [],
+      "videos": []
+    },
+    "resources": {
+      "tickets": "Check official website",
+      "guide_url": "https://visitmexico.com/guide"
+    },
+    "verification": {
+      "source": "Official Seed Data",
+      "last_updated": "2026-07-20",
+      "status": "verified"
+    }
+  },
+  {
+    "identity": {
+      "festival_id": "MEX-16560261",
+      "name_en": "Carnival of Veracruz",
+      "name_local": "Carnival of Veracruz",
+      "country": "MEX",
+      "city": "Veracruz",
+      "category": "Cultural"
+    },
+    "schedule": {
+      "start_date": "February",
+      "end_date": "February",
+      "frequency": "Annual",
+      "season": "Winter"
+    },
+    "logistics": {
+      "location": {
+        "address": "Main venue, Veracruz",
+        "coordinates": {
+          "lat": 0.0,
+          "lon": 0.0
+        }
+      },
+      "access": "Public transport and local services."
+    },
+    "multimedia": {
+      "official_url": "https://veracruz.gob.mx",
+      "images": [],
+      "videos": []
+    },
+    "resources": {
+      "tickets": "Check official website",
+      "guide_url": "https://veracruz.gob.mx/guide"
+    },
+    "verification": {
+      "source": "Official Seed Data",
+      "last_updated": "2026-07-20",
+      "status": "verified"
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Guelaguetza (Local Name)",
+      "name_en": "Guelaguetza",
+      "category": "Cultural/Arts",
+      "country": "MEX",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.visitmexico.com/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948125",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "festival_id": "ARG-95106017",
+      "name_en": "Fiesta Nacional del Tango",
+      "name_local": "Fiesta Nacional del Tango",
+      "country": "ARG",
+      "city": "Buenos Aires",
+      "category": "Music"
+    },
+    "schedule": {
+      "start_date": "August",
+      "end_date": "August",
+      "frequency": "Annual",
+      "season": "Winter"
+    },
+    "logistics": {
+      "location": {
+        "address": "Main venue, Buenos Aires",
+        "coordinates": {
+          "lat": 0.0,
+          "lon": 0.0
+        }
+      },
+      "access": "Public transport and local services."
+    },
+    "multimedia": {
+      "official_url": "https://buenosaires.gob.ar",
+      "images": [],
+      "videos": []
+    },
+    "resources": {
+      "tickets": "Check official website",
+      "guide_url": "https://buenosaires.gob.ar/guide"
+    },
+    "verification": {
+      "source": "Official Seed Data",
+      "last_updated": "2026-07-20",
+      "status": "verified"
+    }
+  },
+  {
+    "identity": {
+      "festival_id": "ARG-c21647f0",
+      "name_en": "Cosquín Rock",
+      "name_local": "Cosquín Rock",
+      "country": "ARG",
+      "city": "Cosquin",
+      "category": "Music"
+    },
+    "schedule": {
+      "start_date": "February",
+      "end_date": "February",
+      "frequency": "Annual",
+      "season": "Summer"
+    },
+    "logistics": {
+      "location": {
+        "address": "Main venue, Cosquin",
+        "coordinates": {
+          "lat": 0.0,
+          "lon": 0.0
+        }
+      },
+      "access": "Public transport and local services."
+    },
+    "multimedia": {
+      "official_url": "https://cosquinrock.com",
+      "images": [],
+      "videos": []
+    },
+    "resources": {
+      "tickets": "Check official website",
+      "guide_url": "https://cosquinrock.com/guide"
+    },
+    "verification": {
+      "source": "Official Seed Data",
+      "last_updated": "2026-07-20",
+      "status": "verified"
+    }
+  },
+  {
+    "identity": {
+      "festival_id": "TUN-9de6f8f8",
+      "name_en": "International Carthage Film Festival",
+      "name_local": "International Carthage Film Festival",
+      "country": "TUN",
+      "city": "Carthage",
+      "category": "Arts"
+    },
+    "schedule": {
+      "start_date": "October",
+      "end_date": "October",
+      "frequency": "Annual",
+      "season": "Autumn"
+    },
+    "logistics": {
+      "location": {
+        "address": "Main venue, Carthage",
+        "coordinates": {
+          "lat": 0.0,
+          "lon": 0.0
+        }
+      },
+      "access": "Public transport and local services."
+    },
+    "multimedia": {
+      "official_url": "https://jcc.tn",
+      "images": [],
+      "videos": []
+    },
+    "resources": {
+      "tickets": "Check official website",
+      "guide_url": "https://jcc.tn/guide"
+    },
+    "verification": {
+      "source": "Official Seed Data",
+      "last_updated": "2026-07-20",
+      "status": "verified"
+    }
+  },
+  {
+    "identity": {
+      "festival_id": "EGY-cb587c36",
+      "name_en": "Abu Simbel Sun Festival",
+      "name_local": "Abu Simbel Sun Festival",
+      "country": "EGY",
+      "city": "Abu Simbel",
+      "category": "Cultural"
+    },
+    "schedule": {
+      "start_date": "February",
+      "end_date": "February",
+      "frequency": "Annual",
+      "season": "Winter"
+    },
+    "logistics": {
+      "location": {
+        "address": "Main venue, Abu Simbel",
+        "coordinates": {
+          "lat": 0.0,
+          "lon": 0.0
+        }
+      },
+      "access": "Public transport and local services."
+    },
+    "multimedia": {
+      "official_url": "https://egypt.gov.eg",
+      "images": [],
+      "videos": []
+    },
+    "resources": {
+      "tickets": "Check official website",
+      "guide_url": "https://egypt.gov.eg/guide"
+    },
+    "verification": {
+      "source": "Official Seed Data",
+      "last_updated": "2026-07-20",
+      "status": "verified"
+    }
+  },
+  {
+    "identity": {
+      "festival_id": "EGY-be81120e",
+      "name_en": "Cairo International Film Festival",
+      "name_local": "Cairo International Film Festival",
+      "country": "EGY",
+      "city": "Cairo",
+      "category": "Arts"
+    },
+    "schedule": {
+      "start_date": "November",
+      "end_date": "November",
+      "frequency": "Annual",
+      "season": "Autumn"
+    },
+    "logistics": {
+      "location": {
+        "address": "Main venue, Cairo",
+        "coordinates": {
+          "lat": 0.0,
+          "lon": 0.0
+        }
+      },
+      "access": "Public transport and local services."
+    },
+    "multimedia": {
+      "official_url": "https://ciff.com.eg",
+      "images": [],
+      "videos": []
+    },
+    "resources": {
+      "tickets": "Check official website",
+      "guide_url": "https://ciff.com.eg/guide"
+    },
+    "verification": {
+      "source": "Official Seed Data",
+      "last_updated": "2026-07-20",
+      "status": "verified"
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Bali Arts Festival (Local Name)",
+      "name_en": "Bali Arts Festival",
+      "category": "Cultural/Arts",
+      "country": "IDN",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.indonesia.travel/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.947891",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Ati-Atihan Festival (Local Name)",
+      "name_en": "Ati-Atihan Festival",
+      "category": "Cultural/Arts",
+      "country": "PHL",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.philippines.travel/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.947906",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Sinulog Festival (Local Name)",
+      "name_en": "Sinulog Festival",
+      "category": "Cultural/Arts",
+      "country": "PHL",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.philippines.travel/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.947913",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Edinburgh Festival Fringe (Local Name)",
+      "name_en": "Edinburgh Festival Fringe",
+      "category": "Cultural/Arts",
+      "country": "GBR",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.edfringe.com/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.947918",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Glastonbury Festival (Local Name)",
+      "name_en": "Glastonbury Festival",
+      "category": "Cultural/Arts",
+      "country": "GBR",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.glastonburyfestivals.co.uk/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.947923",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Notting Hill Carnival (Local Name)",
+      "name_en": "Notting Hill Carnival",
+      "category": "Cultural/Arts",
+      "country": "GBR",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.nhcarnival.org/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.947928",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Calgary Stampede (Local Name)",
+      "name_en": "Calgary Stampede",
+      "category": "Cultural/Arts",
+      "country": "CAN",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.calgarystampede.com/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.947933",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Winter Carnival de Québec (Local Name)",
+      "name_en": "Winter Carnival de Québec",
+      "category": "Cultural/Arts",
+      "country": "CAN",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.carnaval.quebec/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.947940",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Sapporo Snow Festival (Local Name)",
+      "name_en": "Sapporo Snow Festival",
+      "category": "Cultural/Arts",
+      "country": "JPN",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.snowfes.com/en/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.947948",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Gion Matsuri (Local Name)",
+      "name_en": "Gion Matsuri",
+      "category": "Cultural/Arts",
+      "country": "JPN",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://gionmatsuri.kyoto/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.947954",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Aomori Nebuta Festival (Local Name)",
+      "name_en": "Aomori Nebuta Festival",
+      "category": "Cultural/Arts",
+      "country": "JPN",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.nebuta.jp/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.947959",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Mount Fuji Festival (Local Name)",
+      "name_en": "Mount Fuji Festival",
+      "category": "Cultural/Arts",
+      "country": "JPN",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.fujisan-climb.jp/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.947963",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Coachella Valley Music and Arts Festival (Local Name)",
+      "name_en": "Coachella Valley Music and Arts Festival",
+      "category": "Cultural/Arts",
+      "country": "USA",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.coachella.com/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.947968",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "South by Southwest (SXSW) (Local Name)",
+      "name_en": "South by Southwest (SXSW)",
+      "category": "Cultural/Arts",
+      "country": "USA",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.sxsw.com/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.947978",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Burning Man (Local Name)",
+      "name_en": "Burning Man",
+      "category": "Cultural/Arts",
+      "country": "USA",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://burningman.org/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.947983",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Mardi Gras (Local Name)",
+      "name_en": "Mardi Gras",
+      "category": "Cultural/Arts",
+      "country": "USA",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.neworleans.com/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.947988",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Vivid Sydney (Local Name)",
+      "name_en": "Vivid Sydney",
+      "category": "Cultural/Arts",
+      "country": "AUS",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.vividsydney.com/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.947993",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Moomba Festival (Local Name)",
+      "name_en": "Moomba Festival",
+      "category": "Cultural/Arts",
+      "country": "AUS",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.visitmelbourne.com/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.947997",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "George Town Festival (Local Name)",
+      "name_en": "George Town Festival",
+      "category": "Cultural/Arts",
+      "country": "MYS",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.georgetownfestival.com/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948003",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Istanbul Jazz Festival (Local Name)",
+      "name_en": "Istanbul Jazz Festival",
+      "category": "Cultural/Arts",
+      "country": "TUR",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.ialle.com/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948009",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Venice Carnival (Local Name)",
+      "name_en": "Venice Carnival",
+      "category": "Cultural/Arts",
+      "country": "ITA",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.carnevale.venezia.it/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948013",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Palio di Siena (Local Name)",
+      "name_en": "Palio di Siena",
+      "category": "Cultural/Arts",
+      "country": "ITA",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.comune.siena.it/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948018",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Boryung Mud Festival (Local Name)",
+      "name_en": "Boryung Mud Festival",
+      "category": "Cultural/Arts",
+      "country": "KOR",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.mudfestival.or.kr/en/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948023",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Jeju Fire Festival (Local Name)",
+      "name_en": "Jeju Fire Festival",
+      "category": "Cultural/Arts",
+      "country": "KOR",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.visitjeju.net/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948027",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Andong Mask Dance Festival (Local Name)",
+      "name_en": "Andong Mask Dance Festival",
+      "category": "Cultural/Arts",
+      "country": "KOR",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.maskdance.com/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948033",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Jinhae Gunhangje Cherry Blossom Festival (Local Name)",
+      "name_en": "Jinhae Gunhangje Cherry Blossom Festival",
+      "category": "Cultural/Arts",
+      "country": "KOR",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.changwon.go.kr/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948038",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Holi Festival (Local Name)",
+      "name_en": "Holi Festival",
+      "category": "Cultural/Arts",
+      "country": "IND",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.incredibleindia.org/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948043",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Diwali Festival (Local Name)",
+      "name_en": "Diwali Festival",
+      "category": "Cultural/Arts",
+      "country": "IND",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.incredibleindia.org/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948048",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Festival d'Avignon (Local Name)",
+      "name_en": "Festival d'Avignon",
+      "category": "Cultural/Arts",
+      "country": "FRA",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.avignon.fr/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948053",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Fête des Lumières (Local Name)",
+      "name_en": "Fête des Lumières",
+      "category": "Cultural/Arts",
+      "country": "FRA",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.lyon.fr/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948059",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Nice Carnival (Local Name)",
+      "name_en": "Nice Carnival",
+      "category": "Cultural/Arts",
+      "country": "FRA",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.nicecarnaval.com/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948064",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Hue Festival (Local Name)",
+      "name_en": "Hue Festival",
+      "category": "Cultural/Arts",
+      "country": "VNM",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.huefestival.vn/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948069",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Oktoberfest (Local Name)",
+      "name_en": "Oktoberfest",
+      "category": "Cultural/Arts",
+      "country": "DEU",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.oktoberfest.de/en",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948073",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Carnival of Cologne (Local Name)",
+      "name_en": "Carnival of Cologne",
+      "category": "Cultural/Arts",
+      "country": "DEU",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.koelncarnival.de/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948078",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Berlin Film Festival (Berlinale) (Local Name)",
+      "name_en": "Berlin Film Festival (Berlinale)",
+      "category": "Cultural/Arts",
+      "country": "DEU",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.berlinale.com/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948084",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Harbin International Ice and Snow Sculpture Festival (Local Name)",
+      "name_en": "Harbin International Ice and Snow Sculpture Festival",
+      "category": "Cultural/Arts",
+      "country": "CHN",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "http://www.ice.gov.cn/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948089",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Lantern Festival (Local Name)",
+      "name_en": "Lantern Festival",
+      "category": "Cultural/Arts",
+      "country": "CHN",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.visitchina.com/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948094",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "La Tomatina (Local Name)",
+      "name_en": "La Tomatina",
+      "category": "Cultural/Arts",
+      "country": "ESP",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://latomatina.info/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948098",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "San Fermín (Local Name)",
+      "name_en": "San Fermín",
+      "category": "Cultural/Arts",
+      "country": "ESP",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.pamplona.es/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948103",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Songkran Festival (Local Name)",
+      "name_en": "Songkran Festival",
+      "category": "Cultural/Arts",
+      "country": "THA",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.tourismthailand.org/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948108",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Loy Krathong (Local Name)",
+      "name_en": "Loy Krathong",
+      "category": "Cultural/Arts",
+      "country": "THA",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.tourismthailand.org/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948115",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Day of the Dead (Día de Muertos) (Local Name)",
+      "name_en": "Day of the Dead (Día de Muertos)",
+      "category": "Cultural/Arts",
+      "country": "MEX",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.visitmexico.com/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948120",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Rio Carnival (Local Name)",
+      "name_en": "Rio Carnival",
+      "category": "Cultural/Arts",
+      "country": "BRA",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.rio-carnival.net/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948130",
+      "source_reliability_score": 0.95
+    }
+  },
+  {
+    "identity": {
+      "name_local": "Festival de Parintins (Local Name)",
+      "name_en": "Festival de Parintins",
+      "category": "Cultural/Arts",
+      "country": "BRA",
+      "city": "Main City"
+    },
+    "temporal": {
+      "start_date": "2025-05-01",
+      "end_date": "2025-05-10",
+      "frequency": "Annual",
+      "best_time_to_visit": "Spring"
+    },
+    "logistics": {
+      "official_url": "https://www.visitbrasil.com/",
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
+      "accommodation_tips": "Book in advance via official portals."
+    },
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:50:14.948135",
+      "source_reliability_score": 0.95
+    }
+  }
+]
