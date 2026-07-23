@@ -1,0 +1,36 @@
+system:
+  name: "FESTA-CORE-AUTOMATION"
+  version: "2.0.0"
+  zero_mock_policy: true
+  workspace_root: "/home/aiagent/hyeongryeol_workspace"
+
+pipeline_settings:
+  stages:
+    - name: "seed_collection"
+      enabled: true
+      target_tier: 1
+    - name: "truth_verification"
+      enabled: true
+      min_required_fields: ["name_en", "source_url", "country"]
+    - name: "deep_enrichment"
+      enabled: true
+      schema: "SDS_v2.0"
+    - name: "master_merge"
+      enabled: true
+      output_file: "festivals_master.json"
+    - name: "live_publish"
+      enabled: true
+      repo_path: "/home/aiagent/hyeongryeol_workspace"
+      branch: "main"
+
+targets:
+  tier_1: ["USA", "JPN", "KOR", "DEU", "FRA", "GBR", "CHN", "ITA", "ESP", "CAN"]
+  tier_2: ["BRA", "AUS", "IND", "MEX", "IDN", "TUR", "VNM", "THA", "MYS", "PHL"]
+  
+sds_v2_schema:
+  required_fields:
+    - identity: ["name_local", "name_en", "category", "country", "city"]
+    - temporal: ["start_date", "end_date", "frequency", "best_time_to_visit"]
+    - logistics: ["official_url", "gps_coords", "transport_tips", "accommodation_tips"]
+    - experience: ["top_highlights", "local_insider_tips", "essential_gear"]
+    - verification: ["last_updated", "source_reliability_score"]

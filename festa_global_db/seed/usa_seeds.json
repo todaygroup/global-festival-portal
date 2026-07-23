@@ -1,0 +1,22 @@
+[
+  {
+    "name_en": "Coachella Valley Music and Arts Festival",
+    "source_url": "https://www.coachella.com/",
+    "country": "USA"
+  },
+  {
+    "name_en": "South by Southwest (SXSW)",
+    "source_url": "https://www.sxsw.com/",
+    "country": "USA"
+  },
+  {
+    "name_en": "Burning Man",
+    "source_url": "https://burningman.org/",
+    "country": "USA"
+  },
+  {
+    "name_en": "Mardi Gras",
+    "source_url": "https://www.neworleans.com/",
+    "country": "USA"
+  }
+]

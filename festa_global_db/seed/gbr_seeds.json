@@ -1,0 +1,17 @@
+[
+  {
+    "name_en": "Edinburgh Festival Fringe",
+    "source_url": "https://www.edfringe.com/",
+    "country": "GBR"
+  },
+  {
+    "name_en": "Glastonbury Festival",
+    "source_url": "https://www.glastonburyfestivals.co.uk/",
+    "country": "GBR"
+  },
+  {
+    "name_en": "Notting Hill Carnival",
+    "source_url": "https://www.nhcarnival.org/",
+    "country": "GBR"
+  }
+]

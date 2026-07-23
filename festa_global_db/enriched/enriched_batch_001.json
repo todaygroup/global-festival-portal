@@ -1,0 +1,74 @@
+[
+  {
+    "identity": {
+      "name_local": "Oktoberfest",
+      "name_en": "Oktoberfest",
+      "category": "Beer Festival",
+      "country": "DEU",
+      "city": "Munich"
+    },
+    "temporal": {
+      "start_date": "2024-09-21",
+      "end_date": "2024-10-06",
+      "frequency": "Annual",
+      "best_time_to_visit": "Late September"
+    },
+    "logistics": {
+      "official_url": "https://oktoberfest.de",
+      "gps_coords": "48.1351, 11.5583",
+      "transport_tips": "Use MVV public transport; avoid driving.",
+      "accommodation_tips": "Book hotels in Munich 6 months in advance."
+    },
+    "experience": {
+      "top_highlights": [
+        "Beer Tents",
+        "Parades",
+        "Traditional Costumes"
+      ],
+      "local_insider_tips": "Visit the Oide Wiesn area for a more traditional experience.",
+      "essential_gear": [
+        "Dirndl/Lederhosen"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:45:00.237626",
+      "source_reliability_score": 0.98
+    }
+  },
+  {
+    "identity": {
+      "name_local": "桜祭り",
+      "name_en": "Cherry Blossom Fest",
+      "category": "Nature/Floral",
+      "country": "JPN",
+      "city": "Tokyo"
+    },
+    "temporal": {
+      "start_date": "TBD",
+      "end_date": "TBD",
+      "frequency": "Annual",
+      "best_time_to_visit": "Late March"
+    },
+    "logistics": {
+      "official_url": "https://cherryblossom.jp",
+      "gps_coords": "35.6895, 139.6917",
+      "transport_tips": "JR East trains are best.",
+      "accommodation_tips": "Stay near Ueno or Shinjuku."
+    },
+    "experience": {
+      "top_highlights": [
+        "Hanami parties",
+        "Illuminated trees"
+      ],
+      "local_insider_tips": "Try the Sakura-themed snacks from street vendors.",
+      "essential_gear": [
+        "Comfortable walking shoes",
+        "Camera"
+      ]
+    },
+    "verification": {
+      "last_updated": "2026-07-23T13:45:00.237639",
+      "source_reliability_score": 0.95
+    }
+  }
+]

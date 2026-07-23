@@ -1,0 +1,227 @@
+[
+  {
+    "name_en": "Bali Arts Festival",
+    "source_url": "https://www.indonesia.travel/",
+    "country": "IDN"
+  },
+  {
+    "name_en": "Ati-Atihan Festival",
+    "source_url": "https://www.philippines.travel/",
+    "country": "PHL"
+  },
+  {
+    "name_en": "Sinulog Festival",
+    "source_url": "https://www.philippines.travel/",
+    "country": "PHL"
+  },
+  {
+    "name_en": "Edinburgh Festival Fringe",
+    "source_url": "https://www.edfringe.com/",
+    "country": "GBR"
+  },
+  {
+    "name_en": "Glastonbury Festival",
+    "source_url": "https://www.glastonburyfestivals.co.uk/",
+    "country": "GBR"
+  },
+  {
+    "name_en": "Notting Hill Carnival",
+    "source_url": "https://www.nhcarnival.org/",
+    "country": "GBR"
+  },
+  {
+    "name_en": "Calgary Stampede",
+    "source_url": "https://www.calgarystampede.com/",
+    "country": "CAN"
+  },
+  {
+    "name_en": "Winter Carnival de Québec",
+    "source_url": "https://www.carnaval.quebec/",
+    "country": "CAN"
+  },
+  {
+    "name_en": "Sapporo Snow Festival",
+    "source_url": "https://www.snowfes.com/en/",
+    "country": "JPN"
+  },
+  {
+    "name_en": "Gion Matsuri",
+    "source_url": "https://gionmatsuri.kyoto/",
+    "country": "JPN"
+  },
+  {
+    "name_en": "Aomori Nebuta Festival",
+    "source_url": "https://www.nebuta.jp/",
+    "country": "JPN"
+  },
+  {
+    "name_en": "Mount Fuji Festival",
+    "source_url": "https://www.fujisan-climb.jp/",
+    "country": "JPN"
+  },
+  {
+    "name_en": "Coachella Valley Music and Arts Festival",
+    "source_url": "https://www.coachella.com/",
+    "country": "USA"
+  },
+  {
+    "name_en": "South by Southwest (SXSW)",
+    "source_url": "https://www.sxsw.com/",
+    "country": "USA"
+  },
+  {
+    "name_en": "Burning Man",
+    "source_url": "https://burningman.org/",
+    "country": "USA"
+  },
+  {
+    "name_en": "Mardi Gras",
+    "source_url": "https://www.neworleans.com/",
+    "country": "USA"
+  },
+  {
+    "name_en": "Vivid Sydney",
+    "source_url": "https://www.vividsydney.com/",
+    "country": "AUS"
+  },
+  {
+    "name_en": "Moomba Festival",
+    "source_url": "https://www.visitmelbourne.com/",
+    "country": "AUS"
+  },
+  {
+    "name_en": "George Town Festival",
+    "source_url": "https://www.georgetownfestival.com/",
+    "country": "MYS"
+  },
+  {
+    "name_en": "Istanbul Jazz Festival",
+    "source_url": "https://www.ialle.com/",
+    "country": "TUR"
+  },
+  {
+    "name_en": "Venice Carnival",
+    "source_url": "https://www.carnevale.venezia.it/",
+    "country": "ITA"
+  },
+  {
+    "name_en": "Palio di Siena",
+    "source_url": "https://www.comune.siena.it/",
+    "country": "ITA"
+  },
+  {
+    "name_en": "Boryung Mud Festival",
+    "source_url": "https://www.mudfestival.or.kr/en/",
+    "country": "KOR"
+  },
+  {
+    "name_en": "Jeju Fire Festival",
+    "source_url": "https://www.visitjeju.net/",
+    "country": "KOR"
+  },
+  {
+    "name_en": "Andong Mask Dance Festival",
+    "source_url": "https://www.maskdance.com/",
+    "country": "KOR"
+  },
+  {
+    "name_en": "Jinhae Gunhangje Cherry Blossom Festival",
+    "source_url": "https://www.changwon.go.kr/",
+    "country": "KOR"
+  },
+  {
+    "name_en": "Holi Festival",
+    "source_url": "https://www.incredibleindia.org/",
+    "country": "IND"
+  },
+  {
+    "name_en": "Diwali Festival",
+    "source_url": "https://www.incredibleindia.org/",
+    "country": "IND"
+  },
+  {
+    "name_en": "Festival d'Avignon",
+    "source_url": "https://www.avignon.fr/",
+    "country": "FRA"
+  },
+  {
+    "name_en": "Fête des Lumières",
+    "source_url": "https://www.lyon.fr/",
+    "country": "FRA"
+  },
+  {
+    "name_en": "Nice Carnival",
+    "source_url": "https://www.nicecarnaval.com/",
+    "country": "FRA"
+  },
+  {
+    "name_en": "Hue Festival",
+    "source_url": "https://www.huefestival.vn/",
+    "country": "VNM"
+  },
+  {
+    "name_en": "Oktoberfest",
+    "source_url": "https://www.oktoberfest.de/en",
+    "country": "DEU"
+  },
+  {
+    "name_en": "Carnival of Cologne",
+    "source_url": "https://www.koelncarnival.de/",
+    "country": "DEU"
+  },
+  {
+    "name_en": "Berlin Film Festival (Berlinale)",
+    "source_url": "https://www.berlinale.com/",
+    "country": "DEU"
+  },
+  {
+    "name_en": "Harbin International Ice and Snow Sculpture Festival",
+    "source_url": "http://www.ice.gov.cn/",
+    "country": "CHN"
+  },
+  {
+    "name_en": "Lantern Festival",
+    "source_url": "https://www.visitchina.com/",
+    "country": "CHN"
+  },
+  {
+    "name_en": "La Tomatina",
+    "source_url": "https://latomatina.info/",
+    "country": "ESP"
+  },
+  {
+    "name_en": "San Fermín",
+    "source_url": "https://www.pamplona.es/",
+    "country": "ESP"
+  },
+  {
+    "name_en": "Songkran Festival",
+    "source_url": "https://www.tourismthailand.org/",
+    "country": "THA"
+  },
+  {
+    "name_en": "Loy Krathong",
+    "source_url": "https://www.tourismthailand.org/",
+    "country": "THA"
+  },
+  {
+    "name_en": "Day of the Dead (Día de Muertos)",
+    "source_url": "https://www.visitmexico.com/",
+    "country": "MEX"
+  },
+  {
+    "name_en": "Guelaguetza",
+    "source_url": "https://www.visitmexico.com/",
+    "country": "MEX"
+  },
+  {
+    "name_en": "Rio Carnival",
+    "source_url": "https://www.rio-carnival.net/",
+    "country": "BRA"
+  },
+  {
+    "name_en": "Festival de Parintins",
+    "source_url": "https://www.visitbrasil.com/",
+    "country": "BRA"
+  }
+]
