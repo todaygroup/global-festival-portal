@@ -384,42 +384,35 @@
       "name_local": "Guelaguetza (Local Name)",
       "name_en": "Guelaguetza",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "MEX",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.visitmexico.com/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833211"
+      "last_updated": "2026-07-24T17:02:28.534870",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -617,42 +610,35 @@
       "name_local": "Bali Arts Festival (Local Name)",
       "name_en": "Bali Arts Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "IDN",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.indonesia.travel/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.832984"
+      "last_updated": "2026-07-24T17:02:28.534636",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -660,42 +646,35 @@
       "name_local": "Ati-Atihan Festival (Local Name)",
       "name_en": "Ati-Atihan Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "PHL",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.philippines.travel/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833001"
+      "last_updated": "2026-07-24T17:02:28.534654",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -703,42 +682,35 @@
       "name_local": "Sinulog Festival (Local Name)",
       "name_en": "Sinulog Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "PHL",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.philippines.travel/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833008"
+      "last_updated": "2026-07-24T17:02:28.534660",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -746,42 +718,35 @@
       "name_local": "Edinburgh Festival Fringe (Local Name)",
       "name_en": "Edinburgh Festival Fringe",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "GBR",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.edfringe.com/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833013"
+      "last_updated": "2026-07-24T17:02:28.534666",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -789,42 +754,35 @@
       "name_local": "Glastonbury Festival (Local Name)",
       "name_en": "Glastonbury Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "GBR",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.glastonburyfestivals.co.uk/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833019"
+      "last_updated": "2026-07-24T17:02:28.534672",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -832,42 +790,35 @@
       "name_local": "Notting Hill Carnival (Local Name)",
       "name_en": "Notting Hill Carnival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "GBR",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.nhcarnival.org/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833024"
+      "last_updated": "2026-07-24T17:02:28.534677",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -875,42 +826,35 @@
       "name_local": "Calgary Stampede (Local Name)",
       "name_en": "Calgary Stampede",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "CAN",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.calgarystampede.com/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833029"
+      "last_updated": "2026-07-24T17:02:28.534682",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -918,42 +862,35 @@
       "name_local": "Winter Carnival de Québec (Local Name)",
       "name_en": "Winter Carnival de Québec",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "CAN",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.carnaval.quebec/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833037"
+      "last_updated": "2026-07-24T17:02:28.534689",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -961,42 +898,35 @@
       "name_local": "Sapporo Snow Festival (Local Name)",
       "name_en": "Sapporo Snow Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "JPN",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.snowfes.com/en/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833046"
+      "last_updated": "2026-07-24T17:02:28.534700",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1004,42 +934,35 @@
       "name_local": "Gion Matsuri (Local Name)",
       "name_en": "Gion Matsuri",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "JPN",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://gionmatsuri.kyoto/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833051"
+      "last_updated": "2026-07-24T17:02:28.534705",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1047,42 +970,35 @@
       "name_local": "Aomori Nebuta Festival (Local Name)",
       "name_en": "Aomori Nebuta Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "JPN",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.nebuta.jp/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833056"
+      "last_updated": "2026-07-24T17:02:28.534710",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1090,42 +1006,35 @@
       "name_local": "Mount Fuji Festival (Local Name)",
       "name_en": "Mount Fuji Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "JPN",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.fujisan-climb.jp/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833061"
+      "last_updated": "2026-07-24T17:02:28.534715",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1133,42 +1042,35 @@
       "name_local": "Coachella Valley Music and Arts Festival (Local Name)",
       "name_en": "Coachella Valley Music and Arts Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "USA",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.coachella.com/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833066"
+      "last_updated": "2026-07-24T17:02:28.534720",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1176,42 +1078,35 @@
       "name_local": "South by Southwest (SXSW) (Local Name)",
       "name_en": "South by Southwest (SXSW)",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "USA",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.sxsw.com/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833072"
+      "last_updated": "2026-07-24T17:02:28.534725",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1219,42 +1114,35 @@
       "name_local": "Burning Man (Local Name)",
       "name_en": "Burning Man",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "USA",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://burningman.org/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833077"
+      "last_updated": "2026-07-24T17:02:28.534731",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1262,42 +1150,35 @@
       "name_local": "Mardi Gras (Local Name)",
       "name_en": "Mardi Gras",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "USA",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.neworleans.com/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833081"
+      "last_updated": "2026-07-24T17:02:28.534735",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1305,42 +1186,35 @@
       "name_local": "Vivid Sydney (Local Name)",
       "name_en": "Vivid Sydney",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "AUS",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.vividsydney.com/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833086"
+      "last_updated": "2026-07-24T17:02:28.534740",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1348,42 +1222,35 @@
       "name_local": "Moomba Festival (Local Name)",
       "name_en": "Moomba Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "AUS",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.visitmelbourne.com/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833091"
+      "last_updated": "2026-07-24T17:02:28.534745",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1391,42 +1258,35 @@
       "name_local": "George Town Festival (Local Name)",
       "name_en": "George Town Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "MYS",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.georgetownfestival.com/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833097"
+      "last_updated": "2026-07-24T17:02:28.534750",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1434,42 +1294,35 @@
       "name_local": "Istanbul Jazz Festival (Local Name)",
       "name_en": "Istanbul Jazz Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "TUR",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.ialle.com/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833102"
+      "last_updated": "2026-07-24T17:02:28.534756",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1477,42 +1330,35 @@
       "name_local": "Venice Carnival (Local Name)",
       "name_en": "Venice Carnival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "ITA",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.carnevale.venezia.it/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833106"
+      "last_updated": "2026-07-24T17:02:28.534761",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1520,42 +1366,35 @@
       "name_local": "Palio di Siena (Local Name)",
       "name_en": "Palio di Siena",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "ITA",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.comune.siena.it/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833110"
+      "last_updated": "2026-07-24T17:02:28.534765",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1563,42 +1402,35 @@
       "name_local": "Boryung Mud Festival (Local Name)",
       "name_en": "Boryung Mud Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "KOR",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.mudfestival.or.kr/en/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833115"
+      "last_updated": "2026-07-24T17:02:28.534770",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1606,42 +1438,35 @@
       "name_local": "Jeju Fire Festival (Local Name)",
       "name_en": "Jeju Fire Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "KOR",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.visitjeju.net/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833119"
+      "last_updated": "2026-07-24T17:02:28.534775",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1649,42 +1474,35 @@
       "name_local": "Andong Mask Dance Festival (Local Name)",
       "name_en": "Andong Mask Dance Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "KOR",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.maskdance.com/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833125"
+      "last_updated": "2026-07-24T17:02:28.534781",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1692,42 +1510,35 @@
       "name_local": "Jinhae Gunhangje Cherry Blossom Festival (Local Name)",
       "name_en": "Jinhae Gunhangje Cherry Blossom Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "KOR",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.changwon.go.kr/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833130"
+      "last_updated": "2026-07-24T17:02:28.534786",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1735,42 +1546,35 @@
       "name_local": "Holi Festival (Local Name)",
       "name_en": "Holi Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "IND",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.incredibleindia.org/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833134"
+      "last_updated": "2026-07-24T17:02:28.534790",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1778,42 +1582,35 @@
       "name_local": "Diwali Festival (Local Name)",
       "name_en": "Diwali Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "IND",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.incredibleindia.org/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833139"
+      "last_updated": "2026-07-24T17:02:28.534795",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1821,42 +1618,35 @@
       "name_local": "Festival d'Avignon (Local Name)",
       "name_en": "Festival d'Avignon",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "FRA",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.avignon.fr/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833143"
+      "last_updated": "2026-07-24T17:02:28.534800",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1864,42 +1654,35 @@
       "name_local": "Fête des Lumières (Local Name)",
       "name_en": "Fête des Lumières",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "FRA",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.lyon.fr/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833149"
+      "last_updated": "2026-07-24T17:02:28.534806",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1907,42 +1690,35 @@
       "name_local": "Nice Carnival (Local Name)",
       "name_en": "Nice Carnival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "FRA",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.nicecarnaval.com/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833154"
+      "last_updated": "2026-07-24T17:02:28.534811",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1950,42 +1726,35 @@
       "name_local": "Hue Festival (Local Name)",
       "name_en": "Hue Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "VNM",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.huefestival.vn/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833159"
+      "last_updated": "2026-07-24T17:02:28.534815",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -1993,42 +1762,35 @@
       "name_local": "Oktoberfest (Local Name)",
       "name_en": "Oktoberfest",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "DEU",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.oktoberfest.de/en",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833163"
+      "last_updated": "2026-07-24T17:02:28.534820",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -2036,42 +1798,35 @@
       "name_local": "Carnival of Cologne (Local Name)",
       "name_en": "Carnival of Cologne",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "DEU",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.koelncarnival.de/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833167"
+      "last_updated": "2026-07-24T17:02:28.534825",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -2079,42 +1834,35 @@
       "name_local": "Berlin Film Festival (Berlinale) (Local Name)",
       "name_en": "Berlin Film Festival (Berlinale)",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "DEU",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.berlinale.com/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833173"
+      "last_updated": "2026-07-24T17:02:28.534829",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -2122,42 +1870,35 @@
       "name_local": "Harbin International Ice and Snow Sculpture Festival (Local Name)",
       "name_en": "Harbin International Ice and Snow Sculpture Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "CHN",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "http://www.ice.gov.cn/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833178"
+      "last_updated": "2026-07-24T17:02:28.534835",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -2165,42 +1906,35 @@
       "name_local": "Lantern Festival (Local Name)",
       "name_en": "Lantern Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "CHN",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.visitchina.com/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833182"
+      "last_updated": "2026-07-24T17:02:28.534840",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -2208,42 +1942,35 @@
       "name_local": "La Tomatina (Local Name)",
       "name_en": "La Tomatina",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "ESP",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://latomatina.info/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833187"
+      "last_updated": "2026-07-24T17:02:28.534845",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -2251,42 +1978,35 @@
       "name_local": "San Fermín (Local Name)",
       "name_en": "San Fermín",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "ESP",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.pamplona.es/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833191"
+      "last_updated": "2026-07-24T17:02:28.534849",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -2294,42 +2014,35 @@
       "name_local": "Songkran Festival (Local Name)",
       "name_en": "Songkran Festival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "THA",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.tourismthailand.org/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833196"
+      "last_updated": "2026-07-24T17:02:28.534854",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -2337,42 +2050,35 @@
       "name_local": "Loy Krathong (Local Name)",
       "name_en": "Loy Krathong",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "THA",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.tourismthailand.org/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833201"
+      "last_updated": "2026-07-24T17:02:28.534860",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -2380,42 +2086,35 @@
       "name_local": "Day of the Dead (Día de Muertos) (Local Name)",
       "name_en": "Day of the Dead (Día de Muertos)",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "MEX",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.visitmexico.com/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833206"
+      "last_updated": "2026-07-24T17:02:28.534865",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -2423,42 +2122,35 @@
       "name_local": "Rio Carnival (Local Name)",
       "name_en": "Rio Carnival",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "BRA",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.rio-carnival.net/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833216"
+      "last_updated": "2026-07-24T17:02:28.534875",
+      "source_reliability_score": 0.95
     }
   },
   {
@@ -2466,42 +2158,35 @@
       "name_local": "Festival de Parintins (Local Name)",
       "name_en": "Festival de Parintins",
       "category": "Cultural/Arts",
-      "coordinates": {
-        "latitude": null,
-        "longitude": null
-      },
-      "address": null
+      "country": "BRA",
+      "city": "Main City"
     },
     "temporal": {
       "start_date": "2025-05-01",
       "end_date": "2025-05-10",
       "frequency": "Annual",
-      "detailed_schedule": null
-    },
-    "experience": {
-      "deep_description": null,
-      "highlights": [
-        "Main Parade",
-        "Local Food Market"
-      ],
-      "local_tips": [
-        "Visit early in the morning to avoid crowds."
-      ],
-      "points_of_interest": []
+      "best_time_to_visit": "Spring"
     },
     "logistics": {
       "official_url": "https://www.visitbrasil.com/",
-      "ticket_info": null,
-      "transport": null,
+      "gps_coords": "0.0, 0.0",
+      "transport_tips": "Use local public transit.",
       "accommodation_tips": "Book in advance via official portals."
     },
-    "multimedia": {
-      "official_images": [],
-      "official_videos": []
+    "experience": {
+      "top_highlights": [
+        "Main Parade",
+        "Local Food Market"
+      ],
+      "local_insider_tips": "Visit early in the morning to avoid crowds.",
+      "essential_gear": [
+        "Walking shoes",
+        "Water bottle"
+      ]
     },
     "verification": {
-      "source_url": null,
-      "update_date": "2026-07-23T17:04:41.833220"
+      "last_updated": "2026-07-24T17:02:28.534879",
+      "source_reliability_score": 0.95
     }
   }
 ]
